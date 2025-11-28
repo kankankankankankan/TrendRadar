@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T20:02:46.184215+08:00",
-  "total_titles_processed": 1421,
+  "generated_at": "2025-11-28T21:11:17.056666+08:00",
+  "total_titles_processed": 1508,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时03分 ~ 20时02分]"
+          "appearance_count": 8,
+          "time_info": "[15时03分 ~ 21时11分]"
         },
         {
           "title": "特朗普：将对委内瑞拉展开地面行动",
@@ -47,8 +47,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时29分 ~ 20时02分]"
+          "appearance_count": 16,
+          "time_info": "[09时29分 ~ 21时11分]"
         },
         {
           "title": "特朗普称将对委内瑞拉展开地面行动",
@@ -296,7 +296,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -350,8 +350,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时04分 ~ 20时02分]"
+          "appearance_count": 19,
+          "time_info": "[08时04分 ~ 21时11分]"
         },
         {
           "title": "如何看待 DeepSeek 发布的新模型 DeepSeek-Math-V2？",
@@ -408,8 +408,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时03分 ~ 20时02分]"
+          "appearance_count": 8,
+          "time_info": "[15时03分 ~ 21时11分]"
         },
         {
           "title": "DeepSeek推出新模型",
@@ -575,8 +575,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时04分 ~ 20时02分]"
+          "appearance_count": 19,
+          "time_info": "[08时04分 ~ 21时11分]"
         },
         {
           "title": "分析：美股股指势将结束连胜势头，罕见在11月收跌",
@@ -642,7 +642,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         }
