@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-29T17:02:41.902387+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2025-11-29T18:02:47.406703+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普宣布：拜登任内通过“自动签名笔”签署的所有文件即刻终止效力",
@@ -37,6 +37,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时04分 ~ 12时03分]"
+        },
+        {
+          "title": "特朗普：将赦免在美被判45年的洪都拉斯前总统埃尔南德斯",
+          "url": "https://flash.jin10.com/detail/20251129173734317800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "乌克兰代表团前往美国，将与总统特朗普的特使Witkoff会谈。",
@@ -239,8 +250,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时04分 ~ 17时02分]"
+          "appearance_count": 11,
+          "time_info": "[08时04分 ~ 18时02分]"
         },
         {
           "title": "黄金ETF收涨超1.2%，和布油基金领跑美股大类资产类ETF，黄金ETF今年已涨超60%",
@@ -405,8 +416,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时30分 ~ 17时02分]"
+          "appearance_count": 9,
+          "time_info": "[10时30分 ~ 18时02分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -414,11 +425,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时02分 ~ 17时02分]"
+          "appearance_count": 5,
+          "time_info": "[14时02分 ~ 18时02分]"
         }
       ]
     },
@@ -434,11 +446,12 @@
             17,
             10,
             15,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时02分 ~ 17时02分]"
+          "appearance_count": 6,
+          "time_info": "[13时02分 ~ 18时02分]"
         },
         {
           "title": "金价",
