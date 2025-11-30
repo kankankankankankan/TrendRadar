@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T19:02:43.575399+08:00",
-  "total_titles_processed": 957,
+  "generated_at": "2025-11-30T20:02:51.853451+08:00",
+  "total_titles_processed": 1003,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时02分 ~ 19时02分]"
+          "appearance_count": 7,
+          "time_info": "[15时02分 ~ 20时02分]"
         },
         {
           "title": "特朗普称委内瑞拉空域应被视为关闭",
@@ -44,9 +44,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时02分]"
         },
         {
           "title": "特朗普的乌克兰和平蓝图：以商业取代战争",
@@ -75,6 +75,18 @@
           "time_info": "[12时12分 ~ 14时02分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-30）",
+          "url": "https://flash.jin10.com/detail/20251130174813876800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时02分]"
+        },
+        {
           "title": "美国总统特朗普：我们应该会在中期选举中以创纪录的票数获胜。我是“平价医疗总统”。",
           "url": "https://flash.jin10.com/detail/20251129211916234800",
           "source": "金十数据",
@@ -99,6 +111,18 @@
           "time_info": "[08时04分 ~ 09时30分]"
         },
         {
+          "title": "特朗普与委总统通话 直接要求其下台",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E5%A7%94%E6%80%BB%E7%BB%9F%E9%80%9A%E8%AF%9D+%E7%9B%B4%E6%8E%A5%E8%A6%81%E6%B1%82%E5%85%B6%E4%B8%8B%E5%8F%B0",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时02分]"
+        },
+        {
           "title": "特朗普向委内瑞拉发出威胁信号",
           "url": "https://flash.jin10.com/detail/20251129210108575800",
           "source": "金十数据",
@@ -121,17 +145,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时04分 ~ 09时30分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-30）",
-          "url": "https://flash.jin10.com/detail/20251130174813876800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
         },
         {
           "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
@@ -200,17 +213,6 @@
           "time_info": "08时04分"
         },
         {
-          "title": "特朗普与委总统通话 直接要求其下台",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E5%A7%94%E6%80%BB%E7%BB%9F%E9%80%9A%E8%AF%9D+%E7%9B%B4%E6%8E%A5%E8%A6%81%E6%B1%82%E5%85%B6%E4%B8%8B%E5%8F%B0",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
           "title": "美国总统特朗普：关税使我们的国家变得富裕、强大、强盛且安全。",
           "url": "https://flash.jin10.com/detail/20251129202442952800",
           "source": "金十数据",
@@ -220,6 +222,73 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美国发表关闭委内瑞拉领空言论，伊朗谴责",
+          "url": "https://news.ifeng.com/c/8ohK4NeU28p",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时02分 ~ 18时03分]"
+        },
+        {
+          "title": "土耳其外交部：土耳其外交部长将于11月30日访问伊朗。",
+          "url": "https://flash.jin10.com/detail/20251129231934613800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8,
+            18,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时04分 ~ 13时02分]"
+        },
+        {
+          "title": "伊朗萨汉德号军舰重新服役",
+          "url": "https://flash.jin10.com/detail/20251130181802259800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时02分]"
+        },
+        {
+          "title": "以色列媒体：伊朗在寻求恢复军力以及重新武装地区力量",
+          "url": "https://flash.jin10.com/detail/20251130184445394800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "严重干旱迫使伊朗大型水电站停止发电",
+          "url": "https://flash.jin10.com/detail/20251130182805380800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         }
       ]
     },
@@ -267,50 +336,6 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美国发表关闭委内瑞拉领空言论，伊朗谴责",
-          "url": "https://news.ifeng.com/c/8ohK4NeU28p",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时02分 ~ 18时03分]"
-        },
-        {
-          "title": "土耳其外交部：土耳其外交部长将于11月30日访问伊朗。",
-          "url": "https://flash.jin10.com/detail/20251129231934613800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            8,
-            18,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时04分 ~ 13时02分]"
-        },
-        {
-          "title": "伊朗萨汉德号军舰重新服役",
-          "url": "https://flash.jin10.com/detail/20251130181802259800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -330,8 +355,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时04分 ~ 19时02分]"
+          "appearance_count": 14,
+          "time_info": "[08时04分 ~ 20时02分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -362,8 +387,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时02分 ~ 19时02分]"
+          "appearance_count": 6,
+          "time_info": "[16时02分 ~ 20时02分]"
         }
       ]
     },
