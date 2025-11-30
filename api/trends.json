@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-11-30T10:37:48.921326+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2025-11-30T11:30:48.515971+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 12,
       "titles": [
+        {
+          "title": "特朗普称委内瑞拉空域应被视为关闭",
+          "url": "https://wallstreetcn.com/livenews/3012482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            14,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 11时30分]"
+        },
         {
           "title": "特朗普的乌克兰和平蓝图：以商业取代战争",
           "url": "https://flash.jin10.com/detail/20251129220829620800",
@@ -15,19 +29,6 @@
             12,
             17,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时04分 ~ 10时37分]"
-        },
-        {
-          "title": "特朗普称委内瑞拉空域应被视为关闭",
-          "url": "https://wallstreetcn.com/livenews/3012482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            14,
-            20
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -163,8 +164,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时04分 ~ 10时37分]"
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 11时30分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -186,8 +187,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时04分 ~ 10时37分]"
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 11时30分]"
         }
       ]
     },
@@ -202,11 +203,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时04分 ~ 10时37分]"
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 11时30分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -233,7 +235,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         }
@@ -267,11 +269,12 @@
           "ranks": [
             3,
             8,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时04分 ~ 10时37分]"
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 11时30分]"
         }
       ]
     }
