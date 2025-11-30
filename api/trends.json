@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-30T17:02:31.363223+08:00",
-  "total_titles_processed": 835,
+  "generated_at": "2025-11-30T18:03:09.548010+08:00",
+  "total_titles_processed": 901,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 15,
       "titles": [
+        {
+          "title": "“特朗普交易”遭重创",
+          "url": "https://wallstreetcn.com/articles/3760394",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时02分 ~ 18时03分]"
+        },
         {
           "title": "特朗普称委内瑞拉空域应被视为关闭",
           "url": "https://wallstreetcn.com/livenews/3012482",
@@ -23,19 +36,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[08时04分 ~ 16时02分]"
-        },
-        {
-          "title": "“特朗普交易”遭重创",
-          "url": "https://wallstreetcn.com/articles/3760394",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时02分 ~ 17时02分]"
         },
         {
           "title": "特朗普的乌克兰和平蓝图：以商业取代战争",
@@ -253,8 +253,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时04分 ~ 17时02分]"
+          "appearance_count": 12,
+          "time_info": "[08时04分 ~ 18时03分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -283,8 +283,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时02分 ~ 17时02分]"
+          "appearance_count": 6,
+          "time_info": "[14时02分 ~ 18时03分]"
         },
         {
           "title": "土耳其外交部：土耳其外交部长将于11月30日访问伊朗。",
@@ -313,11 +313,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 17时02分]"
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 18时03分]"
         }
       ]
     },
