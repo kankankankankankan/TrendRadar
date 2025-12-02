@@ -1,12 +1,36 @@
 {
-  "generated_at": "2025-12-02T12:08:37.419764+08:00",
-  "total_titles_processed": 671,
+  "generated_at": "2025-12-02T13:02:57.895790+08:00",
+  "total_titles_processed": 741,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "“即将宣布”，特朗普称已选定下任美联储主席",
+          "url": "https://news.ifeng.com/c/8okTPLnScLu",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时04分 ~ 13时02分]"
+        },
+        {
+          "title": "观察｜特朗普说话前后矛盾，美国真的会对马杜罗下手吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32077222",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时04分 ~ 13时02分]"
+        },
         {
           "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
           "url": "https://wallstreetcn.com/articles/3760417",
@@ -19,17 +43,6 @@
           "time_info": "08时04分"
         },
         {
-          "title": "“即将宣布”，特朗普称已选定下任美联储主席",
-          "url": "https://news.ifeng.com/c/8okTPLnScLu",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时04分 ~ 12时08分]"
-        },
-        {
           "title": "特朗普明日凌晨3点将发表重大声明",
           "url": "https://flash.jin10.com/detail/20251202103453965800",
           "source": "金十数据",
@@ -39,19 +52,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
-        },
-        {
-          "title": "观察｜特朗普说话前后矛盾，美国真的会对马杜罗下手吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32077222",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时04分 ~ 12时08分]"
         },
         {
           "title": "美国总统特朗普：看起来洪都拉斯似乎正试图篡改其总统选举结果。如果他们这么做了，他们会付出惨重代价。选举委员会必须完成计票工作。",
@@ -142,6 +142,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "特朗普面临支持率“大麻烦”",
+          "url": "https://www.toutiao.com/trending/7578565783584784438/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     },
@@ -157,8 +168,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时04分 ~ 12时08分]"
+          "appearance_count": 6,
+          "time_info": "[08时04分 ~ 13时02分]"
         },
         {
           "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
@@ -167,25 +178,12 @@
           "ranks": [
             6,
             5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时04分 ~ 12时08分]"
-        },
-        {
-          "title": "实测DeepSeekV3.2正式版",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3,
             4,
-            11
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时30分 ~ 12时08分]"
+          "appearance_count": 6,
+          "time_info": "[08时04分 ~ 13时02分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -197,8 +195,23 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时04分 ~ 13时02分]"
+        },
+        {
+          "title": "实测DeepSeekV3.2正式版",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            4,
+            11,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[08时04分 ~ 12时08分]"
+          "time_info": "[09时30分 ~ 13时02分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -207,11 +220,12 @@
           "ranks": [
             6,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时30分 ~ 12时08分]"
+          "appearance_count": 5,
+          "time_info": "[09时30分 ~ 13时02分]"
         },
         {
           "title": "DeepSeek同时发布两个正式版模型",
@@ -228,7 +242,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "剑指AI芯片市场！大摩上调谷歌TPU产量预期：2027年或达500万块",
@@ -239,8 +253,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时32分 ~ 12时08分]"
+          "appearance_count": 4,
+          "time_info": "[10时32分 ~ 13时02分]"
         },
         {
           "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
@@ -252,8 +266,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时04分 ~ 12时08分]"
+          "appearance_count": 6,
+          "time_info": "[08时04分 ~ 13时02分]"
         },
         {
           "title": "澳大利亚竞争与消费者委员会：谷歌被责令支付5500万澳元罚款。",
@@ -268,6 +282,17 @@
           "time_info": "[10时32分 ~ 11时26分]"
         },
         {
+          "title": "谷歌揭秘了AI竞赛的底牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "苹果宣布AI主管将离职，接班人曾在谷歌DeepMind和微软工作",
           "url": "https://wallstreetcn.com/livenews/3013239",
           "source": "华尔街见闻-快讯",
@@ -277,6 +302,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
+          "url": "https://flash.jin10.com/detail/20251202121909836800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
+          "url": "https://wallstreetcn.com/articles/3760479",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时32分 ~ 13时02分]"
         }
       ]
     },
@@ -322,8 +375,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时04分 ~ 12时08分]"
+          "appearance_count": 6,
+          "time_info": "[08时04分 ~ 13时02分]"
         },
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
@@ -335,23 +388,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时04分 ~ 09时30分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
-          "url": "https://wallstreetcn.com/articles/3760479",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时32分 ~ 12时08分]"
         }
       ]
     }
