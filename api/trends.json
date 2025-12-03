@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T13:02:48.700119+08:00",
-  "total_titles_processed": 797,
+  "generated_at": "2025-12-03T14:02:57.013959+08:00",
+  "total_titles_processed": 871,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时32分 ~ 13时02分]"
+          "appearance_count": 5,
+          "time_info": "[10时32分 ~ 14时02分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时04分 ~ 13时02分]"
+          "appearance_count": 7,
+          "time_info": "[08时04分 ~ 14时02分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时32分 ~ 13时02分]"
+          "appearance_count": 5,
+          "time_info": "[10时32分 ~ 14时02分]"
         },
         {
           "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
@@ -56,8 +56,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时04分 ~ 13时02分]"
+          "appearance_count": 7,
+          "time_info": "[08时04分 ~ 14时02分]"
         },
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -149,7 +149,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -257,8 +257,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时04分 ~ 13时02分]"
+          "appearance_count": 7,
+          "time_info": "[08时04分 ~ 14时02分]"
+        },
+        {
+          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
+          "url": "https://www.cls.cn/detail/2218001",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 14时02分]"
         },
         {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
@@ -270,17 +282,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时30分 ~ 10时32分]"
-        },
-        {
-          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
-          "url": "https://www.cls.cn/detail/2218001",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -372,8 +373,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时04分 ~ 13时02分]"
+          "appearance_count": 7,
+          "time_info": "[08时04分 ~ 14时02分]"
         },
         {
           "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
@@ -384,8 +385,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时30分 ~ 13时02分]"
+          "appearance_count": 6,
+          "time_info": "[09时30分 ~ 14时02分]"
         },
         {
           "title": "美股涨，数字货币大体收复暴跌后失地，离岸人民币迈向14个月高位，白银V形反转",
