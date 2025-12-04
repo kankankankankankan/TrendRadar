@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T14:02:50.194801+08:00",
-  "total_titles_processed": 892,
+  "generated_at": "2025-12-04T15:03:31.729457+08:00",
+  "total_titles_processed": 991,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "【早报】特朗普签署涉台法案，外交部发声；摩尔线程周五上市",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时04分 ~ 14时02分]"
+          "appearance_count": 8,
+          "time_info": "[08时04分 ~ 15时03分]"
         },
         {
           "title": "中方回应特朗普签署涉台法案",
@@ -27,8 +27,23 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时04分 ~ 14时02分]"
+          "appearance_count": 8,
+          "time_info": "[08时04分 ~ 15时03分]"
+        },
+        {
+          "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
+          "url": "https://www.cls.cn/detail/2219030",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时32分 ~ 15时03分]"
         },
         {
           "title": "圆桌｜美俄5个小时没谈成，特朗普力推的“和平计划”关键分歧点在哪里？",
@@ -56,6 +71,17 @@
           "time_info": "08时04分"
         },
         {
+          "title": "据俄新社：俄罗斯总统普京表示，美国代表团向莫斯科提出的建议是基于其与特朗普在阿拉斯加达成的协议。",
+          "url": "https://flash.jin10.com/detail/20251204144506145800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
           "title": "特朗普签署法律以加深美台联系，外交部回应",
           "url": "https://news.ifeng.com/c/8omiCWLXNQt",
           "source": "凤凰网",
@@ -65,20 +91,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
-        },
-        {
-          "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
-          "url": "https://www.cls.cn/detail/2219030",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时32分 ~ 14时02分]"
         },
         {
           "title": "美国财长贝森特：特朗普剩余任期内，美中关系将保持良好态势。（FOX NEWS）",
@@ -101,8 +113,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 15时03分]"
         },
         {
           "title": "特朗普：将很快在拉美开展地面打击",
@@ -113,8 +125,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 14时02分]"
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 15时03分]"
         },
         {
           "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
@@ -122,11 +134,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 14时02分]"
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 15时03分]"
         },
         {
           "title": "内塔尼亚胡为赦免请特朗普“帮帮忙”",
@@ -357,11 +370,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 14时02分]"
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 15时03分]"
         },
         {
           "title": "美元指数3日下跌",
@@ -459,6 +473,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时30分 ~ 10时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "机构：10年期美债收益率短期盘整 突破4.1%或成2026年结构性趋势",
+          "url": "https://flash.jin10.com/detail/20251204142500817800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
         }
       ]
     }
