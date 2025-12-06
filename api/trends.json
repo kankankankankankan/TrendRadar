@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T15:02:45.458232+08:00",
-  "total_titles_processed": 769,
+  "generated_at": "2025-12-06T16:02:36.449562+08:00",
+  "total_titles_processed": 836,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普世界杯抽签搞抽象",
@@ -15,11 +15,12 @@
             4,
             5,
             29,
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时30分 ~ 14时02分]"
+          "appearance_count": 7,
+          "time_info": "[09时30分 ~ 16时02分]"
         },
         {
           "title": "特朗普警告高市早苗别插手台海",
@@ -95,11 +96,12 @@
           "ranks": [
             1,
             6,
-            8
+            8,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时02分 ~ 15时02分]"
+          "appearance_count": 4,
+          "time_info": "[13时02分 ~ 16时02分]"
         },
         {
           "title": "特朗普签署法律，撤销阿拉斯加国家石油储备区钻探限制",
@@ -108,11 +110,12 @@
           "ranks": [
             2,
             6,
-            13
+            13,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时02分 ~ 15时02分]"
+          "appearance_count": 4,
+          "time_info": "[13时02分 ~ 16时02分]"
         },
         {
           "title": "特朗普：疾控中心叫停乙肝疫苗建议的决定是正确的。 已签署备忘录要求卫生与公众服务部评估疫苗接种时间表。",
@@ -200,6 +203,17 @@
           "time_info": "08时04分"
         },
         {
+          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979570545172423754",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
           "title": "加拿大总理办公室：美国总统特朗普、加拿大总理和墨西哥总统正在会面。",
           "url": "https://flash.jin10.com/detail/20251206033847426800",
           "source": "金十数据",
@@ -259,8 +273,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时03分 ~ 15时02分]"
+          "appearance_count": 10,
+          "time_info": "[08时03分 ~ 16时02分]"
         },
         {
           "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
@@ -274,8 +288,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时03分 ~ 15时02分]"
+          "appearance_count": 10,
+          "time_info": "[08时03分 ~ 16时02分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -288,8 +302,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时03分 ~ 15时02分]"
+          "appearance_count": 10,
+          "time_info": "[08时03分 ~ 16时02分]"
         },
         {
           "title": "周五（12月5日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘跌3.68%，报89425美元，本周累计下跌1.80%。 CME以太币期货DCR主力合约跌4.09%，报3023美元，本周累跌0.71%。 美股加密货币与加密货币关联指数跌3.99%，报69.08点，本周累跌3.12%。 最近24小时，MarketVector数字资产100小盘指数跌5.31%，暂报4051.02点。",
@@ -362,8 +376,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时20分 ~ 15时02分]"
+          "appearance_count": 6,
+          "time_info": "[11时20分 ~ 16时02分]"
         },
         {
           "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
@@ -454,8 +468,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时02分 ~ 15时02分]"
+          "appearance_count": 5,
+          "time_info": "[12时02分 ~ 16时02分]"
         },
         {
           "title": "OpenAI最快将于下周发布GPT-5.2",
