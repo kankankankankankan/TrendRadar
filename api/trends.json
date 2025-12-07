@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T15:02:49.258354+08:00",
-  "total_titles_processed": 728,
+  "generated_at": "2025-12-07T16:02:37.554782+08:00",
+  "total_titles_processed": 802,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "ranks": [
             1,
             7,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时02分 ~ 15时02分]"
+          "appearance_count": 4,
+          "time_info": "[13时02分 ~ 16时02分]"
         },
         {
           "title": "特朗普签署行政令调查外资企业食品反竞争行为",
@@ -41,11 +42,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 15时02分]"
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 16时02分]"
         },
         {
           "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
@@ -88,7 +90,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -175,8 +177,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 15时02分]"
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 16时02分]"
         }
       ]
     },
@@ -194,8 +196,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时04分 ~ 15时02分]"
+          "appearance_count": 12,
+          "time_info": "[08时04分 ~ 16时02分]"
         }
       ]
     }
