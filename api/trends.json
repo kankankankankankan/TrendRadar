@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T21:08:22.671987+08:00",
-  "total_titles_processed": 1129,
+  "generated_at": "2025-12-07T22:02:30.850590+08:00",
+  "total_titles_processed": 1178,
   "failed_sources": [],
   "trends": [
     {
@@ -23,6 +23,18 @@
           "time_info": "[10时37分 ~ 15时02分]"
         },
         {
+          "title": "特朗普获国际足联和平奖",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 22时02分]"
+        },
+        {
           "title": "美防长：特朗普政府将“把国家实际利益放在首位”",
           "url": "https://flash.jin10.com/detail/20251207122838853800",
           "source": "金十数据",
@@ -36,17 +48,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时02分 ~ 17时02分]"
-        },
-        {
-          "title": "特朗普获国际足联和平奖",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时08分"
         },
         {
           "title": "特朗普签署行政令调查外资企业食品反竞争行为",
@@ -70,11 +71,12 @@
             18,
             15,
             14,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时02分 ~ 21时08分]"
+          "appearance_count": 5,
+          "time_info": "[18时02分 ~ 22时02分]"
         },
         {
           "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
@@ -87,6 +89,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时04分 ~ 09时31分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我将于本月会晤美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20251207192532766800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时02分 ~ 22时02分]"
         },
         {
           "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
@@ -112,16 +127,28 @@
           "time_info": "[19时02分 ~ 20时02分]"
         },
         {
-          "title": "以色列总理内塔尼亚胡：我将于本月会晤美国总统特朗普。",
-          "url": "https://flash.jin10.com/detail/20251207192532766800",
+          "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
+          "url": "https://flash.jin10.com/detail/20251207194238247800",
           "source": "金十数据",
           "ranks": [
-            7,
-            18
+            9,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时02分 ~ 21时08分]"
+          "time_info": "[21时08分 ~ 22时02分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们已接近特朗普加沙计划的第二阶段。",
+          "url": "https://flash.jin10.com/detail/20251207193951591800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 22时02分]"
         },
         {
           "title": "特朗普或将给高市早苗放权",
@@ -157,17 +184,6 @@
           "time_info": "08时04分"
         },
         {
-          "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
-          "url": "https://flash.jin10.com/detail/20251207194238247800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时08分"
-        },
-        {
           "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
           "url": "https://www.zhihu.com/question/1979570545172423754",
           "source": "知乎",
@@ -188,17 +204,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我们已接近特朗普加沙计划的第二阶段。",
-          "url": "https://flash.jin10.com/detail/20251207193951591800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时08分"
         },
         {
           "title": "特朗普威胁封锁委领空 马杜罗咋办",
