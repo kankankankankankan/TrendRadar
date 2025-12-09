@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T18:02:59.117952+08:00",
-  "total_titles_processed": 1277,
+  "generated_at": "2025-12-09T19:02:40.010783+08:00",
+  "total_titles_processed": 1372,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
@@ -46,6 +46,20 @@
           "time_info": "[09时30分 ~ 09时31分]"
         },
         {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3760972",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时03分 ~ 19时02分]"
+        },
+        {
           "title": "特朗普为关税政策强硬辩护：最高法院若推翻关税政策将是美“历史性威胁”",
           "url": "https://flash.jin10.com/detail/20251209154928270800",
           "source": "金十数据",
@@ -80,19 +94,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时32分 ~ 14时02分]"
-        },
-        {
-          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
-          "url": "https://wallstreetcn.com/articles/3760972",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时03分 ~ 18时02分]"
         },
         {
           "title": "甲骨文联合创始人埃里森向特朗普表示，华纳兄弟与奈飞的交易或将损害市场竞争。（华尔街日报）",
@@ -255,6 +256,17 @@
           "time_info": "08时04分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-09）",
+          "url": "https://flash.jin10.com/detail/20251209181308403800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "美国总统特朗普：美国需要墨西哥在12月31日前释放20万英亩-英尺的水，其余的必须尽快释放。如果墨西哥不释放水资源，将对墨西哥征收5%的关税。",
           "url": "https://flash.jin10.com/detail/20251209065932817800",
           "source": "金十数据",
@@ -361,11 +373,12 @@
           "url": "https://wallstreetcn.com/articles/3760956",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
         },
         {
           "title": "欧盟就谷歌将在线内容用于AI相关用途一事发起反垄断调查",
@@ -415,7 +428,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
@@ -466,6 +479,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时04分 ~ 10时32分]"
+        },
+        {
+          "title": "英伟达美股盘前涨幅收窄至1%。",
+          "url": "https://wallstreetcn.com/livenews/3017613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "英伟达美股盘后涨幅扩大至2.7%。",
@@ -568,7 +592,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         }
@@ -585,11 +609,12 @@
           "ranks": [
             15,
             12,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时02分 ~ 18时02分]"
+          "appearance_count": 7,
+          "time_info": "[14时02分 ~ 19时02分]"
         },
         {
           "title": "梁文锋、杜梦然上榜！《自然》公布2025年度十大科学人物",
@@ -657,8 +682,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时04分 ~ 18时02分]"
+          "appearance_count": 14,
+          "time_info": "[08时04分 ~ 19时02分]"
         }
       ]
     }
