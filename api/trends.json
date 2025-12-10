@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T12:10:54.488574+08:00",
-  "total_titles_processed": 693,
+  "generated_at": "2025-12-10T13:03:46.674780+08:00",
+  "total_titles_processed": 774,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普现在很焦虑",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时04分 ~ 12时10分]"
+          "appearance_count": 6,
+          "time_info": "[08时04分 ~ 13时03分]"
         },
         {
           "title": "特朗普：降息是新美联储主席的试金石，可能通过调整关税降低部分商品价格",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时04分 ~ 12时10分]"
+          "appearance_count": 6,
+          "time_info": "[08时04分 ~ 13时03分]"
         },
         {
           "title": "特朗普：泽连斯基要开始接受现实了",
@@ -147,6 +147,28 @@
           "time_info": "08时04分"
         },
         {
+          "title": "特朗普发长文回击：自诩政绩空前，晒“满分”健康报告，斥责《纽约时报》为“人民公敌”",
+          "url": "https://flash.jin10.com/detail/20251210121528240800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "特朗普称泽连斯基赚走拜登3500亿美元",
+          "url": "https://www.toutiao.com/trending/7581084674962473014/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
           "title": "选民质疑声不断 特朗普就关税政策辩称“聪明的人能懂”",
           "url": "https://flash.jin10.com/detail/20251210095640613800",
           "source": "金十数据",
@@ -252,7 +274,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -274,7 +296,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -302,11 +324,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时04分 ~ 12时10分]"
+          "appearance_count": 6,
+          "time_info": "[08时04分 ~ 13时03分]"
         },
         {
           "title": "美国国防部表示，已选择谷歌(GOOG.O)公司的Gemini for Government系统，为其约300万文职和军事雇员提供人工智能服务。",
@@ -335,8 +358,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时04分 ~ 12时10分]"
+          "appearance_count": 6,
+          "time_info": "[08时04分 ~ 13时03分]"
         },
         {
           "title": "英伟达盘前冲高2%后回落 美股三大期指涨跌不一 | 今夜看点",
@@ -399,8 +422,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时04分 ~ 12时10分]"
+          "appearance_count": 6,
+          "time_info": "[08时04分 ~ 13时03分]"
         }
       ]
     }
