@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-12T13:03:56.098994+08:00",
-  "total_titles_processed": 836,
+  "generated_at": "2025-12-12T14:03:02.702953+08:00",
+  "total_titles_processed": 927,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
+        {
+          "title": "白宫：特朗普对俄乌都很失望",
+          "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 14时03分]"
+        },
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
           "url": "https://news.ifeng.com/c/8p0EFlr6GTe",
@@ -21,17 +32,6 @@
           "time_info": "[08时04分 ~ 11时29分]"
         },
         {
-          "title": "白宫：特朗普对俄乌都很失望",
-          "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 13时03分]"
-        },
-        {
           "title": "特朗普黄金卡签证开始接受申请，个人从 500 万美元降至 100 万美元可换美国居留权，如何看待此事？",
           "url": "https://www.zhihu.com/question/1982382778923365984",
           "source": "知乎",
@@ -43,6 +43,39 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时04分 ~ 10时34分]"
+        },
+        {
+          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1982382027627073644",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时34分 ~ 14时03分]"
+        },
+        {
+          "title": "特朗普拉小群,想拿C5替代G7",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时02分 ~ 14时03分]"
+        },
+        {
+          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
+          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时29分 ~ 14时03分]"
         },
         {
           "title": "美国总统特朗普：我将全面赦免蒂娜·彼得斯（因2020年大选相关罪行而被监禁的唯一一位特朗普盟友）。",
@@ -65,28 +98,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
-        },
-        {
-          "title": "特朗普废除拜登政府在阿拉斯加及其他州土地保护政策",
-          "url": "https://flash.jin10.com/detail/20251212124015260800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1982382027627073644",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时34分 ~ 13时03分]"
         },
         {
           "title": "加州州长再批特朗普：最具破坏性总统",
@@ -112,15 +123,16 @@
           "time_info": "[11时29分 ~ 12时12分]"
         },
         {
-          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
-          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
-          "source": "凤凰网",
+          "title": "特朗普废除拜登政府在阿拉斯加及其他州土地保护政策",
+          "url": "https://flash.jin10.com/detail/20251212124015260800",
+          "source": "金十数据",
           "ranks": [
-            12
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时29分 ~ 13时03分]"
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 14时03分]"
         },
         {
           "title": "特朗普称美对委行动很快将延伸至陆地",
@@ -135,6 +147,17 @@
           "time_info": "[12时11分 ~ 13时03分]"
         },
         {
+          "title": "白宫：特朗普跟中日都能搞好关系",
+          "url": "https://www.toutiao.com/trending/7582430336525828123/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时02分 ~ 14时03分]"
+        },
+        {
           "title": "泰国政府官员：泰国代理总理定于周五晚些时候与美国总统特朗普通话。",
           "url": "https://flash.jin10.com/detail/20251212110213966800",
           "source": "金十数据",
@@ -145,6 +168,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时29分 ~ 12时12分]"
+        },
+        {
+          "title": "高市早苗“求援” 特朗普只是沉默",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E2%80%9C%E6%B1%82%E6%8F%B4%E2%80%9D+%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%AA%E6%98%AF%E6%B2%89%E9%BB%98",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时02分 ~ 14时03分]"
         },
         {
           "title": "特朗普：正在签署行政命令，阻止各州执行自己的人工智能法规",
@@ -178,6 +212,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "泰国外交部：与美国国务卿鲁比奥的通话为美国总统特朗普与泰国总理通话做准备。",
+          "url": "https://flash.jin10.com/detail/20251212132635026800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
         },
         {
           "title": "特朗普签署一项关于人工智能的行政命令，称美国需要一个中央层面的AI审批机制。",
@@ -404,8 +449,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时30分 ~ 13时03分]"
+          "appearance_count": 9,
+          "time_info": "[09时30分 ~ 14时03分]"
+        },
+        {
+          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
+          "url": "https://www.cls.cn/detail/2227268",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时29分 ~ 14时03分]"
         },
         {
           "title": "实测ChatGPT5.2有多强",
@@ -419,19 +478,6 @@
           "time_info": "10时34分"
         },
         {
-          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
-          "url": "https://www.cls.cn/detail/2227268",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时29分 ~ 13时03分]"
-        },
-        {
           "title": "ChatGPT5.2有哪些新升级",
           "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
           "source": "bilibili 热搜",
@@ -439,8 +485,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 13时03分]"
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 14时03分]"
         },
         {
           "title": "GPT-5.2来了！OpenAI最新发布",
@@ -525,8 +571,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时34分 ~ 13时03分]"
+          "appearance_count": 7,
+          "time_info": "[10时34分 ~ 14时03分]"
         },
         {
           "title": "GPT-5.2提前泄露？今夜，OpenAI要拿Gemini 3祭天！",
@@ -565,8 +611,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时04分 ~ 13时03分]"
+          "appearance_count": 10,
+          "time_info": "[08时04分 ~ 14时03分]"
         },
         {
           "title": "博通美股盘后跌幅扩大至5.18%。",
