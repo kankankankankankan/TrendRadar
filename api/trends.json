@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T20:02:50.444161+08:00",
-  "total_titles_processed": 1494,
+  "generated_at": "2025-12-15T21:15:50.220994+08:00",
+  "total_titles_processed": 1606,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "乌克兰放弃加入北约 特朗普特使称和平谈判取得“重大进展”",
@@ -34,8 +34,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时37分 ~ 20时02分]"
+          "appearance_count": 16,
+          "time_info": "[10时37分 ~ 21时15分]"
+        },
+        {
+          "title": "连续表达“独立性”！哈塞特：若被选中领导美联储，特朗普可以提意见，但对美联储决策“毫无分量”",
+          "url": "https://wallstreetcn.com/articles/3761377",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时02分 ~ 21时15分]"
         },
         {
           "title": "日媒：特朗普曾警告高市早苗“别来添乱”",
@@ -49,17 +60,6 @@
           "time_info": "[18时03分 ~ 20时02分]"
         },
         {
-          "title": "连续表达“独立性”！哈塞特：若被选中领导美联储，特朗普可以提意见，但对美联储决策“毫无分量”",
-          "url": "https://wallstreetcn.com/articles/3761377",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时02分 ~ 20时02分]"
-        },
-        {
           "title": "拜登白送的无人机特朗普要收钱，台军：不要了",
           "url": "https://news.ifeng.com/c/8p6WipSN2un",
           "source": "凤凰网",
@@ -69,6 +69,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[16时02分 ~ 20时02分]"
+        },
+        {
+          "title": "日媒：特朗普曾警告高市早苗“别添乱”",
+          "url": "https://news.ifeng.com/c/8p6g6UaeUPY",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "欧盟官员表示，美国中东问题特使威特科夫和及特朗普高级顾问库什纳通过视频会议向欧盟各国外交部长简要通报加沙局势。",
@@ -105,6 +116,18 @@
           "time_info": "[14时02分 ~ 15时06分]"
         },
         {
+          "title": "曝特朗普曾警告高市早苗别来添乱",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E6%9B%BE%E8%AD%A6%E5%91%8A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%88%AB%E6%9D%A5%E6%B7%BB%E4%B9%B1",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 21时15分]"
+        },
+        {
           "title": "3名美方人员遇袭死亡，特朗普誓言报复",
           "url": "https://www.cls.cn/detail/2228813",
           "source": "财联社热门",
@@ -114,6 +137,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：特朗普可以自由地就美联储政策发表意见。",
+          "url": "https://flash.jin10.com/detail/20251215202342606800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-15）",
@@ -133,7 +167,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -158,23 +192,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
-        },
-        {
-          "title": "曝特朗普曾警告高市早苗别来添乱",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E6%9B%BE%E8%AD%A6%E5%91%8A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%88%AB%E6%9D%A5%E6%B7%BB%E4%B9%B1",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时02分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "12月15日投资避雷针：美股AI龙头遭市场抛售 博通跌超11%",
@@ -266,6 +289,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        },
+        {
+          "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
+          "url": "https://wallstreetcn.com/articles/3761417",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "iRobot股价美股盘前暴跌82.5%，至0.76美元，此前公司已申请破产，并寻求收购制造商。",
@@ -386,7 +420,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "俄罗斯外长：伊朗外长将于12月17日访问莫斯科。",
@@ -398,6 +432,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
+        },
+        {
+          "title": "伊朗外交部：伊朗外长前往明斯克与白俄罗斯高级官员进行磋商，并于今天上午与白俄罗斯总统卢卡申科举行了会晤和会谈。会议上，白俄罗斯总统提到了非常良好的明斯克-德黑兰关系，强调白俄罗斯愿意在所有共同关心的领域，特别是在经济和商业领域发展和扩大关系。",
+          "url": "https://flash.jin10.com/detail/20251215203000883800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "伊朗外交部：伊朗外长与白俄罗斯外长在明斯克会晤。",
