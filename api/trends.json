@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T13:04:44.327013+08:00",
-  "total_titles_processed": 787,
+  "generated_at": "2025-12-16T14:02:53.830898+08:00",
+  "total_titles_processed": 874,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时30分 ~ 13时04分]"
+          "appearance_count": 7,
+          "time_info": "[09时30分 ~ 14时02分]"
         },
         {
           "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时30分 ~ 13时04分]"
+          "appearance_count": 7,
+          "time_info": "[09时30分 ~ 14时02分]"
         },
         {
           "title": "泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
@@ -42,8 +42,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时30分 ~ 13时04分]"
+          "appearance_count": 7,
+          "time_info": "[09时30分 ~ 14时02分]"
         },
         {
           "title": "日媒：高市被特朗普警告后情绪低落",
@@ -52,7 +52,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         },
@@ -85,11 +85,12 @@
           "ranks": [
             15,
             13,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时29分 ~ 13时04分]"
+          "appearance_count": 4,
+          "time_info": "[11时29分 ~ 14时02分]"
         },
         {
           "title": "特朗普正式起诉BBC 共索赔100亿美元",
@@ -100,8 +101,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时29分 ~ 13时04分]"
+          "appearance_count": 4,
+          "time_info": "[11时29分 ~ 14时02分]"
         },
         {
           "title": "特朗普正式起诉BBC 索赔50亿美元",
@@ -248,7 +249,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         },
@@ -313,8 +314,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时04分 ~ 13时04分]"
+          "appearance_count": 8,
+          "time_info": "[08时04分 ~ 14时02分]"
         },
         {
           "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
