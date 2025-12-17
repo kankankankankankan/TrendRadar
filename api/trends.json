@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T18:02:48.181621+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2025-12-17T19:03:02.839773+08:00",
+  "total_titles_processed": 1414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
@@ -61,6 +61,18 @@
           "time_info": "[11时27分 ~ 18时02分]"
         },
         {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时03分 ~ 19时03分]"
+        },
+        {
           "title": "“爱泼斯坦案”背后的正义、叙述与情绪：特朗普和美国政治的梦魇",
           "url": "https://m.thepaper.cn/newsDetail_forward_32158017",
           "source": "澎湃新闻",
@@ -71,18 +83,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[08时04分 ~ 12时09分]"
-        },
-        {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时03分 ~ 18时02分]"
         },
         {
           "title": "特朗普下令封锁所有受制裁委油轮",
@@ -293,6 +293,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-17）",
+          "url": "https://flash.jin10.com/detail/20251217180257725800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
           "title": "美国总统特朗普：提名Troy Edgar为下一任美国驻萨尔瓦多大使。",
           "url": "https://flash.jin10.com/detail/20251217084307301800",
           "source": "金十数据",
@@ -321,7 +332,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -474,7 +485,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -485,7 +496,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         }
@@ -526,7 +537,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -537,7 +548,35 @@
           "ranks": [
             23
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英国政府：根据叙利亚制裁制度将4家公司从名单上除名，根据伊朗核制裁制度将1家公司从名单上除名。",
+          "url": "https://flash.jin10.com/detail/20251217181325277800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
+          "title": "市场消息：俄罗斯外长拉夫罗夫和伊朗外长的谈判开始。",
+          "url": "https://flash.jin10.com/detail/20251217171208971800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         }
@@ -575,23 +614,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "市场消息：俄罗斯外长拉夫罗夫和伊朗外长的谈判开始。",
-          "url": "https://flash.jin10.com/detail/20251217171208971800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
         }
       ]
     }
