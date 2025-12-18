@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T12:10:47.159721+08:00",
-  "total_titles_processed": 731,
+  "generated_at": "2025-12-18T13:03:56.808020+08:00",
+  "total_titles_processed": 805,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时04分 ~ 12时10分]"
+          "appearance_count": 7,
+          "time_info": "[08时04分 ~ 13时03分]"
         },
         {
           "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
@@ -26,11 +26,12 @@
           "ranks": [
             9,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时04分 ~ 12时10分]"
+          "appearance_count": 7,
+          "time_info": "[08时04分 ~ 13时03分]"
         },
         {
           "title": "美国总统特朗普：我们接受了世界上最糟糕的边界，但我们很快将其变成了我国历史上最强大的边界。换句话说，在短短几个月的时间里，我们从最坏变成了最好。",
@@ -42,6 +43,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "特朗普对马杜罗下狠手",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E7%8B%A0%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            22,
+            17,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时30分 ~ 13时03分]"
         },
         {
           "title": "美国总统特朗普：我们拥有世界上最强大的军队。",
@@ -77,18 +93,15 @@
           "time_info": "08时04分"
         },
         {
-          "title": "特朗普对马杜罗下狠手",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E7%8B%A0%E6%89%8B",
-          "source": "百度热搜",
+          "title": "据悉特朗普希望渐进式施压让马杜罗低头，最终目标仍然让其下台",
+          "url": "https://flash.jin10.com/detail/20251218121134659800",
+          "source": "金十数据",
           "ranks": [
-            23,
-            22,
-            17,
-            16
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时30分 ~ 12时10分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
           "title": "美国总统特朗普：将很快宣布下一任美联储主席。新任美联储主席将会主张大幅降低利率。明年将宣布住房改革大动作。",
@@ -125,6 +138,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时28分 ~ 12时10分]"
+        },
+        {
+          "title": "特朗普发表演讲称接手了一个烂摊子",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E8%A1%A8%E6%BC%94%E8%AE%B2%E7%A7%B0%E6%8E%A5%E6%89%8B%E4%BA%86%E4%B8%80%E4%B8%AA%E7%83%82%E6%91%8A%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 13时03分]"
         },
         {
           "title": "美国总统特朗普：过去11个月里，我们给华盛顿带来的积极变化比历史上任何一届政府都多。",
@@ -202,6 +227,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "美国总统特朗普预计将于美东时间下午1点30分（北京时间次日02:30）签署行政命令。另外，特朗普将于美东时间下午6点（北京时间次日07:00）签署《国防授权法案》。",
+          "url": "https://flash.jin10.com/detail/20251218120122593800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
           "title": "特朗普：美联储新主席将会认同大幅降息",
@@ -301,17 +337,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
-        },
-        {
-          "title": "特朗普发表演讲称接手了一个烂摊子",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E8%A1%A8%E6%BC%94%E8%AE%B2%E7%A7%B0%E6%8E%A5%E6%89%8B%E4%BA%86%E4%B8%80%E4%B8%AA%E7%83%82%E6%91%8A%E5%AD%90",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
         },
         {
           "title": "委内瑞拉防长：特朗普封锁加勒比海域是“妄想”",
@@ -421,8 +446,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时04分 ~ 12时10分]"
+          "appearance_count": 7,
+          "time_info": "[08时04分 ~ 13时03分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -433,8 +458,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时04分 ~ 12时10分]"
+          "appearance_count": 7,
+          "time_info": "[08时04分 ~ 13时03分]"
         },
         {
           "title": "甲骨文带崩美股大盘",
@@ -474,8 +499,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时30分 ~ 12时10分]"
+          "appearance_count": 6,
+          "time_info": "[09时30分 ~ 13时03分]"
         },
         {
           "title": "谷歌据悉联手Meta 强化TPU对PyTorch的支持 以挑战英伟达",
