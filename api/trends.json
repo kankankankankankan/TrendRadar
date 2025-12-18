@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T19:03:05.095038+08:00",
-  "total_titles_processed": 1389,
+  "generated_at": "2025-12-18T20:03:03.082705+08:00",
+  "total_titles_processed": 1503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -89,6 +89,17 @@
           "time_info": "10时32分"
         },
         {
+          "title": "特朗普媒体科技集团(DJT.O)：交易结束后，公司将成为“真相社交”（Truth Social）、“真相+”（Truth+）、“真相金融”（Truth.FI）、TAE、TAE Power Solutions以及TAE Life Sciences的控股公司。",
+          "url": "https://flash.jin10.com/detail/20251218193737540800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
           "title": "美国总统特朗普：我们拥有世界上最强大的军队。",
           "url": "https://flash.jin10.com/detail/20251218100737532800",
           "source": "金十数据",
@@ -98,6 +109,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "特朗普媒体科技集团(DJT.O)：在签约时提供高达2亿美元的现金。",
+          "url": "https://flash.jin10.com/detail/20251218193524722800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         },
         {
           "title": "美国总统特朗普：华盛顿特区的安全水平达到了前所未有的高度。",
@@ -111,6 +133,17 @@
           "time_info": "10时32分"
         },
         {
+          "title": "特朗普媒体科技集团(DJT.O)：交易对每股TAE股票估值为53.89美元。",
+          "url": "https://flash.jin10.com/detail/20251218193503529800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
           "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
           "url": "https://wallstreetcn.com/articles/3761525",
           "source": "华尔街见闻",
@@ -120,6 +153,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "特朗普媒体科技集团(DJT.O)：聚变能源将为美国的人工智能主导地位和能源安全开辟道路。",
+          "url": "https://flash.jin10.com/detail/20251218193409794800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         },
         {
           "title": "据悉特朗普希望渐进式施压让马杜罗低头，最终目标仍然让其下台",
@@ -183,6 +227,17 @@
           "time_info": "[12时10分 ~ 14时02分]"
         },
         {
+          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
+          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 20时03分]"
+        },
+        {
           "title": "美国总统特朗普：药品价格下调将于1月开始。",
           "url": "https://wallstreetcn.com/livenews/3022758",
           "source": "华尔街见闻-快讯",
@@ -205,6 +260,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时28分 ~ 12时10分]"
+        },
+        {
+          "title": "特朗普媒体科技集团(DJT.O)：合并后公司预计将于2026年选址并开始建设首座公用事业规模的核聚变发电厂 。",
+          "url": "https://flash.jin10.com/detail/20251218193331502800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         },
         {
           "title": "美国总统特朗普：过去11个月里，我们给华盛顿带来的积极变化比历史上任何一届政府都多。",
@@ -240,6 +306,17 @@
           "time_info": "10时32分"
         },
         {
+          "title": "特朗普媒体科技集团(DJT.O)：交易预计于2026年年中完成。",
+          "url": "https://flash.jin10.com/detail/20251218193251152800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
           "title": "打破沉默，冯德莱恩回应特朗普：不能让他人的世界观定义欧洲",
           "url": "https://news.ifeng.com/c/8pAOQZMvAiO",
           "source": "凤凰网",
@@ -251,6 +328,17 @@
           "time_info": "08时04分"
         },
         {
+          "title": "特朗普媒体科技集团：合并后公司预计将于2026年选址并开始建设首座公用事业规模的核聚变发电厂 。",
+          "url": "https://wallstreetcn.com/livenews/3023108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
           "title": "美国总统特朗普：工资增长速度远超通胀。 明年会看到减税的成效。",
           "url": "https://wallstreetcn.com/livenews/3022755",
           "source": "华尔街见闻-快讯",
@@ -260,6 +348,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "市场消息：特朗普媒体科技集团(DJT.O)将与TAE TECHNOLOGIES进行全股票交易合并。",
+          "url": "https://flash.jin10.com/detail/20251218193127356800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
+          "title": "特朗普媒体科技集团将以全股票交易方式与TAE Technologies合并",
+          "url": "https://wallstreetcn.com/livenews/3023103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         },
         {
           "title": "美国总统特朗普将于十分钟后发表全国讲话。",
@@ -323,7 +433,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -454,8 +564,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时02分 ~ 19时03分]"
+          "appearance_count": 10,
+          "time_info": "[14时02分 ~ 20时03分]"
         },
         {
           "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
@@ -550,85 +660,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
-          "url": "https://www.cls.cn/detail/2232894",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时30分 ~ 16时02分]"
-        },
-        {
-          "title": "谷歌发布 Gemini 3 Flash，相比上一代 2.5 Flash 有哪些提升？使用体验如何？",
-          "url": "https://www.zhihu.com/question/1984788546771517931",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时02分 ~ 16时02分]"
-        },
-        {
-          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
-          "url": "https://wallstreetcn.com/articles/3761592",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 19时03分]"
-        },
-        {
-          "title": "谷歌据悉联手Meta 强化TPU对PyTorch的支持 以挑战英伟达",
-          "url": "https://www.cls.cn/detail/2232789",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 12时10分]"
-        },
-        {
-          "title": "击败AI“当红炸子鸡”！白银市值超越谷歌 跻身全球第四大资产",
-          "url": "https://www.cls.cn/detail/2232986",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时04分 ~ 17时05分]"
-        },
-        {
-          "title": "白银成全球第四大资产 市值超越谷歌",
-          "url": "https://flash.jin10.com/detail/20251218105307391800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 12时10分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -638,8 +671,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时04分 ~ 19时03分]"
+          "appearance_count": 17,
+          "time_info": "[08时04分 ~ 20时03分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -677,6 +710,17 @@
           "time_info": "[09时30分 ~ 09时31分]"
         },
         {
+          "title": "特朗普媒体科技集团(DJT.O)美股盘前大涨24%。",
+          "url": "https://flash.jin10.com/detail/20251218193307691800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
           "title": "摩根士丹利：芯片股明年仍将是美股市场表现最亮眼的板块之一，“2026年首选芯片股”榜单中，英伟达、博通和Astera Labs位列前三。",
           "url": "https://flash.jin10.com/detail/20251218162921876800",
           "source": "金十数据",
@@ -697,6 +741,83 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
+          "url": "https://www.cls.cn/detail/2232894",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时30分 ~ 16时02分]"
+        },
+        {
+          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
+          "url": "https://wallstreetcn.com/articles/3761592",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时02分 ~ 20时03分]"
+        },
+        {
+          "title": "谷歌发布 Gemini 3 Flash，相比上一代 2.5 Flash 有哪些提升？使用体验如何？",
+          "url": "https://www.zhihu.com/question/1984788546771517931",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 16时02分]"
+        },
+        {
+          "title": "谷歌据悉联手Meta 强化TPU对PyTorch的支持 以挑战英伟达",
+          "url": "https://www.cls.cn/detail/2232789",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 12时10分]"
+        },
+        {
+          "title": "击败AI“当红炸子鸡”！白银市值超越谷歌 跻身全球第四大资产",
+          "url": "https://www.cls.cn/detail/2232986",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 17时05分]"
+        },
+        {
+          "title": "白银成全球第四大资产 市值超越谷歌",
+          "url": "https://flash.jin10.com/detail/20251218105307391800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 12时10分]"
         }
       ]
     },
@@ -771,8 +892,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 19时03分]"
+          "appearance_count": 4,
+          "time_info": "[19时02分 ~ 20时03分]"
         }
       ]
     }
