@@ -1,12 +1,27 @@
 {
-  "generated_at": "2025-12-19T16:02:48.073920+08:00",
-  "total_titles_processed": 1142,
+  "generated_at": "2025-12-19T17:03:52.631549+08:00",
+  "total_titles_processed": 1266,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
+        {
+          "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
+          "url": "https://www.cls.cn/detail/2234192",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时31分 ~ 17时03分]"
+        },
         {
           "title": "特朗普签署行政命令，重申2028年登月目标",
           "url": "https://news.ifeng.com/c/8pCbX95hrxq",
@@ -18,22 +33,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时31分 ~ 16时02分]"
-        },
-        {
-          "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
-          "url": "https://www.cls.cn/detail/2234192",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时31分 ~ 16时02分]"
+          "appearance_count": 11,
+          "time_info": "[09时31分 ~ 17时03分]"
         },
         {
           "title": "特朗普再次向乌克兰施压",
@@ -59,8 +60,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时04分 ~ 16时02分]"
+          "appearance_count": 12,
+          "time_info": "[08时04分 ~ 17时03分]"
+        },
+        {
+          "title": "特朗普，敢不敢动武？",
+          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时34分 ~ 17时03分]"
         },
         {
           "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
@@ -71,22 +83,39 @@
             13,
             14,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时04分 ~ 16时02分]"
+          "appearance_count": 12,
+          "time_info": "[08时04分 ~ 17时03分]"
         },
         {
-          "title": "特朗普，敢不敢动武？",
-          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
-          "source": "凤凰网",
+          "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
+          "url": "https://www.cls.cn/detail/2234375",
+          "source": "财联社热门",
           "ranks": [
-            6
+            10,
+            9,
+            6,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时34分 ~ 16时02分]"
+          "appearance_count": 6,
+          "time_info": "[13时03分 ~ 17时03分]"
+        },
+        {
+          "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
+          "url": "https://news.ifeng.com/c/8pD5jDyUhqx",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时03分 ~ 17时03分]"
         },
         {
           "title": "特朗普：美国将在月球部署核反应堆",
@@ -98,17 +127,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时04分 ~ 09时31分]"
-        },
-        {
-          "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
-          "url": "https://news.ifeng.com/c/8pD5jDyUhqx",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时03分 ~ 16时02分]"
         },
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -125,18 +143,15 @@
           "time_info": "[08时04分 ~ 11时29分]"
         },
         {
-          "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
-          "url": "https://www.cls.cn/detail/2234375",
-          "source": "财联社热门",
+          "title": "据日本产经新闻：日本政府正计划在新年或三月安排日本首相高市早苗访美并与美国总统特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20251219164128031800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9,
-            6,
-            4
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时03分 ~ 16时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
         },
         {
           "title": "特朗普将于美国东部时间周五晚上9点（北京时间周六上午10点）就经济问题发表讲话。",
@@ -164,6 +179,19 @@
           "time_info": "[10时34分 ~ 12时12分]"
         },
         {
+          "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
+          "url": "https://www.cls.cn/detail/2234355",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时03分 ~ 17时03分]"
+        },
+        {
           "title": "特朗普18分钟全国电视讲话说了什么",
           "url": "https://www.toutiao.com/trending/7585366067095014931/",
           "source": "今日头条",
@@ -174,18 +202,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时11分 ~ 15时03分]"
-        },
-        {
-          "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
-          "url": "https://www.cls.cn/detail/2234355",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时03分 ~ 16时02分]"
         },
         {
           "title": "特朗普签行政令支持NASA登月计划及太空核能",
@@ -239,7 +255,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -253,6 +269,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "卢拉打算给特朗普打电话 为美国和委内瑞拉说和",
+          "url": "https://wallstreetcn.com/livenews/3023763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
         },
         {
           "title": "文件显示：特朗普媒体科技集团(DJT.O)与TAE签署了无担保可转换本票，据此TMTG同意向TAE提供2亿美元资金。",
@@ -321,6 +348,17 @@
           "time_info": "08时04分"
         },
         {
+          "title": "特朗普家族豪赌“AI电力荒”",
+          "url": "https://www.toutiao.com/trending/7585423583006953010/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
           "title": "特朗普下令联邦政府圣诞休假 纽交所维持交易安排",
           "url": "https://flash.jin10.com/detail/20251219055432229800",
           "source": "金十数据",
@@ -349,7 +387,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -415,8 +453,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时34分 ~ 16时02分]"
+          "appearance_count": 10,
+          "time_info": "[10时34分 ~ 17时03分]"
         },
         {
           "title": "甲骨文美股盘后涨3.59%。",
@@ -587,11 +625,12 @@
           "url": "https://www.toutiao.com/trending/7585415815059476018/",
           "source": "今日头条",
           "ranks": [
-            14
+            14,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 17时03分]"
         },
         {
           "title": "英国10月增持美债 加拿大持仓月度波幅再超500亿",
@@ -633,11 +672,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时03分 ~ 16时02分]"
+          "appearance_count": 3,
+          "time_info": "[15时03分 ~ 17时03分]"
         }
       ]
     },
