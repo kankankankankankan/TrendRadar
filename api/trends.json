@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T09:31:18.587808+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2025-12-19T10:34:23.999262+08:00",
+  "total_titles_processed": 566,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普：美国将在月球部署核反应堆",
@@ -19,15 +19,15 @@
           "time_info": "[08时04分 ~ 09时31分]"
         },
         {
-          "title": "特朗普签署行政命令，重申2028年登月目标",
-          "url": "https://news.ifeng.com/c/8pCbX95hrxq",
+          "title": "特朗普再次向乌克兰施压",
+          "url": "https://news.ifeng.com/c/8pCpqaXsvao",
           "source": "凤凰网",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "10时34分"
         },
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -35,11 +35,24 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 10时34分]"
+        },
+        {
+          "title": "特朗普签署行政命令，重申2028年登月目标",
+          "url": "https://news.ifeng.com/c/8pCbX95hrxq",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时04分 ~ 09时31分]"
+          "time_info": "[09时31分 ~ 10时34分]"
         },
         {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
@@ -47,11 +60,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 10时34分]"
+        },
+        {
+          "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
+          "url": "https://www.cls.cn/detail/2234192",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时04分 ~ 09时31分]"
+          "time_info": "[09时31分 ~ 10时34分]"
         },
         {
           "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
@@ -62,8 +88,31 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 10时34分]"
+        },
+        {
+          "title": "特朗普签行政令支持NASA登月计划及太空核能",
+          "url": "https://wallstreetcn.com/livenews/3023443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时04分 ~ 09时31分]"
+          "time_info": "[09时31分 ~ 10时34分]"
+        },
+        {
+          "title": "特朗普，敢不敢动武？",
+          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "白宫称，特朗普已签署国防授权法案。",
@@ -94,31 +143,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
         {
-          "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
-          "url": "https://www.cls.cn/detail/2234192",
+          "title": "特朗普商业帝国再扩张！DJT并购TAE转型为聚变能源公司",
+          "url": "https://www.cls.cn/detail/2233997",
           "source": "财联社热门",
           "ranks": [
-            9
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "特朗普签行政令支持NASA登月计划及太空核能",
-          "url": "https://wallstreetcn.com/livenews/3023443",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "10时34分"
         },
         {
           "title": "美国总统特朗普：将于明日在北卡罗来纳州举行集会并发表讲话。",
@@ -127,7 +165,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -160,7 +198,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -193,7 +231,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -204,7 +242,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -223,7 +261,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股收盘：11月CPI提振市场 三大指数集体收涨 纳指涨超1%",
@@ -231,11 +269,23 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 09时31分]"
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 10时34分]"
+        },
+        {
+          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
+          "url": "https://wallstreetcn.com/articles/3761680",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "甲骨文美股盘后涨3.59%。",
