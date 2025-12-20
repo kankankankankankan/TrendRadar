@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T13:02:41.477853+08:00",
-  "total_titles_processed": 670,
+  "generated_at": "2025-12-20T14:02:42.685534+08:00",
+  "total_titles_processed": 725,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时03分 ~ 13时02分]"
+          "appearance_count": 9,
+          "time_info": "[08时03分 ~ 14时02分]"
         },
         {
           "title": "美国总统特朗普：将与健康保险公司召开会议，或许会达成一份协议。",
@@ -29,11 +29,12 @@
             1,
             5,
             8,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 13时02分]"
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 14时02分]"
         },
         {
           "title": "特朗普称美军正对叙利亚境内“伊斯兰国”进行猛烈打击",
@@ -239,8 +240,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时29分 ~ 13时02分]"
+          "appearance_count": 7,
+          "time_info": "[09时29分 ~ 14时02分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
@@ -252,8 +253,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时03分 ~ 13时02分]"
+          "appearance_count": 9,
+          "time_info": "[08时03分 ~ 14时02分]"
         },
         {
           "title": "“三巫日”成交量创纪录，科技股撑美股指两连阳，日元贬超1.4%，银铜齐创新高",
@@ -285,11 +286,23 @@
             2,
             6,
             9,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 13时02分]"
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 14时02分]"
+        },
+        {
+          "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
+          "url": "https://www.cls.cn/detail/2235373",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 14时02分]"
         },
         {
           "title": "美股收盘：三大股指收涨 英伟达涨近4%",
@@ -350,17 +363,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时04分 ~ 09时30分]"
-        },
-        {
-          "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
-          "url": "https://www.cls.cn/detail/2235373",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
         }
       ]
     },
@@ -376,8 +378,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时29分 ~ 13时02分]"
+          "appearance_count": 7,
+          "time_info": "[09时29分 ~ 14时02分]"
         },
         {
           "title": "以色列暗杀伊朗核专家细节曝光",
@@ -428,8 +430,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时03分 ~ 13时02分]"
+          "appearance_count": 9,
+          "time_info": "[08时03分 ~ 14时02分]"
         },
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
@@ -470,11 +472,12 @@
           "ranks": [
             2,
             9,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 13时02分]"
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 14时02分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
