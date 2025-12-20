@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T16:02:28.934066+08:00",
-  "total_titles_processed": 843,
+  "generated_at": "2025-12-20T17:03:18.668790+08:00",
+  "total_titles_processed": 896,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时03分 ~ 16时02分]"
+          "appearance_count": 12,
+          "time_info": "[08时03分 ~ 17时03分]"
         },
         {
           "title": "美国总统特朗普：将与健康保险公司召开会议，或许会达成一份协议。",
@@ -31,11 +31,12 @@
             8,
             14,
             20,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时31分 ~ 16时02分]"
+          "appearance_count": 8,
+          "time_info": "[10时31分 ~ 17时03分]"
         },
         {
           "title": "特朗普称美军正对叙利亚境内“伊斯兰国”进行猛烈打击",
@@ -241,8 +242,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时29分 ~ 16时02分]"
+          "appearance_count": 10,
+          "time_info": "[09时29分 ~ 17时03分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
@@ -255,8 +256,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时03分 ~ 16时02分]"
+          "appearance_count": 12,
+          "time_info": "[08时03分 ~ 17时03分]"
         },
         {
           "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
@@ -268,11 +269,12 @@
             9,
             15,
             21,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时31分 ~ 16时02分]"
+          "appearance_count": 8,
+          "time_info": "[10时31分 ~ 17时03分]"
         },
         {
           "title": "“三巫日”成交量创纪录，科技股撑美股指两连阳，日元贬超1.4%，银铜齐创新高",
@@ -305,8 +307,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时02分 ~ 16时02分]"
+          "appearance_count": 5,
+          "time_info": "[13时02分 ~ 17时03分]"
         },
         {
           "title": "美股收盘：三大股指收涨 英伟达涨近4%",
@@ -382,19 +384,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时29分 ~ 16时02分]"
+          "appearance_count": 10,
+          "time_info": "[09时29分 ~ 17时03分]"
         },
         {
           "title": "伊朗处决一名为以色列工作的间谍",
           "url": "https://flash.jin10.com/detail/20251220153845757800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 17时03分]"
         },
         {
           "title": "以色列暗杀伊朗核专家细节曝光",
@@ -442,11 +445,12 @@
           "ranks": [
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时03分 ~ 16时02分]"
+          "appearance_count": 12,
+          "time_info": "[08时03分 ~ 17时03分]"
         },
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
@@ -490,11 +494,12 @@
             15,
             17,
             19,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时24分 ~ 16时02分]"
+          "appearance_count": 7,
+          "time_info": "[11时24分 ~ 17时03分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
