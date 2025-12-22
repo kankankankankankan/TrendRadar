@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T18:02:31.503739+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2025-12-22T19:02:46.246236+08:00",
+  "total_titles_processed": 1396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时16分 ~ 18时02分]"
+          "appearance_count": 10,
+          "time_info": "[12时16分 ~ 19时02分]"
         },
         {
           "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
@@ -63,6 +63,22 @@
           "time_info": "[08时04分 ~ 16时02分]"
         },
         {
+          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            19,
+            15,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时04分 ~ 19时02分]"
+        },
+        {
           "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
           "url": "https://www.cls.cn/detail/2235857",
           "source": "财联社热门",
@@ -79,21 +95,6 @@
           "time_info": "[12时16分 ~ 17时05分]"
         },
         {
-          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            19,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时04分 ~ 18时02分]"
-        },
-        {
           "title": "特朗普表态：必须是“超级鸽派”！",
           "url": "https://news.ifeng.com/c/8pI2JngwUGB",
           "source": "凤凰网",
@@ -104,6 +105,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时02分 ~ 17时05分]"
+        },
+        {
+          "title": "特朗普政府频频拦截油轮，美国会议员都看不下去了",
+          "url": "https://news.ifeng.com/c/8pI7DqwwUlP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时04分 ~ 19时02分]"
         },
         {
           "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -118,6 +130,28 @@
           "time_info": "[08时04分 ~ 09时31分]"
         },
         {
+          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
+          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
+        },
+        {
+          "title": "丹麦对特朗普任命格陵兰岛特使深感不满",
+          "url": "https://wallstreetcn.com/livenews/3024905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
           "url": "https://news.ifeng.com/c/8pGiw6orh2a",
           "source": "凤凰网",
@@ -129,24 +163,13 @@
           "time_info": "08时04分"
         },
         {
-          "title": "特朗普政府频频拦截油轮，美国会议员都看不下去了",
-          "url": "https://news.ifeng.com/c/8pI7DqwwUlP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时04分 ~ 18时02分]"
-        },
-        {
           "title": "市场消息：在美国总统特朗普任命格陵兰岛特使后，丹麦外交大臣长将召见美国驻丹麦大使。",
           "url": "https://flash.jin10.com/detail/20251222174043679800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -162,24 +185,13 @@
           "time_info": "11时31分"
         },
         {
-          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
-          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-22）",
           "url": "https://flash.jin10.com/detail/20251222173421961800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -203,9 +215,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
         },
         {
           "title": "特朗普任命美国格陵兰岛特使",
@@ -272,6 +284,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
+        },
+        {
+          "title": "特朗普让克林顿成了主角",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E5%85%8B%E6%9E%97%E9%A1%BF%E6%88%90%E4%BA%86%E4%B8%BB%E8%A7%92",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "曝高市早苗急着求见特朗普",
@@ -341,7 +364,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -407,8 +430,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时05分 ~ 18时02分]"
+          "appearance_count": 3,
+          "time_info": "[17时05分 ~ 19时02分]"
         },
         {
           "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
@@ -418,11 +441,12 @@
             13,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时04分 ~ 18时02分]"
+          "appearance_count": 6,
+          "time_info": "[15时04分 ~ 19时02分]"
         },
         {
           "title": "美股盘前，半导体股多数上涨，美光科技涨约3%，AMD、英伟达、台积电、英特尔涨约1%。",
@@ -451,7 +475,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美媒爆以色列准备再次打击伊朗",
@@ -479,6 +503,18 @@
           "time_info": "[10时38分 ~ 13时05分]"
         },
         {
+          "title": "伊朗要下场帮委内瑞拉了吗",
+          "url": "https://www.toutiao.com/trending/7586586005637959214/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
+        },
+        {
           "title": "伊朗高级军官：以色列威胁言论暴露其“动荡和软弱”",
           "url": "https://wallstreetcn.com/livenews/3024487",
           "source": "华尔街见闻-快讯",
@@ -490,15 +526,15 @@
           "time_info": "08时04分"
         },
         {
-          "title": "伊朗要下场帮委内瑞拉了吗",
-          "url": "https://www.toutiao.com/trending/7586586005637959214/",
-          "source": "今日头条",
+          "title": "伊朗军队司令：伊朗正在密切监视敌人动向",
+          "url": "https://flash.jin10.com/detail/20251222182227867800",
+          "source": "金十数据",
           "ranks": [
-            22
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时02分"
+          "time_info": "19时02分"
         }
       ]
     },
@@ -513,11 +549,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时04分 ~ 18时02分]"
+          "appearance_count": 13,
+          "time_info": "[08时04分 ~ 19时02分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
@@ -581,11 +618,12 @@
           "ranks": [
             11,
             13,
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 18时02分]"
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 19时02分]"
         }
       ]
     }
