@@ -1,12 +1,52 @@
 {
-  "generated_at": "2025-12-22T12:16:49.240590+08:00",
-  "total_titles_processed": 748,
+  "generated_at": "2025-12-22T13:05:15.714791+08:00",
+  "total_titles_processed": 812,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
+          "url": "https://wallstreetcn.com/articles/3761799",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时04分 ~ 13时05分]"
+        },
+        {
+          "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32223737",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时04分 ~ 13时05分]"
+        },
+        {
+          "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32223641",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时04分 ~ 13时05分]"
+        },
         {
           "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
           "url": "https://wallstreetcn.com/articles/3761784",
@@ -31,18 +71,6 @@
           "time_info": "08时04分"
         },
         {
-          "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
-          "url": "https://wallstreetcn.com/articles/3761799",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时04分 ~ 12时16分]"
-        },
-        {
           "title": "特朗普任命美国格陵兰岛特使",
           "url": "https://news.ifeng.com/c/8pHvN8TZ9Jr",
           "source": "凤凰网",
@@ -54,41 +82,38 @@
           "time_info": "11时31分"
         },
         {
-          "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32223737",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时04分 ~ 12时16分]"
-        },
-        {
-          "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32223641",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时04分 ~ 12时16分]"
-        },
-        {
           "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
           "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
           "source": "凤凰网",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 13时05分]"
+        },
+        {
+          "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
+          "url": "https://www.cls.cn/detail/2235857",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 13时05分]"
+        },
+        {
+          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时04分 ~ 13时05分]"
         },
         {
           "title": "特朗普任命美国格陵兰岛特使",
@@ -100,17 +125,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
-        },
-        {
-          "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
-          "url": "https://www.cls.cn/detail/2235857",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
         },
         {
           "title": "特朗普与爱泼斯坦合影被美司法部秒删",
@@ -252,11 +266,12 @@
           "ranks": [
             22,
             24,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时38分 ~ 12时16分]"
+          "appearance_count": 5,
+          "time_info": "[10时38分 ~ 13时05分]"
         },
         {
           "title": "伊朗高级军官：以色列威胁言论暴露其“动荡和软弱”",
@@ -285,8 +300,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时04分 ~ 12时16分]"
+          "appearance_count": 6,
+          "time_info": "[08时04分 ~ 13时05分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
@@ -298,8 +313,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时04分 ~ 12时16分]"
+          "appearance_count": 6,
+          "time_info": "[08时04分 ~ 13时05分]"
         }
       ]
     },
@@ -314,9 +329,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 13时05分]"
         },
         {
           "title": "美股期货亚市盘初走高，标普500指数期货、纳斯达克100指数期货上涨0.3%。",
