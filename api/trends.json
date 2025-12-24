@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T14:03:19.854215+08:00",
-  "total_titles_processed": 857,
+  "generated_at": "2025-12-24T15:04:54.422693+08:00",
+  "total_titles_processed": 940,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普回应克林顿大尺度照被公布",
@@ -16,11 +16,12 @@
             2,
             4,
             15,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时03分 ~ 13时05分]"
+          "appearance_count": 10,
+          "time_info": "[08时03分 ~ 15时04分]"
         },
         {
           "title": "美军将建造“特朗普级”战舰",
@@ -37,6 +38,21 @@
           "time_info": "[08时03分 ~ 13时05分]"
         },
         {
+          "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
+          "url": "https://www.cls.cn/detail/2238272",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时30分 ~ 15时04分]"
+        },
+        {
           "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
           "url": "https://wallstreetcn.com/articles/3761916",
           "source": "华尔街见闻",
@@ -45,8 +61,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时03分 ~ 14时03分]"
+          "appearance_count": 11,
+          "time_info": "[08时03分 ~ 15时04分]"
         },
         {
           "title": "特朗普将建特朗普级新型战舰",
@@ -58,11 +74,12 @@
             30,
             12,
             14,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时03分 ~ 14时03分]"
+          "appearance_count": 11,
+          "time_info": "[08时03分 ~ 15时04分]"
         },
         {
           "title": "特朗普又自恋,新战舰用自己名",
@@ -74,11 +91,12 @@
             16,
             18,
             19,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时03分 ~ 14时03分]"
+          "appearance_count": 11,
+          "time_info": "[08时03分 ~ 15时04分]"
         },
         {
           "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
@@ -90,20 +108,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[08时03分 ~ 13时05分]"
-        },
-        {
-          "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
-          "url": "https://www.cls.cn/detail/2238272",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时30分 ~ 14时03分]"
         },
         {
           "title": "特朗普再谈格陵兰问题 还提到中国",
@@ -135,11 +139,26 @@
           "url": "https://wallstreetcn.com/articles/3761946",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时29分 ~ 15时04分]"
+        },
+        {
+          "title": "特朗普再谈格陵兰问题 还提到中国",
+          "url": "https://www.toutiao.com/trending/7586746209667239443/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            6,
+            17,
+            19
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时29分 ~ 14时03分]"
+          "time_info": "[12时13分 ~ 15时04分]"
         },
         {
           "title": "美最高法院暂时阻止特朗普政府在芝加哥部署军队",
@@ -153,19 +172,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时29分 ~ 13时05分]"
-        },
-        {
-          "title": "特朗普再谈格陵兰问题 还提到中国",
-          "url": "https://www.toutiao.com/trending/7586746209667239443/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 14时03分]"
         },
         {
           "title": "法官裁定维持特朗普提出的10万美元H-1B签证申请费。",
@@ -213,6 +219,17 @@
           "time_info": "10时33分"
         },
         {
+          "title": "克林顿大尺度照被公布 特朗普回应",
+          "url": "https://www.baidu.com/s?wd=%E5%85%8B%E6%9E%97%E9%A1%BF%E5%A4%A7%E5%B0%BA%E5%BA%A6%E7%85%A7%E8%A2%AB%E5%85%AC%E5%B8%83+%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
+        },
+        {
           "title": "市场消息：美国法官维持特朗普政府的10万美元H-1B签证申请费的决定。",
           "url": "https://flash.jin10.com/detail/20251224090814337800",
           "source": "金十数据",
@@ -230,7 +247,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -244,6 +261,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金价癫了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%99%AB%E4%BA%86%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时30分 ~ 11时29分]"
+        },
+        {
+          "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
+          "url": "https://www.cls.cn/detail/2237629",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 08时04分]"
+        },
+        {
+          "title": "黄金再创新高, 现货黄金首次站上 4400 美元 / 盎司，今年以来累涨近 68%，金价后续怎么走？",
+          "url": "https://www.zhihu.com/question/1986492553160311276",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 08时04分]"
+        },
+        {
+          "title": "赛诺菲(SNY.O)以每股15.50美元的现金价格收购Dynavax公司的所有流通股。交易预计于2026年第一季度完成。",
+          "url": "https://flash.jin10.com/detail/20251224141858552800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
         }
       ]
     },
@@ -302,46 +370,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金价癫了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%99%AB%E4%BA%86%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时30分 ~ 11时29分]"
-        },
-        {
-          "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
-          "url": "https://www.cls.cn/detail/2237629",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 08时04分]"
-        },
-        {
-          "title": "黄金再创新高, 现货黄金首次站上 4400 美元 / 盎司，今年以来累涨近 68%，金价后续怎么走？",
-          "url": "https://www.zhihu.com/question/1986492553160311276",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 08时04分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -381,7 +409,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         }
@@ -399,8 +427,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时03分 ~ 14时03分]"
+          "appearance_count": 11,
+          "time_info": "[08时03分 ~ 15时04分]"
         }
       ]
     },
