@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T15:04:17.058832+08:00",
-  "total_titles_processed": 984,
+  "generated_at": "2025-12-25T16:02:37.305504+08:00",
+  "total_titles_processed": 1072,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
@@ -64,6 +64,17 @@
           "time_info": "08时04分"
         },
         {
+          "title": "高市早苗为何要赶在特朗普访华前访美",
+          "url": "https://www.toutiao.com/trending/7587680478346350143/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
           "title": "特朗普发表圣诞祝福 不忘自夸政绩",
           "url": "https://flash.jin10.com/detail/20251225103018828800",
           "source": "金十数据",
@@ -89,7 +100,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价狂飙 千元内几乎买不到金饰",
@@ -131,6 +142,17 @@
           "time_info": "[09时30分 ~ 09时31分]"
         },
         {
+          "title": "金十图示：2025年12月25日（周四）上海金午盘价为1002.83元/克，较国际金价(1008.17元/克)，低5.34元/克",
+          "url": "https://flash.jin10.com/detail/20251225150449280800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
           "title": "金十图示：2025年12月25日（周四）上海金早盘价为1002.46元/克，较国际金价(1008.23元/克)，低5.77元/克",
           "url": "https://flash.jin10.com/detail/20251225102210297800",
           "source": "金十数据",
@@ -156,8 +178,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时04分 ~ 15时04分]"
+          "appearance_count": 12,
+          "time_info": "[08时04分 ~ 16时02分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -180,8 +202,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时35分 ~ 15时04分]"
+          "appearance_count": 7,
+          "time_info": "[10时35分 ~ 16时02分]"
         },
         {
           "title": "周三（12月24日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌0.33%，报87400美元，北京时间22:38曾跌至86380美元刷新日低。 CME以太币期货DCR主力合约跌0.99%，报2942.50美元，22:38也曾刷新日低至2886.50美元。 美股加密货币与加密货币关联指数涨0.14%，报62.35点。 最近24小时，MarketVector数字资产100小盘指数跌0.37%，暂报3509.62点，整体呈现出V形走势。 MarketVector数字资产100小盘指数跌0.24%，暂报17923.99点。",
