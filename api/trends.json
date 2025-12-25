@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T12:14:34.173605+08:00",
-  "total_titles_processed": 704,
+  "generated_at": "2025-12-25T13:04:37.008948+08:00",
+  "total_titles_processed": 800,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时04分 ~ 12时14分]"
+          "appearance_count": 8,
+          "time_info": "[08时04分 ~ 13时04分]"
         },
         {
           "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
@@ -73,6 +73,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
+        },
+        {
+          "title": "帕劳与特朗普政府签署备忘录，从美国接收75名移民",
+          "url": "https://flash.jin10.com/detail/20251225121328471800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
         }
       ]
     },
@@ -88,22 +99,24 @@
             30,
             27,
             24,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时30分 ~ 12时14分]"
+          "appearance_count": 7,
+          "time_info": "[09时30分 ~ 13时04分]"
         },
         {
           "title": "联合国专家谴责美对委的封锁 多家国际机构预计明年金价冲击5000美元 | 环球市场",
           "url": "https://www.cls.cn/detail/2239423",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时35分 ~ 12时14分]"
+          "appearance_count": 5,
+          "time_info": "[10时35分 ~ 13时04分]"
         },
         {
           "title": "金价又创历史新高",
@@ -142,8 +155,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时04分 ~ 12时14分]"
+          "appearance_count": 8,
+          "time_info": "[08时04分 ~ 13时04分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -155,8 +168,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时04分 ~ 12时14分]"
+          "appearance_count": 8,
+          "time_info": "[08时04分 ~ 13时04分]"
         },
         {
           "title": "英特尔美股盘前大跌5%，报道：英伟达暂缓推进测试英特尔18A工艺",
