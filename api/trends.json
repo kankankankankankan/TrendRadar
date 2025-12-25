@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T19:02:55.529326+08:00",
-  "total_titles_processed": 1336,
+  "generated_at": "2025-12-25T20:02:41.814273+08:00",
+  "total_titles_processed": 1403,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 19时02分]"
+          "appearance_count": 4,
+          "time_info": "[17时03分 ~ 20时02分]"
         },
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 19时02分]"
+          "appearance_count": 4,
+          "time_info": "[17时03分 ~ 20时02分]"
         },
         {
           "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
@@ -117,7 +117,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -183,11 +183,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            14
+            14,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 19时02分]"
+          "appearance_count": 3,
+          "time_info": "[18时02分 ~ 20时02分]"
         },
         {
           "title": "金价又创历史新高",
@@ -238,8 +239,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时04分 ~ 19时02分]"
+          "appearance_count": 16,
+          "time_info": "[08时04分 ~ 20时02分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -262,11 +263,12 @@
             10,
             9,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时35分 ~ 19时02分]"
+          "appearance_count": 11,
+          "time_info": "[10时35分 ~ 20时02分]"
         },
         {
           "title": "周三（12月24日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌0.33%，报87400美元，北京时间22:38曾跌至86380美元刷新日低。 CME以太币期货DCR主力合约跌0.99%，报2942.50美元，22:38也曾刷新日低至2886.50美元。 美股加密货币与加密货币关联指数涨0.14%，报62.35点。 最近24小时，MarketVector数字资产100小盘指数跌0.37%，暂报3509.62点，整体呈现出V形走势。 MarketVector数字资产100小盘指数跌0.24%，暂报17923.99点。",
@@ -290,11 +292,12 @@
           "url": "https://flash.jin10.com/detail/20251225181314638800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时02分]"
         },
         {
           "title": "以色列防长称正密切关注伊朗局势",
@@ -323,6 +326,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI的“广告模式”已初具雏形",
+          "url": "https://wallstreetcn.com/articles/3762036",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         }
       ]
     },
