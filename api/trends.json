@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T12:14:28.824741+08:00",
-  "total_titles_processed": 739,
+  "generated_at": "2025-12-26T13:04:18.779688+08:00",
+  "total_titles_processed": 792,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时34分 ~ 12时14分]"
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 13时04分]"
         },
         {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
@@ -27,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时34分 ~ 12时14分]"
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 13时04分]"
         },
         {
           "title": "专家：特朗普或在2026“压榨”美联储",
@@ -134,8 +135,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时34分 ~ 12时14分]"
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 13时04分]"
         },
         {
           "title": "铂金价格飙升至每盎司2390美元以上，创历史新高。",
@@ -143,22 +144,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时29分 ~ 12时14分]"
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 13时04分]"
         },
         {
           "title": "铂金价格创纪录新高，因欧盟拟撤销燃油车禁售令",
           "url": "https://flash.jin10.com/detail/20251226112935984800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时04分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -197,8 +200,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时04分 ~ 12时14分]"
+          "appearance_count": 6,
+          "time_info": "[08时04分 ~ 13时04分]"
         }
       ]
     },
@@ -228,11 +231,12 @@
           "url": "https://flash.jin10.com/detail/20251226112952955800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时04分]"
         }
       ]
     }
