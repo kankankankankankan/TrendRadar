@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T13:03:09.164008+08:00",
-  "total_titles_processed": 673,
+  "generated_at": "2025-12-27T14:02:35.502100+08:00",
+  "total_titles_processed": 726,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时30分 ~ 13时03分]"
+          "appearance_count": 8,
+          "time_info": "[09时30分 ~ 14时02分]"
         },
         {
           "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时04分 ~ 13时03分]"
+          "appearance_count": 9,
+          "time_info": "[08时04分 ~ 14时02分]"
         },
         {
           "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
@@ -41,8 +41,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时04分 ~ 13时03分]"
+          "appearance_count": 9,
+          "time_info": "[08时04分 ~ 14时02分]"
         },
         {
           "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
@@ -53,8 +53,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时30分 ~ 13时03分]"
+          "appearance_count": 8,
+          "time_info": "[09时30分 ~ 14时02分]"
         },
         {
           "title": "节后首日美股微跌，白银暴涨10%，纽铜涨5%，和平曙光重挫油价",
@@ -151,7 +151,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "将见泽连斯基，特朗普放话：未经我批准，他无法敲定任何事",
@@ -171,11 +171,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时29分 ~ 13时03分]"
+          "appearance_count": 4,
+          "time_info": "[11时29分 ~ 14时02分]"
         },
         {
           "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
@@ -189,15 +190,27 @@
           "time_info": "08时04分"
         },
         {
-          "title": "加利福尼亚州确认已撤回针对美国总统特朗普政府撤销逾40亿美元高铁资金决定的诉讼。",
-          "url": "https://flash.jin10.com/detail/20251227122711483800",
+          "title": "欧盟委员会主席冯德莱恩将于周六参加与乌克兰总统泽连斯基、美国总统特朗普及其他欧盟领导人举行的通话。",
+          "url": "https://flash.jin10.com/detail/20251227131840644800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时03分"
+          "time_info": "14时02分"
+        },
+        {
+          "title": "加利福尼亚州确认已撤回针对美国总统特朗普政府撤销逾40亿美元高铁资金决定的诉讼。",
+          "url": "https://flash.jin10.com/detail/20251227122711483800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 14时02分]"
         },
         {
           "title": "根据白宫的指引，特朗普将于当地时间周日下午3点在海湖庄园会见泽连斯基。",
@@ -205,11 +218,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时10分 ~ 13时03分]"
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 14时02分]"
         },
         {
           "title": "特朗普：“未经我批准，泽连斯基一无所有”",
@@ -295,11 +309,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E7%AA%81%E7%A0%B41400%E5%85%83%E9%BB%84%E9%87%91%E5%9B%9E%E6%94%B6%E9%81%87%E5%86%B7%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 13时03分]"
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 14时02分]"
         }
       ]
     },
