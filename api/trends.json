@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T16:02:34.578221+08:00",
-  "total_titles_processed": 837,
+  "generated_at": "2025-12-27T17:02:38.906116+08:00",
+  "total_titles_processed": 900,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "将见泽连斯基，特朗普放话：未经我批准，他无法敲定任何事",
@@ -28,11 +28,12 @@
             5,
             7,
             10,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时29分 ~ 16时02分]"
+          "appearance_count": 7,
+          "time_info": "[11时29分 ~ 17时02分]"
         },
         {
           "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
@@ -80,11 +81,12 @@
           "ranks": [
             2,
             10,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时02分 ~ 16时02分]"
+          "appearance_count": 4,
+          "time_info": "[14时02分 ~ 17时02分]"
         },
         {
           "title": "美国参议员们呼吁特朗普政府暂停提高国家公园门票价格",
@@ -92,11 +94,25 @@
           "source": "金十数据",
           "ranks": [
             1,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 16时02分]"
+          "appearance_count": 3,
+          "time_info": "[15时02分 ~ 17时02分]"
+        },
+        {
+          "title": "特朗普：美国目前没有承认索马里兰的计划",
+          "url": "https://flash.jin10.com/detail/20251227140350372800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时02分 ~ 17时02分]"
         },
         {
           "title": "特朗普：“未经我批准，泽连斯基一无所有”",
@@ -111,28 +127,28 @@
           "time_info": "[09时31分 ~ 10时32分]"
         },
         {
-          "title": "特朗普：美国目前没有承认索马里兰的计划",
-          "url": "https://flash.jin10.com/detail/20251227140350372800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 16时02分]"
-        },
-        {
           "title": "特朗普：未经我批准 泽连斯基一无所有",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%9C%AA%E7%BB%8F%E6%88%91%E6%89%B9%E5%87%86+%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%B8%80%E6%97%A0%E6%89%80%E6%9C%89",
           "source": "百度热搜",
           "ranks": [
             25,
-            22
+            22,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 16时02分]"
+          "appearance_count": 3,
+          "time_info": "[15时02分 ~ 17时02分]"
+        },
+        {
+          "title": "特朗普回应泽连斯基：没我，你啥都不是",
+          "url": "https://news.ifeng.com/c/8pQGvvrjsvt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "特朗普下令袭击尼日利亚，有人急了：万一跟中国打呢",
@@ -152,7 +168,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -203,8 +219,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时30分 ~ 16时02分]"
+          "appearance_count": 11,
+          "time_info": "[09时30分 ~ 17时02分]"
         },
         {
           "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
@@ -216,8 +232,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时04分 ~ 16时02分]"
+          "appearance_count": 12,
+          "time_info": "[08时04分 ~ 17时02分]"
         },
         {
           "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
@@ -243,8 +259,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时30分 ~ 16时02分]"
+          "appearance_count": 11,
+          "time_info": "[09时30分 ~ 17时02分]"
         },
         {
           "title": "节后首日美股微跌，白银暴涨10%，纽铜涨5%，和平曙光重挫油价",
