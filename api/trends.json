@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T21:15:14.022647+08:00",
-  "total_titles_processed": 1478,
+  "generated_at": "2025-12-29T22:03:33.076270+08:00",
+  "total_titles_processed": 1565,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普：不排除亲自前往乌克兰",
@@ -32,6 +32,19 @@
           "time_info": "[11时32分 ~ 17时05分]"
         },
         {
+          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时06分 ~ 22时03分]"
+        },
+        {
           "title": "特朗普称美军对委内瑞拉一目标实施秘密打击",
           "url": "https://news.ifeng.com/c/8pTKjz1vjXV",
           "source": "凤凰网",
@@ -42,19 +55,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时30分 ~ 14时03分]"
-        },
-        {
-          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时06分 ~ 21时15分]"
         },
         {
           "title": "特朗普与泽连斯基会晤",
@@ -346,6 +346,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "泽连斯基列举与特朗普会晤成果：美方确认安全保障协议将提交国会，战后经济重建方案获推进",
+          "url": "https://flash.jin10.com/detail/20251229213129062800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -690,7 +701,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "受科技股拖累，美股指期货走低，现货白银跳水日内大跌6%，伦铜逼近13000美元，WTI原油涨逾2%",
@@ -700,8 +711,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时14分 ~ 21时15分]"
+          "appearance_count": 3,
+          "time_info": "[21时14分 ~ 22时03分]"
         },
         {
           "title": "美股白银股盘前下跌，科尔矿业跌3.5%，赫克拉矿业跌3.3%，First Majestic白银跌3%，泛美白银跌2.4%，希尔威金属矿业跌2.3%，Endeavour Silver跌2.1%，此前白银从纪录高位回落。",
@@ -714,6 +725,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时02分 ~ 20时02分]"
+        },
+        {
+          "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2243270",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "韩国电商巨头Coupang美股盘前上涨3%，此前公司宣布向韩国用户支付11.8亿美元赔偿金，以弥补数据泄露事件造成的损失。",
@@ -740,6 +762,45 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "据耶路撒冷邮报：周一，大量伊朗电话号码向以色列手机用户发送短信。以色列方面警告收件人不要回复。",
+          "url": "https://flash.jin10.com/detail/20251229213948529800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "伊朗前外长：内塔尼亚胡扼杀每个和平机会",
+          "url": "https://wallstreetcn.com/livenews/3028193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "三颗伊朗观测卫星搭乘俄火箭升空",
+          "url": "https://wallstreetcn.com/livenews/3027940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -749,11 +810,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时02分 ~ 21时15分]"
+          "appearance_count": 5,
+          "time_info": "[19时02分 ~ 22时03分]"
         },
         {
           "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
@@ -763,8 +825,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时14分 ~ 21时15分]"
+          "appearance_count": 3,
+          "time_info": "[21时14分 ~ 22时03分]"
         }
       ]
     },
@@ -839,23 +901,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[08时04分 ~ 14时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "三颗伊朗观测卫星搭乘俄火箭升空",
-          "url": "https://wallstreetcn.com/livenews/3027940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时06分"
         }
       ]
     }
