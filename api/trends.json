@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T13:05:33.115856+08:00",
-  "total_titles_processed": 748,
+  "generated_at": "2025-12-30T14:02:41.749807+08:00",
+  "total_titles_processed": 827,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "普京一个电话后，特朗普怒了",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时04分 ~ 13时05分]"
+          "appearance_count": 7,
+          "time_info": "[08时04分 ~ 14时02分]"
         },
         {
           "title": "得知普京官邸遭袭 特朗普：很生气",
@@ -32,6 +32,18 @@
           "time_info": "[08时04分 ~ 13时05分]"
         },
         {
+          "title": "俄罗斯称乌91架无人机袭击普京官邸，泽连斯基否认，特朗普“很生气”",
+          "url": "https://wallstreetcn.com/articles/3762268",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时31分 ~ 14时02分]"
+        },
+        {
           "title": "特朗普称得知普京官邸遭袭很生气",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%BE%97%E7%9F%A5%E6%99%AE%E4%BA%AC%E5%AE%98%E9%82%B8%E9%81%AD%E8%A2%AD%E5%BE%88%E7%94%9F%E6%B0%94%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -44,16 +56,26 @@
           "time_info": "[08时04分 ~ 09时31分]"
         },
         {
-          "title": "俄罗斯称乌91架无人机袭击普京官邸，泽连斯基否认，特朗普“很生气”",
-          "url": "https://wallstreetcn.com/articles/3762268",
-          "source": "华尔街见闻",
+          "title": "特朗普回应解放军在台岛附近军演",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%A7%A3%E6%94%BE%E5%86%9B%E5%9C%A8%E5%8F%B0%E5%B2%9B%E9%99%84%E8%BF%91%E5%86%9B%E6%BC%94%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
-            7,
-            6
+            1
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 13时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "普京称官邸遭袭 特朗普回应",
+          "url": "https://www.douyin.com/hot/2351475",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
@@ -67,6 +89,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时04分 ~ 12时15分]"
+        },
+        {
+          "title": "解放军封岛军演，特朗普表态",
+          "url": "https://news.ifeng.com/c/8pV2xI6hHOn",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时31分 ~ 14时02分]"
         },
         {
           "title": "特朗普：普京说他被袭击了 我很生气",
@@ -93,15 +126,15 @@
           "time_info": "[12时15分 ~ 13时05分]"
         },
         {
-          "title": "解放军封岛军演，特朗普表态",
-          "url": "https://news.ifeng.com/c/8pV2xI6hHOn",
-          "source": "凤凰网",
+          "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
+          "url": "https://wallstreetcn.com/articles/3762270",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时31分 ~ 13时05分]"
+          "appearance_count": 4,
+          "time_info": "[10时36分 ~ 14时02分]"
         },
         {
           "title": "特朗普称不担心解放军绕台军演",
@@ -116,15 +149,17 @@
           "time_info": "[10时36分 ~ 12时15分]"
         },
         {
-          "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
-          "url": "https://wallstreetcn.com/articles/3762270",
-          "source": "华尔街见闻",
+          "title": "特朗普称不担心解放军绕台军演",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E6%8B%85%E5%BF%83%E8%A7%A3%E6%94%BE%E5%86%9B%E7%BB%95%E5%8F%B0%E5%86%9B%E6%BC%94",
+          "source": "百度热搜",
           "ranks": [
+            19,
+            14,
             10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时36分 ~ 13时05分]"
+          "time_info": "[12时15分 ~ 14时02分]"
         },
         {
           "title": "特朗普级战列舰会是闹剧吗",
@@ -175,18 +210,6 @@
           "time_info": "[09时31分 ~ 10时36分]"
         },
         {
-          "title": "特朗普称不担心解放军绕台军演",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E6%8B%85%E5%BF%83%E8%A7%A3%E6%94%BE%E5%86%9B%E7%BB%95%E5%8F%B0%E5%86%9B%E6%BC%94",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 13时05分]"
-        },
-        {
           "title": "乌克兰总统泽连斯基：与美国总统特朗普的会晤富有成效。",
           "url": "https://flash.jin10.com/detail/20251230070522588800",
           "source": "金十数据",
@@ -196,6 +219,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "得知普京官邸遭袭，特朗普：我很生气！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "欧洲面对特朗普的三重打击很彷徨",
@@ -220,11 +254,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 13时05分]"
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 14时02分]"
         },
         {
           "title": "金价暴跌店员称跌幅首次见",
@@ -233,9 +268,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时05分 ~ 14时02分]"
         },
         {
           "title": "金十图示：2025年12月30日（周二）上海金早盘价为979.99元/克，较国际金价(980.18元/克)，低0.19元/克",
@@ -263,8 +298,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时04分 ~ 13时05分]"
+          "appearance_count": 7,
+          "time_info": "[08时04分 ~ 14时02分]"
         },
         {
           "title": "美股收盘：贵金属风暴冲击市场情绪 三大指数集体收跌",
@@ -307,8 +342,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时04分 ~ 13时05分]"
+          "appearance_count": 7,
+          "time_info": "[08时04分 ~ 14时02分]"
         }
       ]
     }
