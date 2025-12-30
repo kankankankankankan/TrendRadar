@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T17:04:33.098279+08:00",
-  "total_titles_processed": 1081,
+  "generated_at": "2025-12-30T18:02:39.708579+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "普京一个电话后，特朗普怒了",
@@ -29,8 +29,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时31分 ~ 17时04分]"
+          "appearance_count": 10,
+          "time_info": "[09时31分 ~ 18时02分]"
+        },
+        {
+          "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
+          "url": "https://wallstreetcn.com/articles/3762270",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时36分 ~ 18时02分]"
         },
         {
           "title": "得知普京官邸遭袭 特朗普：很生气",
@@ -46,17 +60,15 @@
           "time_info": "[08时04分 ~ 13时05分]"
         },
         {
-          "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
-          "url": "https://wallstreetcn.com/articles/3762270",
-          "source": "华尔街见闻",
+          "title": "外交部回应特朗普涉中国军演言论",
+          "url": "https://news.ifeng.com/c/8pVVKejSSSi",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            8,
-            7
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时36分 ~ 17时04分]"
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 18时02分]"
         },
         {
           "title": "解放军封岛军演，特朗普表态",
@@ -75,11 +87,12 @@
           "source": "抖音",
           "ranks": [
             1,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时02分 ~ 17时04分]"
+          "appearance_count": 5,
+          "time_info": "[14时02分 ~ 18时02分]"
         },
         {
           "title": "特朗普称得知普京官邸遭袭很生气",
@@ -94,15 +107,15 @@
           "time_info": "[08时04分 ~ 09时31分]"
         },
         {
-          "title": "外交部回应特朗普涉中国军演言论",
-          "url": "https://news.ifeng.com/c/8pVVKejSSSi",
+          "title": "美对委境内发动军事打击，特朗普：他们装毒品的码头区不存在了",
+          "url": "https://news.ifeng.com/c/8pVTEbBDKdx",
           "source": "凤凰网",
           "ranks": [
-            1
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 18时02分]"
         },
         {
           "title": "特朗普回应解放军在台岛附近军演",
@@ -116,15 +129,18 @@
           "time_info": "14时02分"
         },
         {
-          "title": "美对委境内发动军事打击，特朗普：他们装毒品的码头区不存在了",
-          "url": "https://news.ifeng.com/c/8pVTEbBDKdx",
-          "source": "凤凰网",
+          "title": "得知普京官邸遭袭，特朗普：我很生气！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            12,
+            11,
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时04分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时02分 ~ 18时02分]"
         },
         {
           "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
@@ -162,19 +178,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时15分 ~ 13时05分]"
-        },
-        {
-          "title": "得知普京官邸遭袭，特朗普：我很生气！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时02分 ~ 17时04分]"
         },
         {
           "title": "特朗普称不担心解放军绕台军演",
@@ -226,6 +229,18 @@
           "time_info": "[09时31分 ~ 10时36分]"
         },
         {
+          "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
+          "url": "https://wallstreetcn.com/articles/3762272",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 18时02分]"
+        },
+        {
           "title": "据AXIOS：特朗普及其高级幕僚已要求内塔尼亚胡改变其在被占领的约旦河西岸所推行的政策。",
           "url": "https://flash.jin10.com/detail/20251230113213777800",
           "source": "金十数据",
@@ -238,6 +253,18 @@
           "time_info": "[12时15分 ~ 13时05分]"
         },
         {
+          "title": "特朗普称对中方此次军演不担忧，外交部回应",
+          "url": "https://www.cls.cn/detail/2244032",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 18时02分]"
+        },
+        {
           "title": "伊朗最高领袖顾问回应特朗普威胁：任何侵略行为都将遭到严厉而迅速的回应",
           "url": "https://wallstreetcn.com/livenews/3028423",
           "source": "华尔街见闻-快讯",
@@ -248,6 +275,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时31分 ~ 10时36分]"
+        },
+        {
+          "title": "特朗普称不担心解放军绕台军演",
+          "url": "https://www.douyin.com/hot/2351614",
+          "source": "抖音",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 18时02分]"
         },
         {
           "title": "乌克兰总统泽连斯基：与美国总统特朗普的会晤富有成效。",
@@ -267,9 +306,42 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
+        },
+        {
+          "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
+          "url": "https://news.ifeng.com/c/8pVTIAwBtvp",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "克里姆林宫：（就美国总统特朗普对伊朗的警告表示）我们敦促各方避免局势升级。",
+          "url": "https://flash.jin10.com/detail/20251230172540100800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "特朗普：如果伊朗真在重建核设施，我们会摧毁他们",
+          "url": "https://news.ifeng.com/c/8pVH0bcJ4eW",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "泽连斯基希望美国保护乌克兰50年，特朗普：将予以考虑",
@@ -278,29 +350,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时04分"
-        },
-        {
-          "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
-          "url": "https://wallstreetcn.com/articles/3762272",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时04分"
-        },
-        {
-          "title": "特朗普称对中方此次军演不担忧，外交部回应",
-          "url": "https://www.cls.cn/detail/2244032",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -311,18 +361,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时04分"
-        },
-        {
-          "title": "特朗普称不担心解放军绕台军演",
-          "url": "https://www.douyin.com/hot/2351614",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -406,8 +445,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时04分 ~ 17时04分]"
+          "appearance_count": 11,
+          "time_info": "[08时04分 ~ 18时02分]"
         },
         {
           "title": "美股收盘：贵金属风暴冲击市场情绪 三大指数集体收跌",
@@ -440,11 +479,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 17时04分]"
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 18时02分]"
         }
       ]
     },
@@ -482,6 +522,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时04分 ~ 17时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "克里姆林宫：我们认为有必要与伊朗开展对话。",
+          "url": "https://flash.jin10.com/detail/20251230172626201800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         }
       ]
     }
