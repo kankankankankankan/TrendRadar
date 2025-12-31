@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T19:02:59.503783+08:00",
-  "total_titles_processed": 1288,
+  "generated_at": "2025-12-31T20:02:45.307996+08:00",
+  "total_titles_processed": 1375,
   "failed_sources": [],
   "trends": [
     {
@@ -71,6 +71,17 @@
           "time_info": "[14时02分 ~ 16时02分]"
         },
         {
+          "title": "李在明展示特朗普送的白宫金钥匙(图)",
+          "url": "https://news.ifeng.com/c/8pWu87Onyz4",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时02分]"
+        },
+        {
           "title": "美媒：特朗普正试图让世界MAGA化",
           "url": "https://www.toutiao.com/trending/7589793491610242587/",
           "source": "今日头条",
@@ -88,7 +99,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -113,17 +124,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
-        },
-        {
-          "title": "李在明展示特朗普送的白宫金钥匙(图)",
-          "url": "https://news.ifeng.com/c/8pWu87Onyz4",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
         },
         {
           "title": "以色列总理内塔尼亚胡：希望与沙特及其他国家扩大亚伯拉罕协议。 伊朗正在新地点重建导弹能力。 如果哈马斯被解除武装，加沙可能出现新政府。 特朗普和我想要在西岸建设基础设施。 我认为伊朗需要特朗普的警告。",
@@ -215,7 +215,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -237,9 +237,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时02分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：伊朗正在恢复弹道导弹生产。",
@@ -259,7 +259,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         }
@@ -278,8 +278,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时04分 ~ 19时02分]"
+          "appearance_count": 15,
+          "time_info": "[08时04分 ~ 20时02分]"
         },
         {
           "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
