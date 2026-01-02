@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-02T20:03:37.850764+08:00",
-  "total_titles_processed": 1219,
+  "generated_at": "2026-01-02T21:13:04.626837+08:00",
+  "total_titles_processed": 1305,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
-        {
-          "title": "土耳其总统埃尔多安：将于下周一与美国总统特朗普通话。",
-          "url": "https://flash.jin10.com/detail/20260102194900686800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时03分"
-        },
         {
           "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
           "url": "https://news.ifeng.com/c/8pZG8Eef0SN",
@@ -30,15 +19,16 @@
           "time_info": "08时04分"
         },
         {
-          "title": "伊朗外交部：伊朗人不会允许任何外国的干涉（此前特朗普威胁要帮助伊朗的抗议者）。",
-          "url": "https://flash.jin10.com/detail/20260102193534766800",
-          "source": "金十数据",
+          "title": "唐驳虎：特朗普发现“弹药”不够用了",
+          "url": "https://www.toutiao.com/trending/7590682268167835155/",
+          "source": "今日头条",
           "ranks": [
-            5
+            11,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时03分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时02分 ~ 21时13分]"
         },
         {
           "title": "特朗普承认服用阿司匹林",
@@ -53,6 +43,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时04分 ~ 19时02分]"
+        },
+        {
+          "title": "土耳其总统埃尔多安：将于下周一与美国总统特朗普通话。",
+          "url": "https://flash.jin10.com/detail/20260102194900686800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时03分 ~ 21时13分]"
         },
         {
           "title": "特朗普回应健康质疑：手背瘀青只因服用阿司匹林，打瞌睡是在“放松”",
@@ -93,6 +95,18 @@
           "time_info": "[19时02分 ~ 20时03分]"
         },
         {
+          "title": "伊朗外交部：伊朗人不会允许任何外国的干涉（此前特朗普威胁要帮助伊朗的抗议者）。",
+          "url": "https://flash.jin10.com/detail/20260102193534766800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时03分 ~ 21时13分]"
+        },
+        {
           "title": "马杜罗证实曾与特朗普通话10分钟，重申“要和平不要战争”",
           "url": "https://wallstreetcn.com/livenews/3029681",
           "source": "华尔街见闻-快讯",
@@ -105,18 +119,6 @@
           "time_info": "[09时31分 ~ 10时38分]"
         },
         {
-          "title": "唐驳虎：特朗普发现“弹药”不够用了",
-          "url": "https://www.toutiao.com/trending/7590682268167835155/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时02分 ~ 20时03分]"
-        },
-        {
           "title": "特朗普宣布从芝加哥等三座城市撤军",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E4%BB%8E%E8%8A%9D%E5%8A%A0%E5%93%A5%E7%AD%89%E4%B8%89%E5%BA%A7%E5%9F%8E%E5%B8%82%E6%92%A4%E5%86%9B",
           "source": "百度热搜",
@@ -127,6 +129,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时04分 ~ 09时31分]"
+        },
+        {
+          "title": "高市早苗与特朗普可能最早在周五晚间通话。（共同社）",
+          "url": "https://wallstreetcn.com/livenews/3029817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时03分 ~ 21时13分]"
         },
         {
           "title": "马杜罗证实曾与特朗普通话10分钟 重申“要和平不要战争”",
@@ -153,6 +167,17 @@
           "time_info": "[19时02分 ~ 20时03分]"
         },
         {
+          "title": "特朗普称将就伊朗骚乱事件进行干涉",
+          "url": "https://www.toutiao.com/trending/7590030597218091044/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时12分 ~ 21时13分]"
+        },
+        {
           "title": "特朗普称手上瘀伤是服用阿司匹林造成",
           "url": "https://www.toutiao.com/trending/7589823768060706870/",
           "source": "今日头条",
@@ -165,15 +190,48 @@
           "time_info": "[13时06分 ~ 14时02分]"
         },
         {
-          "title": "高市早苗与特朗普可能最早在周五晚间通话。（共同社）",
-          "url": "https://wallstreetcn.com/livenews/3029817",
+          "title": "日本首相高市早苗与美国总统特朗普进行了通话。（共同社）",
+          "url": "https://wallstreetcn.com/livenews/3029830",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时03分"
+          "time_info": "21时13分"
+        },
+        {
+          "title": "据日本共同社：日本首相高市早苗与美国总统特朗普通话。",
+          "url": "https://flash.jin10.com/detail/20260102204110786800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
+          "title": "特朗普：医生刚刚报告说我身体非常健康。 第三次在认知能力测试中“拿下满分”。",
+          "url": "https://wallstreetcn.com/livenews/3029827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
+          "title": "土耳其总统埃尔多安：将于下周一与美国总统特朗普讨论乌克兰和加沙问题。",
+          "url": "https://flash.jin10.com/detail/20260102201629888800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "伊朗最高领袖顾问拉里贾尼：美国总统特朗普应当明白，美国干涉伊朗抗议问题无异于在整个地区引发混乱。",
@@ -185,6 +243,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
+        },
+        {
+          "title": "特朗普宣称认知测试再次满分 提议将强制认知测试作为总统参选门槛",
+          "url": "https://flash.jin10.com/detail/20260102200103510800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "特朗普承认手上瘀伤是服用药物造成",
@@ -262,11 +331,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 20时03分]"
+          "appearance_count": 3,
+          "time_info": "[19时02分 ~ 21时13分]"
         },
         {
           "title": "美股三大股指期货走高，纳斯达克100指数期货涨超1%，标普500指数期货涨0.55%，道指期货涨0.23%。",
@@ -332,7 +402,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         }
@@ -340,7 +410,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "伊朗多省示威致6死，总统发声",
@@ -356,16 +426,28 @@
           "time_info": "[09时30分 ~ 16时02分]"
         },
         {
+          "title": "伊朗警方与示威者冲突致3死17伤",
+          "url": "https://wallstreetcn.com/livenews/3029833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "伊朗最高领袖顾问：美国干预伊朗内政等同于扰乱地区局势",
           "url": "https://wallstreetcn.com/livenews/3029814",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            9
+            9,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 20时03分]"
+          "appearance_count": 3,
+          "time_info": "[19时02分 ~ 21时13分]"
         },
         {
           "title": "伊朗两地发生骚乱 已致3死13伤",
@@ -389,8 +471,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 20时03分]"
+          "appearance_count": 4,
+          "time_info": "[19时02分 ~ 21时13分]"
         },
         {
           "title": "伊朗总统：伊朗正处于一场全面战争中",
@@ -452,11 +534,12 @@
             3,
             2,
             4,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时38分 ~ 20时03分]"
+          "appearance_count": 13,
+          "time_info": "[10时38分 ~ 21时13分]"
         },
         {
           "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
@@ -485,8 +568,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时04分 ~ 20时03分]"
+          "appearance_count": 16,
+          "time_info": "[08时04分 ~ 21时13分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -498,6 +581,49 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
+          "url": "https://wallstreetcn.com/articles/3762439",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时04分 ~ 21时13分]"
+        },
+        {
+          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
+          "url": "https://wallstreetcn.com/articles/3762451",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时02分 ~ 21时13分]"
+        },
+        {
+          "title": "报道：OpenAI首款“AI硬件”是“智能笔”或“音频设备”，由鸿海独家代工，预计今年或明年推出",
+          "url": "https://wallstreetcn.com/articles/3762454",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时12分 ~ 21时13分]"
         }
       ]
     },
@@ -537,11 +663,12 @@
           "url": "https://www.toutiao.com/trending/7590703628780834347/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时03分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时03分 ~ 21时13分]"
         }
       ]
     },
@@ -554,11 +681,12 @@
           "url": "https://wallstreetcn.com/livenews/3029822",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时03分 ~ 21时13分]"
         },
         {
           "title": "科技股引领全球股市开年上涨，纳指期货涨0.7%，金银领衔贵金属反弹，伦铝站上3000美元，美债收益率上行",
@@ -581,36 +709,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
-          "url": "https://wallstreetcn.com/articles/3762439",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时04分 ~ 20时03分]"
-        },
-        {
-          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
-          "url": "https://wallstreetcn.com/articles/3762451",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时02分 ~ 20时03分]"
         }
       ]
     },
