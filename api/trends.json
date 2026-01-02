@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T17:04:39.325344+08:00",
-  "total_titles_processed": 991,
+  "generated_at": "2026-01-02T18:02:31.345799+08:00",
+  "total_titles_processed": 1070,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
@@ -17,6 +17,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "特朗普回应健康质疑：手背瘀青只因服用阿司匹林，打瞌睡是在“放松”",
+          "url": "https://wallstreetcn.com/livenews/3029800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "特朗普称将就伊朗骚乱事件进行干涉",
+          "url": "https://wallstreetcn.com/livenews/3029799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "马杜罗证实曾与特朗普通话10分钟，重申“要和平不要战争”",
@@ -31,6 +53,19 @@
           "time_info": "[09时31分 ~ 10时38分]"
         },
         {
+          "title": "特朗普承认服用阿司匹林",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%9C%8D%E7%94%A8%E9%98%BF%E5%8F%B8%E5%8C%B9%E6%9E%97%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时04分 ~ 18时02分]"
+        },
+        {
           "title": "特朗普宣布从芝加哥等三座城市撤军",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E4%BB%8E%E8%8A%9D%E5%8A%A0%E5%93%A5%E7%AD%89%E4%B8%89%E5%BA%A7%E5%9F%8E%E5%B8%82%E6%92%A4%E5%86%9B",
           "source": "百度热搜",
@@ -41,19 +76,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时04分 ~ 09时31分]"
-        },
-        {
-          "title": "特朗普承认服用阿司匹林",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%9C%8D%E7%94%A8%E9%98%BF%E5%8F%B8%E5%8C%B9%E6%9E%97%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时04分 ~ 17时04分]"
         },
         {
           "title": "马杜罗证实曾与特朗普通话10分钟 重申“要和平不要战争”",
@@ -78,6 +100,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时06分 ~ 14时02分]"
+        },
+        {
+          "title": "唐驳虎：特朗普发现“弹药”不够用了",
+          "url": "https://www.toutiao.com/trending/7590682268167835155/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "伊朗最高领袖顾问拉里贾尼：美国总统特朗普应当明白，美国干涉伊朗抗议问题无异于在整个地区引发混乱。",
+          "url": "https://flash.jin10.com/detail/20260102171345253800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "特朗普承认手上瘀伤是服用药物造成",
@@ -105,7 +149,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
@@ -119,19 +163,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时04分 ~ 17时04分]"
+          "appearance_count": 12,
+          "time_info": "[08时04分 ~ 18时02分]"
         },
         {
           "title": "美股盘前，中概股大涨，百度涨约12%",
           "url": "https://wallstreetcn.com/livenews/3029794",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 18时02分]"
         },
         {
           "title": "美股期货上涨，纳斯达克指数期货上涨0.58%，标普500指数期货上涨0.39%。",
@@ -147,24 +192,25 @@
           "time_info": "[11时31分 ~ 13时06分]"
         },
         {
+          "title": "美股三大股指期货走高，纳斯达克100指数期货涨超1%，标普500指数期货涨0.55%，道指期货涨0.23%。",
+          "url": "https://wallstreetcn.com/livenews/3029787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 18时02分]"
+        },
+        {
           "title": "美股三大股指期货走高，纳指期货涨超1%，标普500指数期货涨0.55%，道指期货涨0.23%。",
           "url": "https://flash.jin10.com/detail/20260102165416378800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时04分"
-        },
-        {
-          "title": "美股三大股指期货走高，纳斯达克100指数期货涨超1%，标普500指数期货涨0.55%，道指期货涨0.23%。",
-          "url": "https://wallstreetcn.com/livenews/3029787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -178,6 +224,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "美股热门中概股盘前普涨，网易(NTES.O)涨6.1%，蔚来汽车(NIO.N)涨5.5%，阿里巴巴(BABA.N)涨4.13%，理想汽车(LI.O)涨近3%，京东(JD.O)、台积电(TSM.N)、拼多多(PDD.O)涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260102172348617800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "美股三大股指期货周五开盘微涨。",
@@ -216,11 +273,12 @@
             1,
             3,
             2,
-            4
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时38分 ~ 17时04分]"
+          "appearance_count": 9,
+          "time_info": "[10时38分 ~ 18时02分]"
         },
         {
           "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
@@ -248,8 +306,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时04分 ~ 17时04分]"
+          "appearance_count": 12,
+          "time_info": "[08时04分 ~ 18时02分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -330,6 +388,34 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
+          "url": "https://wallstreetcn.com/articles/3762439",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 18时02分]"
+        },
+        {
+          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
+          "url": "https://wallstreetcn.com/articles/3762451",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -363,6 +449,34 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "科技股引领全球股市开年上涨，纳指期货涨0.7%，金银领衔贵金属反弹，伦铝站上3000美元，美债收益率上行",
+          "url": "https://wallstreetcn.com/articles/3762449",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
+          "title": "美债于2026年首个交易日下跌，就业市场韧性引关注",
+          "url": "https://flash.jin10.com/detail/20260102170712304800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -376,40 +490,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
-          "url": "https://wallstreetcn.com/articles/3762439",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "科技股引领全球股市开年上涨，纳指期货涨0.7%，金银领衔贵金属反弹，伦铝站上3000美元，美债收益率上行",
-          "url": "https://wallstreetcn.com/articles/3762449",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时04分"
         }
       ]
     },
