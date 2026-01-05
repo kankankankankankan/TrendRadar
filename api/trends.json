@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T20:02:54.537058+08:00",
-  "total_titles_processed": 1491,
+  "generated_at": "2026-01-05T21:16:18.125783+08:00",
+  "total_titles_processed": 1609,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 92,
+      "match_count": 95,
       "titles": [
         {
           "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
@@ -18,8 +18,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时34分 ~ 20时02分]"
+          "appearance_count": 17,
+          "time_info": "[11时34分 ~ 21时16分]"
+        },
+        {
+          "title": "中方回应特朗普谈格陵兰岛涉华言论",
+          "url": "https://www.toutiao.com/trending/7591783882828431398/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时02分 ~ 21时16分]"
         },
         {
           "title": "特朗普威胁委内瑞拉代总统：若不正确行事 将付出更惨痛代价",
@@ -77,8 +89,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时34分 ~ 20时02分]"
+          "appearance_count": 17,
+          "time_info": "[11时34分 ~ 21时16分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -91,8 +103,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时34分 ~ 20时02分]"
+          "appearance_count": 15,
+          "time_info": "[11时34分 ~ 21时16分]"
         },
         {
           "title": "特朗普威胁委代理总统，还称“绝对需要格陵兰岛”",
@@ -108,17 +120,6 @@
           "time_info": "[09时31分 ~ 18时03分]"
         },
         {
-          "title": "中方回应特朗普谈格陵兰岛涉华言论",
-          "url": "https://www.toutiao.com/trending/7591783882828431398/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时02分 ~ 20时02分]"
-        },
-        {
           "title": "中方回应特朗普威胁古巴等国",
           "url": "https://news.ifeng.com/c/8pfVwlEUPag",
           "source": "凤凰网",
@@ -128,6 +129,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时05分 ~ 19时03分]"
+        },
+        {
+          "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
+          "url": "https://news.ifeng.com/c/8pfcK5vNmj2",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时02分 ~ 21时16分]"
         },
         {
           "title": "特朗普威胁委代总统或付“沉重代价”",
@@ -142,6 +155,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[08时04分 ~ 14时04分]"
+        },
+        {
+          "title": "委内瑞拉代总统喊话特朗普",
+          "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%BB%A3%E6%80%BB%E7%BB%9F%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时05分 ~ 21时16分]"
         },
         {
           "title": "委内瑞拉后恐是格陵兰岛，丹麦首相强硬回应特朗普！",
@@ -194,15 +219,15 @@
           "time_info": "[15时07分 ~ 16时02分]"
         },
         {
-          "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
-          "url": "https://news.ifeng.com/c/8pfcK5vNmj2",
+          "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
+          "url": "https://news.ifeng.com/c/8pfZjM0LgjM",
           "source": "凤凰网",
           "ranks": [
-            2
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时02分 ~ 20时02分]"
+          "appearance_count": 7,
+          "time_info": "[18时02分 ~ 21时16分]"
         },
         {
           "title": "外交部回应特朗普谈格陵兰岛时涉华言论",
@@ -238,17 +263,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[14时04分 ~ 18时03分]"
-        },
-        {
-          "title": "委内瑞拉代总统喊话特朗普",
-          "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%BB%A3%E6%80%BB%E7%BB%9F%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时05分 ~ 20时02分]"
         },
         {
           "title": "格陵兰岛总理回应特朗普言论",
@@ -310,17 +324,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
-        },
-        {
-          "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
-          "url": "https://news.ifeng.com/c/8pfZjM0LgjM",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时02分 ~ 20时02分]"
         },
         {
           "title": "开发委内瑞拉“全球第一的原油储备”？特朗普“理想很丰满”，但“现实很骨感”",
@@ -489,6 +492,17 @@
           "time_info": "[12时24分 ~ 13时13分]"
         },
         {
+          "title": "特朗普再度警告委政府：若不配合，或进行第二次军事打击！",
+          "url": "https://www.cls.cn/detail/2247951",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时15分 ~ 21时16分]"
+        },
+        {
           "title": "特朗普又改口：不相信乌克兰袭击普京官邸",
           "url": "https://news.ifeng.com/c/8pfVwlEUPcV",
           "source": "凤凰网",
@@ -509,6 +523,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时02分 ~ 19时03分]"
+        },
+        {
+          "title": "下一个打击目标？特朗普威胁对哥伦比亚动武 哥方强烈驳斥",
+          "url": "https://www.cls.cn/detail/2248057",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时15分 ~ 21时16分]"
         },
         {
           "title": "特朗普接连向多国发出威胁",
@@ -690,6 +715,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "特朗普重启委内瑞拉能源版图 壳牌与英国石油被视为欧洲最大受益者",
+          "url": "https://flash.jin10.com/detail/20260105210049356800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "美国总统特朗普：如果事态发展不顺利，委内瑞拉代理总统罗德里格斯面临的处境可能比马杜罗更糟。",
           "url": "https://flash.jin10.com/detail/20260105091134980800",
           "source": "金十数据",
@@ -718,7 +754,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -784,7 +820,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -1015,7 +1051,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -1077,6 +1113,67 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美股盘前，美股存储芯片股走高，美光科技涨超3%，西部数据涨超2%，SanDisk涨超2%，台积电涨近3.5%，AMD涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3030750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时05分"
+        },
+        {
+          "title": "中金2026展望：泡沫加速！美国“财政主导”利好中美股市和金银铜",
+          "url": "https://wallstreetcn.com/articles/3762526",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 18时03分]"
+        },
+        {
+          "title": "多邻国美股盘前涨超4%。此前美国银行将多邻国评级从中性上调至买入。",
+          "url": "https://wallstreetcn.com/livenews/3030899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "美股三大股指期货周一小幅高开。",
+          "url": "https://flash.jin10.com/detail/20260105070122345800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "美股盘前，美股存储芯片股走高，美光科技涨超3%，西部数据涨超2%，SanDisk涨超2%，台积电涨近3.5%，AMD涨超2%。美国石油股盘前集体走高，雪佛龙盘前一度上涨近10%，康菲石油涨超8％，埃克森美孚涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3030750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 4,
       "titles": [
@@ -1123,56 +1220,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美股盘前，美股存储芯片股走高，美光科技涨超3%，西部数据涨超2%，SanDisk涨超2%，台积电涨近3.5%，AMD涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3030750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时05分"
-        },
-        {
-          "title": "中金2026展望：泡沫加速！美国“财政主导”利好中美股市和金银铜",
-          "url": "https://wallstreetcn.com/articles/3762526",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 18时03分]"
-        },
-        {
-          "title": "美股三大股指期货周一小幅高开。",
-          "url": "https://flash.jin10.com/detail/20260105070122345800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "美股盘前，美股存储芯片股走高，美光科技涨超3%，西部数据涨超2%，SanDisk涨超2%，台积电涨近3.5%，AMD涨超2%。美国石油股盘前集体走高，雪佛龙盘前一度上涨近10%，康菲石油涨超8％，埃克森美孚涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3030750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时03分"
         }
       ]
     },
@@ -1237,7 +1284,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         }
