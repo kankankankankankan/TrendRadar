@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T14:04:38.066724+08:00",
-  "total_titles_processed": 884,
+  "generated_at": "2026-01-05T15:08:09.195497+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 69,
       "titles": [
         {
           "title": "特朗普威胁委内瑞拉代总统：若不正确行事 将付出更惨痛代价",
@@ -16,11 +16,53 @@
             8,
             7,
             6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时31分 ~ 15时08分]"
+        },
+        {
+          "title": "特朗普威胁委代理总统，还称“绝对需要格陵兰岛”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32315820",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时31分 ~ 15时08分]"
+        },
+        {
+          "title": "特朗普威胁委内瑞拉代总统：若不配合美国 将付出更惨痛代价",
+          "url": "https://www.cls.cn/detail/2247429",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时45分 ~ 15时08分]"
+        },
+        {
+          "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
+          "url": "https://wallstreetcn.com/articles/3762529",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
             5
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时31分 ~ 14时04分]"
+          "time_info": "[11时34分 ~ 15时08分]"
         },
         {
           "title": "特朗普威胁委代总统或付“沉重代价”",
@@ -37,17 +79,17 @@
           "time_info": "[08时04分 ~ 14时04分]"
         },
         {
-          "title": "特朗普威胁委代理总统，还称“绝对需要格陵兰岛”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32315820",
-          "source": "澎湃新闻",
+          "title": "“如果她不做正确的事，可能比马杜罗更惨”！特朗普警告委内瑞拉“代总统”：必须听美国的",
+          "url": "https://wallstreetcn.com/articles/3762521",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            9,
-            8
+            10,
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时31分 ~ 14时04分]"
+          "time_info": "[11时34分 ~ 15时08分]"
         },
         {
           "title": "特朗普称“绝对需要格陵兰岛”",
@@ -75,33 +117,6 @@
           "time_info": "[08时04分 ~ 10时45分]"
         },
         {
-          "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
-          "url": "https://wallstreetcn.com/articles/3762529",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时34分 ~ 14时04分]"
-        },
-        {
-          "title": "特朗普威胁委内瑞拉代总统：若不配合美国 将付出更惨痛代价",
-          "url": "https://www.cls.cn/detail/2247429",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时45分 ~ 14时04分]"
-        },
-        {
           "title": "好莱坞明星入籍法国，特朗普发帖讽刺，本人回击",
           "url": "https://news.ifeng.com/c/8peoOMfJqxB",
           "source": "凤凰网",
@@ -113,17 +128,28 @@
           "time_info": "[10时45分 ~ 14时04分]"
         },
         {
-          "title": "“如果她不做正确的事，可能比马杜罗更惨”！特朗普警告委内瑞拉“代总统”：必须听美国的",
-          "url": "https://wallstreetcn.com/articles/3762521",
-          "source": "华尔街见闻",
+          "title": "特朗普：委内瑞拉是一个“死掉的国家”，美国“正在掌权”",
+          "url": "https://news.ifeng.com/c/8pf4IXU084i",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            8,
-            7
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时07分 ~ 15时08分]"
+        },
+        {
+          "title": "委内瑞拉后恐是格陵兰岛，丹麦首相强硬回应特朗普！",
+          "url": "https://www.cls.cn/detail/2247392",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时34分 ~ 14时04分]"
+          "time_info": "[12时24分 ~ 15时08分]"
         },
         {
           "title": "特朗普在抓捕马杜罗发布会上称已超越门罗主义，升级为唐罗主义，这反映了怎样的政策转向？核心主张是什么？",
@@ -136,6 +162,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时04分 ~ 12时24分]"
+        },
+        {
+          "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
+          "url": "https://www.zhihu.com/question/1991053595043390487",
+          "source": "知乎",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时34分 ~ 15时08分]"
         },
         {
           "title": "特朗普称美国将管理委内瑞拉",
@@ -222,28 +260,17 @@
           "time_info": "[08时04分 ~ 11时35分]"
         },
         {
-          "title": "委内瑞拉后恐是格陵兰岛，丹麦首相强硬回应特朗普！",
-          "url": "https://www.cls.cn/detail/2247392",
-          "source": "财联社热门",
+          "title": "特朗普称美需全面获取委石油及资源",
+          "url": "https://www.toutiao.com/trending/7591716415548313126/",
+          "source": "今日头条",
           "ranks": [
-            12,
-            11
+            26,
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时24分 ~ 14时04分]"
-        },
-        {
-          "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
-          "url": "https://www.zhihu.com/question/1991053595043390487",
-          "source": "知乎",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时34分 ~ 14时04分]"
+          "appearance_count": 5,
+          "time_info": "[13时12分 ~ 15时08分]"
         },
         {
           "title": "特朗普说绝对需要格陵兰岛",
@@ -283,16 +310,16 @@
           "time_info": "[13时12分 ~ 14时04分]"
         },
         {
-          "title": "特朗普称美需全面获取委石油及资源",
-          "url": "https://www.toutiao.com/trending/7591716415548313126/",
-          "source": "今日头条",
+          "title": "特朗普改口称不相信乌袭击普京官邸",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%B9%E5%8F%A3%E7%A7%B0%E4%B8%8D%E7%9B%B8%E4%BF%A1%E4%B9%8C%E8%A2%AD%E5%87%BB%E6%99%AE%E4%BA%AC%E5%AE%98%E9%82%B8",
+          "source": "百度热搜",
           "ranks": [
-            26,
-            29
+            24,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时12分 ~ 14时04分]"
+          "time_info": "[14时04分 ~ 15时08分]"
         },
         {
           "title": "特朗普：美方正与委代总统接触",
@@ -306,6 +333,17 @@
           "time_info": "[12时24分 ~ 13时13分]"
         },
         {
+          "title": "“特马”重修旧好？美国突袭委内瑞拉后 特朗普和马斯克共进晚餐",
+          "url": "https://www.cls.cn/detail/2247636",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时07分 ~ 15时08分]"
+        },
+        {
           "title": "美军委内瑞拉行动引发党争 民主党人呼吁弹劾特朗普",
           "url": "https://www.cls.cn/detail/2247292",
           "source": "财联社热门",
@@ -315,6 +353,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时24分 ~ 14时04分]"
+        },
+        {
+          "title": "特朗普称美国已“掌控”委内瑞拉",
+          "url": "https://www.toutiao.com/trending/7591367635717373988/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时07分 ~ 15时08分]"
         },
         {
           "title": "特朗普暗示可能对墨西哥采取行动",
@@ -351,6 +400,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时04分 ~ 09时31分]"
+        },
+        {
+          "title": "特朗普改口称不相信乌袭击普京官邸",
+          "url": "https://www.toutiao.com/trending/7591134271677808681/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时07分 ~ 15时08分]"
         },
         {
           "title": "美国总统特朗普：我认为不需要美国对古巴采取任何军事行动，古巴会自行沦陷。",
@@ -496,6 +556,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "日本首相高市早苗：将与美国保持各层级密切沟通；已收到特朗普的访美邀请。",
+          "url": "https://flash.jin10.com/detail/20260105140242641800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
           "title": "特朗普：美国需要获得委内瑞拉石油及其他资源的全面准入权。",
           "url": "https://wallstreetcn.com/livenews/3030430",
           "source": "华尔街见闻-快讯",
@@ -557,7 +628,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         },
@@ -595,6 +666,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "哥伦比亚外交部强烈反对特朗普不当言论",
+          "url": "https://wallstreetcn.com/livenews/3030614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
           "title": "特朗普与马斯克罕见同框现身宴会",
           "url": "https://www.toutiao.com/trending/7591135835124842559/",
           "source": "今日头条",
@@ -628,6 +710,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "哥伦比亚总统佩特罗强硬喊话特朗普",
+          "url": "https://wallstreetcn.com/livenews/3030613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
           "title": "美国总统特朗普：我们已经撤退了，但我们会适时（带着国民警卫队）重新投入战斗。",
           "url": "https://flash.jin10.com/detail/20260105090525475800",
           "source": "金十数据",
@@ -648,17 +741,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
-        },
-        {
-          "title": "特朗普改口称不相信乌袭击普京官邸",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%B9%E5%8F%A3%E7%A7%B0%E4%B8%8D%E7%9B%B8%E4%BF%A1%E4%B9%8C%E8%A2%AD%E5%87%BB%E6%99%AE%E4%BA%AC%E5%AE%98%E9%82%B8",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时04分"
         },
         {
           "title": "美国总统特朗普：将考虑重开美国驻加拉加斯大使馆。",
