@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T18:02:43.999963+08:00",
-  "total_titles_processed": 1300,
+  "generated_at": "2026-01-06T19:02:43.909380+08:00",
+  "total_titles_processed": 1395,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "美视马杜罗案高度敏感，批评者：想象可否绑架特朗普",
@@ -70,8 +70,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时36分 ~ 18时02分]"
+          "appearance_count": 12,
+          "time_info": "[10时36分 ~ 19时02分]"
         },
         {
           "title": "特朗普向多个国家发出威胁",
@@ -83,11 +83,12 @@
             12,
             16,
             18,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时04分 ~ 18时02分]"
+          "appearance_count": 14,
+          "time_info": "[08时04分 ~ 19时02分]"
         },
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -110,8 +111,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时05分 ~ 18时02分]"
+          "appearance_count": 8,
+          "time_info": "[13时05分 ~ 19时02分]"
         },
         {
           "title": "特朗普：美国将深度介入委内瑞拉",
@@ -159,7 +160,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -206,8 +207,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 18时02分]"
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 19时02分]"
         },
         {
           "title": "墨总统回应特朗普：合作可以干预不行",
@@ -221,6 +222,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时31分 ~ 13时05分]"
+        },
+        {
+          "title": "特朗普不到1年对7国动武",
+          "url": "https://www.toutiao.com/trending/7591141159599276095/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
         },
         {
           "title": "委内瑞拉反对派领导人马查多：自十月以来，我尚未与美国总统特朗普通话。",
@@ -291,17 +304,6 @@
           "time_info": "08时04分"
         },
         {
-          "title": "特朗普不到1年对7国动武",
-          "url": "https://www.toutiao.com/trending/7591141159599276095/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
           "title": "丹麦首相警告特朗普涉格陵兰岛言论",
           "url": "https://www.toutiao.com/trending/7592114928259285042/",
           "source": "今日头条",
@@ -319,7 +321,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -500,6 +502,17 @@
           "time_info": "08时04分"
         },
         {
+          "title": "丹麦首相要求特朗普停止对格陵兰岛的“威胁”，称其享有北约的安全保障",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32319045",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "特朗普在变成第二个拜登吗",
           "url": "https://www.toutiao.com/trending/7592036422320655891/",
           "source": "今日头条",
@@ -568,11 +581,12 @@
             13,
             11,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时05分 ~ 18时02分]"
+          "appearance_count": 6,
+          "time_info": "[15时05分 ~ 19时02分]"
         },
         {
           "title": "瑞银上调金价目标至5000美元",
@@ -636,8 +650,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时04分 ~ 18时02分]"
+          "appearance_count": 14,
+          "time_info": "[08时04分 ~ 19时02分]"
         },
         {
           "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
@@ -690,7 +704,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "怕清算?伊朗领袖携950亿开溜",
@@ -700,11 +714,12 @@
             3,
             5,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时05分 ~ 18时02分]"
+          "appearance_count": 6,
+          "time_info": "[15时05分 ~ 19时02分]"
         },
         {
           "title": "市场消息：伊朗外交部长预计将于本月访问印度。",
@@ -728,6 +743,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "伊朗称随时准备对侵略或敌对行为作出果断回应",
+          "url": "https://wallstreetcn.com/livenews/3031601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "伊朗外交部：美国严重违反国际法",
@@ -787,8 +813,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时31分 ~ 18时02分]"
+          "appearance_count": 13,
+          "time_info": "[09时31分 ~ 19时02分]"
         },
         {
           "title": "OpenAI支持的公司推家务机器人 售价2万美元",
@@ -817,6 +843,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美债收益率震荡回升 市场紧盯经济走软信号",
+          "url": "https://flash.jin10.com/detail/20260106185806265800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         }
       ]
     }
