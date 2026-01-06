@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-01-06T15:06:16.032561+08:00",
-  "total_titles_processed": 976,
+  "generated_at": "2026-01-06T16:02:52.879187+08:00",
+  "total_titles_processed": 1079,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "美视马杜罗案高度敏感，批评者：想象可否绑架特朗普",
           "url": "https://news.ifeng.com/c/8pgdYCJGTs1",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时36分 ~ 15时06分]"
+          "appearance_count": 9,
+          "time_info": "[10时36分 ~ 16时02分]"
         },
         {
           "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
@@ -28,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时04分 ~ 15时06分]"
+          "appearance_count": 11,
+          "time_info": "[08时04分 ~ 16时02分]"
         },
         {
           "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
@@ -40,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时36分 ~ 15时06分]"
+          "appearance_count": 9,
+          "time_info": "[10时36分 ~ 16时02分]"
         },
         {
           "title": "特朗普想“一口闷”委石油，美巨头却“不给面子”",
@@ -63,22 +64,12 @@
             11,
             13,
             12,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时04分 ~ 15时06分]"
-        },
-        {
-          "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
-          "url": "https://news.ifeng.com/c/8pfcK5vNmj2",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时04分 ~ 10时37分]"
+          "appearance_count": 11,
+          "time_info": "[08时04分 ~ 16时02分]"
         },
         {
           "title": "中方回应特朗普威胁古巴等国",
@@ -90,11 +81,23 @@
             21,
             29,
             24,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时36分 ~ 15时06分]"
+          "appearance_count": 9,
+          "time_info": "[10时36分 ~ 16时02分]"
+        },
+        {
+          "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
+          "url": "https://news.ifeng.com/c/8pfcK5vNmj2",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 10时37分]"
         },
         {
           "title": "墨总统回应特朗普：合作可以干预不行",
@@ -109,6 +112,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时04分 ~ 11时31分]"
+        },
+        {
+          "title": "特朗普：美国将深度介入委内瑞拉",
+          "url": "https://www.cls.cn/detail/2248692",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时15分 ~ 16时02分]"
         },
         {
           "title": "美国众议院议长约翰逊：特朗普政府在委内瑞拉的所作所为符合法律规定。",
@@ -144,28 +160,16 @@
           "time_info": "[09时31分 ~ 12时15分]"
         },
         {
-          "title": "特朗普：美国将深度介入委内瑞拉",
-          "url": "https://www.cls.cn/detail/2248692",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时15分 ~ 15时06分]"
-        },
-        {
           "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
           "url": "https://wallstreetcn.com/articles/3762615",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时05分 ~ 15时06分]"
+          "appearance_count": 5,
+          "time_info": "[13时05分 ~ 16时02分]"
         },
         {
           "title": "格陵兰岛总理强硬表态：特朗普必须放弃“吞并幻想”",
@@ -381,6 +385,17 @@
           "time_info": "10时37分"
         },
         {
+          "title": "格陵兰岛总理回应特朗普",
+          "url": "https://www.douyin.com/hot/2358627",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
           "url": "https://www.zhihu.com/question/1991053595043390487",
           "source": "知乎",
@@ -453,7 +468,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -510,6 +525,18 @@
           "time_info": "[10时36分 ~ 12时15分]"
         },
         {
+          "title": "工行开年上调积存金风险评级，下周起C3及以上客户才可买，金价走强更多银行不断入局",
+          "url": "https://www.cls.cn/detail/2248953",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时05分 ~ 16时02分]"
+        },
+        {
           "title": "分析师：降息预期与避险需求推升金价 本周关注关键非农数据",
           "url": "https://flash.jin10.com/detail/20260106134723251800",
           "source": "金十数据",
@@ -532,17 +559,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时02分 ~ 15时06分]"
-        },
-        {
-          "title": "工行开年上调积存金风险评级，下周起C3及以上客户才可买，金价走强更多银行不断入局",
-          "url": "https://www.cls.cn/detail/2248953",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时05分 ~ 15时06分]"
         },
         {
           "title": "金十图示：2026年01月06日（周二）上海金早盘价为1001.83元/克，较国际金价(1000.46元/克)，高1.37元/克",
@@ -569,8 +585,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时04分 ~ 15时06分]"
+          "appearance_count": 11,
+          "time_info": "[08时04分 ~ 16时02分]"
         },
         {
           "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
@@ -582,8 +598,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时04分 ~ 15时06分]"
+          "appearance_count": 11,
+          "time_info": "[08时04分 ~ 16时02分]"
         },
         {
           "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
@@ -630,11 +646,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348752&amp;topic_name=%E6%80%95%E6%B8%85%E7%AE%97%3F%E4%BC%8A%E6%9C%97%E9%A2%86%E8%A2%96%E6%90%BA950%E4%BA%BF%E5%BC%80%E6%BA%9C",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时05分 ~ 15时06分]"
+          "appearance_count": 3,
+          "time_info": "[15时05分 ~ 16时02分]"
         },
         {
           "title": "市场消息：伊朗外交部长预计将于本月访问印度。",
@@ -712,11 +729,12 @@
           "ranks": [
             10,
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时31分 ~ 15时06分]"
+          "appearance_count": 10,
+          "time_info": "[09时31分 ~ 16时02分]"
         },
         {
           "title": "OpenAI支持的公司推家务机器人 售价2万美元",
