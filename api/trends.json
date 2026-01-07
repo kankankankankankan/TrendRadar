@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T10:37:56.600283+08:00",
-  "total_titles_processed": 574,
+  "generated_at": "2026-01-07T11:31:56.541504+08:00",
+  "total_titles_processed": 676,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
         {
           "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时04分 ~ 10时37分]"
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 11时31分]"
         },
         {
           "title": "特朗普：委内瑞拉将向美国移交数千万桶石油",
@@ -27,8 +27,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 10时37分]"
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 11时31分]"
+        },
+        {
+          "title": "特朗普政府正讨论获取格陵兰岛方案",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%AD%A3%E8%AE%A8%E8%AE%BA%E8%8E%B7%E5%8F%96%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E6%96%B9%E6%A1%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "特朗普：委内瑞拉将向美国交付3000万至5000万桶高品质、受制裁的石油。 石油将按市场价出售，这笔收益将由我掌控。 已要求能源部长克里斯·赖特执行该计划。 这批石油将由储油船承运，直接运往美国的卸油码头。",
@@ -53,27 +64,16 @@
           "time_info": "08时04分"
         },
         {
-          "title": "特朗普不到1年对7国动武",
-          "url": "https://www.toutiao.com/trending/7591141159599276095/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时04分 ~ 10时37分]"
-        },
-        {
           "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
           "url": "https://www.zhihu.com/question/1991388819304510504",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 10时37分]"
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 11时31分]"
         },
         {
           "title": "特朗普政府正在讨论获取格陵兰岛的方案 北欧五国外长发表联合声明 | 环球市场",
@@ -81,11 +81,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 10时37分]"
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 11时31分]"
         },
         {
           "title": "特朗普向印度发出新警告",
@@ -96,8 +97,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 10时37分]"
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 11时31分]"
+        },
+        {
+          "title": "特朗普不到1年对7国动武",
+          "url": "https://www.toutiao.com/trending/7591141159599276095/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 10时37分]"
         },
         {
           "title": "布油期货开盘跌1%至每桶60.09美元，此前特朗普表示委内瑞拉将把受制裁的石油交给美国。",
@@ -130,7 +143,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
@@ -146,13 +159,35 @@
           "time_info": "08时04分"
         },
         {
+          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
+          "url": "https://www.zhihu.com/question/1992144765781840551",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
+          "url": "https://www.cls.cn/detail/2249952",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "特朗普将于美国东部时间周三下午2:30（北京时间次日凌晨3:30）签署行政命令。",
           "url": "https://flash.jin10.com/detail/20260107102154678800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
@@ -177,6 +212,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "美国高院更新日程表 最早于9日宣布特朗普关税案裁决",
+          "url": "https://www.cls.cn/detail/2249866",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "布伦特原油期货盘初下跌1%，至每桶60.09美元，此前美国总统特朗普表示，委内瑞拉将把受制裁的石油移交美国。",
@@ -245,6 +291,17 @@
           "time_info": "08时04分"
         },
         {
+          "title": "特朗普向多个国家发出威胁",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "美国一名参议员要求获取“石油行业与特朗普政府磋商”的相关信息。",
           "url": "https://wallstreetcn.com/livenews/3031923",
           "source": "华尔街见闻-快讯",
@@ -284,7 +341,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
@@ -325,19 +382,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时04分 ~ 10时37分]"
-        },
-        {
-          "title": "美联储理事米兰再次呼吁激进降息，称今年需降息超100基点，而其同僚巴尔金则表示，2025年累计降息75个基点后，利率已进入中性利率的估计区间，凸显美联储内部分歧。当前美股三大股指多空信号分化，现货金银整体多头优势，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260107103252586800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时37分"
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 11时31分]"
         },
         {
           "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
@@ -361,15 +407,38 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时04分 ~ 10时37分]"
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 11时31分]"
+        },
+        {
+          "title": "美联储理事米兰再次呼吁激进降息，称今年需降息超100基点，而其同僚巴尔金则表示，2025年累计降息75个基点后，利率已进入中性利率的估计区间，凸显美联储内部分歧。当前美股三大股指多空信号分化，现货金银整体多头优势，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260107103252586800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时37分 ~ 11时31分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "泰国央行：泰铢的升值与美元走弱和金价上涨是相符的。",
+          "url": "https://flash.jin10.com/detail/20260107111347667800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
         {
           "title": "金十图示：2026年01月07日（周三）上海金早盘价为1003.92元/克，较国际金价(1004.33元/克)，低0.41元/克",
           "url": "https://flash.jin10.com/detail/20260107101853429800",
@@ -377,9 +446,26 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌与XREAL宣布达成深度长期战略合作",
+          "url": "https://wallstreetcn.com/livenews/3032063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         }
       ]
     },
@@ -392,11 +478,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348752&amp;topic_name=%E6%80%95%E6%B8%85%E7%AE%97%3F%E4%BC%8A%E6%9C%97%E9%A2%86%E8%A2%96%E6%90%BA950%E4%BA%BF%E5%BC%80%E6%BA%9C",
           "source": "贴吧",
           "ranks": [
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时04分 ~ 10时37分]"
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 11时31分]"
         }
       ]
     }
