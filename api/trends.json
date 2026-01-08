@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-08T08:04:31.382256+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-01-08T09:31:16.552879+08:00",
+  "total_titles_processed": 450,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "特朗普的下一步，难了",
+          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 09时31分]"
+        },
         {
           "title": "当地时间1月7日，哥伦比亚总统佩特罗与美国总统特朗普通电话。（央视）",
           "url": "https://wallstreetcn.com/livenews/3032760",
@@ -19,15 +30,38 @@
           "time_info": "08时04分"
         },
         {
-          "title": "特朗普的下一步，难了",
-          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
-          "source": "凤凰网",
+          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 09时31分]"
+        },
+        {
+          "title": "特朗普指示美国退出“不符合该国利益”的66个国际组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 09时31分]"
+        },
+        {
+          "title": "特朗普质疑北约在美需要时会否支持",
+          "url": "https://www.toutiao.com/trending/7592647574625075243/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 09时30分]"
         },
         {
           "title": "特朗普与哥伦比亚通电话 通话持续15分钟",
@@ -52,6 +86,17 @@
           "time_info": "08时04分"
         },
         {
+          "title": "美国石油公司警告称，它们需要得到担保才能在委内瑞拉投资。 美国石油高管向特朗普施压，要求获得法律和财务担保。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3032814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
           "url": "https://wallstreetcn.com/articles/3762696",
           "source": "华尔街见闻",
@@ -63,15 +108,15 @@
           "time_info": "08时04分"
         },
         {
-          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
-          "source": "澎湃新闻",
+          "title": "据福克斯新闻：美国参议院将于美东时间上午11点进行程序性投票，谴责特朗普政府在委内瑞拉问题上的政策。",
+          "url": "https://flash.jin10.com/detail/20260108084454388800",
+          "source": "金十数据",
           "ranks": [
-            16
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时04分"
+          "time_info": "09时31分"
         },
         {
           "title": "消息人士和当地媒体称，美国总统特朗普与哥伦比亚总统于周三进行了通话。",
@@ -151,15 +196,15 @@
           "time_info": "08时04分"
         },
         {
-          "title": "特朗普质疑北约在美需要时会否支持",
-          "url": "https://www.toutiao.com/trending/7592647574625075243/",
-          "source": "今日头条",
+          "title": "“美联储传声筒”Nick Timiraos表示，大多数（美国）独栋住宅租赁物业由小型房东持有或管理。过去几年间，机构投资者仅占购房总量的约百分之一。此前特朗普称将禁止华尔街投资独栋住宅。",
+          "url": "https://flash.jin10.com/detail/20260108082813595800",
+          "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时04分"
+          "time_info": "09时31分"
         },
         {
           "title": "英国方面表示，英国首相斯塔默于今晚与美国总统特朗普通话，并阐述了其在格陵兰岛问题上的立场。",
@@ -187,8 +232,31 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "怕清算?伊朗领袖携950亿开溜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348752&amp;topic_name=%E6%80%95%E6%B8%85%E7%AE%97%3F%E4%BC%8A%E6%9C%97%E9%A2%86%E8%A2%96%E6%90%BA950%E4%BA%BF%E5%BC%80%E6%BA%9C",
+          "source": "贴吧",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 09时31分]"
+        },
+        {
+          "title": "伊朗德黑兰局势暂缓 大巴扎复市",
+          "url": "https://www.toutiao.com/trending/7592247328158253082/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 09时31分]"
+        },
         {
           "title": "伊朗",
           "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=17&Refer=top",
@@ -232,17 +300,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "怕清算?伊朗领袖携950亿开溜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348752&amp;topic_name=%E6%80%95%E6%B8%85%E7%AE%97%3F%E4%BC%8A%E6%9C%97%E9%A2%86%E8%A2%96%E6%90%BA950%E4%BA%BF%E5%BC%80%E6%BA%9C",
-          "source": "贴吧",
+          "title": "OpenAI设立500亿美元员工股票奖励池。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3032785",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价已在历史高位 央行为何还在买",
+          "url": "https://www.toutiao.com/trending/7592763349536869894/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 09时31分]"
         }
       ]
     },
@@ -255,11 +347,12 @@
           "url": "https://wallstreetcn.com/articles/3762734",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 09时31分]"
         }
       ]
     },
@@ -272,11 +365,12 @@
           "url": "https://www.cls.cn/detail/2251170",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 09时31分]"
         }
       ]
     }
