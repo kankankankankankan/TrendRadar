@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T18:02:53.103237+08:00",
-  "total_titles_processed": 1285,
+  "generated_at": "2026-01-09T19:03:40.859572+08:00",
+  "total_titles_processed": 1388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 91,
+      "match_count": 92,
       "titles": [
         {
           "title": "崔天凯：特朗普退出66个国际组织求“破”，中方应以“立”为主",
@@ -24,6 +24,31 @@
           "time_info": "[10时37分 ~ 18时02分]"
         },
         {
+          "title": "特朗普放话“我不需要国际法”",
+          "url": "https://news.ifeng.com/c/8plmHsoaK5L",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时31分 ~ 19时03分]"
+        },
+        {
+          "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
+          "url": "https://wallstreetcn.com/articles/3762899",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时31分 ~ 19时03分]"
+        },
+        {
           "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
           "url": "https://wallstreetcn.com/articles/3762893",
           "source": "华尔街见闻",
@@ -34,8 +59,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时37分 ~ 18时02分]"
+          "appearance_count": 11,
+          "time_info": "[10时37分 ~ 19时03分]"
         },
         {
           "title": "特朗普：美联储主席人选已定，但我暂时不想说",
@@ -49,31 +74,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时31分 ~ 15时05分]"
-        },
-        {
-          "title": "特朗普放话“我不需要国际法”",
-          "url": "https://news.ifeng.com/c/8plmHsoaK5L",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时31分 ~ 18时02分]"
-        },
-        {
-          "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
-          "url": "https://wallstreetcn.com/articles/3762899",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时31分 ~ 18时02分]"
         },
         {
           "title": "一图看懂｜特朗普一口气退出了哪66个国际组织？",
@@ -120,6 +120,33 @@
           "time_info": "[08时04分 ~ 15时05分]"
         },
         {
+          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1992865566088721749",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15,
+            14,
+            11,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时05分 ~ 19时03分]"
+        },
+        {
+          "title": "中方回应特朗普涉台言论：解决台湾问题是中国人自己的事",
+          "url": "https://www.cls.cn/detail/2252966",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时05分 ~ 19时03分]"
+        },
+        {
           "title": "特朗普“炮轰”美国军火商",
           "url": "https://news.ifeng.com/c/8pkhjJcbtz4",
           "source": "凤凰网",
@@ -131,15 +158,15 @@
           "time_info": "[08时04分 ~ 13时06分]"
         },
         {
-          "title": "中方回应特朗普涉台言论：解决台湾问题是中国人自己的事",
-          "url": "https://www.cls.cn/detail/2252966",
-          "source": "财联社热门",
+          "title": "特朗普：取消对委内瑞拉第二波打击",
+          "url": "https://news.ifeng.com/c/8pmFjAsY9wc",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时05分 ~ 18时02分]"
+          "time_info": "[18时02分 ~ 19时03分]"
         },
         {
           "title": "特朗普放话必须“拥有”整个格陵兰 欧盟高官：“极其令人担忧”",
@@ -155,21 +182,6 @@
           "time_info": "[11时31分 ~ 17时05分]"
         },
         {
-          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1992865566088721749",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15,
-            14,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时05分 ~ 18时02分]"
-        },
-        {
           "title": "观察｜特朗普势在必得格陵兰岛，欧洲还能争取何种“交易”？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32342597",
           "source": "澎湃新闻",
@@ -182,17 +194,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时31分 ~ 16时02分]"
-        },
-        {
-          "title": "特朗普：取消对委内瑞拉第二波打击",
-          "url": "https://news.ifeng.com/c/8pmFjAsY9wc",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
         },
         {
           "title": "特朗普称必须拥有整个格陵兰 芝商所再度上调贵金属期货保证金 | 环球市场",
@@ -236,7 +237,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -260,7 +261,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -300,6 +301,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时05分 ~ 16时02分]"
+        },
+        {
+          "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
+          "url": "https://news.ifeng.com/c/8pm6HIDB94W",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 19时03分]"
         },
         {
           "title": "特朗普：密切关注伊朗抗议活动。",
@@ -387,17 +399,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时37分 ~ 11时31分]"
-        },
-        {
-          "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
-          "url": "https://news.ifeng.com/c/8pm6HIDB94W",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 18时02分]"
         },
         {
           "title": "特朗普一口气退出了哪66个国际组织？",
@@ -493,6 +494,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时31分 ~ 12时16分]"
+        },
+        {
+          "title": "外交部回应特朗普涉台言论",
+          "url": "https://www.douyin.com/hot/2362093",
+          "source": "抖音",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时03分]"
         },
         {
           "title": "美国总统特朗普：委内瑞拉反对派领袖马查多将于下周到来。",
@@ -609,7 +622,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -642,7 +655,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -664,7 +677,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -763,7 +776,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -774,7 +787,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -785,7 +798,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -801,15 +814,15 @@
           "time_info": "09时31分"
         },
         {
-          "title": "外交部回应特朗普涉台言论",
-          "url": "https://www.douyin.com/hot/2362093",
-          "source": "抖音",
+          "title": "特朗普称取消对委第二波军事打击",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%96%E6%B6%88%E5%AF%B9%E5%A7%94%E7%AC%AC%E4%BA%8C%E6%B3%A2%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时02分"
+          "time_info": "19时03分"
         },
         {
           "title": "特朗普称取消对委内瑞拉第二波打击",
@@ -818,7 +831,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -829,7 +842,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -851,7 +864,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -884,7 +897,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -1154,6 +1167,20 @@
           "time_info": "17时05分"
         },
         {
+          "title": "伊朗大范围断网，澳大利亚曾发警告，要求其公民尽快离伊，大规模断网是什么原因？如何解读当前伊朗局势？",
+          "url": "https://www.zhihu.com/question/1992897642179552544",
+          "source": "知乎",
+          "ranks": [
+            14,
+            12,
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 19时03分]"
+        },
+        {
           "title": "媒体称伊朗抗议席卷全国一半省份，至少 36 人死亡，一旦伊朗失控谁是背后赢家？谁失利？",
           "url": "https://www.zhihu.com/question/1992559906939696772",
           "source": "知乎",
@@ -1180,19 +1207,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时31分 ~ 11时31分]"
-        },
-        {
-          "title": "伊朗大范围断网，澳大利亚曾发警告，要求其公民尽快离伊，大规模断网是什么原因？如何解读当前伊朗局势？",
-          "url": "https://www.zhihu.com/question/1992897642179552544",
-          "source": "知乎",
-          "ranks": [
-            14,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 18时02分]"
         },
         {
           "title": "伊朗大范围断网",
@@ -1237,7 +1251,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -1259,7 +1273,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -1270,7 +1284,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -1281,7 +1295,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         }
@@ -1298,7 +1312,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -1355,7 +1369,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -1406,8 +1420,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时04分 ~ 18时02分]"
+          "appearance_count": 13,
+          "time_info": "[08时04分 ~ 19时03分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 军工股全线走强 阿里巴巴涨超5%",
@@ -1459,8 +1473,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时37分 ~ 18时02分]"
+          "appearance_count": 11,
+          "time_info": "[10时37分 ~ 19时03分]"
         },
         {
           "title": "黄金成全球最大储备资产，30年来首次超越美债！",
@@ -1471,8 +1485,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时16分 ~ 18时02分]"
+          "appearance_count": 8,
+          "time_info": "[12时16分 ~ 19时03分]"
         },
         {
           "title": "机构：美债市场波动率降至四年最低，经济不确定性因素减弱",
@@ -1554,7 +1568,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         }
