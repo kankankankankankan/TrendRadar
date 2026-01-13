@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T22:04:48.254513+08:00",
-  "total_titles_processed": 1647,
+  "generated_at": "2026-01-13T23:04:18.189462+08:00",
+  "total_titles_processed": 1762,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普：对伊朗的贸易伙伴征收25%关税",
@@ -55,6 +55,19 @@
           "time_info": "[11时30分 ~ 16时02分]"
         },
         {
+          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
+          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时02分 ~ 23时04分]"
+        },
+        {
           "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
           "url": "https://wallstreetcn.com/articles/3763132",
           "source": "华尔街见闻",
@@ -67,21 +80,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[09时30分 ~ 22时04分]"
-        },
-        {
-          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
-          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时02分 ~ 22时04分]"
+          "appearance_count": 22,
+          "time_info": "[09时30分 ~ 23时04分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
@@ -94,8 +94,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[09时30分 ~ 22时04分]"
+          "appearance_count": 22,
+          "time_info": "[09时30分 ~ 23时04分]"
         },
         {
           "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
@@ -134,8 +134,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[09时30分 ~ 22时04分]"
+          "appearance_count": 22,
+          "time_info": "[09时30分 ~ 23时04分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税",
@@ -165,6 +165,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[09时30分 ~ 16时02分]"
+        },
+        {
+          "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
+          "url": "https://news.ifeng.com/c/8psqYtTK9Dp",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时02分 ~ 23时04分]"
         },
         {
           "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
@@ -202,17 +213,6 @@
           "time_info": "[10时36分 ~ 15时05分]"
         },
         {
-          "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
-          "url": "https://news.ifeng.com/c/8psqYtTK9Dp",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时02分 ~ 22时04分]"
-        },
-        {
           "title": "特朗普转发“鲁比奥将成为古巴总统”帖子：听起来不错",
           "url": "https://news.ifeng.com/c/8pr1vFKruDQ",
           "source": "凤凰网",
@@ -241,7 +241,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -349,6 +349,17 @@
           "time_info": "18时02分"
         },
         {
+          "title": "WTI原油日内涨幅达3.0%，报61.1美元/桶。美国总统特朗普取消与伊朗的会议（安排）。",
+          "url": "https://wallstreetcn.com/livenews/3036257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "美国两州起诉特朗普政府",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%B7%9E%E8%B5%B7%E8%AF%89%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C",
           "source": "bilibili 热搜",
@@ -410,7 +421,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -446,6 +457,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "特朗普称赞12月通胀数据 “鲍威尔应该大幅降息”",
+          "url": "https://flash.jin10.com/detail/20260113223113414800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "特朗普称将对伊朗商业伙伴加征25%关税",
@@ -503,6 +525,17 @@
           "time_info": "08时04分"
         },
         {
+          "title": "美国总统特朗普称赞12月通胀数据，称美联储主席鲍威尔应该降息。",
+          "url": "https://flash.jin10.com/detail/20260113222925966800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "美国总统特朗普：微软本周起将进行重大变革，以确保美国民众不必以更高的水电费账单来为其电力消耗买单。政府正与美国主要科技公司合作，以确保它们对美国人民的承诺。",
           "url": "https://flash.jin10.com/detail/20260113074204183800",
           "source": "金十数据",
@@ -523,6 +556,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "特朗普的石油“变脸记”",
+          "url": "https://www.toutiao.com/trending/7593644852442054699/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "面对特朗普挑战，哈佛国际新生仍创2002年以来新高",
@@ -558,6 +602,17 @@
           "time_info": "20时02分"
         },
         {
+          "title": "特朗普：鲍威尔应该降息。",
+          "url": "https://wallstreetcn.com/livenews/3036236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "特朗普称数据中心用电成本不应转嫁给消费者",
           "url": "https://flash.jin10.com/detail/20260113083208740800",
           "source": "金十数据",
@@ -583,7 +638,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 47,
+      "match_count": 52,
       "titles": [
         {
           "title": "伊朗发动支持政府集会，民众：我们绝不会抛弃哈梅内伊",
@@ -638,20 +693,16 @@
           "time_info": "[09时30分 ~ 16时02分]"
         },
         {
-          "title": "外交部回应伊朗局势",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF",
-          "source": "bilibili 热搜",
+          "title": "伊朗议长：若美“误判”形势，美基地将遭打击",
+          "url": "https://news.ifeng.com/c/8psvSf2W4qr",
+          "source": "凤凰网",
           "ranks": [
-            1,
-            4,
-            11,
-            7,
-            8,
-            15
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时02分 ~ 22时04分]"
+          "appearance_count": 7,
+          "time_info": "[19时02分 ~ 23时04分]"
         },
         {
           "title": "外交部回应伊朗局势",
@@ -664,6 +715,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[17时05分 ~ 22时04分]"
+        },
+        {
+          "title": "外交部回应伊朗局势",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            4,
+            11,
+            7,
+            8,
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时02分 ~ 23时04分]"
         },
         {
           "title": "中方回应美对伊朗贸易伙伴加税25%",
@@ -679,16 +747,23 @@
           "time_info": "[16时02分 ~ 21时16分]"
         },
         {
-          "title": "伊朗议长：若美“误判”形势，美基地将遭打击",
-          "url": "https://news.ifeng.com/c/8psvSf2W4qr",
-          "source": "凤凰网",
+          "title": "美国国务院要求美国公民立即离开伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32373300",
+          "source": "澎湃新闻",
           "ranks": [
-            2,
-            3
+            16,
+            14,
+            12,
+            11,
+            10,
+            8,
+            7,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时02分 ~ 22时04分]"
+          "appearance_count": 20,
+          "time_info": "[10时36分 ~ 23时04分]"
         },
         {
           "title": "美国、法国开始从伊朗撤离人员，伊朗当前的局势到底有多严峻？是否是军事行动的前兆？",
@@ -702,8 +777,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时30分 ~ 22时04分]"
+          "appearance_count": 19,
+          "time_info": "[11时30分 ~ 23时04分]"
         },
         {
           "title": "伊朗外长：伊朗安全部队已控制全国局势",
@@ -719,24 +794,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[08时03分 ~ 16时02分]"
-        },
-        {
-          "title": "美国国务院要求美国公民立即离开伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32373300",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            12,
-            11,
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[10时36分 ~ 22时04分]"
         },
         {
           "title": "伊朗外长：伊朗不寻求战争，但已做好战争准备",
@@ -772,7 +829,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -786,6 +843,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
+        },
+        {
+          "title": "伊朗军队司令：伊朗作战能力较以伊冲突前明显增强",
+          "url": "https://flash.jin10.com/detail/20260113223705138800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "伊朗议长：若美“误判”形势 美基地将遭打击",
@@ -962,6 +1030,28 @@
           "time_info": "14时02分"
         },
         {
+          "title": "英国外交大臣库珀就伊朗问题表态：已召见伊朗大使。",
+          "url": "https://flash.jin10.com/detail/20260113223505210800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "英国外交大臣库珀就伊朗问题表示：敦促伊朗停止暴力。",
+          "url": "https://flash.jin10.com/detail/20260113223459169800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "法国撤离驻伊朗使馆非必要人员",
           "url": "https://wallstreetcn.com/livenews/3035680",
           "source": "华尔街见闻-快讯",
@@ -995,6 +1085,17 @@
           "time_info": "14时02分"
         },
         {
+          "title": "伊朗称在德黑兰继续拘捕骚乱相关组织者",
+          "url": "https://wallstreetcn.com/livenews/3036253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "伊朗称访问互联网将继续受限",
           "url": "https://wallstreetcn.com/livenews/3035671",
           "source": "华尔街见闻-快讯",
@@ -1026,6 +1127,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
+        },
+        {
+          "title": "伊朗军队司令：伊朗作战能力较以伊冲突前明显增强",
+          "url": "https://wallstreetcn.com/livenews/3036243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "伊朗官员：伊朗抗议活动中约有2000人丧生，其中包括安全人员，这些死亡是“恐怖分子”造成的。",
@@ -1152,7 +1264,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股收盘：三大指数小幅收涨 金龙指数飙升逾4% 阿里巴巴大涨10%",
@@ -1242,7 +1354,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -1269,6 +1381,28 @@
           "time_info": "20时02分"
         },
         {
+          "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银站上87美元，伊朗局势提振油价",
+          "url": "https://wallstreetcn.com/articles/3763167",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异，能源业ETF涨1.27%，网络股指数ETF涨0.58%，半导体ETF涨0.42%，科技行业ETF涨幅不到0.1%，银行业ETF跌超0.2%，金融业ETF跌0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3036251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "美股盘前，英特尔涨超2%，AMD涨超1%；部分热门中概股走低，百度跌超3%、小鹏汽车跌超2%。",
           "url": "https://wallstreetcn.com/livenews/3035989",
           "source": "华尔街见闻-快讯",
@@ -1289,6 +1423,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
+        },
+        {
+          "title": "美国核心CPI低于预期，美股三大股指接近平开。矿业股走强，金田(GFI.N)涨2.2%、科尔黛伦矿业(CDE.N)涨0.97%、泛美白银(PAAS.O)涨0.7%。纳斯达克中国金龙指数跌1%，拼多多(PDD.O)跌超5%。",
+          "url": "https://flash.jin10.com/detail/20260113223034874800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "美股三大指数收涨 金龙指数涨超4%",
@@ -1316,8 +1461,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[08时03分 ~ 22时04分]"
+          "appearance_count": 24,
+          "time_info": "[08时03分 ~ 23时04分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -1330,8 +1475,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[09时30分 ~ 22时04分]"
+          "appearance_count": 22,
+          "time_info": "[09时30分 ~ 23时04分]"
         },
         {
           "title": "金银再创历史新高 谷歌市值首破4万亿美元 | 环球市场",
@@ -1372,6 +1517,18 @@
           "time_info": "[10时36分 ~ 15时05分]"
         },
         {
+          "title": "UP主锐评苹果谷歌合作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时15分 ~ 23时04分]"
+        },
+        {
           "title": "苹果接入Gemini模型想做啥",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%8E%A5%E5%85%A5Gemini%E6%A8%A1%E5%9E%8B%E6%83%B3%E5%81%9A%E5%95%A5",
           "source": "bilibili 热搜",
@@ -1382,18 +1539,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时05分 ~ 16时02分]"
-        },
-        {
-          "title": "UP主锐评苹果谷歌合作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时15分 ~ 22时04分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -1426,8 +1571,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时30分 ~ 22时04分]"
+          "appearance_count": 19,
+          "time_info": "[11时30分 ~ 23时04分]"
         },
         {
           "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
@@ -1438,8 +1583,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时05分 ~ 22时04分]"
+          "appearance_count": 10,
+          "time_info": "[17时05分 ~ 23时04分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文",
@@ -1529,7 +1674,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         }
@@ -1582,7 +1727,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         }
