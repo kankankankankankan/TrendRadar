@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T09:31:23.984485+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-01-14T10:41:41.774816+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
@@ -15,8 +15,20 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 10时41分]"
+        },
+        {
+          "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
+          "url": "https://www.cls.cn/detail/2256844",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时04分 ~ 09时31分]"
+          "time_info": "[09时31分 ~ 10时41分]"
         },
         {
           "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
@@ -39,17 +51,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
-        },
-        {
-          "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
-          "url": "https://www.cls.cn/detail/2256844",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时31分"
         },
         {
           "title": "美国总统特朗普：我无法左右鲍威尔调查的走向。 鲍威尔设定的利率太高了。",
@@ -80,9 +81,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "特朗普建议盟友“撤离”伊朗",
+          "url": "https://www.cls.cn/detail/2256898",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
         },
         {
           "title": "据AXIOS网站：特朗普今晚从底特律返回后，参加了由副总统万斯主持、国家安全核心团队出席的伊朗问题会议。知情人士透露，特朗普听取了有关伊朗局势的简报。",
@@ -91,7 +103,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -102,7 +114,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -113,7 +125,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -146,7 +158,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -157,7 +169,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -171,12 +183,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "特朗普在福特汽车工厂疑似对人竖中指",
+          "url": "https://www.toutiao.com/trending/7594053201494999081/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "关系高度紧张，美军在伊朗附近集结多少兵力？",
@@ -186,8 +209,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 09时31分]"
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 10时41分]"
         },
         {
           "title": "伊朗议长：若美“误判”形势，美基地将遭打击",
@@ -197,8 +220,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 09时31分]"
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 10时41分]"
         },
         {
           "title": "美政府第二次警告：立即离开伊朗！",
@@ -217,11 +240,45 @@
           "source": "bilibili 热搜",
           "ranks": [
             25,
-            12
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 10时41分]"
+        },
+        {
+          "title": "美国会对伊朗动武吗",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时04分 ~ 09时31分]"
+          "time_info": "[09时31分 ~ 10时41分]"
+        },
+        {
+          "title": "中方回应“是否建议公民去伊朗”",
+          "url": "https://www.douyin.com/hot/2366959",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "美法两国开始从伊朗撤人，如何看待这一举动？",
+          "url": "https://www.zhihu.com/question/1994353599640270638",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
         },
         {
           "title": "英国：将对伊朗实施全面进一步制裁",
@@ -279,24 +336,13 @@
           "time_info": "08时04分"
         },
         {
-          "title": "美国会对伊朗动武吗",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
           "title": "中信证券：伊朗骚乱事件下，中东局势将走向何方？",
           "url": "https://flash.jin10.com/detail/20260114082105284800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -307,7 +353,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         }
@@ -365,8 +411,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 09时31分]"
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 10时41分]"
         },
         {
           "title": "梁文锋新论文剧透下一代模型",
@@ -377,8 +423,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 09时31分]"
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 10时41分]"
         }
       ]
     },
@@ -394,8 +440,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 09时31分]"
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 10时41分]"
         },
         {
           "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
@@ -406,8 +452,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 09时31分]"
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 10时41分]"
         }
       ]
     },
@@ -423,8 +469,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 09时31分]"
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 10时41分]"
         }
       ]
     }
