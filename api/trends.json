@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T13:05:09.056028+08:00",
-  "total_titles_processed": 778,
+  "generated_at": "2026-01-16T14:02:50.088651+08:00",
+  "total_titles_processed": 847,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时04分 ~ 13时05分]"
+          "appearance_count": 9,
+          "time_info": "[08时04分 ~ 14时02分]"
         },
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时04分 ~ 13时05分]"
+          "appearance_count": 9,
+          "time_info": "[08时04分 ~ 14时02分]"
         },
         {
           "title": "她给特朗普献了份大礼，诺奖气坏了",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时31分 ~ 13时05分]"
+          "appearance_count": 8,
+          "time_info": "[09时31分 ~ 14时02分]"
         },
         {
           "title": "特朗普暂缓对伊朗动武决定",
@@ -48,8 +48,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时30分 ~ 13时05分]"
+          "appearance_count": 6,
+          "time_info": "[11时30分 ~ 14时02分]"
         },
         {
           "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
@@ -61,8 +61,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时04分 ~ 13时05分]"
+          "appearance_count": 9,
+          "time_info": "[08时04分 ~ 14时02分]"
         },
         {
           "title": "特朗普：我会去委内瑞拉，委代总统将访美",
@@ -123,6 +123,17 @@
           "time_info": "[12时16分 ~ 13时05分]"
         },
         {
+          "title": "特朗普暂缓对伊朗动武决定",
+          "url": "https://www.douyin.com/hot/2369152",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时04分 ~ 14时02分]"
+        },
+        {
           "title": "邀记者畅饮放了5天的牛奶，特朗普：还挺新鲜的",
           "url": "https://m.thepaper.cn/newsDetail_forward_32392145",
           "source": "澎湃新闻",
@@ -134,17 +145,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时04分 ~ 10时38分]"
-        },
-        {
-          "title": "特朗普暂缓对伊朗动武决定",
-          "url": "https://www.douyin.com/hot/2369152",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 13时05分]"
         },
         {
           "title": "俄回应特朗普对伊朗贸易伙伴加税",
@@ -509,8 +509,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时04分 ~ 13时05分]"
+          "appearance_count": 9,
+          "time_info": "[08时04分 ~ 14时02分]"
         },
         {
           "title": "王毅同伊朗外长通电话",
@@ -519,11 +519,12 @@
           "ranks": [
             5,
             7,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时04分 ~ 13时05分]"
+          "appearance_count": 9,
+          "time_info": "[08时04分 ~ 14时02分]"
         },
         {
           "title": "王毅同伊朗外长阿拉格齐通电话",
@@ -536,8 +537,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时04分 ~ 13时05分]"
+          "appearance_count": 9,
+          "time_info": "[08时04分 ~ 14时02分]"
         },
         {
           "title": "伊朗民众据报抢购物资，卫星天线疑被拆走",
@@ -547,8 +548,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时31分 ~ 13时05分]"
+          "appearance_count": 8,
+          "time_info": "[09时31分 ~ 14时02分]"
         },
         {
           "title": "美国财政部对伊朗实施新制裁 马士基宣布将恢复红海航线 | 环球市场",
@@ -559,8 +560,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时38分 ~ 13时05分]"
+          "appearance_count": 7,
+          "time_info": "[10时38分 ~ 14时02分]"
         },
         {
           "title": "中方呼吁美方对伊朗放下武力执念",
@@ -570,11 +571,12 @@
             12,
             18,
             20,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时38分 ~ 13时05分]"
+          "appearance_count": 7,
+          "time_info": "[10时38分 ~ 14时02分]"
         },
         {
           "title": "新西兰驻伊朗大使馆因“安全形势恶化”暂时关闭",
@@ -706,11 +708,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时38分 ~ 13时05分]"
+          "appearance_count": 4,
+          "time_info": "[10时38分 ~ 14时02分]"
         },
         {
           "title": "马斯克诉OpenAI案将进入陪审团审判",
@@ -748,8 +751,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时04分 ~ 13时05分]"
+          "appearance_count": 9,
+          "time_info": "[08时04分 ~ 14时02分]"
         },
         {
           "title": "美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨",
@@ -764,6 +767,18 @@
           "time_info": "[08时04分 ~ 13时05分]"
         },
         {
+          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
+          "url": "https://www.cls.cn/detail/2259861",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时04分 ~ 14时02分]"
+        },
+        {
           "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2259424",
           "source": "财联社热门",
@@ -774,17 +789,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时04分 ~ 10时38分]"
-        },
-        {
-          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
-          "url": "https://www.cls.cn/detail/2259861",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 13时05分]"
         }
       ]
     },
