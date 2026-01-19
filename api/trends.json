@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T22:06:42.819120+08:00",
-  "total_titles_processed": 1614,
+  "generated_at": "2026-01-19T23:05:06.354059+08:00",
+  "total_titles_processed": 1698,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 74,
+      "match_count": 76,
       "titles": [
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[08时04分 ~ 22时06分]"
+          "appearance_count": 22,
+          "time_info": "[08时04分 ~ 23时05分]"
         },
         {
           "title": "【早报】中国商业航天首次！载人飞船着陆缓冲技术获成功验证；特朗普再打“关税牌”，欧盟多国：正考虑反制",
@@ -44,8 +44,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时21分 ~ 22时06分]"
+          "appearance_count": 17,
+          "time_info": "[12时21分 ~ 23时05分]"
         },
         {
           "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
@@ -59,6 +59,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[08时04分 ~ 14时04分]"
+        },
+        {
+          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
+          "url": "https://wallstreetcn.com/articles/3763556",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时07分 ~ 23时05分]"
         },
         {
           "title": "异军突起！周四与特朗普会面顺利，贝莱德的里德尔竞选美联储主席呼声渐起",
@@ -83,20 +97,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[10时42分 ~ 15时08分]"
-        },
-        {
-          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
-          "url": "https://wallstreetcn.com/articles/3763556",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时07分 ~ 22时06分]"
         },
         {
           "title": "伊朗：将追究特朗普等人责任",
@@ -143,17 +143,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
-        },
-        {
-          "title": "欧盟将召开紧急峰会应对特朗普“夺岛”关税",
-          "url": "https://wallstreetcn.com/livenews/3039803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
         },
         {
           "title": "专家：若特朗普对欧关税威胁落实，欧盟将集体反击美国",
@@ -211,6 +200,17 @@
           "time_info": "08时04分"
         },
         {
+          "title": "分析师：若特朗普任命过于听话的美联储主席，债市将迅速惩罚美国",
+          "url": "https://wallstreetcn.com/livenews/3039827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
           "title": "德国政府发言人：不认同美国总统特朗普的和平委员会会削弱联合国的担忧。",
           "url": "https://flash.jin10.com/detail/20260119184647494800",
           "source": "金十数据",
@@ -243,6 +243,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时17分 ~ 22时06分]"
+        },
+        {
+          "title": "欧盟将召开紧急峰会应对特朗普“夺岛”关税",
+          "url": "https://wallstreetcn.com/livenews/3039803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 23时05分]"
         },
         {
           "title": "特朗普：北约20年来一直告诉丹麦，“你必须让俄罗斯的威胁远离格陵兰岛”。 丹麦在应对俄罗斯威胁方面无能为力。 现在是时候了，一定会采取行动！",
@@ -607,7 +619,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -695,7 +707,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -717,7 +729,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -742,6 +754,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
+        },
+        {
+          "title": "欧洲官员：特朗普希望在周四签署加沙协议。",
+          "url": "https://wallstreetcn.com/livenews/3039809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "民调发现特朗普提升了中国全球影响力",
@@ -857,7 +880,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊朗总统：袭击最高领袖等同全面战争",
@@ -971,6 +994,17 @@
           "time_info": "16时03分"
         },
         {
+          "title": "伊朗媒体说骚乱已致3700余人受伤",
+          "url": "https://wallstreetcn.com/livenews/3039822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
           "title": "世界经济论坛：伊朗外交部长将不会出席达沃斯论坛。",
           "url": "https://flash.jin10.com/detail/20260119161705297800",
           "source": "金十数据",
@@ -1036,11 +1070,12 @@
           "url": "https://wallstreetcn.com/articles/3763546",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时17分 ~ 22时06分]"
+          "appearance_count": 4,
+          "time_info": "[21时17分 ~ 23时05分]"
         },
         {
           "title": "格陵兰引发美欧关税战风险，欧美股指期货齐跌，金银再创新高，铜价逼近13000",
@@ -1128,6 +1163,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "报道：过去一年谷歌Gemini模型授权业务规模实现爆发式增长",
+          "url": "https://wallstreetcn.com/livenews/3039830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
+          "title": "谷歌的Gemini业务销售额预计将飙升",
+          "url": "https://flash.jin10.com/detail/20260119221021907800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         }
       ]
     },
