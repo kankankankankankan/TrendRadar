@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T13:07:52.701650+08:00",
-  "total_titles_processed": 818,
+  "generated_at": "2026-01-21T14:03:38.469511+08:00",
+  "total_titles_processed": 910,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "一图看懂｜特朗普发持星条旗登岛图，格陵兰岛的战略价值在哪",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时04分 ~ 13时07分]"
+          "appearance_count": 9,
+          "time_info": "[08时04分 ~ 14时03分]"
         },
         {
           "title": "特朗普和马克龙，直接开干了",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时04分 ~ 13时07分]"
+          "appearance_count": 9,
+          "time_info": "[08时04分 ~ 14时03分]"
         },
         {
           "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时04分 ~ 13时07分]"
+          "appearance_count": 9,
+          "time_info": "[08时04分 ~ 14时03分]"
         },
         {
           "title": "“拿地”的诱惑：格陵兰岛替代方案全否定，特朗普想要的是产权",
@@ -84,8 +84,35 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时31分 ~ 13时07分]"
+          "appearance_count": 5,
+          "time_info": "[11时31分 ~ 14时03分]"
+        },
+        {
+          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
+          "url": "https://wallstreetcn.com/articles/3763739",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时38分 ~ 14时03分]"
+        },
+        {
+          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时38分 ~ 14时03分]"
         },
         {
           "title": "特朗普重返白宫一周年，过半美国民众：表现失败",
@@ -97,18 +124,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时38分 ~ 10时39分]"
-        },
-        {
-          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
-          "url": "https://wallstreetcn.com/articles/3763739",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时38分 ~ 13时07分]"
         },
         {
           "title": "据华尔街日报：美国官员表示，尽管上周已撤回对伊朗的打击计划，但特朗普仍在要求幕僚提供他所谓的“决定性”军事选项。",
@@ -136,20 +151,6 @@
         },
         {
           "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时38分 ~ 13时07分]"
-        },
-        {
-          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
           "url": "https://news.ifeng.com/c/8q5TLuwIzXC",
           "source": "凤凰网",
           "ranks": [
@@ -158,6 +159,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "马克龙在达沃斯喊话特朗普",
+          "url": "https://www.douyin.com/hot/2374693",
+          "source": "抖音",
+          "ranks": [
+            9,
+            11,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 14时03分]"
         },
         {
           "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
@@ -183,6 +197,18 @@
           "time_info": "[11时31分 ~ 12时19分]"
         },
         {
+          "title": "暗示动武？特朗普：若关税工具受限 可采用其他手段夺取格陵兰岛！",
+          "url": "https://www.cls.cn/detail/2264363",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时38分 ~ 14时03分]"
+        },
+        {
           "title": "雪佛龙在纠结：如何能迎合特朗普，又避免在委内瑞拉亏钱",
           "url": "https://news.ifeng.com/c/8q4peEzXW4m",
           "source": "凤凰网",
@@ -206,28 +232,17 @@
           "time_info": "[11时31分 ~ 12时19分]"
         },
         {
-          "title": "马克龙在达沃斯喊话特朗普",
-          "url": "https://www.douyin.com/hot/2374693",
+          "title": "特朗普晒马克龙私信",
+          "url": "https://www.douyin.com/hot/2374658",
           "source": "抖音",
           "ranks": [
-            9,
-            11
+            21,
+            22,
+            26
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时18分 ~ 13时07分]"
-        },
-        {
-          "title": "暗示动武？特朗普：若关税工具受限 可采用其他手段夺取格陵兰岛！",
-          "url": "https://www.cls.cn/detail/2264363",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时38分 ~ 11时31分]"
+          "time_info": "[11时31分 ~ 14时03分]"
         },
         {
           "title": "纽森怒批特朗普：他就是个破坏王",
@@ -302,16 +317,27 @@
           "time_info": "[10时39分 ~ 11时31分]"
         },
         {
-          "title": "特朗普晒马克龙私信",
-          "url": "https://www.douyin.com/hot/2374658",
-          "source": "抖音",
+          "title": "特朗普发插旗图有何目的",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%8F%92%E6%97%97%E5%9B%BE%E6%9C%89%E4%BD%95%E7%9B%AE%E7%9A%84",
+          "source": "bilibili 热搜",
           "ranks": [
-            21,
-            22
+            10,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时31分 ~ 13时07分]"
+          "time_info": "[13时07分 ~ 14时03分]"
+        },
+        {
+          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 14时03分]"
         },
         {
           "title": "“关税之王”特朗普如何摧毁北约",
@@ -378,17 +404,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
-        },
-        {
-          "title": "特朗普发插旗图有何目的",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%8F%92%E6%97%97%E5%9B%BE%E6%9C%89%E4%BD%95%E7%9B%AE%E7%9A%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时07分"
         },
         {
           "title": "特朗普未软化格陵兰岛威胁引担忧，其达沃斯“秀场”或造成更大波动",
@@ -479,15 +494,15 @@
           "time_info": "12时19分"
         },
         {
-          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
-          "source": "澎湃新闻",
+          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
+          "url": "https://www.zhihu.com/question/1996540321803301777",
+          "source": "知乎",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时07分"
+          "time_info": "14时03分"
         },
         {
           "title": "美国总统特朗普：格陵兰岛将大大提高“金穹”系统的效能。在达沃斯期间可能会与欧洲达成某种解决方案。",
@@ -551,6 +566,17 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "国际金价逼近 4700 美元，国内金饰品克价迈向 1500 元，这意味着什么？",
+          "url": "https://www.zhihu.com/question/1996659800252118065",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时38分 ~ 14时03分]"
+        },
+        {
           "title": "瑞银：金价上半年或冲击5000美元",
           "url": "https://www.toutiao.com/trending/7597626980922330665/",
           "source": "今日头条",
@@ -573,27 +599,17 @@
           "time_info": "[08时04分 ~ 09时31分]"
         },
         {
-          "title": "国际金价逼近 4700 美元，国内金饰品克价迈向 1500 元，这意味着什么？",
-          "url": "https://www.zhihu.com/question/1996659800252118065",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时38分 ~ 13时07分]"
-        },
-        {
           "title": "如何看待深圳水贝市场开始炒 999.9 铜条？为什么金价一涨，其他贵金属都跟着受追捧？",
           "url": "https://www.zhihu.com/question/1996636704929502107",
           "source": "知乎",
           "ranks": [
             17,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时31分 ~ 13时07分]"
+          "appearance_count": 5,
+          "time_info": "[11时31分 ~ 14时03分]"
         },
         {
           "title": "金价",
@@ -657,8 +673,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时04分 ~ 13时07分]"
+          "appearance_count": 9,
+          "time_info": "[08时04分 ~ 14时03分]"
         },
         {
           "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
@@ -671,8 +687,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时04分 ~ 13时07分]"
+          "appearance_count": 9,
+          "time_info": "[08时04分 ~ 14时03分]"
         },
         {
           "title": "美债日债领跌！格陵兰危机与财政压力引发全球债市抛售潮",
@@ -680,11 +696,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时04分 ~ 13时07分]"
+          "appearance_count": 9,
+          "time_info": "[08时04分 ~ 14时03分]"
         },
         {
           "title": "法兴银行：三大因素塑造推动美债走势的 “完美风暴”",
@@ -744,8 +761,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时04分 ~ 13时07分]"
+          "appearance_count": 9,
+          "time_info": "[08时04分 ~ 14时03分]"
         },
         {
           "title": "美股收盘：关税阴影再度笼罩市场 三大指数集体大跌 纳指跌超2%",
@@ -756,8 +773,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时04分 ~ 13时07分]"
+          "appearance_count": 9,
+          "time_info": "[08时04分 ~ 14时03分]"
         },
         {
           "title": "【早报】欧美股市齐跌，英伟达、特斯拉跌逾4%；近期多家银行卫星上天",
@@ -769,8 +786,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时04分 ~ 13时07分]"
+          "appearance_count": 9,
+          "time_info": "[08时04分 ~ 14时03分]"
         },
         {
           "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
@@ -794,8 +811,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 13时07分]"
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 14时03分]"
         },
         {
           "title": "分析师：美股若因格陵兰岛问题下跌3%至5%，会令我感到惊讶",
@@ -812,7 +829,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI已开始向数十家广告商展示其全新的聊天机器人广告。OpenAI将于2月份正式推出聊天机器人广告，并将根据广告曝光量（浏览量）进行计费。（The Information）",
@@ -849,6 +866,17 @@
           "time_info": "12时19分"
         },
         {
+          "title": "盖茨基金会和OpenAI计划投资5000万美元 资助非洲AI医疗",
+          "url": "https://flash.jin10.com/detail/20260121131506452800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
           "title": "据华尔街日报：消息人士称，人工智能初创公司Thinking Machines（由前OpenAI员工创立）首席技术官Barret Zoph在披露与一名员工的关系后，其工作职责发生调整。Zoph在一次会议上表示自己正考虑离职并寻求更多权力后被解雇。Zoph及同事随后离职并重新加盟OpenAI。",
           "url": "https://flash.jin10.com/detail/20260121100758131800",
           "source": "金十数据",
@@ -872,11 +900,12 @@
           "ranks": [
             3,
             4,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时31分 ~ 13时07分]"
+          "appearance_count": 5,
+          "time_info": "[11时31分 ~ 14时03分]"
         },
         {
           "title": "DeepSeek新模型MODEL1曝光",
@@ -902,7 +931,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
         },
