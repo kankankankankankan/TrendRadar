@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T14:03:27.081022+08:00",
-  "total_titles_processed": 880,
+  "generated_at": "2026-01-22T15:06:51.793402+08:00",
+  "total_titles_processed": 983,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "【早报】特朗普重要表态：不用武力、暂缓加税；摩尔线程、天孚通信、德明利等发布业绩预告",
@@ -16,8 +16,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时04分 ~ 14时03分]"
+          "appearance_count": 11,
+          "time_info": "[08时04分 ~ 15时06分]"
+        },
+        {
+          "title": "特朗普大闹达沃斯，全世界哭笑不得",
+          "url": "https://news.ifeng.com/c/8q79notLxbw",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时31分 ~ 15时06分]"
         },
         {
           "title": "泽连斯基将出席达沃斯论坛并与特朗普会面",
@@ -32,17 +43,6 @@
           "time_info": "[08时04分 ~ 13时08分]"
         },
         {
-          "title": "特朗普大闹达沃斯，全世界哭笑不得",
-          "url": "https://news.ifeng.com/c/8q79notLxbw",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时31分 ~ 14时03分]"
-        },
-        {
           "title": "特朗普称“美国拥有无人知晓的武器”，克宫表态",
           "url": "https://news.ifeng.com/c/8q6QuYdigp1",
           "source": "凤凰网",
@@ -50,8 +50,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时31分 ~ 14时03分]"
+          "appearance_count": 9,
+          "time_info": "[09时31分 ~ 15时06分]"
+        },
+        {
+          "title": "全球市场深夜暴涨！特朗普，改口了",
+          "url": "https://finance.ifeng.com/c/8q6yeFE7hAX",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时31分 ~ 15时06分]"
         },
         {
           "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
@@ -62,19 +73,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时04分 ~ 14时03分]"
+          "appearance_count": 11,
+          "time_info": "[08时04分 ~ 15时06分]"
         },
         {
-          "title": "全球市场深夜暴涨！特朗普，改口了",
-          "url": "https://finance.ifeng.com/c/8q6yeFE7hAX",
-          "source": "凤凰网",
+          "title": "特朗普取消对欧洲8国加征关税：已与北约就格陵兰达成“框架性协议”",
+          "url": "https://www.cls.cn/detail/2265754",
+          "source": "财联社热门",
           "ranks": [
+            7,
+            4,
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时31分 ~ 14时03分]"
+          "appearance_count": 9,
+          "time_info": "[09时31分 ~ 15时06分]"
         },
         {
           "title": "格陵兰危机缓和？特朗普表态“软化”：将达成一个让北约“非常开心”的方案",
@@ -86,8 +99,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时04分 ~ 14时03分]"
+          "appearance_count": 11,
+          "time_info": "[08时04分 ~ 15时06分]"
         },
         {
           "title": "特朗普达沃斯演讲：格陵兰岛是美国核心安全利益，但美不会武力夺取，寻求立即谈判",
@@ -100,21 +113,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时04分 ~ 14时03分]"
+          "appearance_count": 11,
+          "time_info": "[08时04分 ~ 15时06分]"
         },
         {
-          "title": "特朗普取消对欧洲8国加征关税：已与北约就格陵兰达成“框架性协议”",
-          "url": "https://www.cls.cn/detail/2265754",
+          "title": "特朗普演绎“TACO星期三”！美国市场“雷阵雨转晴” 华尔街如何看？",
+          "url": "https://www.cls.cn/detail/2265890",
           "source": "财联社热门",
           "ranks": [
             7,
-            4,
-            5
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时31分 ~ 14时03分]"
+          "time_info": "[10时41分 ~ 15时06分]"
         },
         {
           "title": "特朗普要败诉？美最高法对罢免美联储理事库克态度谨慎，大法官警告“粉碎”央行独立性",
@@ -125,8 +138,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时04分 ~ 14时03分]"
+          "appearance_count": 11,
+          "time_info": "[08时04分 ~ 15时06分]"
         },
         {
           "title": "特朗普达沃斯演讲再提“收购格陵兰岛” 否认会动武强夺 现货黄金短线震荡",
@@ -141,19 +154,6 @@
           "time_info": "[08时04分 ~ 14时03分]"
         },
         {
-          "title": "特朗普演绎“TACO星期三”！美国市场“雷阵雨转晴” 华尔街如何看？",
-          "url": "https://www.cls.cn/detail/2265890",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时41分 ~ 14时03分]"
-        },
-        {
           "title": "特朗普称「和平委员会」可能取代联合国，「和平委员会」到底是什么？特朗普成立该机构的真实意图是什么？",
           "url": "https://www.zhihu.com/question/1997263966708196399",
           "source": "知乎",
@@ -164,8 +164,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时31分 ~ 14时03分]"
+          "appearance_count": 9,
+          "time_info": "[09时31分 ~ 15时06分]"
         },
         {
           "title": "特朗普再提收购格陵兰岛 奈飞绩后大跌超7% | 今夜看点",
@@ -189,8 +189,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时41分 ~ 14时03分]"
+          "appearance_count": 8,
+          "time_info": "[10时41分 ~ 15时06分]"
+        },
+        {
+          "title": "特朗普讽刺欧洲，瑞典首相站出来了",
+          "url": "https://news.ifeng.com/c/8q7HRYEmKHC",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时03分 ~ 15时06分]"
         },
         {
           "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
@@ -213,6 +224,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时04分 ~ 08时05分]"
+        },
+        {
+          "title": "观察｜夺岛风波中集体炮轰特朗普，欧洲这次真要硬刚美国？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32434094",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时31分 ~ 15时06分]"
         },
         {
           "title": "特朗普支持的格陵兰计划尊重丹麦主权。（AXIOS）",
@@ -246,30 +270,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
-        },
-        {
-          "title": "特朗普讽刺欧洲，瑞典首相站出来了",
-          "url": "https://news.ifeng.com/c/8q7HRYEmKHC",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "观察｜夺岛风波中集体炮轰特朗普，欧洲这次真要硬刚美国？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32434094",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时31分 ~ 14时03分]"
         },
         {
           "title": "拼中期选举 特朗普将“每周”登台演说经济政策",
@@ -331,6 +331,17 @@
           "time_info": "[08时04分 ~ 09时31分]"
         },
         {
+          "title": "“阻击”特朗普，国会横插一脚：中国用三流芯片都能击败我们",
+          "url": "https://news.ifeng.com/c/8q7ObeyfwPG",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时03分 ~ 15时06分]"
+        },
+        {
           "title": "特朗普收回对欧洲8国关税威胁",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%B6%E5%9B%9E%E5%AF%B9%E6%AC%A7%E6%B4%B28%E5%9B%BD%E5%85%B3%E7%A8%8E%E5%A8%81%E8%83%81%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -340,6 +351,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时04分 ~ 08时05分]"
+        },
+        {
+          "title": "不动武了、也不加税了！特朗普达沃斯上演“格陵兰TACO”",
+          "url": "https://wallstreetcn.com/articles/3763883",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时03分 ~ 15时06分]"
         },
         {
           "title": "北约秘书长回应与特朗普会晤",
@@ -408,17 +430,6 @@
           "time_info": "10时42分"
         },
         {
-          "title": "“阻击”特朗普，国会横插一脚：中国用三流芯片都能击败我们",
-          "url": "https://news.ifeng.com/c/8q7ObeyfwPG",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
           "title": "特朗普在达沃斯发表演讲",
           "url": "https://www.douyin.com/hot/2375622",
           "source": "抖音",
@@ -447,18 +458,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "不动武了、也不加税了！特朗普达沃斯上演“格陵兰TACO”",
-          "url": "https://wallstreetcn.com/articles/3763883",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -469,7 +469,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -513,7 +513,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -615,6 +615,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "特朗普批丹麦忘恩负义",
+          "url": "https://www.toutiao.com/trending/7597952939579408438/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
         }
       ]
     },
@@ -630,11 +641,12 @@
             6,
             12,
             13,
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时31分 ~ 14时03分]"
+          "appearance_count": 6,
+          "time_info": "[11时31分 ~ 15时06分]"
         },
         {
           "title": "高盛将2026年12月黄金价格预期上调500美元，至每盎司5400美元，原因是各国央行及交易所交易基金纷纷买入。",
@@ -685,8 +697,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时04分 ~ 14时03分]"
+          "appearance_count": 11,
+          "time_info": "[08时04分 ~ 15时06分]"
         },
         {
           "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
@@ -697,8 +709,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时31分 ~ 14时03分]"
+          "appearance_count": 9,
+          "time_info": "[09时31分 ~ 15时06分]"
         },
         {
           "title": "美股热门中概股多数上涨 百度涨超8%",
@@ -718,9 +730,48 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "凤凰直击丨伊朗骚乱后，数十辆被焚公交车只剩骨架",
+          "url": "https://news.ifeng.com/c/8q7RRrMZXA9",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时03分 ~ 15时06分]"
+        },
+        {
+          "title": "据耶路撒冷邮报：以色列国防部长卡茨今天将与以色列国防军高级官员举行形势评估，以应对与伊朗日益紧张的局势。会议将评估以色列在多种情境下的战备状态，包括伊朗可能对美国军事打击进行报复，进而将以色列本土作为攻击目标的可能性。",
+          "url": "https://flash.jin10.com/detail/20260122142255904800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "以媒：担心美国不日袭击伊朗 以色列提高警戒级别",
+          "url": "https://flash.jin10.com/detail/20260122074250280800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         }
       ]
     },
@@ -736,8 +787,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时04分 ~ 14时03分]"
+          "appearance_count": 11,
+          "time_info": "[08时04分 ~ 15时06分]"
         },
         {
           "title": "中信建投：美债的买点将至",
@@ -745,34 +796,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "凤凰直击丨伊朗骚乱后，数十辆被焚公交车只剩骨架",
-          "url": "https://news.ifeng.com/c/8q7RRrMZXA9",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "以媒：担心美国不日袭击伊朗 以色列提高警戒级别",
-          "url": "https://flash.jin10.com/detail/20260122074250280800",
-          "source": "金十数据",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 1,
