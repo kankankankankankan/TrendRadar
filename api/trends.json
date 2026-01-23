@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-23T08:04:56.965053+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-23T09:31:26.360823+08:00",
+  "total_titles_processed": 444,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
-        {
-          "title": "美众议院未通过旨在限制特朗普对委再动武的决议",
-          "url": "https://wallstreetcn.com/livenews/3042380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
         {
           "title": "特朗普180度转折，欧洲懵了",
           "url": "https://wallstreetcn.com/articles/3763911",
@@ -26,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 09时31分]"
         },
         {
           "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
@@ -35,6 +24,51 @@
           "source": "凤凰网",
           "ranks": [
             2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 09时31分]"
+        },
+        {
+          "title": "不动武了、也不加税了！特朗普达沃斯上演“格陵兰TACO”",
+          "url": "https://wallstreetcn.com/articles/3763883",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 09时31分]"
+        },
+        {
+          "title": "特朗普称加拿大因美国而存在，加总理回应",
+          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "美国总统特朗普：抵押贷款利率刚刚跌至三年低点，尽管杰罗姆·鲍威尔（“太迟”）始终执意维持高利率（对抗“特朗普！”）。这恰恰证明他从头到尾都错了，因为市场正在超越他的顽固。在“太迟”的统治期间，美联储已遭受重创并声名狼藉！",
+          "url": "https://flash.jin10.com/detail/20260123091214857800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "美众议院未通过旨在限制特朗普对委再动武的决议",
+          "url": "https://wallstreetcn.com/livenews/3042380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -63,17 +97,6 @@
           "time_info": "08时04分"
         },
         {
-          "title": "不动武了、也不加税了！特朗普达沃斯上演“格陵兰TACO”",
-          "url": "https://wallstreetcn.com/articles/3763883",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
           "title": "特朗普达沃斯演讲，被群嘲了",
           "url": "https://news.ifeng.com/c/8q7oOaAst69",
           "source": "凤凰网",
@@ -81,8 +104,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 09时31分]"
         },
         {
           "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
@@ -92,8 +115,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 09时31分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -103,8 +126,66 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 09时31分]"
+        },
+        {
+          "title": "1小时闭门会谈后，特朗普称与泽连斯基会晤非常好",
+          "url": "https://news.ifeng.com/c/8q88cGpXCla",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 09时31分]"
+        },
+        {
+          "title": "释新闻｜特朗普“和平委员会”即将举行签约仪式，哪些国家已经拒绝？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32440234",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 09时31分]"
+        },
+        {
+          "title": "特朗普态度大转弯：与北约就格陵兰达成“框架协议”，取消对欧关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32439660",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 09时31分]"
+        },
+        {
+          "title": "马克龙戴太阳镜亮相遭特朗普调侃",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E6%88%B4%E5%A4%AA%E9%98%B3%E9%95%9C%E4%BA%AE%E7%9B%B8%E9%81%AD%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%83%E4%BE%83",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 09时31分]"
+        },
+        {
+          "title": "美国总统特朗普称，美联储在鲍威尔任期内受到伤害并失去信誉。",
+          "url": "https://wallstreetcn.com/livenews/3042433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时04分"
+          "time_info": "09时31分"
         },
         {
           "title": "特朗普为啥时隔一天态度变了",
@@ -129,17 +210,6 @@
           "time_info": "08时04分"
         },
         {
-          "title": "1小时闭门会谈后，特朗普称与泽连斯基会晤非常好",
-          "url": "https://news.ifeng.com/c/8q88cGpXCla",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
           "title": "特朗普称「和平委员会」可能取代联合国，「和平委员会」到底是什么？特朗普成立该机构的真实意图是什么？",
           "url": "https://www.zhihu.com/question/1997263966708196399",
           "source": "知乎",
@@ -151,15 +221,15 @@
           "time_info": "08时04分"
         },
         {
-          "title": "释新闻｜特朗普“和平委员会”即将举行签约仪式，哪些国家已经拒绝？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32440234",
-          "source": "澎湃新闻",
+          "title": "特朗普警告：若欧洲抛售美国资产 将实施“猛烈报复”",
+          "url": "https://www.cls.cn/detail/2267060",
+          "source": "财联社热门",
           "ranks": [
-            15
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时04分"
+          "time_info": "09时31分"
         },
         {
           "title": "美国众议院以微弱优势否决一项决议，旨在约束美国总统特朗普的委内瑞拉战争权力。",
@@ -167,28 +237,6 @@
           "source": "金十数据",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "马克龙戴太阳镜亮相遭特朗普调侃",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E6%88%B4%E5%A4%AA%E9%98%B3%E9%95%9C%E4%BA%AE%E7%9B%B8%E9%81%AD%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%83%E4%BE%83",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "特朗普态度大转弯：与北约就格陵兰达成“框架协议”，取消对欧关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32439660",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -241,8 +289,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 09时31分]"
         },
         {
           "title": "存储“涨飞”！“美股最强”闪迪涨超10%，美光、西部数据、希捷科技等全线大涨",
@@ -273,22 +321,23 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "国际金价银价同创历史新高",
+          "url": "https://www.toutiao.com/trending/7597224144673194010/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 09时31分]"
+        },
+        {
           "title": "现货黄金价格突破每盎司4940.78美元，创历史新高。",
           "url": "https://wallstreetcn.com/livenews/3042361",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "国际金价银价同创历史新高",
-          "url": "https://www.toutiao.com/trending/7597224144673194010/",
-          "source": "今日头条",
-          "ranks": [
-            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -305,11 +354,29 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Model%201%E6%82%84%E7%84%B6%E7%8E%B0%E8%BA%AB",
           "source": "bilibili 热搜",
           "ranks": [
-            23
+            23,
+            25
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 09时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "开年已涨超11%！高盛：上调黄金年末价格预期至5400美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32442551",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时04分"
+          "time_info": "09时31分"
         }
       ]
     },
@@ -322,11 +389,12 @@
           "url": "https://www.douyin.com/hot/2376219",
           "source": "抖音",
           "ranks": [
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 09时31分]"
         }
       ]
     }
