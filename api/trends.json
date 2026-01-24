@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T18:02:35.095209+08:00",
-  "total_titles_processed": 967,
+  "generated_at": "2026-01-24T19:02:24.921443+08:00",
+  "total_titles_processed": 1043,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "斯塔默要求特朗普道歉，白宫回应",
@@ -50,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时13分 ~ 18时02分]"
+          "appearance_count": 8,
+          "time_info": "[12时13分 ~ 19时02分]"
         },
         {
           "title": "达沃斯论坛受挫后，特朗普狂发80条帖子，一度每4分钟发一条",
@@ -61,8 +61,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时30分 ~ 18时02分]"
+          "appearance_count": 10,
+          "time_info": "[11时30分 ~ 19时02分]"
         },
         {
           "title": "报道：特朗普要求格陵兰全面放开军事限制",
@@ -73,8 +73,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时04分 ~ 18时02分]"
+          "appearance_count": 10,
+          "time_info": "[08时04分 ~ 19时02分]"
         },
         {
           "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
@@ -86,8 +86,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时02分 ~ 18时02分]"
+          "appearance_count": 6,
+          "time_info": "[14时02分 ~ 19时02分]"
         },
         {
           "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
@@ -286,6 +286,35 @@
           "time_info": "[09时31分 ~ 12时13分]"
         },
         {
+          "title": "为何特朗普想要格陵兰岛",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E8%A6%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            27,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时03分 ~ 19时02分]"
+        },
+        {
+          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32456544",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            14,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时03分 ~ 19时02分]"
+        },
+        {
           "title": "特朗普称联邦紧急事务管理局已做好充分准备应对冬季风暴",
           "url": "https://flash.jin10.com/detail/20260124082538327800",
           "source": "金十数据",
@@ -317,11 +346,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 18时02分]"
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 19时02分]"
+        },
+        {
+          "title": "欧洲央行管委内格尔：特朗普关税政策的最大受害者是美国消费者。",
+          "url": "https://flash.jin10.com/detail/20260124164256739800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 19时02分]"
         },
         {
           "title": "特朗普：万斯将于2月前往阿塞拜疆和亚美尼亚。 感谢亚美尼亚和阿塞拜疆领导人达成和平协议。 美国将加强与亚美尼亚的核合作协议。",
@@ -347,45 +390,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时02分 ~ 17时02分]"
-        },
-        {
-          "title": "欧洲央行管委内格尔：特朗普关税政策的最大受害者是美国消费者。",
-          "url": "https://flash.jin10.com/detail/20260124164256739800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 18时02分]"
-        },
-        {
-          "title": "为何特朗普想要格陵兰岛",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E8%A6%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            27,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时03分 ~ 17时02分]"
-        },
-        {
-          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32456544",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时03分 ~ 18时02分]"
         },
         {
           "title": "英国首相呼吁特朗普就北约言论道歉",
@@ -449,6 +453,17 @@
           "time_info": "[09时31分 ~ 11时31分]"
         },
         {
+          "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
+          "url": "https://www.cls.cn/detail/2268566",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 19时02分]"
+        },
+        {
           "title": "加州起诉特朗普政府，抗议美国联邦政府重启Sable输油管道",
           "url": "https://wallstreetcn.com/livenews/3043164",
           "source": "华尔街见闻-快讯",
@@ -471,17 +486,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时04分 ~ 09时31分]"
-        },
-        {
-          "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
-          "url": "https://www.cls.cn/detail/2268566",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 18时02分]"
         },
         {
           "title": "据Politico：特朗普政府考虑实施海上封锁以阻止古巴进口石油。",
@@ -518,6 +522,17 @@
           "time_info": "[09时31分 ~ 10时35分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-24）",
+          "url": "https://flash.jin10.com/detail/20260124175804687800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "特朗普：美国正调集重兵前往伊朗，许多舰艇正向伊朗行进",
           "url": "https://m.thepaper.cn/newsDetail_forward_32448442",
           "source": "澎湃新闻",
@@ -535,7 +550,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -669,6 +684,20 @@
           "time_info": "[11时31分 ~ 15时03分]"
         },
         {
+          "title": "伊朗对两名ISIS成员处以绞刑",
+          "url": "https://wallstreetcn.com/livenews/3043242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 19时02分]"
+        },
+        {
           "title": "伊朗官员：伊朗军队已做好应对最坏情况的准备",
           "url": "https://wallstreetcn.com/livenews/3043208",
           "source": "华尔街见闻-快讯",
@@ -712,19 +741,6 @@
           "time_info": "[15时03分 ~ 17时02分]"
         },
         {
-          "title": "伊朗对两名ISIS成员处以绞刑",
-          "url": "https://wallstreetcn.com/livenews/3043242",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 18时02分]"
-        },
-        {
           "title": "伊朗媒体：互联网服务可能在未来24小时内全面恢复",
           "url": "https://wallstreetcn.com/livenews/3043173",
           "source": "华尔街见闻-快讯",
@@ -735,6 +751,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时04分 ~ 09时31分]"
+        },
+        {
+          "title": "土耳其外长说以色列正伺机攻击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3043253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 19时02分]"
         },
         {
           "title": "伊朗方面称，两名与“伊斯兰国”有关联的男子因2023年载有朝圣者的巴士的爆炸案被处决。",
@@ -802,18 +831,6 @@
           "time_info": "[09时31分 ~ 11时31分]"
         },
         {
-          "title": "土耳其外长说以色列正伺机攻击伊朗",
-          "url": "https://wallstreetcn.com/livenews/3043253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 18时02分]"
-        },
-        {
           "title": "土耳其外交部长：有迹象表明以色列仍在寻求攻击伊朗。",
           "url": "https://flash.jin10.com/detail/20260124030711591800",
           "source": "金十数据",
@@ -838,8 +855,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时04分 ~ 18时02分]"
+          "appearance_count": 13,
+          "time_info": "[08时04分 ~ 19时02分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -851,8 +868,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时04分 ~ 18时02分]"
+          "appearance_count": 13,
+          "time_info": "[08时04分 ~ 19时02分]"
         },
         {
           "title": "明晟公司（MSCI）新兴市场股票指数涨0.4%，创历史新高，连续第五个交易日上涨，创2025年5月份以来最长连涨天数。 阿里巴巴、台积电、MediaTek Inc.等亚洲科技股贡献突出。 2025年迄今，指数累计上涨大约7.0%，同期标普500指数累涨约1%。 拉美股市周五上涨，地区指数涨约1.3%，今年迄今累计上涨将近14%，MSCI新兴市场拉美股票指数创2018年以来收盘新高。巴西基准股指周五领涨，本周涨约8.7%。",
@@ -902,6 +919,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "胖东来金饰每克便宜 200 元，其质量如何？为什么胖东来的金价如此有竞争力？",
+          "url": "https://www.zhihu.com/question/1997605038588129408",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "金价一度涨穿4990美元创历史新高，本周涨超8%",
+          "url": "https://wallstreetcn.com/livenews/3043153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -936,23 +981,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时35分 ~ 13时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价一度涨穿4990美元创历史新高，本周涨超8%",
-          "url": "https://wallstreetcn.com/livenews/3043153",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
         }
       ]
     },
