@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-29T11:44:58.912991+08:00",
-  "total_titles_processed": 603,
+  "generated_at": "2026-01-29T12:31:20.617059+08:00",
+  "total_titles_processed": 687,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://news.ifeng.com/c/8qIp4NFuO3j",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时52分 ~ 12时31分]"
+        },
         {
           "title": "特朗普再施压伊朗：庞大舰队已部署在途 谈判时间所剩无几",
           "url": "https://www.cls.cn/detail/2273193",
@@ -30,17 +41,6 @@
           "time_info": "[08时05分 ~ 10时52分]"
         },
         {
-          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
-          "url": "https://news.ifeng.com/c/8qIp4NFuO3j",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 11时44分]"
-        },
-        {
           "title": "据华尔街日报：法官暂时禁止美国总统特朗普政府拘留明尼苏达州难民。",
           "url": "https://flash.jin10.com/detail/20260129103233843800",
           "source": "金十数据",
@@ -50,6 +50,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
+        },
+        {
+          "title": "特朗普和舒默朝着可能达成避免美国政府停摆的协议迈进。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3046090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "美法官叫停特朗普政府针对明尼苏达州合法难民的审查政策",
+          "url": "https://flash.jin10.com/detail/20260129120407962800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -67,22 +89,58 @@
           "url": "https://www.cls.cn/detail/2273332",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 11时44分]"
+          "appearance_count": 4,
+          "time_info": "[10时52分 ~ 12时31分]"
         },
         {
           "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
           "url": "https://www.cls.cn/detail/2273451",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时52分 ~ 12时31分]"
+        },
+        {
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://www.cls.cn/detail/2273523",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 12时31分]"
+        },
+        {
+          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
+          "url": "https://www.zhihu.com/question/2000136531822794040",
+          "source": "知乎",
+          "ranks": [
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时52分 ~ 11时44分]"
+          "time_info": "[12时30分 ~ 12时31分]"
+        },
+        {
+          "title": "美法官叫停特朗普政府针对明尼苏达州合法难民的审查政策",
+          "url": "https://wallstreetcn.com/livenews/3046082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "美国总统特朗普：很高兴提名科林·麦克唐纳担任首任国家欺诈执法助理司法部长。",
@@ -94,17 +152,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
-        },
-        {
-          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
-          "url": "https://www.cls.cn/detail/2273523",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时44分"
         },
         {
           "title": "白宫宣布，特朗普的边境事务负责人汤姆·霍曼将于当地时间明日清晨在明尼阿波利斯举行新闻发布会。",
@@ -154,8 +201,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时05分 ~ 11时44分]"
+          "appearance_count": 5,
+          "time_info": "[08时05分 ~ 12时31分]"
         },
         {
           "title": "金价波动如何影响实体金店",
@@ -164,11 +211,23 @@
           "ranks": [
             24,
             6,
-            3
+            3,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时05分 ~ 11时44分]"
+          "appearance_count": 5,
+          "time_info": "[08时05分 ~ 12时31分]"
+        },
+        {
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时05分 ~ 12时31分]"
         },
         {
           "title": "金价屡创历史新高意味着什么",
@@ -183,17 +242,6 @@
           "time_info": "[08时05分 ~ 10时52分]"
         },
         {
-          "title": "黄金价格为何一路猛涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时05分 ~ 11时44分]"
-        },
-        {
           "title": "金价暴涨女子卖300克黄金变现30万",
           "url": "https://www.toutiao.com/trending/7600256243789627398/",
           "source": "今日头条",
@@ -202,19 +250,32 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 11时44分]"
+          "appearance_count": 4,
+          "time_info": "[08时05分 ~ 12时31分]"
         },
         {
           "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
           "url": "https://www.cls.cn/detail/2273531",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时44分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 12时31分]"
+        },
+        {
+          "title": "金价银价暴涨原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 12时31分]"
         },
         {
           "title": "金十图示：2026年01月29日（周四）上海金早盘价为1240.99元/克，较国际金价(1238.18元/克)，高2.81元/克",
@@ -223,7 +284,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
         },
@@ -248,17 +309,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
-        },
-        {
-          "title": "金价银价暴涨原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时44分"
         }
       ]
     },
@@ -267,24 +317,25 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3046051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 12时31分]"
+        },
+        {
           "title": "OpenAI融资前估值或达7300亿美元，吸引三大科技巨头联手投资",
           "url": "https://flash.jin10.com/detail/20260129110922470800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时44分"
-        },
-        {
-          "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3046051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
         },
@@ -295,7 +346,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
         },
@@ -306,7 +357,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
         },
@@ -317,7 +368,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
         },
@@ -328,7 +379,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
         },
@@ -339,7 +390,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
         },
@@ -369,7 +420,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗外长回应美方威胁：伊朗武装力量高度戒备",
@@ -389,11 +440,12 @@
           "ranks": [
             7,
             13,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时05分 ~ 11时44分]"
+          "appearance_count": 5,
+          "time_info": "[08时05分 ~ 12时31分]"
         },
         {
           "title": "中国代表：支持伊朗国家稳定",
@@ -418,6 +470,17 @@
           "time_info": "08时05分"
         },
         {
+          "title": "美媒：伊朗拒绝就民用铀浓缩和导弹项目妥协",
+          "url": "https://wallstreetcn.com/livenews/3046076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
           "title": "伊朗外长称伊朗武装力量“随时准备扣动扳机”",
           "url": "https://wallstreetcn.com/livenews/3046000",
           "source": "华尔街见闻-快讯",
@@ -435,6 +498,19 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "美股收盘：存储股走强希捷劲升19% 费城半导体指数刷新高",
+          "url": "https://www.cls.cn/detail/2273407",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时05分 ~ 12时31分]"
+        },
+        {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
           "url": "https://www.cls.cn/detail/2272925",
           "source": "财联社热门",
@@ -444,18 +520,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
-        },
-        {
-          "title": "美股收盘：存储股走强希捷劲升19% 费城半导体指数刷新高",
-          "url": "https://www.cls.cn/detail/2273407",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时05分 ~ 11时44分]"
         },
         {
           "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
@@ -482,6 +546,34 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国产 VLA 模型接连开源，具身智能的 「DeepSeek 时刻」何时到来？",
+          "url": "https://www.zhihu.com/question/1999819158431503971",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 12时31分]"
+        },
+        {
+          "title": "DeepSeek开源OCR 2模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90OCR%202%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -491,11 +583,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 11时44分]"
+          "appearance_count": 4,
+          "time_info": "[10时52分 ~ 12时31分]"
         },
         {
           "title": "周四亚太盘初，纳斯达克100股指期货涨0.5%。 目前（美股盘后），科技股IBM涨8.4%，（电话会已经结束的）Meta涨8.3%，Pinterest涨3%，美光涨2.8%，谷歌A涨2.3%，AMD、（电话会仍在继续的）特斯拉涨超1%，（电话会仍在继续的）微软跌5.2%。",
@@ -507,23 +600,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek开源OCR 2模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90OCR%202%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
         }
       ]
     }
