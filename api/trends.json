@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T15:15:55.215256+08:00",
-  "total_titles_processed": 984,
+  "generated_at": "2026-01-29T16:07:31.475685+08:00",
+  "total_titles_processed": 1074,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://news.ifeng.com/c/8qIp4NFuO3j",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时52分 ~ 15时15分]"
+          "appearance_count": 9,
+          "time_info": "[10时52分 ~ 16时07分]"
         },
         {
           "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
@@ -34,6 +35,21 @@
           "time_info": "[10时52分 ~ 15时15分]"
         },
         {
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://www.cls.cn/detail/2273523",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时44分 ~ 16时07分]"
+        },
+        {
           "title": "特朗普再施压伊朗：庞大舰队已部署在途 谈判时间所剩无几",
           "url": "https://www.cls.cn/detail/2273193",
           "source": "财联社热门",
@@ -45,18 +61,17 @@
           "time_info": "[08时05分 ~ 11时44分]"
         },
         {
-          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
-          "url": "https://www.cls.cn/detail/2273523",
-          "source": "财联社热门",
+          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
+          "url": "https://www.zhihu.com/question/2000136531822794040",
+          "source": "知乎",
           "ranks": [
-            13,
+            14,
             12,
-            9,
-            8
+            11
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时44分 ~ 15时15分]"
+          "time_info": "[12时30分 ~ 16时07分]"
         },
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -68,19 +83,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时05分 ~ 10时52分]"
-        },
-        {
-          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
-          "url": "https://www.zhihu.com/question/2000136531822794040",
-          "source": "知乎",
-          "ranks": [
-            14,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时30分 ~ 15时15分]"
         },
         {
           "title": "据华尔街日报：法官暂时禁止美国总统特朗普政府拘留明尼苏达州难民。",
@@ -221,7 +223,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
@@ -241,11 +243,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             21,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时05分 ~ 15时15分]"
+          "appearance_count": 10,
+          "time_info": "[08时05分 ~ 16时07分]"
         },
         {
           "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
@@ -254,11 +257,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时44分 ~ 15时15分]"
+          "appearance_count": 8,
+          "time_info": "[11时44分 ~ 16时07分]"
         },
         {
           "title": "金价波动如何影响实体金店",
@@ -365,12 +369,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "金十图示：2026年01月29日（周四）上海金午盘价为1248.22元/克，较国际金价(1238.82元/克)，高9.4元/克",
+          "url": "https://flash.jin10.com/detail/20260129154110171800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊朗副外长：做好200%的自卫准备",
@@ -405,7 +420,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -443,6 +458,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时52分 ~ 11时44分]"
+        },
+        {
+          "title": "欧盟拟将伊朗革命卫队列为恐怖组织",
+          "url": "https://flash.jin10.com/detail/20260129160346406800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
         },
         {
           "title": "解读伊朗多重危机背后逻辑",
@@ -495,7 +521,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         }
@@ -712,11 +738,12 @@
             3,
             7,
             8,
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时52分 ~ 15时15分]"
+          "appearance_count": 9,
+          "time_info": "[10时52分 ~ 16时07分]"
         },
         {
           "title": "周四亚太盘初，纳斯达克100股指期货涨0.5%。 目前（美股盘后），科技股IBM涨8.4%，（电话会已经结束的）Meta涨8.3%，Pinterest涨3%，美光涨2.8%，谷歌A涨2.3%，AMD、（电话会仍在继续的）特斯拉涨超1%，（电话会仍在继续的）微软跌5.2%。",
