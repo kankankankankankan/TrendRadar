@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-30T13:19:21.291069+08:00",
-  "total_titles_processed": 820,
+  "generated_at": "2026-01-30T14:12:27.375459+08:00",
+  "total_titles_processed": 882,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 45,
       "titles": [
+        {
+          "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
+          "url": "https://wallstreetcn.com/articles/3764534",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时12分]"
+        },
         {
           "title": "特朗普称计划同伊朗对话",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%AE%A1%E5%88%92%E5%90%8C%E4%BC%8A%E6%9C%97%E5%AF%B9%E8%AF%9D",
@@ -19,16 +31,30 @@
           "time_info": "[10时53分 ~ 11时45分]"
         },
         {
-          "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
-          "url": "https://wallstreetcn.com/articles/3764534",
-          "source": "华尔街见闻",
+          "title": "特朗普：计划30日公布美联储下任主席提名",
+          "url": "https://news.ifeng.com/c/8qKUiK0pwuH",
+          "source": "凤凰网",
           "ranks": [
-            4,
-            3
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[09时31分 ~ 14时12分]"
+        },
+        {
+          "title": "特朗普称美联储“新掌门”周五揭晓 沃什获提名概率飙升至87%！",
+          "url": "https://www.cls.cn/detail/2275048",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 14时12分]"
         },
         {
           "title": "美政府关门危机解除？特朗普与舒默接近达成协议，拆分DHS预算并重谈移民执法限制",
@@ -44,15 +70,26 @@
           "time_info": "[08时05分 ~ 13时19分]"
         },
         {
-          "title": "特朗普今夜将签署行政令并出席政策会议 是否涉及美联储新主席提名未明",
-          "url": "https://flash.jin10.com/detail/20260130130553138800",
-          "source": "金十数据",
+          "title": "特朗普宣布国家紧急状态",
+          "url": "https://news.ifeng.com/c/8qKOxahNKqK",
+          "source": "凤凰网",
           "ranks": [
-            2
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时31分 ~ 14时12分]"
+        },
+        {
+          "title": "特朗普威胁对加拿大飞机加征50%关税",
+          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时31分 ~ 14时12分]"
         },
         {
           "title": "据古巴国营媒体：美国总统特朗普的法令将使（古巴）发电、交通、工农业生产、医疗服务和供水陷入瘫痪。",
@@ -66,27 +103,15 @@
           "time_info": "10时53分"
         },
         {
-          "title": "特朗普：计划30日公布美联储下任主席提名",
-          "url": "https://news.ifeng.com/c/8qKUiK0pwuH",
+          "title": "特朗普：将开放委内瑞拉领空",
+          "url": "https://news.ifeng.com/c/8qKaGjQKJrg",
           "source": "凤凰网",
           "ranks": [
-            7,
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时31分 ~ 13时19分]"
-        },
-        {
-          "title": "美国白宫官员：美国总统特朗普并未暗示美国会取消对在役加拿大制造飞机的认证。",
-          "url": "https://flash.jin10.com/detail/20260130130036264800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
+          "time_info": "[10时53分 ~ 14时12分]"
         },
         {
           "title": "特朗普就纳税申报表泄露事件起诉美国国税局和财政部，索赔100亿美元。",
@@ -98,17 +123,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
-        },
-        {
-          "title": "特朗普宣布国家紧急状态",
-          "url": "https://news.ifeng.com/c/8qKOxahNKqK",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 13时19分]"
         },
         {
           "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
@@ -126,41 +140,6 @@
           "time_info": "[08时05分 ~ 12时31分]"
         },
         {
-          "title": "特朗普威胁对加拿大飞机加征50%关税",
-          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 13时19分]"
-        },
-        {
-          "title": "特朗普称美联储“新掌门”周五揭晓 沃什获提名概率飙升至87%！",
-          "url": "https://www.cls.cn/detail/2275048",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时45分 ~ 13时19分]"
-        },
-        {
-          "title": "特朗普：将开放委内瑞拉领空",
-          "url": "https://news.ifeng.com/c/8qKaGjQKJrg",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时53分 ~ 13时19分]"
-        },
-        {
           "title": "特朗普宣布国家紧急状态",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E5%9B%BD%E5%AE%B6%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -171,6 +150,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时05分 ~ 09时31分]"
+        },
+        {
+          "title": "特朗普今夜将签署行政令并出席政策会议 是否涉及美联储新主席提名未明",
+          "url": "https://flash.jin10.com/detail/20260130130553138800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 14时12分]"
+        },
+        {
+          "title": "美国白宫官员：美国总统特朗普并未暗示美国会取消对在役加拿大制造飞机的认证。",
+          "url": "https://flash.jin10.com/detail/20260130130036264800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 14时12分]"
         },
         {
           "title": "特朗普听取多种打击伊朗方案",
@@ -318,7 +321,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -351,7 +354,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -524,7 +527,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "金价剧烈震荡引担忧？WGC：“狂飙涨势”是结构性转变而非投机，今年将继续！",
@@ -532,11 +535,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[09时31分 ~ 14时12分]"
         },
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -550,8 +554,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时05分 ~ 13时19分]"
+          "appearance_count": 7,
+          "time_info": "[08时05分 ~ 14时12分]"
         },
         {
           "title": "黄金价格为何一路猛涨",
@@ -561,8 +565,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时05分 ~ 13时19分]"
+          "appearance_count": 7,
+          "time_info": "[08时05分 ~ 14时12分]"
         },
         {
           "title": "今日金价",
@@ -572,11 +576,37 @@
             6,
             22,
             21,
-            25
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时31分 ~ 14时12分]"
+        },
+        {
+          "title": "黄金价格回调开始了吗",
+          "url": "https://www.toutiao.com/trending/7600951694344405055/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "黄金价格暴跌原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            26,
+            7,
+            22
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时31分 ~ 13时19分]"
+          "time_info": "[10时53分 ~ 14时12分]"
         },
         {
           "title": "女子10年前买408克金条 金价已翻5倍",
@@ -590,20 +620,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时05分 ~ 10时53分]"
-        },
-        {
-          "title": "黄金价格暴跌原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            26,
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时53分 ~ 13时19分]"
         },
         {
           "title": "金价大幅跳水后反弹",
@@ -654,6 +670,17 @@
           "time_info": "[08时05分 ~ 09时31分]"
         },
         {
+          "title": "瑞银：黄金价格短期面临压力，中期修正风险上升",
+          "url": "https://flash.jin10.com/detail/20260130132853156800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -680,8 +707,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[09时31分 ~ 14时12分]"
         },
         {
           "title": "伊朗被曝将举行实弹军事演习 美政府再次面临部分“停摆” | 环球市场",
@@ -693,8 +720,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[09时31分 ~ 14时12分]"
         },
         {
           "title": "伊朗强烈谴责欧盟将伊朗革命卫队列为“恐怖组织”",
@@ -769,8 +796,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时05分 ~ 13时19分]"
+          "appearance_count": 7,
+          "time_info": "[08时05分 ~ 14时12分]"
         },
         {
           "title": "美股收盘：业绩引爆微软Meta冰火两极 存储股闪迪盘后狂飙",
@@ -781,8 +808,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时05分 ~ 13时19分]"
+          "appearance_count": 7,
+          "time_info": "[08时05分 ~ 14时12分]"
         },
         {
           "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
@@ -849,7 +876,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         }
