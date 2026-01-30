@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T19:08:47.510652+08:00",
-  "total_titles_processed": 1396,
+  "generated_at": "2026-01-30T20:04:54.433363+08:00",
+  "total_titles_processed": 1495,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 56,
       "titles": [
         {
           "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时31分 ~ 19时08分]"
+          "appearance_count": 12,
+          "time_info": "[12时31分 ~ 20时04分]"
         },
         {
           "title": "特朗普称美联储“新掌门”周五揭晓 沃什获提名概率飙升至87%！",
@@ -89,11 +89,26 @@
             18,
             17,
             15,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时15分 ~ 19时08分]"
+          "appearance_count": 9,
+          "time_info": "[15时15分 ~ 20时04分]"
+        },
+        {
+          "title": "美元大涨、黄金暴跌！特朗普挑了位最“鹰”的鲍威尔接班人？",
+          "url": "https://www.cls.cn/detail/2275439",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时06分 ~ 20时04分]"
         },
         {
           "title": "特朗普称计划同伊朗对话",
@@ -105,19 +120,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时53分 ~ 11时45分]"
-        },
-        {
-          "title": "美元大涨、黄金暴跌！特朗普挑了位最“鹰”的鲍威尔接班人？",
-          "url": "https://www.cls.cn/detail/2275439",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时06分 ~ 19时08分]"
         },
         {
           "title": "美政府关门危机解除？特朗普与舒默接近达成协议，拆分DHS预算并重谈移民执法限制",
@@ -254,6 +256,17 @@
           "time_info": "[10时53分 ~ 11时45分]"
         },
         {
+          "title": "特朗普挑了他？",
+          "url": "https://news.ifeng.com/c/8qKyVE4XGIc",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 20时04分]"
+        },
+        {
           "title": "特朗普重回白宫周年总结",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E5%9B%9E%E7%99%BD%E5%AE%AB%E5%91%A8%E5%B9%B4%E6%80%BB%E7%BB%93",
           "source": "bilibili 热搜",
@@ -264,6 +277,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时53分 ~ 11时45分]"
+        },
+        {
+          "title": "俄方称特朗普请求普京2月1日前不对基辅发动袭击",
+          "url": "https://wallstreetcn.com/livenews/3047308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 20时04分]"
         },
         {
           "title": "特朗普与前美联储理事沃什会面",
@@ -335,17 +360,6 @@
           "time_info": "10时53分"
         },
         {
-          "title": "特朗普挑了他？",
-          "url": "https://news.ifeng.com/c/8qKyVE4XGIc",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
           "title": "美防长告诉特朗普：五角大楼“准备好执行”总统涉伊朗的任何决定",
           "url": "https://wallstreetcn.com/livenews/3046840",
           "source": "华尔街见闻-快讯",
@@ -366,17 +380,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
-        },
-        {
-          "title": "俄方称特朗普请求普京2月1日前不对基辅发动袭击",
-          "url": "https://wallstreetcn.com/livenews/3047308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时08分"
         },
         {
           "title": "特朗普威胁对加拿大飞机加征50%关税",
@@ -456,6 +459,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-30）",
+          "url": "https://flash.jin10.com/detail/20260130193221039800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
+        },
+        {
           "title": "【特朗普威胁对加拿大飞机加征50%关税】当地时间29日，美国总统特朗普在其社交平台“真实社交”发文称，加拿大“错误、非法且长期”拒绝认证美国湾流500、600、700和800型公务机，构成对美国企业的不公平对待。作为回应，美方将暂停认证庞巴迪环球快车系列以及所有加拿大制造的飞机，直至湾流飞机获得全面认证。他警告称，若相关问题未能立即纠正，将对所有销往美国的加拿大飞机征收50%的关税。（央视新闻）",
           "url": "https://wallstreetcn.com/livenews/3046776",
           "source": "华尔街见闻-快讯",
@@ -473,9 +487,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
+        },
+        {
+          "title": "古巴谴责特朗普行政令意在种族灭绝：将致水电交通医疗全瘫痪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32498277",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
         },
         {
           "title": "在特朗普发布有关提高关税的言论之后，韩美双方在首轮会谈中未能在第一天就达成一致意见。（韩联社）",
@@ -731,11 +756,24 @@
             22,
             25,
             5,
-            11
+            11,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时06分 ~ 19时08分]"
+          "appearance_count": 7,
+          "time_info": "[16时06分 ~ 20时04分]"
+        },
+        {
+          "title": "沃什引爆鹰派预期，商品遭遇黑色星期五，白银跌17%逼近95美元、金价一度跌至4950、单日重挫400美元，美元走强",
+          "url": "https://wallstreetcn.com/articles/3764541",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 20时04分]"
         },
         {
           "title": "聚焦新美联储主席，商品遭遇黑色星期五，白银跌17%逼近95美元、金价一度跌至4950、单日重挫400美元，美元走强",
@@ -760,27 +798,17 @@
           "time_info": "17时10分"
         },
         {
-          "title": "沃什引爆鹰派预期，商品遭遇黑色星期五，白银跌17%逼近95美元、金价一度跌至4950、单日重挫400美元，美元走强",
-          "url": "https://wallstreetcn.com/articles/3764541",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
           "title": "金价有望涨至8500美元",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9C%89%E6%9C%9B%E6%B6%A8%E8%87%B38500%E7%BE%8E%E5%85%83%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
             8,
-            5
+            5,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时07分 ~ 19时08分]"
+          "appearance_count": 4,
+          "time_info": "[18时07分 ~ 20时04分]"
         },
         {
           "title": "女子10年前买408克金条 金价已翻5倍",
@@ -862,7 +890,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -873,7 +901,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -914,7 +942,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 22,
       "titles": [
         {
           "title": "伊朗随时准备“扣动扳机”",
@@ -953,11 +981,34 @@
             19,
             18,
             17,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时15分 ~ 19时08分]"
+          "appearance_count": 9,
+          "time_info": "[15时15分 ~ 20时04分]"
+        },
+        {
+          "title": "伊朗外交部长阿拉奇：美国一再要求举行会谈，但谈判必须“公平且公正”。",
+          "url": "https://flash.jin10.com/detail/20260130194013826800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
+        },
+        {
+          "title": "伊朗外交部长阿拉奇：美国方面发出相互矛盾的信号，军事打击并非解决之道。",
+          "url": "https://flash.jin10.com/detail/20260130193954006800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
         },
         {
           "title": "伊朗强烈谴责欧盟将伊朗革命卫队列为“恐怖组织”",
@@ -992,9 +1043,32 @@
           "ranks": [
             8
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 20时04分]"
+        },
+        {
+          "title": "曝伊朗4万吨“航母”出动",
+          "url": "https://www.toutiao.com/trending/7601069328506555931/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 20时04分]"
+        },
+        {
+          "title": "伊朗外长：愿与美展开公平公正的谈判",
+          "url": "https://flash.jin10.com/detail/20260130193811631800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时08分"
+          "time_info": "20时04分"
         },
         {
           "title": "欧盟将伊朗伊斯兰革命卫队列为“恐怖组织”",
@@ -1008,15 +1082,15 @@
           "time_info": "08时05分"
         },
         {
-          "title": "曝伊朗4万吨“航母”出动",
-          "url": "https://www.toutiao.com/trending/7601069328506555931/",
-          "source": "今日头条",
+          "title": "伊朗外交部长阿拉奇：伊朗方面希望叙利亚实现团结与和平。",
+          "url": "https://flash.jin10.com/detail/20260130193433164800",
+          "source": "金十数据",
           "ranks": [
-            12
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时08分"
+          "time_info": "20时04分"
         },
         {
           "title": "伊朗总统：若美国寻求谈判 就必须停止挑衅",
@@ -1030,13 +1104,35 @@
           "time_info": "08时05分"
         },
         {
+          "title": "伊朗外交部长阿拉奇：我们已准备好在和平核活动方面开展建立互信的举措。",
+          "url": "https://flash.jin10.com/detail/20260130193323665800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
+        },
+        {
+          "title": "伊朗外交部长阿拉奇：伊朗已为公平公正的谈判做好准备。",
+          "url": "https://flash.jin10.com/detail/20260130193202224800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
+        },
+        {
           "title": "据伊朗外交部：伊朗外交部长会见了土耳其外交部长。",
           "url": "https://flash.jin10.com/detail/20260130181222913800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -1050,12 +1146,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "伊朗外交部长阿拉奇：伊朗欢迎所有缓解紧张局势的举措。",
+          "url": "https://flash.jin10.com/detail/20260130193020979800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
+        },
+        {
+          "title": "伊朗外交部长阿拉奇：与土耳其外长费丹的会谈良好且富有成效。",
+          "url": "https://flash.jin10.com/detail/20260130192739398800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
+        },
+        {
+          "title": "土耳其外交部长：以色列正试图说服我们攻击伊朗。",
+          "url": "https://flash.jin10.com/detail/20260130192616010800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
+        },
+        {
+          "title": "土耳其外交部长：我们希望美国不会攻击伊朗。",
+          "url": "https://flash.jin10.com/detail/20260130192312092800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
+        },
+        {
+          "title": "土耳其外交部长：呼吁美国和伊朗坐到谈判桌前解决相关问题。",
+          "url": "https://flash.jin10.com/detail/20260130192218291800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
@@ -1065,8 +1216,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时05分 ~ 19时08分]"
+          "appearance_count": 16,
+          "time_info": "[08时05分 ~ 20时04分]"
         },
         {
           "title": "美股收盘：业绩引爆微软Meta冰火两极 存储股闪迪盘后狂飙",
@@ -1102,6 +1253,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时05分 ~ 11时45分]"
+        },
+        {
+          "title": "Verizon第四季度调整后每股收益1.09美元，预估1.06美元。 第四季度调整后息税折旧及摊销前利润119亿美元，预估120亿美元。 第四季度营运收入364亿美元，预估361亿美元。 Verizon预计2026年营业现金流375亿美元至380亿美元，市场预估387.5亿美元。 Verizon预计2026年调整后每股收益4.90美元至4.95美元，市场预估4.75美元。 Verizon预计2026年资本支出160亿美元至165亿美元，市场预估180.8亿美元。 Verizon预计2026年自由现金流至少215亿美元，市场预估207.9亿美元。 Verizon美股盘前涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3047342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
+        },
+        {
+          "title": "雪佛龙第四季度调整后每股收益1.52美元，预估1.38美元。 雪佛龙第四季度营收及其他收入468.7亿美元，预估441.6亿美元。 雪佛龙美股盘前跌0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3047332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
         }
       ]
     },
