@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T19:03:20.940942+08:00",
-  "total_titles_processed": 965,
+  "generated_at": "2026-01-31T20:02:55.314901+08:00",
+  "total_titles_processed": 1044,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "提名沃什，特朗普：他会是最伟大的美联储主席之一！",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时05分 ~ 19时03分]"
+          "appearance_count": 16,
+          "time_info": "[08时05分 ~ 20时02分]"
         },
         {
           "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时05分 ~ 19时03分]"
+          "appearance_count": 16,
+          "time_info": "[08时05分 ~ 20时02分]"
         },
         {
           "title": "特朗普粗暴评论斯塔默访华，英高官罕见回了一巴掌",
@@ -69,8 +69,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时31分 ~ 19时03分]"
+          "appearance_count": 15,
+          "time_info": "[09时31分 ~ 20时02分]"
         },
         {
           "title": "美持续施压伊朗，特朗普：没有撤回军事部署的时间表",
@@ -80,8 +80,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时05分 ~ 19时03分]"
+          "appearance_count": 16,
+          "time_info": "[08时05分 ~ 20时02分]"
         },
         {
           "title": "原油收复日内跌幅，特朗普：已向伊朗告知最后期限，希望达成协议，否则拭目以待",
@@ -94,8 +94,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时43分 ~ 19时03分]"
+          "appearance_count": 12,
+          "time_info": "[11时43分 ~ 20时02分]"
         },
         {
           "title": "古巴谴责特朗普行政令意在种族灭绝：将致水电交通医疗全瘫痪",
@@ -131,8 +131,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时05分 ~ 19时03分]"
+          "appearance_count": 16,
+          "time_info": "[08时05分 ~ 20时02分]"
         },
         {
           "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
@@ -181,6 +181,20 @@
           "time_info": "[08时05分 ~ 14时07分]"
         },
         {
+          "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
+          "url": "https://www.cls.cn/detail/2276487",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时08分 ~ 20时02分]"
+        },
+        {
           "title": "美国边境事务主管霍曼：特朗普总统上任刚满一年，我们已通过边境巡逻队和移民与海关执法局完成超过70万次驱逐，这创造了纪录……我经手的驱逐案例数量已超过自艾森豪威尔政府以来任何一位官员。",
           "url": "https://flash.jin10.com/detail/20260131111222966800",
           "source": "金十数据",
@@ -211,19 +225,6 @@
           "time_info": "[11时43分 ~ 16时03分]"
         },
         {
-          "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
-          "url": "https://www.cls.cn/detail/2276487",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时08分 ~ 19时03分]"
-        },
-        {
           "title": "美国总统特朗普：很高兴提名Brett Matsumoto担任美国劳工统计局下一任局长。",
           "url": "https://flash.jin10.com/detail/20260131085624557800",
           "source": "金十数据",
@@ -233,17 +234,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-31）",
-          "url": "https://flash.jin10.com/detail/20260131184250363800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时03分"
         },
         {
           "title": "特朗普起诉美国财政部和国税局，索赔至少 100 亿美元，如何看待此举？他持续起诉的核心目的是什么？",
@@ -313,6 +303,18 @@
           "time_info": "[10时49分 ~ 13时15分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-31）",
+          "url": "https://flash.jin10.com/detail/20260131184250363800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时03分 ~ 20时02分]"
+        },
+        {
           "title": "特朗普：已告知伊朗达成协议的最后期限",
           "url": "https://news.ifeng.com/c/8qLoYxRFqyl",
           "source": "凤凰网",
@@ -322,6 +324,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时05分 ~ 10时50分]"
+        },
+        {
+          "title": "特朗普满意“鲍威尔接班人”：无需白宫施压，沃什自会降息",
+          "url": "https://wallstreetcn.com/articles/3764621",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时05分 ~ 20时02分]"
         },
         {
           "title": "特朗普宣布提名布雷特·松本为劳工统计局新任局长",
@@ -335,18 +349,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时50分 ~ 13时15分]"
-        },
-        {
-          "title": "特朗普满意“鲍威尔接班人”：无需白宫施压，沃什自会降息",
-          "url": "https://wallstreetcn.com/articles/3764621",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时05分 ~ 19时03分]"
         },
         {
           "title": "美国多艘航母、战斗舰已抵达中东！特朗普：计划同伊朗对话，“希望”不动用武力",
@@ -407,6 +409,17 @@
           "time_info": "08时05分"
         },
         {
+          "title": "美国或迎首次人口负增长：特朗普上台1年，赶跑近300万移民",
+          "url": "https://news.ifeng.com/c/8qMdkARYmOZ",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "特朗普起诉美政府部门",
           "url": "https://www.douyin.com/hot/2383706",
           "source": "抖音",
@@ -443,8 +456,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时05分 ~ 19时03分]"
+          "appearance_count": 16,
+          "time_info": "[08时05分 ~ 20时02分]"
         },
         {
           "title": "金价",
@@ -576,6 +589,19 @@
           "time_info": "[09时31分 ~ 11时43分]"
         },
         {
+          "title": "金价银价为何创纪录暴跌",
+          "url": "https://www.douyin.com/hot/2385262",
+          "source": "抖音",
+          "ranks": [
+            24,
+            25,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时03分 ~ 20时02分]"
+        },
+        {
           "title": "金价史诗级大幅震荡",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%B2%E8%AF%97%E7%BA%A7%E5%A4%A7%E5%B9%85%E9%9C%87%E8%8D%A1%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -588,25 +614,13 @@
           "time_info": "[08时05分 ~ 09时31分]"
         },
         {
-          "title": "金价银价为何创纪录暴跌",
-          "url": "https://www.douyin.com/hot/2385262",
-          "source": "抖音",
-          "ranks": [
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时03分 ~ 19时03分]"
-        },
-        {
           "title": "金价30小时暴跌670美元 后市怎么走",
           "url": "https://www.toutiao.com/trending/7601454930070605321/",
           "source": "今日头条",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -617,7 +631,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -636,7 +650,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美国宣布对伊朗最新制裁措施",
@@ -680,11 +694,26 @@
           "ranks": [
             1,
             4,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时05分 ~ 19时03分]"
+          "appearance_count": 4,
+          "time_info": "[17时05分 ~ 20时02分]"
+        },
+        {
+          "title": "伊朗陆军总司令：伊朗武装部队已做好充分的防御和军事准备",
+          "url": "https://flash.jin10.com/detail/20260131164253443800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时05分 ~ 20时02分]"
         },
         {
           "title": "美军：不会容忍伊朗在军演中的“不安全行为”",
@@ -713,19 +742,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时05分 ~ 11时43分]"
-        },
-        {
-          "title": "伊朗陆军总司令：伊朗武装部队已做好充分的防御和军事准备",
-          "url": "https://flash.jin10.com/detail/20260131164253443800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时05分 ~ 19时03分]"
         },
         {
           "title": "伊朗总统：敌对势力企图将伊朗社会抗议演变为内战",
@@ -766,6 +782,17 @@
           "time_info": "[08时05分 ~ 09时31分]"
         },
         {
+          "title": "伊朗总统谴责美以欧煽动仇恨",
+          "url": "https://wallstreetcn.com/livenews/3047682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "曝伊朗4万吨“航母”出动",
           "url": "https://www.toutiao.com/trending/7601069328506555931/",
           "source": "今日头条",
@@ -790,8 +817,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时31分 ~ 19时03分]"
+          "appearance_count": 15,
+          "time_info": "[09时31分 ~ 20时02分]"
         },
         {
           "title": "美股收盘：三大指数集体收低 多只金矿股跌超两位数",
@@ -805,8 +832,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时05分 ~ 19时03分]"
+          "appearance_count": 16,
+          "time_info": "[08时05分 ~ 20时02分]"
         },
         {
           "title": "美股存储芯片指数收跌超4.7%，1月Sandisk涨约143%，希捷科技、美光、西数都累涨超40%",
@@ -885,37 +912,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "UP体验谷歌最新世界模型",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时03分"
-        },
-        {
-          "title": "市场消息：苹果公司高管、Siri高级主管斯图尔特·鲍尔斯离职加入谷歌。",
-          "url": "https://flash.jin10.com/detail/20260131025828448800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 09时31分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
@@ -947,6 +945,47 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时29分 ~ 15时08分]"
+        },
+        {
+          "title": "知情人士：英伟达与OpenAI高达1000亿美元的巨额合作陷入停滞",
+          "url": "https://flash.jin10.com/detail/20260131190934573800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "UP体验谷歌最新世界模型",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时03分 ~ 20时02分]"
+        },
+        {
+          "title": "市场消息：苹果公司高管、Siri高级主管斯图尔特·鲍尔斯离职加入谷歌。",
+          "url": "https://flash.jin10.com/detail/20260131025828448800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 09时31分]"
         }
       ]
     },
