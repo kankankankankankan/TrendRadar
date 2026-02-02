@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T12:39:20.428750+08:00",
-  "total_titles_processed": 764,
+  "generated_at": "2026-02-02T13:29:35.220129+08:00",
+  "total_titles_processed": 826,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 12时39分]"
+          "appearance_count": 6,
+          "time_info": "[09时31分 ~ 13时29分]"
+        },
+        {
+          "title": "哈梅内伊：伊朗人民不应该被特朗普的话吓倒",
+          "url": "https://news.ifeng.com/c/8qPOoB0E678",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时31分 ~ 13时29分]"
         },
         {
           "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
@@ -30,6 +43,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时05分 ~ 12时39分]"
+        },
+        {
+          "title": "特朗普称能让其他国家付钱，绝口不提欠联合国会费",
+          "url": "https://news.ifeng.com/c/8qPfsxsfg0G",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 13时29分]"
         },
         {
           "title": "特朗普表示，将关闭肯尼迪中心两年，以进行翻修。",
@@ -55,19 +79,6 @@
           "time_info": "[08时05分 ~ 09时32分]"
         },
         {
-          "title": "哈梅内伊：伊朗人民不应该被特朗普的话吓倒",
-          "url": "https://news.ifeng.com/c/8qPOoB0E678",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 12时39分]"
-        },
-        {
           "title": "一番威胁后，特朗普称美国正与古巴对话或达成协议",
           "url": "https://news.ifeng.com/c/8qPYF0snUWg",
           "source": "凤凰网",
@@ -90,15 +101,28 @@
           "time_info": "11时54分"
         },
         {
-          "title": "特朗普称能让其他国家付钱，绝口不提欠联合国会费",
-          "url": "https://news.ifeng.com/c/8qPfsxsfg0G",
+          "title": "如果特朗普下令美军入侵加拿大，会怎样？",
+          "url": "https://news.ifeng.com/c/8qPcsjs62Jx",
           "source": "凤凰网",
           "ranks": [
-            5
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 13时29分]"
+        },
+        {
+          "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
+          "url": "https://www.cls.cn/detail/2277005",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 13时29分]"
         },
         {
           "title": "特朗普：美委将“分享”石油收益",
@@ -125,39 +149,17 @@
           "time_info": "[09时31分 ~ 10时58分]"
         },
         {
-          "title": "如果特朗普下令美军入侵加拿大，会怎样？",
-          "url": "https://news.ifeng.com/c/8qPcsjs62Jx",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 12时39分]"
-        },
-        {
-          "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
-          "url": "https://www.cls.cn/detail/2277005",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 12时39分]"
-        },
-        {
           "title": "特朗普回应被爱泼斯坦案文件提及",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E6%8F%90%E5%8F%8A%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
             22,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 12时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 13时29分]"
         },
         {
           "title": "特朗普提名美联储主席后贵金属遭遇血洗！黄金盘中一度暴跌12%，白银创下史上最大日跌幅；美国政府进入“部分停摆”……后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -284,8 +286,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时05分 ~ 12时39分]"
+          "appearance_count": 7,
+          "time_info": "[08时05分 ~ 13时29分]"
         },
         {
           "title": "【早报】金价巨震，银行密集提示风险；两只大牛股今日复牌",
@@ -295,8 +297,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 12时39分]"
+          "appearance_count": 6,
+          "time_info": "[09时31分 ~ 13时29分]"
         },
         {
           "title": "金价暴跌后回收变现火爆",
@@ -316,11 +318,12 @@
           "ranks": [
             12,
             26,
-            28
+            28,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时05分 ~ 12时39分]"
+          "appearance_count": 6,
+          "time_info": "[08时05分 ~ 13时29分]"
         },
         {
           "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
@@ -329,11 +332,35 @@
           "ranks": [
             13,
             10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 13时29分]"
+        },
+        {
+          "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
+          "url": "https://www.zhihu.com/question/1999853811821463456",
+          "source": "知乎",
+          "ranks": [
+            20,
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 12时39分]"
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 13时29分]"
+        },
+        {
+          "title": "金价暴跌后黄金市场挤满顾客",
+          "url": "https://www.douyin.com/hot/2386891",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 13时29分]"
         },
         {
           "title": "金价震荡 多家银行发布风险提示",
@@ -369,17 +396,6 @@
           "time_info": "[09时31分 ~ 09时32分]"
         },
         {
-          "title": "金价暴跌后黄金市场挤满顾客",
-          "url": "https://www.douyin.com/hot/2386891",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
           "title": "金十图示：2026年02月02日（周一）上海金早盘价为1063.22元/克，较国际金价(1055.02元/克)，高8.2元/克",
           "url": "https://flash.jin10.com/detail/20260202102356374800",
           "source": "金十数据",
@@ -400,17 +416,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
-        },
-        {
-          "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
-          "url": "https://www.zhihu.com/question/1999853811821463456",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
         }
       ]
     },
@@ -545,8 +550,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 12时39分]"
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 13时29分]"
         },
         {
           "title": "美股期货亚市盘初走低，纳斯达克100指数期货跌0.8%，标普500指数期货跌0.6%。 现货黄金盘初大幅波动，最低报4783.98美元/盎司，目前反弹至4840美元一线附近，日内跌0.5%。 现货白银亦大幅波动，最低报80.53美元/盎司，目前反弹至82.15美元，日内跌2.7%。 布伦特原油期货亚市开盘下跌2.4%，至每桶67.78美元。",
@@ -586,8 +591,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时05分 ~ 12时39分]"
+          "appearance_count": 7,
+          "time_info": "[08时05分 ~ 13时29分]"
         }
       ]
     },
@@ -605,8 +610,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时05分 ~ 12时39分]"
+          "appearance_count": 5,
+          "time_info": "[08时05分 ~ 13时29分]"
         }
       ]
     },
