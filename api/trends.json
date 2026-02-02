@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-02-02T08:05:25.310349+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-02-02T09:32:04.851244+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
-          "title": "特朗普再次表态：将与古巴达成协议",
-          "url": "https://news.ifeng.com/c/8qMd74BpD5R",
+          "title": "美媒曝特朗普计划建造76米巨型凯旋门，白宫回应(图)",
+          "url": "https://news.ifeng.com/c/8qOoTOMvfMS",
           "source": "凤凰网",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 09时32分]"
         },
         {
           "title": "特朗普表示，将关闭肯尼迪中心两年，以进行翻修。",
@@ -28,6 +28,64 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "特朗普再次表态：将与古巴达成协议",
+          "url": "https://news.ifeng.com/c/8qMd74BpD5R",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 09时32分]"
+        },
+        {
+          "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32510036",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 09时32分]"
+        },
+        {
+          "title": "特朗普：美委将“分享”石油收益",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32510288",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 09时32分]"
+        },
+        {
+          "title": "哈梅内伊：伊朗人民不应该被特朗普的话吓倒",
+          "url": "https://news.ifeng.com/c/8qPOoB0E678",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 09时32分]"
+        },
+        {
+          "title": "比特币跌破80000美元！与特朗普政府紧密联系反成拖累",
+          "url": "https://www.cls.cn/detail/2276706",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 09时32分]"
         },
         {
           "title": "美媒曝特朗普要建巨型凯旋门，白宫回应",
@@ -52,17 +110,6 @@
           "time_info": "08时05分"
         },
         {
-          "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32510036",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
           "title": "爱泼斯坦案多名受害者指控特朗普",
           "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E5%A4%9A%E5%90%8D%E5%8F%97%E5%AE%B3%E8%80%85%E6%8C%87%E6%8E%A7%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -79,17 +126,6 @@
           "source": "金十数据",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "特朗普：美委将“分享”石油收益",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32510288",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -143,18 +179,53 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "伊朗最高领袖：近期抗议示威形同政变，已被平定",
           "url": "https://news.ifeng.com/c/8qOoftoUdPj",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 09时32分]"
+        },
+        {
+          "title": "伊朗多地爆炸消息引发焦虑，美伊均释放和谈信号，哈梅内伊现身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32509724",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 09时32分]"
+        },
+        {
+          "title": "伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 09时32分]"
+        },
+        {
+          "title": "UP主记录动荡中的伊朗",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%AE%B0%E5%BD%95%E5%8A%A8%E8%8D%A1%E4%B8%AD%E7%9A%84%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 09时32分]"
         },
         {
           "title": "伊朗政府公布近期骚乱事件遇难者名单",
@@ -162,17 +233,6 @@
           "source": "凤凰网",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "伊朗多地爆炸消息引发焦虑，美伊均释放和谈信号，哈梅内伊现身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32509724",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -201,6 +261,17 @@
           "time_info": "08时05分"
         },
         {
+          "title": "伊朗官员否认计划在霍尔木兹海峡实弹演习",
+          "url": "https://wallstreetcn.com/livenews/3047908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
           "title": "伊朗外长：对与美国就核问题达成协议“仍然有信心”",
           "url": "https://wallstreetcn.com/livenews/3047832",
           "source": "华尔街见闻-快讯",
@@ -215,25 +286,37 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
+          "url": "https://wallstreetcn.com/articles/3764687",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 09时32分]"
+        },
+        {
+          "title": "【早报】金价巨震，银行密集提示风险；两只大牛股今日复牌",
+          "url": "https://www.cls.cn/detail/2276967",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 09时32分]"
+        },
         {
           "title": "金价暴跌后回收变现火爆",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%90%8E%E5%9B%9E%E6%94%B6%E5%8F%98%E7%8E%B0%E7%81%AB%E7%88%86%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
-          "url": "https://wallstreetcn.com/articles/3764687",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -247,8 +330,41 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 09时32分]"
+        },
+        {
+          "title": "金价震荡 多家银行发布风险提示",
+          "url": "https://www.toutiao.com/trending/7601831569082859583/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 09时32分]"
+        },
+        {
+          "title": "金价有没有天花板",
+          "url": "https://www.toutiao.com/trending/7602036177641672238/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 09时32分]"
+        },
+        {
+          "title": "金价下跌30克金镯2天降价6000元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C30%E5%85%8B%E9%87%91%E9%95%AF2%E5%A4%A9%E9%99%8D%E4%BB%B76000%E5%85%83%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 09时32分]"
         }
       ]
     },
@@ -289,11 +405,12 @@
           "url": "https://wallstreetcn.com/articles/3764656",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 09时32分]"
         }
       ]
     },
@@ -328,6 +445,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "台湾证交所加权股价指数盘初下跌1.1%至31,712.11点。 新台币兑美元下跌0.3%至31.565。",
+          "url": "https://wallstreetcn.com/livenews/3047913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时32分"
         }
       ]
     }
