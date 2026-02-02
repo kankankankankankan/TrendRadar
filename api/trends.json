@@ -1,11 +1,420 @@
 {
-  "generated_at": "2026-02-02T18:14:48.603195+08:00",
-  "total_titles_processed": 1322,
+  "generated_at": "2026-02-02T19:14:58.139885+08:00",
+  "total_titles_processed": 1424,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "伊朗",
+      "match_count": 36,
+      "titles": [
+        {
+          "title": "武契奇预判48小时内伊朗将遭到美国袭击",
+          "url": "https://news.ifeng.com/c/8qPlpK894Ls",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时19分 ~ 17时13分]"
+        },
+        {
+          "title": "伊朗最高领袖：近期抗议示威形同政变，已被平定",
+          "url": "https://news.ifeng.com/c/8qOoftoUdPj",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 09时32分]"
+        },
+        {
+          "title": "伊朗局势现转机 贵金属原油集体跳水",
+          "url": "https://www.toutiao.com/trending/7601185175489839140/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时54分 ~ 12时39分]"
+        },
+        {
+          "title": "已紧扣扳机！美军打击伊朗所需装备已部署齐全",
+          "url": "https://news.ifeng.com/c/8qQ4FwgNOwT",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 19时14分]"
+        },
+        {
+          "title": "伊朗为何突然在核问题上松口",
+          "url": "https://www.toutiao.com/trending/7602184928612077092/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
+          "title": "伊朗总统已下令开启核谈判",
+          "url": "https://wallstreetcn.com/livenews/3048321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
+          "title": "伊朗军方将在边境地区举行军事演习",
+          "url": "https://wallstreetcn.com/livenews/3048318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
+          "title": "懂了｜美国亲手埋下“核种子”：6分钟看伊朗核问题的前世今生",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32498721",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时08分 ~ 19时14分]"
+        },
+        {
+          "title": "伊朗外长分别与埃及沙特土耳其外长通电话",
+          "url": "https://wallstreetcn.com/livenews/3048288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 19时14分]"
+        },
+        {
+          "title": "伊朗多地爆炸消息引发焦虑，美伊均释放和谈信号，哈梅内伊现身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32509724",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 09时32分]"
+        },
+        {
+          "title": "日媒：伊朗相关局势升温，阿联酋总统将取消访日行程",
+          "url": "https://wallstreetcn.com/livenews/3048246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 18时14分]"
+        },
+        {
+          "title": "伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 09时32分]"
+        },
+        {
+          "title": "UP主记录动荡中的伊朗",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%AE%B0%E5%BD%95%E5%8A%A8%E8%8D%A1%E4%B8%AD%E7%9A%84%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 09时32分]"
+        },
+        {
+          "title": "武契奇预计伊朗将在48小时内遭袭",
+          "url": "https://www.toutiao.com/trending/7602178880666157119/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "伊朗总统已下令启动核谈判",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%B7%B2%E4%B8%8B%E4%BB%A4%E5%90%AF%E5%8A%A8%E6%A0%B8%E8%B0%88%E5%88%A4",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
+          "title": "伊朗政府公布近期骚乱事件遇难者名单",
+          "url": "https://news.ifeng.com/c/8qNpkce6tvU",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗与美国会谈或将伊朗外长有阿拉格奇和美国特使威特科夫参与。",
+          "url": "https://flash.jin10.com/detail/20260202182302489800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
+          "title": "伊朗否认收到美国“最后通牒” 称希望未来几天确定谈判细节",
+          "url": "https://wallstreetcn.com/livenews/3048278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "伊朗媒体称伊美未来几天可能举行高规格谈判",
+          "url": "https://wallstreetcn.com/livenews/3048310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
+          "title": "市场消息：伊朗外交部称正在评估各种外交途径，希望未来几天能取得成果。",
+          "url": "https://flash.jin10.com/detail/20260202152620295800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗与美国会谈的时间和地点尚未最终确定。",
+          "url": "https://flash.jin10.com/detail/20260202182232113800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
+          "title": "伊朗总统已下令启动核谈判",
+          "url": "https://www.douyin.com/hot/2387489",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
+          "title": "伊朗总统已下令启动核谈判",
+          "url": "https://www.toutiao.com/trending/7602220975286914602/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗与美国可能在未来几天举行会谈。",
+          "url": "https://flash.jin10.com/detail/20260202182205225800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
+          "title": "塞尔维亚总统武契奇预测伊朗48小时内将遭袭",
+          "url": "https://flash.jin10.com/detail/20260202152001394800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
+          "title": "美官员称美政府已通过多渠道向伊朗传达谈判意向",
+          "url": "https://wallstreetcn.com/livenews/3047840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "以美高级军官商讨对伊朗防务安排",
+          "url": "https://wallstreetcn.com/livenews/3048078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "伊朗召见欧洲国家所有驻伊大使抗议",
+          "url": "https://www.toutiao.com/trending/7601995362588459050/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
+          "title": "以总理内塔尼亚胡与高级官员讨论伊朗紧张局势",
+          "url": "https://wallstreetcn.com/livenews/3047831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "伊朗官员否认计划在霍尔木兹海峡实弹演习",
+          "url": "https://wallstreetcn.com/livenews/3047908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
+          "title": "伊朗有能力在无核武情况下自卫吗",
+          "url": "https://www.toutiao.com/trending/7601102138882506815/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
+          "title": "克里姆林宫：仍在努力缓和伊朗周边的紧张局势。",
+          "url": "https://flash.jin10.com/detail/20260202175252542800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
+          "title": "伊朗外长：对与美国就核问题达成协议“仍然有信心”",
+          "url": "https://wallstreetcn.com/livenews/3047832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "克里姆林宫：（在伊朗局势和铀问题上）早在很久以前俄方就曾提供过相关服务，以消除“干扰因素”。",
+          "url": "https://flash.jin10.com/detail/20260202175216042800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
+          "title": "伊朗外交部发言人：正在审议同美国谈判细节",
+          "url": "https://wallstreetcn.com/livenews/3048218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
+          "title": "伊朗外交部发言人：伊朗已召见欧洲国家所有驻伊大使发出书面抗议",
+          "url": "https://wallstreetcn.com/livenews/3048210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普称能让其他国家付钱，绝口不提欠联合国会费",
@@ -28,8 +437,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时20分 ~ 18时14分]"
+          "appearance_count": 7,
+          "time_info": "[15时20分 ~ 19时14分]"
         },
         {
           "title": "如果特朗普下令美军入侵加拿大，会怎样？",
@@ -255,6 +664,17 @@
           "time_info": "10时58分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-02）",
+          "url": "https://flash.jin10.com/detail/20260202181717877800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
           "title": "美国总统特朗普：格莱美奖是最糟糕的，几乎无法入目。",
           "url": "https://flash.jin10.com/detail/20260202134832302800",
           "source": "金十数据",
@@ -286,6 +706,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "克里姆林宫：对于此前就俄罗斯应特朗普请求短暂暂停打击乌克兰能源基础设施一事所作表态，已无更多补充。",
+          "url": "https://flash.jin10.com/detail/20260202175246532800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "美国众议院议长约翰逊：特朗普在移民政策上可能会进行“重新调整”。 未来数日将就拨款法案展开 “富有成效的” 磋商。",
@@ -353,8 +784,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时39分 ~ 18时14分]"
+          "appearance_count": 10,
+          "time_info": "[12时39分 ~ 19时14分]"
         },
         {
           "title": "金价暴跌后黄金市场挤满顾客",
@@ -427,7 +858,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -517,7 +948,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -561,7 +992,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -572,268 +1003,15 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 22,
-      "titles": [
-        {
-          "title": "武契奇预判48小时内伊朗将遭到美国袭击",
-          "url": "https://news.ifeng.com/c/8qPlpK894Ls",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时19分 ~ 17时13分]"
-        },
-        {
-          "title": "伊朗最高领袖：近期抗议示威形同政变，已被平定",
-          "url": "https://news.ifeng.com/c/8qOoftoUdPj",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时05分 ~ 09时32分]"
-        },
-        {
-          "title": "伊朗局势现转机 贵金属原油集体跳水",
-          "url": "https://www.toutiao.com/trending/7601185175489839140/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 12时39分]"
-        },
-        {
-          "title": "伊朗外长分别与埃及沙特土耳其外长通电话",
-          "url": "https://wallstreetcn.com/livenews/3048288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "已紧扣扳机！美军打击伊朗所需装备已部署齐全",
-          "url": "https://news.ifeng.com/c/8qQ4FwgNOwT",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "懂了｜美国亲手埋下“核种子”：6分钟看伊朗核问题的前世今生",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32498721",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时08分 ~ 18时14分]"
-        },
-        {
-          "title": "伊朗多地爆炸消息引发焦虑，美伊均释放和谈信号，哈梅内伊现身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32509724",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时05分 ~ 09时32分]"
-        },
-        {
-          "title": "日媒：伊朗相关局势升温，阿联酋总统将取消访日行程",
-          "url": "https://wallstreetcn.com/livenews/3048246",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时13分 ~ 18时14分]"
-        },
-        {
-          "title": "伊朗",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 09时32分]"
-        },
-        {
-          "title": "UP主记录动荡中的伊朗",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%AE%B0%E5%BD%95%E5%8A%A8%E8%8D%A1%E4%B8%AD%E7%9A%84%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 09时32分]"
-        },
-        {
-          "title": "武契奇预计伊朗将在48小时内遭袭",
-          "url": "https://www.toutiao.com/trending/7602178880666157119/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "伊朗政府公布近期骚乱事件遇难者名单",
-          "url": "https://news.ifeng.com/c/8qNpkce6tvU",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "伊朗否认收到美国“最后通牒” 称希望未来几天确定谈判细节",
-          "url": "https://wallstreetcn.com/livenews/3048278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "市场消息：伊朗外交部称正在评估各种外交途径，希望未来几天能取得成果。",
-          "url": "https://flash.jin10.com/detail/20260202152620295800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时09分"
-        },
-        {
-          "title": "塞尔维亚总统武契奇预测伊朗48小时内将遭袭",
-          "url": "https://flash.jin10.com/detail/20260202152001394800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时09分"
-        },
-        {
-          "title": "美官员称美政府已通过多渠道向伊朗传达谈判意向",
-          "url": "https://wallstreetcn.com/livenews/3047840",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "以美高级军官商讨对伊朗防务安排",
-          "url": "https://wallstreetcn.com/livenews/3048078",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "以总理内塔尼亚胡与高级官员讨论伊朗紧张局势",
-          "url": "https://wallstreetcn.com/livenews/3047831",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "伊朗官员否认计划在霍尔木兹海峡实弹演习",
-          "url": "https://wallstreetcn.com/livenews/3047908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时32分"
-        },
-        {
-          "title": "伊朗外长：对与美国就核问题达成协议“仍然有信心”",
-          "url": "https://wallstreetcn.com/livenews/3047832",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "伊朗外交部发言人：正在审议同美国谈判细节",
-          "url": "https://wallstreetcn.com/livenews/3048218",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时13分"
-        },
-        {
-          "title": "伊朗外交部发言人：伊朗已召见欧洲国家所有驻伊大使发出书面抗议",
-          "url": "https://wallstreetcn.com/livenews/3048210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时13分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金银深V遭沪盘打压，现货黄金跌破4600美元关口、沪银跌17%、沪金跌超10%，美股期货、原油走低",
@@ -870,13 +1048,24 @@
           "time_info": "08时05分"
         },
         {
+          "title": "贵金属普遍遭抛售，美股锂矿商盘前下跌。",
+          "url": "https://flash.jin10.com/detail/20260202180049726800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
           "title": "美股盘前，明星科技股普跌，英伟达跌近2%，AMD跌超2.4%；存储芯片股多数走低，西部数据跌超3%；甲骨文盘前跌5%，公司今年将融资500亿美元；黄金股大跌，哈莫尼黄金跌超5%。美股能源股，西方石油跌超3%，康菲石油跌超2%。",
           "url": "https://wallstreetcn.com/livenews/3048249",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -964,8 +1153,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时05分 ~ 18时14分]"
+          "appearance_count": 15,
+          "time_info": "[08时05分 ~ 19时14分]"
         }
       ]
     },
