@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T14:14:22.009150+08:00",
-  "total_titles_processed": 910,
+  "generated_at": "2026-02-03T15:16:54.140473+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时06分 ~ 14时14分]"
+          "appearance_count": 11,
+          "time_info": "[08时06分 ~ 15时16分]"
         },
         {
           "title": "特朗普：美印达成贸易协议 印度同意停购俄油+5000亿商品采购",
@@ -29,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时31分 ~ 14时14分]"
+          "appearance_count": 10,
+          "time_info": "[09时31分 ~ 15时16分]"
         },
         {
           "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
@@ -42,8 +42,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时31分 ~ 14时14分]"
+          "appearance_count": 10,
+          "time_info": "[09时31分 ~ 15时16分]"
         },
         {
           "title": "特朗普称美印达成贸易协议，对印关税下调至 18%，这场交易背后各有哪些算计？会带来什么影响？",
@@ -94,6 +94,17 @@
           "time_info": "[12时32分 ~ 13时23分]"
         },
         {
+          "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
+          "url": "https://wallstreetcn.com/articles/3764775",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
           "title": "劳工统计局官宣周五非农延期发布，金银亚盘反弹；特朗普宣布与印度达成贸易协议，伊朗总统下令开启核谈判……后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20260203103642471800",
           "source": "金十数据",
@@ -116,13 +127,24 @@
           "time_info": "08时06分"
         },
         {
+          "title": "特朗普“停火周”谢幕 俄罗斯恢复对乌基础设施打击",
+          "url": "https://flash.jin10.com/detail/20260203144824218800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
           "title": "法庭文件显示，纽约市发展委员会起诉特朗普政府，指控其扣留连接纽约市和新泽西州、耗资160亿美元的隧道建设资金。",
           "url": "https://flash.jin10.com/detail/20260203133008885800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
         },
@@ -174,7 +196,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美伊或开启核谈判，伊朗释放双重信号",
@@ -183,11 +205,12 @@
           "ranks": [
             1,
             2,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时31分 ~ 14时14分]"
+          "appearance_count": 10,
+          "time_info": "[09时31分 ~ 15时16分]"
         },
         {
           "title": "伊朗总统已下令与美开展核问题专项谈判，有何考量？此次外交行动会打破僵局吗？",
@@ -244,7 +267,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
         },
@@ -266,7 +289,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
         },
@@ -280,6 +303,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32520089",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
@@ -318,8 +352,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时31分 ~ 14时14分]"
+          "appearance_count": 10,
+          "time_info": "[09时31分 ~ 15时16分]"
         },
         {
           "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
@@ -331,8 +365,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时06分 ~ 14时14分]"
+          "appearance_count": 11,
+          "time_info": "[08时06分 ~ 15时16分]"
         },
         {
           "title": "黄金白银剧烈波动 美股三大期指集体下跌 | 今夜看点",
@@ -481,8 +515,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 14时14分]"
+          "appearance_count": 6,
+          "time_info": "[12时31分 ~ 15时16分]"
         },
         {
           "title": "李大霄解读金价一夜V型反转",
@@ -528,6 +562,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美债收益率亚洲盘微升 沃什提名驱动曲线陡峭化",
+          "url": "https://flash.jin10.com/detail/20260203145757767800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
+          "title": "市场静待美国周三“再融资大考”，美债拍卖规模通常“按部就班”",
+          "url": "https://flash.jin10.com/detail/20260203144424298800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         }
       ]
     },
