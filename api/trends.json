@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T17:12:44.888805+08:00",
-  "total_titles_processed": 1198,
+  "generated_at": "2026-02-04T18:12:52.776126+08:00",
+  "total_titles_processed": 1297,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时46分 ~ 17时12分]"
+          "appearance_count": 8,
+          "time_info": "[11时46分 ~ 18时12分]"
         },
         {
           "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时54分 ~ 17时12分]"
+          "appearance_count": 9,
+          "time_info": "[10时54分 ~ 18时12分]"
         },
         {
           "title": "特朗普：普京遵守了停火承诺，那边真的很冷",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时19分 ~ 17时12分]"
+          "appearance_count": 6,
+          "time_info": "[13时19分 ~ 18时12分]"
         },
         {
           "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
@@ -54,8 +54,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时19分 ~ 17时12分]"
+          "appearance_count": 6,
+          "time_info": "[13时19分 ~ 18时12分]"
         },
         {
           "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
@@ -163,6 +163,18 @@
           "time_info": "[10时54分 ~ 11时46分]"
         },
         {
+          "title": "特朗普与爱泼斯坦聚会视频曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E8%81%9A%E4%BC%9A%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 18时12分]"
+        },
+        {
           "title": "特朗普面对爱泼斯坦案追问怒斥CNN记者：你连微笑都没有，难怪你们没人看",
           "url": "https://m.thepaper.cn/newsDetail_forward_32529746",
           "source": "澎湃新闻",
@@ -191,7 +203,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         },
@@ -262,17 +274,6 @@
           "time_info": "14时13分"
         },
         {
-          "title": "特朗普与爱泼斯坦聚会视频曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E8%81%9A%E4%BC%9A%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
-        },
-        {
           "title": "特朗普称正与伊朗进行谈判",
           "url": "https://wallstreetcn.com/livenews/3049367",
           "source": "华尔街见闻-快讯",
@@ -301,9 +302,182 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "美军击落伊朗无人机",
+          "url": "https://www.douyin.com/hot/2388820",
+          "source": "抖音",
+          "ranks": [
+            8,
+            23,
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时05分 ~ 18时12分]"
+        },
+        {
+          "title": "美军击落伊朗无人机后，油轮遭伊炮艇威胁",
+          "url": "https://news.ifeng.com/c/8qSiuqvrYSf",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 12时31分]"
+        },
+        {
+          "title": "如何看待美国在阿拉伯海击落伊朗无人机？",
+          "url": "https://www.zhihu.com/question/2002278954355139608",
+          "source": "知乎",
+          "ranks": [
+            13,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时19分 ~ 18时12分]"
+        },
+        {
+          "title": "一位美国官员表示，伊朗革命卫队原计划于上周日和本周一在霍尔木兹海峡进行实弹军事演习，但在收到美国的警告后取消了演习。",
+          "url": "https://flash.jin10.com/detail/20260204074146879800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "美军击落伊朗无人机",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%87%BB%E8%90%BD%E4%BC%8A%E6%9C%97%E6%97%A0%E4%BA%BA%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            10,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 14时13分]"
+        },
+        {
+          "title": "美方证实击落一架伊朗无人机",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%96%B9%E8%AF%81%E5%AE%9E%E5%87%BB%E8%90%BD%E4%B8%80%E6%9E%B6%E4%BC%8A%E6%9C%97%E6%97%A0%E4%BA%BA%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 10时54分]"
+        },
+        {
+          "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32529750",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 18时12分]"
+        },
+        {
+          "title": "伊朗：一艘船非法进入伊朗领海",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E4%B8%80%E8%89%98%E8%88%B9%E9%9D%9E%E6%B3%95%E8%BF%9B%E5%85%A5%E4%BC%8A%E6%9C%97%E9%A2%86%E6%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 10时54分]"
+        },
+        {
+          "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
+          "url": "https://wallstreetcn.com/articles/3764876",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32520089",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "伊朗称失联无人机曾传回图片",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%A4%B1%E8%81%94%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%9B%BE%E4%BC%A0%E5%9B%9E%E5%9B%BE%E7%89%87%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "伊朗高级将领：若遭美国攻击 以色列将成为首要报复目标",
+          "url": "https://wallstreetcn.com/livenews/3049584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
+          "title": "布油、WTI原油期货日内涨超1%。据AXIOS，美国同意伊朗的要求，将周五的会谈移至阿曼举行。",
+          "url": "https://wallstreetcn.com/livenews/3049479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "伊朗高级将领：若遭美国攻击 以色列将成为首要报复目标",
+          "url": "https://flash.jin10.com/detail/20260204130249150800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         }
       ]
     },
@@ -320,8 +494,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时05分 ~ 17时12分]"
+          "appearance_count": 11,
+          "time_info": "[08时05分 ~ 18时12分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -332,8 +506,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时31分 ~ 17时12分]"
+          "appearance_count": 10,
+          "time_info": "[09时31分 ~ 18时12分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
@@ -369,8 +543,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时19分 ~ 17时12分]"
+          "appearance_count": 6,
+          "time_info": "[13时19分 ~ 18时12分]"
         },
         {
           "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
@@ -383,8 +557,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时31分 ~ 17时12分]"
+          "appearance_count": 7,
+          "time_info": "[12时31分 ~ 18时12分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
@@ -396,19 +570,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时13分 ~ 17时12分]"
+          "appearance_count": 5,
+          "time_info": "[14时13分 ~ 18时12分]"
         },
         {
           "title": "AMD美股盘前跌超7％，消息面上，公司下一季度营收指引不及市场预期。",
           "url": "https://wallstreetcn.com/livenews/3049757",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 18时12分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5000美元关口",
@@ -468,166 +643,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "美军击落伊朗无人机",
-          "url": "https://www.douyin.com/hot/2388820",
-          "source": "抖音",
-          "ranks": [
-            8,
-            23,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时05分 ~ 17时12分]"
-        },
-        {
-          "title": "美军击落伊朗无人机后，油轮遭伊炮艇威胁",
-          "url": "https://news.ifeng.com/c/8qSiuqvrYSf",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时31分 ~ 12时31分]"
-        },
-        {
-          "title": "一位美国官员表示，伊朗革命卫队原计划于上周日和本周一在霍尔木兹海峡进行实弹军事演习，但在收到美国的警告后取消了演习。",
-          "url": "https://flash.jin10.com/detail/20260204074146879800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "美军击落伊朗无人机",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%87%BB%E8%90%BD%E4%BC%8A%E6%9C%97%E6%97%A0%E4%BA%BA%E6%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            10,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时54分 ~ 14时13分]"
-        },
-        {
-          "title": "如何看待美国在阿拉伯海击落伊朗无人机？",
-          "url": "https://www.zhihu.com/question/2002278954355139608",
-          "source": "知乎",
-          "ranks": [
-            13,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时19分 ~ 17时12分]"
-        },
-        {
-          "title": "美方证实击落一架伊朗无人机",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%96%B9%E8%AF%81%E5%AE%9E%E5%87%BB%E8%90%BD%E4%B8%80%E6%9E%B6%E4%BC%8A%E6%9C%97%E6%97%A0%E4%BA%BA%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时05分 ~ 10时54分]"
-        },
-        {
-          "title": "伊朗：一艘船非法进入伊朗领海",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E4%B8%80%E8%89%98%E8%88%B9%E9%9D%9E%E6%B3%95%E8%BF%9B%E5%85%A5%E4%BC%8A%E6%9C%97%E9%A2%86%E6%B5%B7",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 10时54分]"
-        },
-        {
-          "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32520089",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "伊朗称失联无人机曾传回图片",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%A4%B1%E8%81%94%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%9B%BE%E4%BC%A0%E5%9B%9E%E5%9B%BE%E7%89%87%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32529750",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
-        },
-        {
-          "title": "伊朗高级将领：若遭美国攻击 以色列将成为首要报复目标",
-          "url": "https://wallstreetcn.com/livenews/3049584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时13分"
-        },
-        {
-          "title": "布油、WTI原油期货日内涨超1%。据AXIOS，美国同意伊朗的要求，将周五的会谈移至阿曼举行。",
-          "url": "https://wallstreetcn.com/livenews/3049479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
-          "title": "伊朗高级将领：若遭美国攻击 以色列将成为首要报复目标",
-          "url": "https://flash.jin10.com/detail/20260204130249150800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时13分"
         }
       ]
     },
@@ -733,19 +748,8 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "金价创2009年以来最大单日涨幅",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%88%9B2009%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%8D%95%E6%97%A5%E6%B6%A8%E5%B9%85%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
-        },
         {
           "title": "高盛称，仍认为其对2026年12月金价在每盎司5,400美元的预测面临明显的上行风险。 高盛称，从时间线来看，1月金价波动更多由西方资金流驱动，而非中国投机所致。",
           "url": "https://wallstreetcn.com/livenews/3049511",
@@ -770,6 +774,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时54分 ~ 11时46分]"
+        },
+        {
+          "title": "金价创2009年以来最大单日涨幅",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%88%9B2009%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%8D%95%E6%97%A5%E6%B6%A8%E5%B9%85%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 18时12分]"
         },
         {
           "title": "金价暴力反弹重上5000美元",
@@ -809,13 +825,24 @@
           "time_info": "11时46分"
         },
         {
+          "title": "随着金价上涨逾2%，在美上市的黄金矿业股盘前走高。纽蒙特矿业(NEM.N)上涨2.5%，巴里克黄金(GOLD.N)上涨2.5%。",
+          "url": "https://flash.jin10.com/detail/20260204172610092800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
           "title": "地缘政治紧张局势再度升温 金价现徘徊在5100美元附近",
           "url": "https://flash.jin10.com/detail/20260204165932668800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         }
@@ -865,8 +892,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时05分 ~ 17时12分]"
+          "appearance_count": 11,
+          "time_info": "[08时05分 ~ 18时12分]"
         }
       ]
     },
