@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T09:31:50.341440+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-02-04T10:54:23.752110+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -52,13 +52,35 @@
           "time_info": "08时05分"
         },
         {
+          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
+          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "美国政府结束部分停摆，美伊局势再度紧张！黄金重回5000美元上方；“特朗普亲信”再度呼吁降息超一个百分点……后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260204103150385800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
           "title": "特朗普公布120亿美元“金库计划”",
           "url": "https://news.ifeng.com/c/8qSe1tjtzmx",
           "source": "凤凰网",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -80,9 +102,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "特朗普启动「金库计划」建立国家关键矿产储备，以减少对华依赖，并牵头组建「多国矿产联盟」，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2002159462488773758",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "美媒：特朗普政府同意与伊朗在阿曼举行谈判",
+          "url": "https://wallstreetcn.com/livenews/3049486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         },
         {
           "title": "特朗普称正与伊朗进行谈判",
@@ -94,6 +138,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "特朗普称正与伊朗进行谈判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32529283",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         },
         {
           "title": "特朗普称有问题的是比尔盖茨那些人",
@@ -109,106 +164,20 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 8,
+      "keyword_group": "伊朗",
+      "match_count": 9,
       "titles": [
         {
-          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
+          "title": "美军击落伊朗无人机",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%87%BB%E8%90%BD%E4%BC%8A%E6%9C%97%E6%97%A0%E4%BA%BA%E6%9C%BA",
+          "source": "bilibili 热搜",
           "ranks": [
             1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 09时31分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
-          "url": "https://www.cls.cn/detail/2279710",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 09时31分]"
-        },
-        {
-          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
-          "url": "https://wallstreetcn.com/articles/3764882",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "10时54分"
         },
-        {
-          "title": "美伊对峙升温：美军击落伊朗无人机 油价走强美股承压",
-          "url": "https://www.cls.cn/detail/2279689",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 09时31分]"
-        },
-        {
-          "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2279540",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 09时31分]"
-        },
-        {
-          "title": "亚洲软件股跟随美股软件股大跌，AI颠覆性冲击引发担忧",
-          "url": "https://wallstreetcn.com/livenews/3049421",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "美股爆发AI恐慌性抛售",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%88%86%E5%8F%91AI%E6%81%90%E6%85%8C%E6%80%A7%E6%8A%9B%E5%94%AE",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "美股AI软件先驱指数收跌5.22%，报101.34点，美股盘初快速下跌，北京时间23:00过后持续低位震荡。 成分股HubSpot收跌10.55%，Snowflake跌9.15%，新思科技跌8.46%、铿腾电子跌7.15%，Elastic跌8.34%，Adobe跌7.31%，Datadog跌7.28%，MongoDB跌7.14%，Salesforce跌6.85%，甲骨文跌3.37%，微软跌2.87%，C3.ai跌1.56%跌幅最小，Palantir涨6.85%，是唯一收涨的成分股。",
-          "url": "https://wallstreetcn.com/livenews/3049370",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 7,
-      "titles": [
         {
           "title": "一位美国官员表示，伊朗革命卫队原计划于上周日和本周一在霍尔木兹海峡进行实弹军事演习，但在收到美国的警告后取消了演习。",
           "url": "https://flash.jin10.com/detail/20260204074146879800",
@@ -225,11 +194,12 @@
           "url": "https://news.ifeng.com/c/8qSiuqvrYSf",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 10时54分]"
         },
         {
           "title": "美军击落伊朗无人机",
@@ -239,8 +209,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 09时31分]"
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 10时54分]"
         },
         {
           "title": "美方证实击落一架伊朗无人机",
@@ -248,11 +218,24 @@
           "source": "百度热搜",
           "ranks": [
             7,
-            25
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 10时54分]"
+        },
+        {
+          "title": "伊朗：一艘船非法进入伊朗领海",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E4%B8%80%E8%89%98%E8%88%B9%E9%9D%9E%E6%B3%95%E8%BF%9B%E5%85%A5%E4%BC%8A%E6%9C%97%E9%A2%86%E6%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时05分 ~ 09时31分]"
+          "time_info": "[08时05分 ~ 10时54分]"
         },
         {
           "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
@@ -272,16 +255,114 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
         {
-          "title": "伊朗：一艘船非法进入伊朗领海",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E4%B8%80%E8%89%98%E8%88%B9%E9%9D%9E%E6%B3%95%E8%BF%9B%E5%85%A5%E4%BC%8A%E6%9C%97%E9%A2%86%E6%B5%B7",
+          "title": "布油、WTI原油期货日内涨超1%。据AXIOS，美国同意伊朗的要求，将周五的会谈移至阿曼举行。",
+          "url": "https://wallstreetcn.com/livenews/3049479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 10时54分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
+          "url": "https://www.cls.cn/detail/2279710",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 10时54分]"
+        },
+        {
+          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
+          "url": "https://wallstreetcn.com/articles/3764882",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 10时54分]"
+        },
+        {
+          "title": "美伊对峙升温：美军击落伊朗无人机 油价走强美股承压",
+          "url": "https://www.cls.cn/detail/2279689",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 10时54分]"
+        },
+        {
+          "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2279540",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 10时54分]"
+        },
+        {
+          "title": "美股爆发AI恐慌性抛售",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%88%86%E5%8F%91AI%E6%81%90%E6%85%8C%E6%80%A7%E6%8A%9B%E5%94%AE",
           "source": "百度热搜",
           "ranks": [
-            20
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 10时54分]"
+        },
+        {
+          "title": "亚洲软件股跟随美股软件股大跌，AI颠覆性冲击引发担忧",
+          "url": "https://wallstreetcn.com/livenews/3049421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "美股AI软件先驱指数收跌5.22%，报101.34点，美股盘初快速下跌，北京时间23:00过后持续低位震荡。 成分股HubSpot收跌10.55%，Snowflake跌9.15%，新思科技跌8.46%、铿腾电子跌7.15%，Elastic跌8.34%，Adobe跌7.31%，Datadog跌7.28%，MongoDB跌7.14%，Salesforce跌6.85%，甲骨文跌3.37%，微软跌2.87%，C3.ai跌1.56%跌幅最小，Palantir涨6.85%，是唯一收涨的成分股。",
+          "url": "https://wallstreetcn.com/livenews/3049370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -305,6 +386,17 @@
           "time_info": "08时05分"
         },
         {
+          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
+          "url": "https://www.cls.cn/detail/2279758",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 10时54分]"
+        },
+        {
           "title": "苹果为旗下编程工具接入Anthropic和OpenAI智能体功能",
           "url": "https://wallstreetcn.com/livenews/3049379",
           "source": "华尔街见闻-快讯",
@@ -316,17 +408,6 @@
           "time_info": "08时05分"
         },
         {
-          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
-          "url": "https://www.cls.cn/detail/2279758",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
           "title": "英伟达拟向OpenAI投资200亿美元 交易细节尚未敲定",
           "url": "https://flash.jin10.com/detail/20260204072716748800",
           "source": "金十数据",
@@ -336,6 +417,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "高盛：继续认为其2026年12月黄金价格预测5400美元/盎司存在显著上行风险。",
+          "url": "https://flash.jin10.com/detail/20260204103944373800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "高盛称，仍认为其对2026年12月金价在每盎司5,400美元的预测面临明显的上行风险。 高盛称，从时间线来看，1月金价波动更多由西方资金流驱动，而非中国投机所致。",
+          "url": "https://wallstreetcn.com/livenews/3049511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
+          "url": "https://www.zhihu.com/question/1999853061464614005",
+          "source": "知乎",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 09时31分]"
         }
       ]
     },
@@ -352,26 +473,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 09时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
-          "url": "https://www.zhihu.com/question/1999853061464614005",
-          "source": "知乎",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 09时31分]"
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 10时54分]"
         }
       ]
     }
