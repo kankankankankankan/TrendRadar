@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T12:32:26.743234+08:00",
-  "total_titles_processed": 746,
+  "generated_at": "2026-02-05T13:24:11.557970+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时06分 ~ 12时32分]"
+          "appearance_count": 8,
+          "time_info": "[08时06分 ~ 13时24分]"
+        },
+        {
+          "title": "特朗普：中美元首通话内容详实，气氛积极",
+          "url": "https://news.ifeng.com/c/8qUQ05iiX1G",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时31分 ~ 13时24分]"
+        },
+        {
+          "title": "详讯丨习近平同美国总统特朗普通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32535525",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时06分 ~ 13时24分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -30,28 +54,17 @@
           "time_info": "[08时06分 ~ 11时47分]"
         },
         {
-          "title": "特朗普：中美元首通话内容详实，气氛积极",
-          "url": "https://news.ifeng.com/c/8qUQ05iiX1G",
-          "source": "凤凰网",
+          "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
+          "url": "https://www.cls.cn/detail/2281033",
+          "source": "财联社热门",
           "ranks": [
-            1
+            7,
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时31分 ~ 12时32分]"
-        },
-        {
-          "title": "详讯丨习近平同美国总统特朗普通电话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32535525",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时06分 ~ 12时32分]"
+          "time_info": "[11时46分 ~ 13时24分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -96,18 +109,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
-        },
-        {
-          "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
-          "url": "https://www.cls.cn/detail/2281033",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时46分 ~ 12时32分]"
         },
         {
           "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
@@ -195,7 +196,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -228,6 +229,17 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "鲁比奥否认向伊朗让步，透露美方条件",
+          "url": "https://news.ifeng.com/c/8qUUgmewA1z",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时55分 ~ 13时24分]"
+        },
+        {
           "title": "美军称击落伊朗无人机，双方在危险的边缘互相试探？",
           "url": "https://news.ifeng.com/c/8qTVQYD7em2",
           "source": "凤凰网",
@@ -251,27 +263,17 @@
           "time_info": "[08时06分 ~ 10时55分]"
         },
         {
-          "title": "鲁比奥否认向伊朗让步，透露美方条件",
-          "url": "https://news.ifeng.com/c/8qUUgmewA1z",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时55分 ~ 12时32分]"
-        },
-        {
           "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32533277",
           "source": "澎湃新闻",
           "ranks": [
             16,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时46分 ~ 12时32分]"
+          "appearance_count": 5,
+          "time_info": "[11时46分 ~ 13时24分]"
         },
         {
           "title": "伊朗议员喊话对美以先发制人打击",
@@ -333,8 +335,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时06分 ~ 12时32分]"
+          "appearance_count": 8,
+          "time_info": "[08时06分 ~ 13时24分]"
         },
         {
           "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
@@ -397,7 +399,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -407,8 +409,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 12时32分]"
+          "appearance_count": 7,
+          "time_info": "[09时31分 ~ 13时24分]"
         },
         {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
@@ -417,11 +419,23 @@
           "ranks": [
             11,
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时55分 ~ 12时32分]"
+          "appearance_count": 6,
+          "time_info": "[10时55分 ~ 13时24分]"
+        },
+        {
+          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
+          "url": "https://www.cls.cn/detail/2281205",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 13时24分]"
         },
         {
           "title": "周四亚太盘初，纳指期货涨超0.3%，标普股指期货与罗素2000股指期货涨超0.2%，道指期货微跌不到0.1%。 当前（美股盘后），博通涨5.67%，美光科技涨3.05%，Snap涨2.37%，AMD反弹2.19%，英伟达、台积电涨超1%，恩智浦跌约0.4%，微软跌超0.7%，谷歌A跌1.2%，高通跌9.2%。",
