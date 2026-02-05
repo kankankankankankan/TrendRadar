@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T08:06:48.098290+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-02-05T09:31:31.678822+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 09时31分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -26,8 +26,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 09时31分]"
+        },
+        {
+          "title": "习近平同特朗普通电话",
+          "url": "https://www.douyin.com/hot/2389904",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 09时31分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://wallstreetcn.com/articles/3764980",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 09时31分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -41,6 +63,17 @@
           "time_info": "08时06分"
         },
         {
+          "title": "特朗普：中美元首通话内容详实，气氛积极",
+          "url": "https://news.ifeng.com/c/8qUQ05iiX1G",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "金十提示：美国总统特朗普将于周四晚7点（北京时间周五8点）发表声明。",
           "url": "https://flash.jin10.com/detail/20260205075841513800",
           "source": "金十数据",
@@ -52,48 +85,40 @@
           "time_info": "08时06分"
         },
         {
-          "title": "习近平同特朗普通电话",
-          "url": "https://www.douyin.com/hot/2389904",
-          "source": "抖音",
+          "title": "详讯丨习近平同美国总统特朗普通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32535525",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "习近平同美国总统特朗普通电话",
-          "url": "https://wallstreetcn.com/articles/3764980",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 09时31分]"
         },
         {
           "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
           "url": "https://news.ifeng.com/c/8qTDVc9qcbD",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 09时31分]"
         },
         {
-          "title": "详讯丨习近平同美国总统特朗普通电话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32535525",
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32534170",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 09时31分]"
         },
         {
           "title": "特朗普表示，他将不会介入奈飞与派拉蒙之间关于华纳兄弟探索公司的争夺战。（NBC）",
@@ -129,17 +154,6 @@
           "time_info": "08时06分"
         },
         {
-          "title": "习近平同美国总统特朗普通电话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32534170",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
           "title": "据华尔街日报：美国众议院民主党议员启动一项调查，内容涉及阿布扎比王室成员向特朗普家族旗下的世界自由金融公司注资5亿美元的交易，并正敦促美国检察官同步调查此事。",
           "url": "https://flash.jin10.com/detail/20260205073948214800",
           "source": "金十数据",
@@ -149,23 +163,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "特朗普政府为何急于将爱泼斯坦案翻篇",
+          "url": "https://www.toutiao.com/trending/7602790456565006372/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "特朗普：AI将成为最大的就业、军事和医疗生产者。",
+          "url": "https://wallstreetcn.com/livenews/3050196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "特朗普：美联储“理论上”是独立机构。 鲍威尔在解释（美联储大楼）翻修工程时表现得体。 邦迪（现任美国司法部长）和皮罗（白宫法律顾问）将就鲍威尔的问题自行做出决定。",
+          "url": "https://wallstreetcn.com/livenews/3050195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股收盘：纳指跌破100日线 光伏板块全面爆发",
           "url": "https://www.cls.cn/detail/2280969",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 09时31分]"
         },
         {
           "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
@@ -183,11 +231,23 @@
           "url": "https://www.cls.cn/detail/2280791",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 09时31分]"
+        },
+        {
+          "title": "百度将派发股息 美股盘后涨超3%",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E5%B0%86%E6%B4%BE%E5%8F%91%E8%82%A1%E6%81%AF+%E7%BE%8E%E8%82%A1%E7%9B%98%E5%90%8E%E6%B6%A8%E8%B6%853%25",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时06分"
+          "time_info": "09时31分"
         },
         {
           "title": "美股期货反弹，标普500指数期货现涨0.3%。",
@@ -215,7 +275,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美军称击落伊朗无人机，双方在危险的边缘互相试探？",
@@ -233,11 +293,23 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32529750",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 09时31分]"
+        },
+        {
+          "title": "伊朗军方：已升级弹道导弹技术 增强威慑力量",
+          "url": "https://flash.jin10.com/detail/20260205090858240800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时06分"
+          "time_info": "09时31分"
         },
         {
           "title": "伊朗外长：伊美谈判将于6日在阿曼首都马斯喀特举行",
@@ -254,8 +326,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764994",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
         {
           "title": "周四亚太盘初，纳指期货涨超0.3%，标普股指期货与罗素2000股指期货涨超0.2%，道指期货微跌不到0.1%。 当前（美股盘后），博通涨5.67%，美光科技涨3.05%，Snap涨2.37%，AMD反弹2.19%，英伟达、台积电涨超1%，恩智浦跌约0.4%，微软跌超0.7%，谷歌A跌1.2%，高通跌9.2%。",
           "url": "https://wallstreetcn.com/livenews/3050140",
@@ -278,11 +361,12 @@
           "url": "https://www.cls.cn/detail/2280847",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 09时31分]"
         }
       ]
     }
