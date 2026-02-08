@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T14:14:28.228317+08:00",
-  "total_titles_processed": 644,
+  "generated_at": "2026-02-08T15:14:49.847075+08:00",
+  "total_titles_processed": 703,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时08分 ~ 14时14分]"
+          "appearance_count": 10,
+          "time_info": "[08时08分 ~ 15时14分]"
         },
         {
           "title": "两大日媒批特朗普干涉日本内政：前所未闻，不可容忍",
@@ -54,11 +54,59 @@
             11,
             13,
             19,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时09分 ~ 14时14分]"
+          "appearance_count": 7,
+          "time_info": "[08时09分 ~ 15时14分]"
+        },
+        {
+          "title": "美国联邦通信委员会（FCC）官员Carr谈及总统特朗普力挺Nexstar收购Tegna的交易，宣称：像康卡斯特和迪士尼这样的国家级网络已经聚集了太大的权力。 让我们完成这笔交易，给他们带去真正的竞争。",
+          "url": "https://wallstreetcn.com/livenews/3051751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10,
+            15,
+            17,
+            23,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时09分 ~ 15时14分]"
+        },
+        {
+          "title": "美国总统特朗普：与洪都拉斯总统在安全问题上建立紧密伙伴关系，携手打击贩毒集团和毒贩，将非法移民和帮派成员驱逐出美国。",
+          "url": "https://flash.jin10.com/detail/20260208105958137800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 15时14分]"
+        },
+        {
+          "title": "特朗普态度“大转变”：支持电视广播巨头Nexstar收购Tegna",
+          "url": "https://wallstreetcn.com/livenews/3051747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            13,
+            18,
+            20,
+            26,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时09分 ~ 15时14分]"
         },
         {
           "title": "美国总统特朗普称，促成像Nexstar-Tegna这样的良性交易，将有助于打击假新闻。",
@@ -77,49 +125,30 @@
           "time_info": "[08时09分 ~ 14时14分]"
         },
         {
-          "title": "美国联邦通信委员会（FCC）官员Carr谈及总统特朗普力挺Nexstar收购Tegna的交易，宣称：像康卡斯特和迪士尼这样的国家级网络已经聚集了太大的权力。 让我们完成这笔交易，给他们带去真正的竞争。",
-          "url": "https://wallstreetcn.com/livenews/3051751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            10,
-            15,
-            17,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时09分 ~ 14时14分]"
-        },
-        {
-          "title": "美国总统特朗普：与洪都拉斯总统在安全问题上建立紧密伙伴关系，携手打击贩毒集团和毒贩，将非法移民和帮派成员驱逐出美国。",
-          "url": "https://flash.jin10.com/detail/20260208105958137800",
+          "title": "美国总统特朗普：期待洪都拉斯总统阿斯富拉再次访问美国。",
+          "url": "https://flash.jin10.com/detail/20260208105726564800",
           "source": "金十数据",
           "ranks": [
-            3,
-            5,
-            6
+            4,
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时04分 ~ 14时14分]"
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 15时14分]"
         },
         {
-          "title": "特朗普态度“大转变”：支持电视广播巨头Nexstar收购Tegna",
-          "url": "https://wallstreetcn.com/livenews/3051747",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：与我的朋友、洪都拉斯总统举行了一次非常重要的会晤。讨论了许多其他问题，包括我们两国之间的投资和贸易。",
+          "url": "https://flash.jin10.com/detail/20260208105717509800",
+          "source": "金十数据",
           "ranks": [
+            5,
             7,
-            13,
-            18,
-            20,
-            26,
-            28
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时09分 ~ 14时14分]"
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 15时14分]"
         },
         {
           "title": "特朗普：需要通过竞争来打击散播虚假新闻的电视网络",
@@ -137,30 +166,15 @@
           "time_info": "[09时32分 ~ 14时14分]"
         },
         {
-          "title": "美国总统特朗普：期待洪都拉斯总统阿斯富拉再次访问美国。",
-          "url": "https://flash.jin10.com/detail/20260208105726564800",
-          "source": "金十数据",
+          "title": "学者：特朗普羞辱奥巴马引众怒",
+          "url": "https://www.toutiao.com/trending/7604317625304223283/",
+          "source": "今日头条",
           "ranks": [
-            4,
-            6,
-            7
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时04分 ~ 14时14分]"
-        },
-        {
-          "title": "美国总统特朗普：与我的朋友、洪都拉斯总统举行了一次非常重要的会晤。讨论了许多其他问题，包括我们两国之间的投资和贸易。",
-          "url": "https://flash.jin10.com/detail/20260208105717509800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时04分 ~ 14时14分]"
+          "appearance_count": 2,
+          "time_info": "[14时14分 ~ 15时14分]"
         },
         {
           "title": "特朗普手机鸽了8个月还没上市 价格将上调 也不再是“美国制造”",
@@ -195,17 +209,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时28分 ~ 13时29分]"
-        },
-        {
-          "title": "学者：特朗普羞辱奥巴马引众怒",
-          "url": "https://www.toutiao.com/trending/7604317625304223283/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时14分"
         },
         {
           "title": "尽管物价上涨 特朗普近来已20次声称通胀得到控制",
@@ -258,18 +261,6 @@
       "match_count": 12,
       "titles": [
         {
-          "title": "美特使登航母，与击落伊朗无人机飞行员交流",
-          "url": "https://news.ifeng.com/c/8qZP3seoZvF",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时59分 ~ 13时29分]"
-        },
-        {
           "title": "伊朗武装部队总参谋长：伊空军处于“最高战备状态”",
           "url": "https://flash.jin10.com/detail/20260208094240359800",
           "source": "金十数据",
@@ -280,8 +271,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时59分 ~ 14时14分]"
+          "appearance_count": 5,
+          "time_info": "[10时59分 ~ 15时14分]"
         },
         {
           "title": "伊朗外长：第二轮伊美谈判有望在未来几天内举行",
@@ -295,8 +286,20 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时32分 ~ 15时14分]"
+        },
+        {
+          "title": "美特使登航母，与击落伊朗无人机飞行员交流",
+          "url": "https://news.ifeng.com/c/8qZP3seoZvF",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时32分 ~ 14时14分]"
+          "time_info": "[10时59分 ~ 13时29分]"
         },
         {
           "title": "伊朗外长：第二轮伊美谈判地点可能发生变化",
@@ -415,6 +418,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "因金价飙升，意大利冬奥会金牌成史上最昂贵金牌，如何评价这一变化？",
+          "url": "https://www.zhihu.com/question/2003305831391785957",
+          "source": "知乎",
+          "ranks": [
+            11,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时28分 ~ 15时14分]"
+        },
+        {
           "title": "黄金——资产再配置，金价走向何方？",
           "url": "https://wallstreetcn.com/articles/3765213",
           "source": "华尔街见闻",
@@ -424,18 +440,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时08分 ~ 09时32分]"
-        },
-        {
-          "title": "因金价飙升，意大利冬奥会金牌成史上最昂贵金牌，如何评价这一变化？",
-          "url": "https://www.zhihu.com/question/2003305831391785957",
-          "source": "知乎",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时28分 ~ 14时14分]"
         }
       ]
     },
@@ -471,8 +475,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时08分 ~ 14时14分]"
+          "appearance_count": 10,
+          "time_info": "[08时08分 ~ 15时14分]"
         }
       ]
     }
