@@ -1,51 +1,34 @@
 {
-  "generated_at": "2026-02-09T11:56:49.109575+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2026-02-09T12:41:15.412770+08:00",
+  "total_titles_processed": 713,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "金价",
-      "match_count": 3,
+      "keyword_group": "特朗普",
+      "match_count": 5,
       "titles": [
         {
-          "title": "金价重返5000美元",
-          "url": "https://www.douyin.com/hot/2394322",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "金十图示：2026年02月09日（周一）上海金早盘价为1117.68元/克，较国际金价(1117.33元/克)，高0.35元/克",
-          "url": "https://flash.jin10.com/detail/20260209110142108800",
+          "title": "日本首相高市早苗：我由衷感谢美国总统特朗普的暖心之言。",
+          "url": "https://flash.jin10.com/detail/20260209115712332800",
           "source": "金十数据",
           "ranks": [
-            17
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时56分"
+          "time_info": "12时41分"
         },
         {
-          "title": "金价巨震下买黄金的人怎么样了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%B7%A8%E9%9C%87%E4%B8%8B%E4%B9%B0%E9%BB%84%E9%87%91%E7%9A%84%E4%BA%BA%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
+          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
+          "source": "澎湃新闻",
           "ranks": [
-            29
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 3,
-      "titles": [
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 12时41分]"
+        },
         {
           "title": "唯一能治住特朗普的生物出现了",
           "url": "https://s.weibo.com/weibo?q=%23%E5%94%AF%E4%B8%80%E8%83%BD%E6%B2%BB%E4%BD%8F%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E7%94%9F%E7%89%A9%E5%87%BA%E7%8E%B0%E4%BA%86%23&t=31&band_rank=11&Refer=top",
@@ -78,6 +61,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十图示：2026年02月09日（周一）上海金早盘价为1117.68元/克，较国际金价(1117.33元/克)，高0.35元/克",
+          "url": "https://flash.jin10.com/detail/20260209110142108800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 12时41分]"
+        },
+        {
+          "title": "金价重返5000美元",
+          "url": "https://www.douyin.com/hot/2394322",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "金价巨震下买黄金的人怎么样了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%B7%A8%E9%9C%87%E4%B8%8B%E4%B9%B0%E9%BB%84%E9%87%91%E7%9A%84%E4%BA%BA%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
         }
       ]
     },
@@ -117,7 +140,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
         }
@@ -136,8 +159,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时07分 ~ 11时56分]"
+          "appearance_count": 7,
+          "time_info": "[08时07分 ~ 12时41分]"
         },
         {
           "title": "美股三大股指期货周一盘初均涨0.2%。",
@@ -166,8 +189,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时07分 ~ 11时56分]"
+          "appearance_count": 7,
+          "time_info": "[08时07分 ~ 12时41分]"
         }
       ]
     }
