@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T18:17:05.037329+08:00",
-  "total_titles_processed": 1250,
+  "generated_at": "2026-02-10T19:18:01.879246+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普再放豪言：我选的美联储掌门沃什 有能力推动美国经济增长15%！",
@@ -22,6 +22,19 @@
           "time_info": "[10时59分 ~ 17时17分]"
         },
         {
+          "title": "谷爱凌回应特朗普大骂冬奥运动员",
+          "url": "https://www.toutiao.com/trending/7605068464549744178/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时30分 ~ 19时18分]"
+        },
+        {
           "title": "特朗普：我犯了大错",
           "url": "https://news.ifeng.com/c/8qctqBdiVbv",
           "source": "凤凰网",
@@ -32,18 +45,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时59分 ~ 15时23分]"
-        },
-        {
-          "title": "谷爱凌回应特朗普大骂冬奥运动员",
-          "url": "https://www.toutiao.com/trending/7605068464549744178/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时30分 ~ 18时17分]"
         },
         {
           "title": "谷爱凌回应特朗普大骂冬奥运动员",
@@ -105,6 +106,17 @@
           "time_info": "08时10分"
         },
         {
+          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
+          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时16分 ~ 19时18分]"
+        },
+        {
           "title": "美媒：特朗普称首个任期内在美联储主席人选决策上“犯了大错”",
           "url": "https://wallstreetcn.com/livenews/3052671",
           "source": "华尔街见闻-快讯",
@@ -115,17 +127,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时59分 ~ 12时02分]"
-        },
-        {
-          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
-          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 18时17分]"
         },
         {
           "title": "报道：特朗普计划废除奥巴马政府时期一项气候危害认定",
@@ -194,6 +195,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：将与美国总统特朗普讨论伊朗、加沙和地区问题。",
+          "url": "https://flash.jin10.com/detail/20260210182252680800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-10）",
+          "url": "https://flash.jin10.com/detail/20260210181924005800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "美国总统特朗普：共和党应该在中期选举中“大获全胜”。 美国形势不错，将不得不在中期选举中“推销它”。",
@@ -265,7 +288,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -276,8 +299,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时10分 ~ 18时17分]"
+          "appearance_count": 14,
+          "time_info": "[08时10分 ~ 19时18分]"
         },
         {
           "title": "美股收盘：三大指数集体上涨 道指再创新高 纳指涨近1%",
@@ -291,6 +314,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[08时10分 ~ 15时23分]"
+        },
+        {
+          "title": "Spotify四季度营收45.3亿欧元，预估45.2亿欧元。 四季度每股收益4.43美元，上年同期1.76美元。 Spotify预计一季度营收45亿欧元，市场预估45.8亿欧元。 Spotify预计一季度月活跃用户数为7590万，市场预估7524.5万。 Spotify美股盘前涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3052983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "美股三大期指盘前集体走低 美光跌3%诺和诺德暴涨 | 今夜看点",
@@ -318,6 +352,18 @@
           "time_info": "[08时10分 ~ 09时32分]"
         },
         {
+          "title": "美股光通信股盘前延续涨势，Credo Technology大涨超17%，Astera Labs盘前续涨超5%，康宁涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3052937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 19时18分]"
+        },
+        {
           "title": "美股三大指数集体上涨 纳指涨近1%",
           "url": "https://www.toutiao.com/trending/7604273026783346730/",
           "source": "今日头条",
@@ -330,24 +376,13 @@
           "time_info": "[08时10分 ~ 09时32分]"
         },
         {
-          "title": "美股光通信股盘前延续涨势，Credo Technology大涨超17%，Astera Labs盘前续涨超5%，康宁涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3052937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
           "title": "台积电美股盘前涨2.5%。台积电1月销售额同比增长36.8%。",
           "url": "https://wallstreetcn.com/livenews/3052910",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
@@ -365,81 +400,8 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "伊朗外交部：若伊朗遭袭，将予以毁灭性回击",
-          "url": "https://wallstreetcn.com/livenews/3052952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "伊朗：若所有制裁解除可稀释浓缩铀",
-          "url": "https://www.toutiao.com/trending/7605017397435023366/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 12时02分]"
-        },
-        {
-          "title": "伊朗空军司令：军队处于最高级别战备状态",
-          "url": "https://wallstreetcn.com/livenews/3052810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时23分"
-        },
-        {
-          "title": "伊朗空军司令：军队处于最高级别战备状态",
-          "url": "https://flash.jin10.com/detail/20260210150541694800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时12分"
-        },
-        {
-          "title": "拉夫罗夫：俄方对伊朗的未来感到担忧",
-          "url": "https://wallstreetcn.com/livenews/3052783",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时23分"
-        },
-        {
-          "title": "伊朗约有2000枚导弹能打到以色列",
-          "url": "https://www.toutiao.com/trending/7604653524873822262/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "谷歌拟发行200亿美元债券 融资加码AI支出",
@@ -454,6 +416,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时32分 ~ 15时23分]"
+        },
+        {
+          "title": "苹果(AAPL.O)与谷歌(GOOG.O)根据英国数字规则手册向该国竞争监管机构作出承诺。",
+          "url": "https://flash.jin10.com/detail/20260210190249321800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "英国竞争监管机构推进针对苹果(AAPL.O)与谷歌(GOOG.O)移动生态系统规则的审查。",
+          "url": "https://flash.jin10.com/detail/20260210190225693800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "美国计划将大型科技企业排除在下一次芯片关税之外，谷歌、亚马逊和微软将免受芯片关税影响；该关税豁免将基于芯片制造商台积电在美国的投资承诺。（英国金融时报）",
@@ -503,6 +487,91 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "伊朗外交部：若伊朗遭袭，将予以毁灭性回击",
+          "url": "https://wallstreetcn.com/livenews/3052952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 19时18分]"
+        },
+        {
+          "title": "伊朗：若所有制裁解除可稀释浓缩铀",
+          "url": "https://www.toutiao.com/trending/7605017397435023366/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 12时02分]"
+        },
+        {
+          "title": "伊朗空军司令：军队处于最高级别战备状态",
+          "url": "https://wallstreetcn.com/livenews/3052810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "伊朗空军司令：军队处于最高级别战备状态",
+          "url": "https://flash.jin10.com/detail/20260210150541694800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
+          "title": "阿曼苏丹同伊朗最高领袖顾问讨论伊美谈判进展",
+          "url": "https://wallstreetcn.com/livenews/3052958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "拉夫罗夫：俄方对伊朗的未来感到担忧",
+          "url": "https://wallstreetcn.com/livenews/3052783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "伊朗约有2000枚导弹能打到以色列",
+          "url": "https://www.toutiao.com/trending/7604653524873822262/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
@@ -523,11 +592,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时17分"
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 19时18分]"
         },
         {
           "title": "金十图示：2026年02月10日（周二）上海金早盘价为1121.71元/克，较国际金价(1118.54元/克)，高3.17元/克",
