@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T09:32:36.956910+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2026-02-10T10:59:40.506219+08:00",
+  "total_titles_processed": 584,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
         {
           "title": "外媒：特朗普拟豁免科技巨头芯片关税",
@@ -30,6 +30,17 @@
           "time_info": "08时10分"
         },
         {
+          "title": "美媒：特朗普称首个任期内在美联储主席人选决策上“犯了大错”",
+          "url": "https://wallstreetcn.com/livenews/3052671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
           "title": "白宫官员：稳定的约旦河西岸使以色列更加安全，也符合美国总统特朗普政府在该地区实现和平的目标。",
           "url": "https://flash.jin10.com/detail/20260210073305008800",
           "source": "金十数据",
@@ -47,9 +58,20 @@
           "ranks": [
             6
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时32分 ~ 10时59分]"
+        },
+        {
+          "title": "特朗普再放豪言：我选的美联储掌门沃什 有能力推动美国经济增长15%！",
+          "url": "https://www.cls.cn/detail/2285295",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时32分"
+          "time_info": "10时59分"
         },
         {
           "title": "白宫官员：美国总统特朗普已明确表示，他不支持以色列吞并约旦河西岸。",
@@ -74,6 +96,17 @@
           "time_info": "08时10分"
         },
         {
+          "title": "特朗普：我犯了大错",
+          "url": "https://news.ifeng.com/c/8qctqBdiVbv",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
           "title": "补偿不到位别想通车 特朗普强索美加大桥一半所有权",
           "url": "https://flash.jin10.com/detail/20260210072624453800",
           "source": "金十数据",
@@ -85,6 +118,28 @@
           "time_info": "08时10分"
         },
         {
+          "title": "报道：特朗普计划废除奥巴马政府时期一项气候危害认定",
+          "url": "https://wallstreetcn.com/livenews/3052654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "美国众议院共和党人试图继续推迟对特朗普关税的投票",
+          "url": "https://wallstreetcn.com/livenews/3052653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
           "title": "美国总统特朗普：共和党应该在中期选举中“大获全胜”。 美国形势不错，将不得不在中期选举中“推销它”。",
           "url": "https://wallstreetcn.com/livenews/3052547",
           "source": "华尔街见闻-快讯",
@@ -94,6 +149,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
+        },
+        {
+          "title": "据华尔街日报：美国总统特朗普将在大规模监管撤销中推翻具有里程碑意义的气候裁决。",
+          "url": "https://flash.jin10.com/detail/20260210100132498800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         },
         {
           "title": "特朗普威胁阻挠加美边境大桥开通",
@@ -153,8 +219,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时10分 ~ 09时32分]"
+          "appearance_count": 3,
+          "time_info": "[08时10分 ~ 10时59分]"
         },
         {
           "title": "美股收盘：三大指数集体上涨 道指再创新高 纳指涨近1%",
@@ -165,8 +231,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时10分 ~ 09时32分]"
+          "appearance_count": 3,
+          "time_info": "[08时10分 ~ 10时59分]"
         },
         {
           "title": "美股三大期指盘前集体走低 美光跌3%诺和诺德暴涨 | 今夜看点",
@@ -174,11 +240,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时10分 ~ 09时32分]"
+          "appearance_count": 3,
+          "time_info": "[08时10分 ~ 10时59分]"
         },
         {
           "title": "美股收盘：道指再创历史新高",
@@ -237,11 +304,40 @@
           "url": "https://www.cls.cn/detail/2285182",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时32分 ~ 10时59分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伊朗：若所有制裁解除可稀释浓缩铀",
+          "url": "https://www.toutiao.com/trending/7605017397435023366/",
+          "source": "今日头条",
+          "ranks": [
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时32分"
+          "time_info": "10时59分"
+        },
+        {
+          "title": "伊朗约有2000枚导弹能打到以色列",
+          "url": "https://www.toutiao.com/trending/7604653524873822262/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         }
       ]
     }
