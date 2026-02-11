@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T18:16:20.330282+08:00",
-  "total_titles_processed": 1220,
+  "generated_at": "2026-02-11T19:16:06.348877+08:00",
+  "total_titles_processed": 1315,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时32分 ~ 18时16分]"
+          "appearance_count": 13,
+          "time_info": "[09时32分 ~ 19时16分]"
         },
         {
           "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[09时32分 ~ 17时15分]"
+        },
+        {
+          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
+          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时16分 ~ 19时16分]"
         },
         {
           "title": "特朗普放话：若美伊谈判无果 或向中东增派航母打击群",
@@ -63,7 +74,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -103,17 +114,6 @@
           "time_info": "08时10分"
         },
         {
-          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
-          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
           "title": "据美国媒体报道，以色列总理内塔尼亚胡10日晚在白宫与美国总统特朗普的特使威特科夫和女婿库什纳举行会晤，双方讨论了伊朗局势。",
           "url": "https://flash.jin10.com/detail/20260211122756306800",
           "source": "金十数据",
@@ -148,6 +148,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时21分 ~ 17时15分]"
+        },
+        {
+          "title": "外交部回应特朗普涉中加合作言论",
+          "url": "https://www.toutiao.com/trending/7605448481570897961/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时16分 ~ 19时16分]"
         },
         {
           "title": "美众议院以微弱优势否决动议 特朗普关税决议可提全院表决",
@@ -265,17 +277,6 @@
           "time_info": "10时59分"
         },
         {
-          "title": "外交部回应特朗普涉中加合作言论",
-          "url": "https://www.toutiao.com/trending/7605448481570897961/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
           "title": "美国联邦航空管理局（FAA）：特朗普政府已解决与加拿大之间的飞机认证问题。",
           "url": "https://flash.jin10.com/detail/20260211061349478800",
           "source": "金十数据",
@@ -378,8 +379,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "伊朗总统：不寻求核武器 愿接受核查",
+          "url": "https://www.toutiao.com/trending/7604987910697287722/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时16分]"
+        },
         {
           "title": "伊朗总统：我们无意制造核武器，并愿意接受任何形式的核查。",
           "url": "https://flash.jin10.com/detail/20260211155719645800",
@@ -415,6 +427,18 @@
           "time_info": "[14时20分 ~ 15时21分]"
         },
         {
+          "title": "中方送伊朗歼-20模型传递何种信号",
+          "url": "https://www.toutiao.com/trending/7605520149600292406/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时16分 ~ 19时16分]"
+        },
+        {
           "title": "伊朗的地缘政治包袱与以色列的阴影：美伊谈判前景难言乐观",
           "url": "https://m.thepaper.cn/newsDetail_forward_32567450",
           "source": "澎湃新闻",
@@ -426,6 +450,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时32分 ~ 12时01分]"
+        },
+        {
+          "title": "伊朗军事实力如何",
+          "url": "https://www.toutiao.com/trending/7605529877277576740/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时16分 ~ 19时16分]"
         },
         {
           "title": "美媒：美国考虑扣押涉伊朗油轮以施压",
@@ -452,17 +488,6 @@
           "time_info": "[10时59分 ~ 12时01分]"
         },
         {
-          "title": "中方送伊朗歼-20模型传递何种信号",
-          "url": "https://www.toutiao.com/trending/7605520149600292406/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
           "title": "伊朗外长向巴基斯坦外长介绍伊美谈判进展",
           "url": "https://flash.jin10.com/detail/20260211152743185800",
           "source": "金十数据",
@@ -485,6 +510,17 @@
           "time_info": "17时15分"
         },
         {
+          "title": "伊朗最高领袖政治顾问：导弹能力不在谈判授权范围内",
+          "url": "https://wallstreetcn.com/livenews/3053672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "伊朗外长向巴基斯坦外长介绍伊美谈判进展",
           "url": "https://wallstreetcn.com/livenews/3053534",
           "source": "华尔街见闻-快讯",
@@ -494,6 +530,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
+        },
+        {
+          "title": "据伊朗努尔新闻(Nour News)：伊朗最高领袖顾问沙姆哈尼表示，德黑兰的导弹能力是其红线。",
+          "url": "https://flash.jin10.com/detail/20260211183009729800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "沙特驻伊朗大使：支持地区局势降温",
@@ -518,17 +565,6 @@
           "time_info": "15时21分"
         },
         {
-          "title": "伊朗军事实力如何",
-          "url": "https://www.toutiao.com/trending/7605529877277576740/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
           "title": "伊朗总统说伊朗不寻求核武器",
           "url": "https://wallstreetcn.com/livenews/3053584",
           "source": "华尔街见闻-快讯",
@@ -543,7 +579,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "一次性出手8公斤金条！金价高位震荡，千万元级套现频频",
@@ -555,8 +591,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时53分 ~ 18时16分]"
+          "appearance_count": 10,
+          "time_info": "[12时53分 ~ 19时16分]"
         },
         {
           "title": "零售数据疲软重燃降息预期 金价重回5050美元上方",
@@ -626,6 +662,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
+        },
+        {
+          "title": "机构：收益率走低支撑金价反弹 市场静候非农报告出炉",
+          "url": "https://flash.jin10.com/detail/20260211182619884800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         }
       ]
     },
@@ -640,11 +687,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时32分 ~ 18时16分]"
+          "appearance_count": 13,
+          "time_info": "[09时32分 ~ 19时16分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 道指续创历史新高",
@@ -669,8 +717,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时30分 ~ 18时16分]"
+          "appearance_count": 9,
+          "time_info": "[13时30分 ~ 19时16分]"
         },
         {
           "title": "罗杰斯为何清空美股死守金银铜",
@@ -684,6 +732,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时30分 ~ 15时21分]"
+        },
+        {
+          "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
+          "url": "https://www.zhihu.com/question/2004662806780338439",
+          "source": "知乎",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时16分 ~ 19时16分]"
         },
         {
           "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
@@ -707,17 +767,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
-        },
-        {
-          "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
-          "url": "https://www.zhihu.com/question/2004662806780338439",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
         }
       ]
     },
