@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T21:29:35.339490+08:00",
-  "total_titles_processed": 1515,
+  "generated_at": "2026-02-11T22:22:21.398359+08:00",
+  "total_titles_processed": 1608,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "美军“导弹已上膛”，特朗普再对伊朗发出威胁",
@@ -51,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时16分 ~ 21时29分]"
+          "appearance_count": 6,
+          "time_info": "[18时16分 ~ 22时22分]"
         },
         {
           "title": "特朗普放话：若美伊谈判无果 或向中东增派航母打击群",
@@ -307,7 +307,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         },
@@ -332,6 +332,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
+        },
+        {
+          "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
+          "url": "https://www.zhihu.com/question/2004862099634016476",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "美国联邦航空管理局（FAA）：特朗普政府已解决与加拿大之间的飞机认证问题。",
@@ -373,7 +384,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         },
@@ -458,18 +469,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "伊朗总统：不寻求核武器 愿接受核查",
           "url": "https://www.toutiao.com/trending/7604987910697287722/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 21时29分]"
+          "appearance_count": 5,
+          "time_info": "[19时15分 ~ 22时22分]"
         },
         {
           "title": "伊朗总统致歉",
@@ -479,8 +491,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时10分 ~ 21时29分]"
+          "appearance_count": 3,
+          "time_info": "[20时10分 ~ 22时22分]"
         },
         {
           "title": "伊朗总统：我们无意制造核武器，并愿意接受任何形式的核查。",
@@ -656,6 +668,17 @@
           "time_info": "15时21分"
         },
         {
+          "title": "法国外长表示，法国将为遭受伊朗当局打击的伊朗人增加人道主义庇护签证。",
+          "url": "https://flash.jin10.com/detail/20260211213918475800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "伊朗总统说伊朗不寻求核武器",
           "url": "https://wallstreetcn.com/livenews/3053584",
           "source": "华尔街见闻-快讯",
@@ -670,7 +693,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -683,8 +706,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时32分 ~ 21时29分]"
+          "appearance_count": 16,
+          "time_info": "[09时32分 ~ 22时22分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 道指续创历史新高",
@@ -706,11 +729,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时30分 ~ 21时29分]"
+          "appearance_count": 12,
+          "time_info": "[13时30分 ~ 22时22分]"
         },
         {
           "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
@@ -722,8 +746,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时16分 ~ 21时29分]"
+          "appearance_count": 6,
+          "time_info": "[18时16分 ~ 22时22分]"
         },
         {
           "title": "Shopify第四季度营收为36.7亿美元，市场预期35.9亿美元。 第四季度月度经常性收入为2.05亿美元，同比增长15%，市场预期为2.012亿美元。 第四季度订阅收入为7.77亿美元，市场预期为7.661亿美元。 第四季度营业利润为6.31亿美元，市场预期为5.771亿美元。 Shopify美股盘前涨超8%。",
@@ -762,13 +786,24 @@
           "time_info": "[08时10分 ~ 09时32分]"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3053787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "市场聚焦美国非农，美股指期货全线上扬，美元连跌四日，黄金突破5100美元大关，白银站上86美元",
           "url": "https://wallstreetcn.com/articles/3765486",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         },
@@ -779,7 +814,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         },
@@ -795,13 +830,24 @@
           "time_info": "08时10分"
         },
         {
+          "title": "美国非农数据公布后，美股期货短线拉升",
+          "url": "https://wallstreetcn.com/livenews/3053777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "Shopify第四季度营收为36.7亿美元，市场预期35.9亿美元。 第四季度月度经常性收入为2.05亿美元，同比增长15%，市场预期为2.012亿美元。 第四季度订阅收入为7.77亿美元，市场预期为7.661亿美元。 第四季度营业利润为6.31亿美元，市场预期为5.771亿美元。 Shopify已批准最高20亿美元的股票回购计划。 Shopify美股盘前涨超8%。",
           "url": "https://wallstreetcn.com/livenews/3053732",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         }
@@ -819,11 +865,12 @@
             12,
             11,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时53分 ~ 21时29分]"
+          "appearance_count": 13,
+          "time_info": "[12时53分 ~ 22时22分]"
         },
         {
           "title": "零售数据疲软重燃降息预期 金价重回5050美元上方",
@@ -920,8 +967,19 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "UP主实测DeepSeek新模型",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BDeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
         {
           "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
           "url": "https://www.zhihu.com/question/2004971546536585165",
@@ -931,8 +989,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时10分 ~ 21时29分]"
+          "appearance_count": 3,
+          "time_info": "[20时10分 ~ 22时22分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
@@ -943,8 +1001,30 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时10分 ~ 21时29分]"
+          "appearance_count": 3,
+          "time_info": "[20时10分 ~ 22时22分]"
+        },
+        {
+          "title": "DeepSeek低调升级新模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
+          "url": "https://www.cls.cn/detail/2287578",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "DeepSeek更新新模型，支持最高1M百万Token上下文长度",
@@ -967,6 +1047,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "非农就业意外强劲，美股指期货短线拉升，美元指数走高，美债承压，黄金一度突破5100美元大关",
+          "url": "https://wallstreetcn.com/articles/3765486",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "道明证券：大多数外国投资者并未承认自己在卖出美债",
+          "url": "https://wallstreetcn.com/livenews/3053272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "两年期美债收益率触及一周高点3.551%，最新报3.533%，上涨7.9个基点。",
+          "url": "https://flash.jin10.com/detail/20260211214220979800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "道明证券称外资对美债需求稳健，“抛售美国”更多是叙事而非现实",
+          "url": "https://wallstreetcn.com/livenews/3053271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时10分"
         }
       ]
     },
@@ -1000,30 +1130,30 @@
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "美元",
       "match_count": 2,
       "titles": [
         {
-          "title": "道明证券：大多数外国投资者并未承认自己在卖出美债",
-          "url": "https://wallstreetcn.com/livenews/3053272",
-          "source": "华尔街见闻-快讯",
+          "title": "美元指数DXY回吐非农数据发布以来的部分涨幅，现报97。",
+          "url": "https://flash.jin10.com/detail/20260211214402545800",
+          "source": "金十数据",
           "ranks": [
-            22
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时10分"
+          "time_info": "22时22分"
         },
         {
-          "title": "道明证券称外资对美债需求稳健，“抛售美国”更多是叙事而非现实",
-          "url": "https://wallstreetcn.com/livenews/3053271",
-          "source": "华尔街见闻-快讯",
+          "title": "非农料出现有史以来最大的年度下修 美元指数预计在数据公布前维持震荡",
+          "url": "https://flash.jin10.com/detail/20260211144052804800",
+          "source": "金十数据",
           "ranks": [
-            23
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时10分"
+          "time_info": "15时21分"
         }
       ]
     },
@@ -1037,23 +1167,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "非农料出现有史以来最大的年度下修 美元指数预计在数据公布前维持震荡",
-          "url": "https://flash.jin10.com/detail/20260211144052804800",
-          "source": "金十数据",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 1,
