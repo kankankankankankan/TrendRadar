@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T15:21:44.384942+08:00",
-  "total_titles_processed": 941,
+  "generated_at": "2026-02-11T16:11:15.591965+08:00",
+  "total_titles_processed": 1004,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "美军“导弹已上膛”，特朗普再对伊朗发出威胁",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时32分 ~ 15时21分]"
+          "appearance_count": 9,
+          "time_info": "[09时32分 ~ 16时11分]"
         },
         {
           "title": "特朗普又翻脸了，中国再躺枪",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时32分 ~ 15时21分]"
+          "appearance_count": 9,
+          "time_info": "[09时32分 ~ 16时11分]"
         },
         {
           "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
@@ -39,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时32分 ~ 15时21分]"
+          "appearance_count": 9,
+          "time_info": "[09时32分 ~ 16时11分]"
         },
         {
           "title": "特朗普放话：若美伊谈判无果 或向中东增派航母打击群",
@@ -116,6 +116,17 @@
           "time_info": "[10时59分 ~ 12时01分]"
         },
         {
+          "title": "特朗普为何突然盯上加拿大这座大桥？加官员这么说",
+          "url": "https://news.ifeng.com/c/8qeou7377qN",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 16时11分]"
+        },
+        {
           "title": "美众议院以微弱优势否决动议 特朗普关税决议可提全院表决",
           "url": "https://flash.jin10.com/detail/20260211111638705800",
           "source": "金十数据",
@@ -187,15 +198,15 @@
           "time_info": "[10时59分 ~ 12时01分]"
         },
         {
-          "title": "特朗普为何突然盯上加拿大这座大桥？加官员这么说",
-          "url": "https://news.ifeng.com/c/8qeou7377qN",
-          "source": "凤凰网",
+          "title": "卡塔尔埃米尔与特朗普通话，讨论地区局势发展。",
+          "url": "https://flash.jin10.com/detail/20260211154826994800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时21分"
+          "time_info": "16时11分"
         },
         {
           "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
@@ -240,6 +251,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
+        },
+        {
+          "title": "外交部回应特朗普涉中加合作言论：中加构建新型战略伙伴关系不针对任何第三方",
+          "url": "https://wallstreetcn.com/livenews/3053536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
         },
         {
           "title": "爱泼斯坦前女友的律师称只要特朗普赦免马克斯韦尔，她就将全面、诚实地做证，公众将听到真相，如何看待此事？",
@@ -321,95 +343,20 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 7,
+      "keyword_group": "伊朗",
+      "match_count": 10,
       "titles": [
         {
-          "title": "一次性出手8公斤金条！金价高位震荡，千万元级套现频频",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32581000",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时53分 ~ 15时21分]"
-        },
-        {
-          "title": "零售数据疲软重燃降息预期 金价重回5050美元上方",
-          "url": "https://flash.jin10.com/detail/20260211073639412800",
+          "title": "伊朗总统：我们无意制造核武器，并愿意接受任何形式的核查。",
+          "url": "https://flash.jin10.com/detail/20260211155719645800",
           "source": "金十数据",
           "ranks": [
-            1,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时10分 ~ 09时32分]"
-        },
-        {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 13时31分]"
-        },
-        {
-          "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时10分 ~ 09时32分]"
-        },
-        {
-          "title": "金十图示：2026年02月11日（周三）上海金午盘价为1125.69元/克，较国际金价(1124.61元/克)，高1.08元/克",
-          "url": "https://flash.jin10.com/detail/20260211150538919800",
-          "source": "金十数据",
-          "ranks": [
-            10
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时21分"
+          "time_info": "16时11分"
         },
-        {
-          "title": "金十图示：2026年02月11日（周三）上海金早盘价为1122.55元/克，较国际金价(1122.64元/克)，低0.09元/克",
-          "url": "https://flash.jin10.com/detail/20260211110159525800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时01分"
-        },
-        {
-          "title": "从避险到标配 摩根大通勾勒金价8000美元蓝图",
-          "url": "https://flash.jin10.com/detail/20260211064938299800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 7,
-      "titles": [
         {
           "title": "伊朗外长：相信可以达成优于伊核协议的新协议",
           "url": "https://flash.jin10.com/detail/20260211140731588800",
@@ -471,13 +418,35 @@
           "time_info": "[10时59分 ~ 12时01分]"
         },
         {
+          "title": "伊朗外长向巴基斯坦外长介绍伊美谈判进展",
+          "url": "https://flash.jin10.com/detail/20260211152743185800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
+        },
+        {
+          "title": "伊朗外长向巴基斯坦外长介绍伊美谈判进展",
+          "url": "https://wallstreetcn.com/livenews/3053534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
+        },
+        {
           "title": "沙特驻伊朗大使：支持地区局势降温",
           "url": "https://wallstreetcn.com/livenews/3053490",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -488,9 +457,96 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "一次性出手8公斤金条！金价高位震荡，千万元级套现频频",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32581000",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时53分 ~ 16时11分]"
+        },
+        {
+          "title": "零售数据疲软重燃降息预期 金价重回5050美元上方",
+          "url": "https://flash.jin10.com/detail/20260211073639412800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 09时32分]"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 13时31分]"
+        },
+        {
+          "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 09时32分]"
+        },
+        {
+          "title": "金十图示：2026年02月11日（周三）上海金午盘价为1125.69元/克，较国际金价(1124.61元/克)，高1.08元/克",
+          "url": "https://flash.jin10.com/detail/20260211150538919800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
+          "title": "金十图示：2026年02月11日（周三）上海金早盘价为1122.55元/克，较国际金价(1122.64元/克)，低0.09元/克",
+          "url": "https://flash.jin10.com/detail/20260211110159525800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        },
+        {
+          "title": "从避险到标配 摩根大通勾勒金价8000美元蓝图",
+          "url": "https://flash.jin10.com/detail/20260211064938299800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时10分"
         }
       ]
     },
@@ -508,8 +564,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时32分 ~ 15时21分]"
+          "appearance_count": 9,
+          "time_info": "[09时32分 ~ 16时11分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 道指续创历史新高",
@@ -533,8 +589,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时30分 ~ 15时21分]"
+          "appearance_count": 5,
+          "time_info": "[13时30分 ~ 16时11分]"
         },
         {
           "title": "罗杰斯为何清空美股死守金银铜",
@@ -642,7 +698,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         }
@@ -659,7 +715,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         }
