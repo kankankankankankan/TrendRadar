@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T11:57:36.556907+08:00",
-  "total_titles_processed": 651,
+  "generated_at": "2026-02-12T12:40:24.965786+08:00",
+  "total_titles_processed": 702,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "油价日内涨超2%，报道：特朗普私下考虑退出《美墨加协定》",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时05分 ~ 11时57分]"
+          "appearance_count": 7,
+          "time_info": "[08时05分 ~ 12时40分]"
         },
         {
           "title": "特朗普：伊朗希望达成协议，不然太蠢了",
@@ -29,6 +30,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "特朗普称赞1月非农强劲表现 再度呼吁大幅降息",
+          "url": "https://www.cls.cn/detail/2287759",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 12时40分]"
         },
         {
           "title": "特朗普关税政策正迎来新的挑战",
@@ -43,18 +57,6 @@
           "time_info": "[09时31分 ~ 10时59分]"
         },
         {
-          "title": "特朗普称赞1月非农强劲表现 再度呼吁大幅降息",
-          "url": "https://www.cls.cn/detail/2287759",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时57分]"
-        },
-        {
           "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
           "url": "https://www.zhihu.com/question/2004862099634016476",
           "source": "知乎",
@@ -64,6 +66,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "美国总统特朗普：任何在众议院或参议院投票反对关税的共和党人，在选举时（包括初选）都将承担严重后果。",
@@ -150,6 +163,20 @@
           "time_info": "[08时05分 ~ 10时59分]"
         },
         {
+          "title": "UP主实测DeepSeek新模型",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BDeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            10,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时05分 ~ 12时40分]"
+        },
+        {
           "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
           "url": "https://www.zhihu.com/question/2004971546536585165",
           "source": "知乎",
@@ -162,30 +189,18 @@
           "time_info": "[08时05分 ~ 10时59分]"
         },
         {
-          "title": "UP主实测DeepSeek新模型",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BDeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时05分 ~ 11时57分]"
-        },
-        {
           "title": "DeepSeek新模型来了？",
           "url": "https://wallstreetcn.com/articles/3765514",
           "source": "华尔街见闻",
           "ranks": [
             8,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时05分 ~ 11时57分]"
+          "appearance_count": 7,
+          "time_info": "[08时05分 ~ 12时40分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -194,11 +209,12 @@
           "ranks": [
             7,
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时05分 ~ 11时57分]"
+          "appearance_count": 7,
+          "time_info": "[08时05分 ~ 12时40分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
@@ -237,8 +253,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时05分 ~ 11时57分]"
+          "appearance_count": 7,
+          "time_info": "[08时05分 ~ 12时40分]"
         },
         {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
@@ -260,8 +276,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时57分]"
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 12时40分]"
         },
         {
           "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
@@ -323,8 +339,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时57分]"
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 12时40分]"
         }
       ]
     },
@@ -350,7 +366,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         }
@@ -386,8 +402,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时05分 ~ 11时57分]"
+          "appearance_count": 7,
+          "time_info": "[08时05分 ~ 12时40分]"
         }
       ]
     }
