@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T19:15:24.700317+08:00",
-  "total_titles_processed": 1350,
+  "generated_at": "2026-02-12T20:08:54.242927+08:00",
+  "total_titles_processed": 1434,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "油价日内涨超2%，报道：特朗普私下考虑退出《美墨加协定》",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时05分 ~ 19时15分]"
+          "appearance_count": 17,
+          "time_info": "[08时05分 ~ 20时08分]"
         },
         {
           "title": "多名共和党议员“倒戈”！美众议院投票否决特朗普对加拿大征收关税",
@@ -36,6 +36,19 @@
           "time_info": "[13时29分 ~ 19时15分]"
         },
         {
+          "title": "特朗普否认了，仅拒邀两人",
+          "url": "https://news.ifeng.com/c/8qgMtgtYs0u",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时20分 ~ 20时08分]"
+        },
+        {
           "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
           "source": "澎湃新闻",
@@ -46,21 +59,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时40分 ~ 19时15分]"
-        },
-        {
-          "title": "特朗普否认了，仅拒邀两人",
-          "url": "https://news.ifeng.com/c/8qgMtgtYs0u",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时20分 ~ 19时15分]"
+          "appearance_count": 11,
+          "time_info": "[12时40分 ~ 20时08分]"
         },
         {
           "title": "特朗普将于4月初访华？外交部回应",
@@ -70,8 +70,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时15分 ~ 19时15分]"
+          "appearance_count": 5,
+          "time_info": "[17时15分 ~ 20时08分]"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -80,11 +80,12 @@
           "ranks": [
             2,
             4,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时15分 ~ 19时15分]"
+          "appearance_count": 5,
+          "time_info": "[17时15分 ~ 20时08分]"
         },
         {
           "title": "外交部：中美元首通话中，特朗普总统再次表达了4月访华的愿望",
@@ -96,8 +97,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时15分 ~ 19时15分]"
+          "appearance_count": 5,
+          "time_info": "[17时15分 ~ 20时08分]"
         },
         {
           "title": "中方回应特朗普预计4月初访华",
@@ -107,11 +108,23 @@
             6,
             4,
             2,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时09分 ~ 19时15分]"
+          "appearance_count": 6,
+          "time_info": "[16时09分 ~ 20时08分]"
+        },
+        {
+          "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
+          "url": "https://news.ifeng.com/c/8qgZNx2x3dB",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 20时08分]"
         },
         {
           "title": "特朗普：伊朗希望达成协议，不然太蠢了",
@@ -151,15 +164,17 @@
           "time_info": "[10时59分 ~ 14时20分]"
         },
         {
-          "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
-          "url": "https://news.ifeng.com/c/8qgZNx2x3dB",
-          "source": "凤凰网",
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://www.douyin.com/hot/2398243",
+          "source": "抖音",
           "ranks": [
-            2
+            10,
+            11,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时09分 ~ 20时08分]"
         },
         {
           "title": "德商银行：美元在强劲美国就业数据后维持高位 但涨幅受特朗普言论限制",
@@ -173,16 +188,30 @@
           "time_info": "16时09分"
         },
         {
-          "title": "中方回应特朗普或将4月访华",
-          "url": "https://www.douyin.com/hot/2398243",
-          "source": "抖音",
+          "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32591772",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            11
+            11,
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时09分 ~ 19时15分]"
+          "appearance_count": 4,
+          "time_info": "[18时14分 ~ 20时08分]"
+        },
+        {
+          "title": "中方回应“特朗普将于4月初访华”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BA%8E4%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时14分 ~ 20时08分]"
         },
         {
           "title": "强劲非农难撼白宫鸽派论调 特朗普亲信：美联储仍有“充足”降息空间",
@@ -196,30 +225,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时19分 ~ 16时09分]"
-        },
-        {
-          "title": "中方回应“特朗普将于4月初访华”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BA%8E4%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时14分 ~ 19时15分]"
-        },
-        {
-          "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32591772",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时14分 ~ 19时15分]"
         },
         {
           "title": "特朗普关税政策正迎来新的挑战",
@@ -273,9 +278,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
+        },
+        {
+          "title": "皮博迪能源盘前涨4.7%，此前特朗普指示能源部拨付资金维持燃煤电厂运营。",
+          "url": "https://flash.jin10.com/detail/20260212190634205800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
         },
         {
           "title": "美国众议院以219票对211票支持一项决议，该决议旨在阻止特朗普对加拿大的关税。",
@@ -333,13 +349,24 @@
           "time_info": "08时06分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-12）",
+          "url": "https://flash.jin10.com/detail/20260212190323631800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
+        },
+        {
           "title": "美国总统特朗普将两名民主党州长排除在州长会议邀请之外",
           "url": "https://wallstreetcn.com/livenews/3054430",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -371,11 +398,12 @@
             13,
             8,
             11,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时05分 ~ 19时15分]"
+          "appearance_count": 17,
+          "time_info": "[08时05分 ~ 20时08分]"
         },
         {
           "title": "DeepSeek新模型来了？",
@@ -399,11 +427,12 @@
             7,
             9,
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时05分 ~ 19时15分]"
+          "appearance_count": 17,
+          "time_info": "[08时05分 ~ 20时08分]"
         },
         {
           "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
@@ -520,6 +549,18 @@
           "time_info": "[17时15分 ~ 18时15分]"
         },
         {
+          "title": "盈利提振全球存储概念股集体走高，美股盘前美光涨超4%，韩股三星电子大涨6%，日债收益率集体下行",
+          "url": "https://wallstreetcn.com/articles/3765553",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 20时08分]"
+        },
+        {
           "title": "全球存储概念股集体走高，美股盘前美光涨超4%，韩股三星电子大涨6%，日债收益率集体下行",
           "url": "https://wallstreetcn.com/articles/3765553",
           "source": "华尔街见闻",
@@ -540,17 +581,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时05分 ~ 08时06分]"
-        },
-        {
-          "title": "盈利提振全球存储概念股集体走高，美股盘前美光涨超4%，韩股三星电子大涨6%，日债收益率集体下行",
-          "url": "https://wallstreetcn.com/articles/3765553",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
         },
         {
           "title": "思科美股盘后维持超过6.8%的跌幅，该公司所给利润指引“疲软”。",
@@ -774,8 +804,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时05分 ~ 19时15分]"
+          "appearance_count": 17,
+          "time_info": "[08时05分 ~ 20时08分]"
         }
       ]
     }
