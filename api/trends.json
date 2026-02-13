@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T18:12:36.009452+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2026-02-13T19:12:00.643943+08:00",
+  "total_titles_processed": 1357,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -24,11 +24,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时07分 ~ 18时12分]"
+          "appearance_count": 15,
+          "time_info": "[08时07分 ~ 19时12分]"
         },
         {
           "title": "特朗普威胁伊朗：不达成协议，就进入第二阶段",
@@ -56,6 +57,22 @@
           "time_info": "[12时36分 ~ 17时14分]"
         },
         {
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            20,
+            25,
+            27,
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时07分 ~ 19时12分]"
+        },
+        {
           "title": "特朗普称期待4月访华",
           "url": "https://www.douyin.com/hot/2398935",
           "source": "抖音",
@@ -68,21 +85,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[11时54分 ~ 18时12分]"
-        },
-        {
-          "title": "中方回应特朗普或将4月访华",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            20,
-            25,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时07分 ~ 16时10分]"
         },
         {
           "title": "特朗普称必须与伊朗达成协议 Anthropic完成300亿美元融资 | 环球市场",
@@ -99,28 +101,30 @@
           "time_info": "[09时32分 ~ 16时10分]"
         },
         {
-          "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
-          "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时13分 ~ 18时12分]"
-        },
-        {
           "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
           "url": "https://www.cls.cn/detail/2289315",
           "source": "财联社热门",
           "ranks": [
             13,
             12,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时27分 ~ 18时12分]"
+          "appearance_count": 9,
+          "time_info": "[13时27分 ~ 19时12分]"
+        },
+        {
+          "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
+          "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时13分 ~ 19时12分]"
         },
         {
           "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
@@ -170,6 +174,18 @@
           "time_info": "[13时28分 ~ 14时17分]"
         },
         {
+          "title": "特朗普称印度同意不再购买俄油？俄方回应：没听说过",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32593433",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时12分 ~ 19时12分]"
+        },
+        {
           "title": "UP主在白宫向特朗普提问",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%9C%A8%E7%99%BD%E5%AE%AB%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E9%97%AE",
           "source": "bilibili 热搜",
@@ -179,6 +195,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时13分 ~ 17时14分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-13）",
+          "url": "https://flash.jin10.com/detail/20260213184225992800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "逾6亿美元拨款“被砍”，4州起诉特朗普政府",
+          "url": "https://wallstreetcn.com/livenews/3055132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "纽约联储报告：美国消费者和企业承担特朗普关税成本近九成",
@@ -201,17 +239,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
-        },
-        {
-          "title": "特朗普称印度同意不再购买俄油？俄方回应：没听说过",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32593433",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
         },
         {
           "title": "释新闻｜内塔尼亚胡紧急提前访美，说动特朗普打击伊朗了吗？",
@@ -250,7 +277,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "【早报】深夜跳水！美股、黄金、白银、原油集体大跌；央行今日出手，万亿逆回购来了",
@@ -284,8 +311,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时32分 ~ 18时12分]"
+          "appearance_count": 14,
+          "time_info": "[09时32分 ~ 19时12分]"
+        },
+        {
+          "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
+          "url": "https://wallstreetcn.com/articles/3765638",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时36分 ~ 19时12分]"
         },
         {
           "title": "美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布",
@@ -309,21 +349,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时59分 ~ 18时12分]"
-        },
-        {
-          "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
-          "url": "https://wallstreetcn.com/articles/3765638",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时36分 ~ 18时12分]"
+          "appearance_count": 13,
+          "time_info": "[10时59分 ~ 19时12分]"
         },
         {
           "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
@@ -333,8 +360,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时20分 ~ 18时12分]"
+          "appearance_count": 7,
+          "time_info": "[15时20分 ~ 19时12分]"
         },
         {
           "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
@@ -344,8 +371,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时20分 ~ 18时12分]"
+          "appearance_count": 7,
+          "time_info": "[15时20分 ~ 19时12分]"
+        },
+        {
+          "title": "美股油气股开年大涨超20% 分析师看好2026年全年行情",
+          "url": "https://flash.jin10.com/detail/20260213190005725800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "美股跳水 黄金白银大跌",
@@ -402,7 +440,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -583,8 +621,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时07分 ~ 18时12分]"
+          "appearance_count": 15,
+          "time_info": "[08时07分 ~ 19时12分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -599,11 +637,12 @@
             20,
             18,
             28,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时07分 ~ 18时12分]"
+          "appearance_count": 15,
+          "time_info": "[08时07分 ~ 19时12分]"
         },
         {
           "title": "DeepSeek变冷淡了",
@@ -626,11 +665,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时20分 ~ 18时12分]"
+          "appearance_count": 7,
+          "time_info": "[15时20分 ~ 19时12分]"
         },
         {
           "title": "DeepSeek回应被指冷淡",
@@ -674,7 +714,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "特写｜断网与战争阴霾之下：在伊朗，普通人的生活如何继续",
@@ -733,9 +773,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
+        },
+        {
+          "title": "伊朗最高领袖顾问：如美方不提过分要求，则谈判可向积极方向发展",
+          "url": "https://wallstreetcn.com/livenews/3055118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "伊朗最高领袖顾问：如美方不提过分要求 则谈判可向积极方向发展",
@@ -744,7 +795,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         }
@@ -762,8 +813,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时07分 ~ 18时12分]"
+          "appearance_count": 15,
+          "time_info": "[08时07分 ~ 19时12分]"
         },
         {
           "title": "AI寒流来袭：全球风险资产撤退 美债成避风港",
