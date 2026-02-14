@@ -1,22 +1,84 @@
 {
-  "generated_at": "2026-02-14T09:31:36.934999+08:00",
-  "total_titles_processed": 433,
+  "generated_at": "2026-02-14T10:54:13.557628+08:00",
+  "total_titles_processed": 526,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "特朗普将访问委内瑞拉",
+          "url": "https://news.ifeng.com/c/8qitxi0GRdt",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时06分 ~ 10时54分]"
+        },
+        {
+          "title": "特朗普：泽连斯基必须行动起来，否则将错失好机会",
+          "url": "https://news.ifeng.com/c/8qis4CFCUkf",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时06分 ~ 10时54分]"
+        },
+        {
+          "title": "报告：特朗普关税政策成本90%由美国消费者和企业买单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32599555",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时06分 ~ 10时54分]"
+        },
+        {
+          "title": "特朗普证实美军将向中东派第二艘航母",
+          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时06分 ~ 10时54分]"
+        },
+        {
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时06分 ~ 10时54分]"
+        },
         {
           "title": "外媒爆料：美军正做准备，一旦特朗普下令攻击伊朗，行动可能持续数周",
           "url": "https://wallstreetcn.com/livenews/3055429",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 10时54分]"
         },
         {
           "title": "赫尔佐格回击特朗普：我才是以色列总统",
@@ -31,60 +93,26 @@
           "time_info": "[08时07分 ~ 09时31分]"
         },
         {
-          "title": "特朗普将访问委内瑞拉",
-          "url": "https://news.ifeng.com/c/8qitxi0GRdt",
-          "source": "凤凰网",
+          "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
+          "url": "https://www.cls.cn/detail/2290097",
+          "source": "财联社热门",
           "ranks": [
-            6
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时06分 ~ 09时31分]"
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 10时54分]"
         },
         {
-          "title": "特朗普：泽连斯基必须行动起来，否则将错失好机会",
-          "url": "https://news.ifeng.com/c/8qis4CFCUkf",
-          "source": "凤凰网",
+          "title": "美军将向中东派出第二艘航母 特朗普称将访问委内瑞拉 | 环球市场",
+          "url": "https://www.cls.cn/detail/2290112",
+          "source": "财联社热门",
           "ranks": [
-            7
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时06分 ~ 09时31分]"
-        },
-        {
-          "title": "特朗普证实美军将向中东派第二艘航母",
-          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时06分 ~ 09时31分]"
-        },
-        {
-          "title": "报告：特朗普关税政策成本90%由美国消费者和企业买单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32599555",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时06分 ~ 09时31分]"
-        },
-        {
-          "title": "中方回应特朗普或将4月访华",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时06分 ~ 09时31分]"
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 10时54分]"
         },
         {
           "title": "文件显示，美国纽约州和新泽西州在特朗普政府尚未解冻“Gateway”项目资金后，已寻求举行法院听证会。",
@@ -104,7 +132,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -129,6 +157,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        },
+        {
+          "title": "外媒爆料：美军正做准备，一旦特朗普下令攻击伊朗，行动可能持续数周",
+          "url": "https://flash.jin10.com/detail/20260214094023773800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         },
         {
           "title": "美国总统特朗普：不希望伊朗有任何铀浓缩。",
@@ -167,8 +206,21 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
+          "url": "https://www.cls.cn/detail/2290109",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时06分 ~ 10时54分]"
+        },
         {
           "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
           "url": "https://wallstreetcn.com/articles/3765660",
@@ -178,20 +230,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时06分 ~ 09时31分]"
-        },
-        {
-          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
-          "url": "https://www.cls.cn/detail/2290109",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时06分 ~ 09时31分]"
+          "appearance_count": 5,
+          "time_info": "[08时06分 ~ 10时54分]"
         },
         {
           "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
@@ -205,6 +245,17 @@
           "time_info": "[08时06分 ~ 08时07分]"
         },
         {
+          "title": "美股：金银大涨 英伟达蒸发6900亿元",
+          "url": "https://www.toutiao.com/trending/7606270891333091371/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 10时54分]"
+        },
+        {
           "title": "美CPI数据即将公布 美股期指盘前集体走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2289929",
           "source": "财联社热门",
@@ -213,8 +264,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时06分 ~ 09时31分]"
+          "appearance_count": 5,
+          "time_info": "[08时06分 ~ 10时54分]"
         },
         {
           "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
@@ -245,7 +296,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -336,8 +387,31 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美方代表团将于17日与伊朗会晤",
+          "url": "https://news.ifeng.com/c/8qjOCH5DINZ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 10时54分]"
+        },
+        {
+          "title": "美方代表团将于17日与伊朗方面会晤",
+          "url": "https://wallstreetcn.com/livenews/3055415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 10时54分]"
+        },
         {
           "title": "美方代表团将于17日与伊朗方面会晤",
           "url": "https://flash.jin10.com/detail/20260214083231804800",
@@ -345,7 +419,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -356,18 +430,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "美方代表团将于17日与伊朗方面会晤",
-          "url": "https://wallstreetcn.com/livenews/3055415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         }
@@ -375,8 +438,19 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "DeepSeek春节再扔王炸？官方披露正测试新模型结构",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32602762",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 10时54分]"
+        },
         {
           "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
           "url": "https://www.zhihu.com/question/2005557043939993512",
@@ -390,15 +464,15 @@
           "time_info": "[08时06分 ~ 09时31分]"
         },
         {
-          "title": "DeepSeek春节再扔王炸？官方披露正测试新模型结构",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32602762",
-          "source": "澎湃新闻",
+          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
+          "url": "https://wallstreetcn.com/livenews/3055437",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "10时54分"
         }
       ]
     },
@@ -411,11 +485,12 @@
           "url": "https://wallstreetcn.com/articles/3765664",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时06分 ~ 09时31分]"
+          "appearance_count": 5,
+          "time_info": "[08时06分 ~ 10时54分]"
         },
         {
           "title": "两年期美债收益率在美国CPI通胀数据发布日创2022年以来新低，中长期收益率本周跌约16个基点",
