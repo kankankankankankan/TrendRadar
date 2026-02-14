@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T21:17:42.011530+08:00",
-  "total_titles_processed": 1210,
+  "generated_at": "2026-02-14T22:06:26.073346+08:00",
+  "total_titles_processed": 1265,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
@@ -19,8 +19,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时45分 ~ 21时17分]"
+          "appearance_count": 14,
+          "time_info": "[11时45分 ~ 22时06分]"
         },
         {
           "title": "特朗普将访问委内瑞拉",
@@ -111,8 +111,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时03分 ~ 21时17分]"
+          "appearance_count": 8,
+          "time_info": "[16时03分 ~ 22时06分]"
+        },
+        {
+          "title": "特朗普下令第二艘航母前往中东",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E7%AC%AC%E4%BA%8C%E8%89%98%E8%88%AA%E6%AF%8D%E5%89%8D%E5%BE%80%E4%B8%AD%E4%B8%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "加州州长慕安会痛批特朗普：让美国倒退回19世纪！",
@@ -141,6 +152,17 @@
           "time_info": "[08时06分 ~ 10时54分]"
         },
         {
+          "title": "特朗普：北约看在我的份上付了5%国防支出",
+          "url": "https://news.ifeng.com/c/8qk233NwWlu",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时04分 ~ 22时06分]"
+        },
+        {
           "title": "外媒爆料：美军正做准备，一旦特朗普下令攻击伊朗，行动可能持续数周",
           "url": "https://wallstreetcn.com/livenews/3055429",
           "source": "华尔街见闻-快讯",
@@ -152,6 +174,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时31分 ~ 11时45分]"
+        },
+        {
+          "title": "美国州长：特朗普只是个过客，加州是稳定可靠的伙伴",
+          "url": "https://wallstreetcn.com/livenews/3055534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时02分 ~ 22时06分]"
         },
         {
           "title": "赫尔佐格回击特朗普：我才是以色列总统",
@@ -166,18 +201,6 @@
           "time_info": "[08时07分 ~ 09时31分]"
         },
         {
-          "title": "美国州长：特朗普只是个过客，加州是稳定可靠的伙伴",
-          "url": "https://wallstreetcn.com/livenews/3055534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时02分 ~ 21时17分]"
-        },
-        {
           "title": "日媒披露特朗普拒绝在中日间力挺日本",
           "url": "https://www.toutiao.com/trending/7605283067519008810/",
           "source": "今日头条",
@@ -188,17 +211,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时31分 ~ 14时10分]"
-        },
-        {
-          "title": "特朗普：北约看在我的份上付了5%国防支出",
-          "url": "https://news.ifeng.com/c/8qk233NwWlu",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时04分 ~ 21时17分]"
         },
         {
           "title": "美国国务卿鲁比奥：美国特使维特科夫和特朗普女婿库什纳很快就会安排一些会晤。",
@@ -212,6 +224,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时03分 ~ 20时02分]"
+        },
+        {
+          "title": "意大利总理梅洛妮：意大利可能会按观察员身份加入（美国总统特朗普所谓的）和平委员会。",
+          "url": "https://wallstreetcn.com/livenews/3055527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时02分 ~ 22时06分]"
         },
         {
           "title": "美国国务卿鲁比奥：美国总统特朗普表示他更倾向于与伊朗达成协议，但要做到这一点非常困难。",
@@ -238,16 +263,16 @@
           "time_info": "[15时13分 ~ 16时04分]"
         },
         {
-          "title": "意大利总理梅洛妮：意大利可能会按观察员身份加入（美国总统特朗普所谓的）和平委员会。",
-          "url": "https://wallstreetcn.com/livenews/3055527",
-          "source": "华尔街见闻-快讯",
+          "title": "乌克兰总统泽连斯基：（被问及美国总统特朗普关于乌克兰的最新评论时）“有点”感受到压力。",
+          "url": "https://flash.jin10.com/detail/20260214195624100800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            19
+            16,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时02分 ~ 21时17分]"
+          "time_info": "[21时17分 ~ 22时06分]"
         },
         {
           "title": "文件显示，美国纽约州和新泽西州在特朗普政府尚未解冻“Gateway”项目资金后，已寻求举行法院听证会。",
@@ -314,17 +339,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：（被问及美国总统特朗普关于乌克兰的最新评论时）“有点”感受到压力。",
-          "url": "https://flash.jin10.com/detail/20260214195624100800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
         },
         {
           "title": "美国总统特朗普：不希望伊朗有任何铀浓缩。",
@@ -416,6 +430,19 @@
           "time_info": "[08时06分 ~ 08时07分]"
         },
         {
+          "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
+          "url": "https://www.cls.cn/detail/2290296",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时06分 ~ 22时06分]"
+        },
+        {
           "title": "美股：金银大涨 英伟达蒸发6900亿元",
           "url": "https://www.toutiao.com/trending/7606270891333091371/",
           "source": "今日头条",
@@ -426,19 +453,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时53分 ~ 12时31分]"
-        },
-        {
-          "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
-          "url": "https://www.cls.cn/detail/2290296",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时06分 ~ 21时17分]"
         },
         {
           "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
@@ -510,22 +524,12 @@
             10,
             9,
             8,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时31分 ~ 21时17分]"
-        },
-        {
-          "title": "美国2月13日当周投资级债券市场销售403亿美元债券，周环比下滑35%（之前一周616亿美元）；发行人19家，之前一周22笔。 其中，谷歌母公司Alphabet inc.出售200亿美元，迪士尼供应40亿美元第二大。 2月份迄今，高评级债券供应1020亿美元，1月份同期供应1233亿美元。 2026年迄今，累计发行3299亿美元，2025年同期为2681亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3055546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
+          "appearance_count": 13,
+          "time_info": "[12时31分 ~ 22时06分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
@@ -553,6 +557,30 @@
           "time_info": "08时07分"
         },
         {
+          "title": "美国2月13日当周投资级债券市场销售403亿美元债券，周环比下滑35%（之前一周616亿美元）；发行人19家，之前一周22笔。 其中，谷歌母公司Alphabet inc.出售200亿美元，迪士尼供应40亿美元第二大。 2月份迄今，高评级债券供应1020亿美元，1月份同期供应1233亿美元。 2026年迄今，累计发行3299亿美元，2025年同期为2681亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3055546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时17分 ~ 22时06分]"
+        },
+        {
+          "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
+          "url": "https://wallstreetcn.com/livenews/3055539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时17分 ~ 22时06分]"
+        },
+        {
           "title": "13F报告显示：巴克莱四季度增持美光科技、谷歌C、吉利德科学、应用材料、Kenvue。 减持英伟达、微软、摩根大通、百事、苹果。 重仓英伟达、微软、苹果、亚马逊、谷歌A。",
           "url": "https://wallstreetcn.com/livenews/3055390",
           "source": "华尔街见闻-快讯",
@@ -562,17 +590,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
-        },
-        {
-          "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
-          "url": "https://wallstreetcn.com/livenews/3055539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
         },
         {
           "title": "13F报告显示：Harvard Management四季度建仓做多Union Pacifit/isha以太坊信托ETF、以及Figma。 增持谷歌A、博通、台积电、Booking、以及Meta。 清仓Lighter & Wonder、PureCycle、以及Maze Therapeutics。 减持iShares比特币信托ETF、微软、亚马逊、英伟达、以及SPDR黄金Shares。 重仓资产包括iShares比特币信托ETF、谷歌A、SPDR黄金Shares、微软、以及Booking。",
@@ -724,8 +741,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时10分 ~ 21时17分]"
+          "appearance_count": 10,
+          "time_info": "[14时10分 ~ 22时06分]"
         },
         {
           "title": "DeepSeek春节再扔王炸？官方披露正测试新模型结构",
@@ -740,8 +757,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时31分 ~ 21时17分]"
+          "appearance_count": 17,
+          "time_info": "[09时31分 ~ 22时06分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -754,8 +771,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时13分 ~ 21时17分]"
+          "appearance_count": 9,
+          "time_info": "[15时13分 ~ 22时06分]"
         },
         {
           "title": "一年了 美国还在追着DeepSeek抹黑",
@@ -827,8 +844,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时06分 ~ 21时17分]"
+          "appearance_count": 19,
+          "time_info": "[08时06分 ~ 22时06分]"
+        },
+        {
+          "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
+          "url": "https://wallstreetcn.com/articles/3765719",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时06分 ~ 22时06分]"
         },
         {
           "title": "中国持续减持美债意味着什么",
@@ -842,19 +873,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时45分 ~ 15时13分]"
-        },
-        {
-          "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
-          "url": "https://wallstreetcn.com/articles/3765719",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时06分 ~ 21时17分]"
         },
         {
           "title": "全球投资者为何不再“信仰”美债了",
@@ -929,6 +947,17 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "金价波动下的消费众生相",
+          "url": "https://www.toutiao.com/trending/7606664927398333971/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时17分 ~ 22时06分]"
+        },
+        {
           "title": "金价本周涨超2%",
           "url": "https://wallstreetcn.com/livenews/3055383",
           "source": "华尔街见闻-快讯",
@@ -938,17 +967,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
-        },
-        {
-          "title": "金价波动下的消费众生相",
-          "url": "https://www.toutiao.com/trending/7606664927398333971/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
         }
       ]
     }
