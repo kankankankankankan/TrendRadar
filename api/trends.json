@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T17:06:19.537688+08:00",
-  "total_titles_processed": 930,
+  "generated_at": "2026-02-14T18:03:33.721301+08:00",
+  "total_titles_processed": 1004,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普将访问委内瑞拉",
@@ -33,6 +33,20 @@
           "time_info": "[08时06分 ~ 14时10分]"
         },
         {
+          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
+          "url": "https://www.cls.cn/detail/2290201",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时45分 ~ 18时03分]"
+        },
+        {
           "title": "特朗普证实美军将向中东派第二艘航母",
           "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
           "source": "凤凰网",
@@ -41,8 +55,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时06分 ~ 17时06分]"
+          "appearance_count": 15,
+          "time_info": "[08时06分 ~ 18时03分]"
         },
         {
           "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
@@ -55,8 +69,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时53分 ~ 17时06分]"
+          "appearance_count": 12,
+          "time_info": "[10时53分 ~ 18时03分]"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -89,20 +103,6 @@
           "time_info": "[10时53分 ~ 16时04分]"
         },
         {
-          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
-          "url": "https://www.cls.cn/detail/2290201",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时45分 ~ 17时06分]"
-        },
-        {
           "title": "报告：特朗普关税政策成本90%由美国消费者和企业买单",
           "url": "https://m.thepaper.cn/newsDetail_forward_32599555",
           "source": "澎湃新闻",
@@ -120,11 +120,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时04分 ~ 17时06分]"
+          "appearance_count": 3,
+          "time_info": "[16时04分 ~ 18时03分]"
         },
         {
           "title": "外媒爆料：美军正做准备，一旦特朗普下令攻击伊朗，行动可能持续数周",
@@ -138,6 +139,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时31分 ~ 11时45分]"
+        },
+        {
+          "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
+          "url": "https://news.ifeng.com/c/8qjoPYjzxHm",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时03分 ~ 18时03分]"
         },
         {
           "title": "赫尔佐格回击特朗普：我才是以色列总统",
@@ -164,17 +176,6 @@
           "time_info": "[12时31分 ~ 14时10分]"
         },
         {
-          "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
-          "url": "https://news.ifeng.com/c/8qjoPYjzxHm",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时03分 ~ 17时06分]"
-        },
-        {
           "title": "特朗普：不知道商务部长去过爱泼斯坦岛，反正我没去过",
           "url": "https://m.thepaper.cn/newsDetail_forward_32601087",
           "source": "澎湃新闻",
@@ -184,6 +185,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时13分 ~ 16时04分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥：美国特使维特科夫和特朗普女婿库什纳很快就会安排一些会晤。",
+          "url": "https://flash.jin10.com/detail/20260214165909253800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：美国总统特朗普表示他更倾向于与伊朗达成协议，但要做到这一点非常困难。",
+          "url": "https://flash.jin10.com/detail/20260214165831489800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "文件显示，美国纽约州和新泽西州在特朗普政府尚未解冻“Gateway”项目资金后，已寻求举行法院听证会。",
@@ -290,8 +313,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时06分 ~ 17时06分]"
+          "appearance_count": 15,
+          "time_info": "[08时06分 ~ 18时03分]"
         },
         {
           "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
@@ -357,11 +380,12 @@
           "url": "https://www.cls.cn/detail/2290296",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时06分 ~ 18时03分]"
         },
         {
           "title": "周五（2月13日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9012元，较周四纽约尾盘跌31点，日内整体交投于6.8973-6.9109元区间。 本周，离岸人民币累计上涨大约290点，涨幅大约0.4%，2月12日美股盘前曾涨至6.8912元。",
@@ -426,8 +450,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时31分 ~ 17时06分]"
+          "appearance_count": 13,
+          "time_info": "[09时31分 ~ 18时03分]"
         },
         {
           "title": "DeepSeek春节再扔王炸？最新披露",
@@ -435,11 +459,12 @@
           "source": "百度热搜",
           "ranks": [
             15,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时10分 ~ 17时06分]"
+          "appearance_count": 6,
+          "time_info": "[14时10分 ~ 18时03分]"
         },
         {
           "title": "一年了 美国还在追着DeepSeek抹黑",
@@ -464,8 +489,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时13分 ~ 17时06分]"
+          "appearance_count": 5,
+          "time_info": "[15时13分 ~ 18时03分]"
+        },
+        {
+          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%98%E5%86%B7%E6%BC%A0%E7%94%9A%E8%87%B3%E5%87%B6%E5%87%B6%E7%9A%84%EF%BC%9F%E5%9B%9E%E5%BA%94%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            16,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时13分 ~ 18时03分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -480,19 +519,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时54分 ~ 13时19分]"
-        },
-        {
-          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%98%E5%86%B7%E6%BC%A0%E7%94%9A%E8%87%B3%E5%87%B6%E5%87%B6%E7%9A%84%EF%BC%9F%E5%9B%9E%E5%BA%94%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            16,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时13分 ~ 17时06分]"
         },
         {
           "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
@@ -520,11 +546,12 @@
             13,
             10,
             9,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时31分 ~ 17时06分]"
+          "appearance_count": 9,
+          "time_info": "[12时31分 ~ 18时03分]"
         },
         {
           "title": "13F报告显示：Maverick Capital Ltd.四季度建仓做多谷歌C、应用材料、波士顿科学、Visa、以及Camden Property。 增持台积电、英伟达、GFL Environment、Carvana。 清仓Kenvue、美国银行、AMD、Danaher、以及Insmed。 减持Nubank、迪士尼、Merit Medical、Acadia Health、Sherwin-Williams。 重仓英伟达、微软、亚马逊、台积电、谷歌C。",
@@ -543,11 +570,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时04分 ~ 17时06分]"
+          "appearance_count": 3,
+          "time_info": "[16时04分 ~ 18时03分]"
         },
         {
           "title": "13F报告显示：巴克莱四季度增持美光科技、谷歌C、吉利德科学、应用材料、Kenvue。 减持英伟达、微软、摩根大通、百事、苹果。 重仓英伟达、微软、苹果、亚马逊、谷歌A。",
@@ -596,6 +624,91 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美方代表团将于17日与伊朗会晤",
+          "url": "https://news.ifeng.com/c/8qjOCH5DINZ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[10时53分 ~ 18时03分]"
+        },
+        {
+          "title": "伊朗流亡王储：我没有个人野心，愿领导国家走向公投",
+          "url": "https://news.ifeng.com/c/8qjjAveB5Qh",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时13分 ~ 18时03分]"
+        },
+        {
+          "title": "美方代表团将于17日与伊朗方面会晤",
+          "url": "https://wallstreetcn.com/livenews/3055415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 10时54分]"
+        },
+        {
+          "title": "加拿大政府网站：加拿大根据《特别经济措施（伊朗）条例》对伊朗7名个人实施额外制裁。",
+          "url": "https://flash.jin10.com/detail/20260214171426770800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
+          "title": "加拿大政府网站：加拿大宣布对伊朗实施更多制裁。",
+          "url": "https://flash.jin10.com/detail/20260214171329618800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
+          "title": "美方代表团将于17日与伊朗方面会晤",
+          "url": "https://flash.jin10.com/detail/20260214083231804800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "国际原子能机构：与伊朗对话继续，未来几天或决定下一步措施",
+          "url": "https://flash.jin10.com/detail/20260214082603396800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 5,
       "titles": [
@@ -608,8 +721,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时06分 ~ 17时06分]"
+          "appearance_count": 15,
+          "time_info": "[08时06分 ~ 18时03分]"
         },
         {
           "title": "中国持续减持美债意味着什么",
@@ -643,9 +756,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时06分 ~ 18时03分]"
         },
         {
           "title": "两年期美债收益率在美国CPI通胀数据发布日创2022年以来新低，中长期收益率本周跌约16个基点",
@@ -657,69 +770,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美方代表团将于17日与伊朗会晤",
-          "url": "https://news.ifeng.com/c/8qjOCH5DINZ",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时53分 ~ 17时06分]"
-        },
-        {
-          "title": "伊朗流亡王储：我没有个人野心，愿领导国家走向公投",
-          "url": "https://news.ifeng.com/c/8qjjAveB5Qh",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时13分 ~ 17时06分]"
-        },
-        {
-          "title": "美方代表团将于17日与伊朗方面会晤",
-          "url": "https://wallstreetcn.com/livenews/3055415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 10时54分]"
-        },
-        {
-          "title": "美方代表团将于17日与伊朗方面会晤",
-          "url": "https://flash.jin10.com/detail/20260214083231804800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "国际原子能机构：与伊朗对话继续，未来几天或决定下一步措施",
-          "url": "https://flash.jin10.com/detail/20260214082603396800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
         }
       ]
     },
@@ -745,11 +795,12 @@
           "url": "https://flash.jin10.com/detail/20260214160547731800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时06分 ~ 18时03分]"
         },
         {
           "title": "OpenAI的模型被纳入美国无人机群竞赛（drone swarm contest）名单。",
