@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T10:58:14.174415+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-02-16T11:54:49.391454+08:00",
+  "total_titles_processed": 618,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 10时58分]"
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 11时54分]"
         },
         {
           "title": "抵近伊朗，卫星捕获美航母在阿曼附近活动",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 10时58分]"
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 11时54分]"
         },
         {
           "title": "美伊新一轮谈判在即，以总理：伊朗必须拆除核设施",
@@ -153,8 +153,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 10时58分]"
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 11时54分]"
         },
         {
           "title": "奥巴马回应被特朗普恶搞成猿猴",
@@ -192,6 +192,47 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
+          "url": "https://wallstreetcn.com/articles/3765755",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时05分 ~ 11时54分]"
+        },
+        {
+          "title": "OpenClaw之父加入OpenAI",
+          "url": "https://search.bilibili.com/all?keyword=OpenClaw%E4%B9%8B%E7%88%B6%E5%8A%A0%E5%85%A5OpenAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 10时58分]"
+        },
+        {
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -204,8 +245,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时05分 ~ 10时58分]"
+          "appearance_count": 6,
+          "time_info": "[08时05分 ~ 11时54分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -217,35 +258,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时05分 ~ 08时06分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
-          "url": "https://wallstreetcn.com/articles/3765755",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时05分 ~ 10时58分]"
-        },
-        {
-          "title": "OpenClaw之父加入OpenAI",
-          "url": "https://search.bilibili.com/all?keyword=OpenClaw%E4%B9%8B%E7%88%B6%E5%8A%A0%E5%85%A5OpenAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 10时58分]"
         }
       ]
     },
@@ -280,6 +292,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "受假期影响，今日亚洲多地休市，市场交易较为平淡；现货黄金盘中失守5000美元关口，白银价格亦跟随下跌，展望未来，本周市场将迎来美联储会议纪要及PCE通胀数据，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260216110854337800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         }
       ]
     },
