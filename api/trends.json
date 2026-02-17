@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T15:20:25.378564+08:00",
-  "total_titles_processed": 818,
+  "generated_at": "2026-02-17T16:10:50.093555+08:00",
+  "total_titles_processed": 896,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时31分 ~ 15时20分]"
+          "appearance_count": 10,
+          "time_info": "[09时31分 ~ 16时10分]"
         },
         {
           "title": "特朗普：古巴应该达成协议，没必要在古巴采取类似委内瑞拉的行动。",
@@ -148,8 +148,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时31分 ~ 15时20分]"
+          "appearance_count": 10,
+          "time_info": "[09时31分 ~ 16时10分]"
+        },
+        {
+          "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
+          "url": "https://wallstreetcn.com/articles/3765802",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时34分 ~ 16时10分]"
         },
         {
           "title": "伊朗外长与美谈判前夕强调不屈服",
@@ -165,20 +179,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时56分 ~ 15时20分]"
-        },
-        {
-          "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
-          "url": "https://wallstreetcn.com/articles/3765802",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时34分 ~ 15时20分]"
         },
         {
           "title": "媒体人：伊朗弹道导弹反击已在准备中",
@@ -263,8 +263,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时31分 ~ 15时20分]"
+          "appearance_count": 10,
+          "time_info": "[09时31分 ~ 16时10分]"
         },
         {
           "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
@@ -305,8 +305,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时06分 ~ 15时20分]"
+          "appearance_count": 11,
+          "time_info": "[08时06分 ~ 16时10分]"
         },
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
@@ -318,8 +318,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时06分 ~ 15时20分]"
+          "appearance_count": 11,
+          "time_info": "[08时06分 ~ 16时10分]"
         }
       ]
     },
