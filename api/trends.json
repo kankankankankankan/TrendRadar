@@ -1,11 +1,523 @@
 {
-  "generated_at": "2026-02-19T22:18:39.649277+08:00",
-  "total_titles_processed": 1429,
+  "generated_at": "2026-02-19T23:15:09.338710+08:00",
+  "total_titles_processed": 1499,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 45,
+      "titles": [
+        {
+          "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
+          "url": "https://news.ifeng.com/c/8qri3CsyaiS",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[10时57分 ~ 21时29分]"
+        },
+        {
+          "title": "特朗普将举行首届“和平委员会”会议，宣布成员国注资",
+          "url": "https://news.ifeng.com/c/8qrooPYgaLN",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时35分 ~ 17时14分]"
+        },
+        {
+          "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
+          "url": "https://news.ifeng.com/c/8qrt27zMNrI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时35分 ~ 18时14分]"
+        },
+        {
+          "title": "美媒：美军最早本周末打击伊朗，特朗普尚未决定",
+          "url": "https://news.ifeng.com/c/8qraTXTgXgI",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 11时50分]"
+        },
+        {
+          "title": "美国总统特朗普：全世界都在等着哈马斯，它是唯一阻碍我们前进的因素。",
+          "url": "https://flash.jin10.com/detail/20260219231311773800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "美国总统特朗普：必须解决与黎巴嫩的问题。",
+          "url": "https://flash.jin10.com/detail/20260219231300377800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "美国内政部长：天然气为美国家庭和工业提供动力。当生产增加时，公用事业账单就会减少。总统特朗普正在带来真正的成果，降低家庭开支。这就是美国能源主导的实际体现。",
+          "url": "https://flash.jin10.com/detail/20260219091602708800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "美国总统特朗普：我认为没有必要派士兵去加沙作战。",
+          "url": "https://flash.jin10.com/detail/20260219231156454800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "美法官推翻一项支持特朗普政府拘留移民政策的裁决",
+          "url": "https://flash.jin10.com/detail/20260219111448057800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时50分"
+        },
+        {
+          "title": "美国财政部声明：特朗普将于12月14日至15日在迈阿密主持G20峰会。美国将于8月下旬和9月在北卡罗来纳州阿什维尔举办G20财政官员会议。",
+          "url": "https://flash.jin10.com/detail/20260219220303113800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "美国总统特朗普：加沙不再是激进主义和恐怖主义的温床。",
+          "url": "https://flash.jin10.com/detail/20260219231149143800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "英国阻止特朗普使用英国空军基地打击伊朗",
+          "url": "https://flash.jin10.com/detail/20260219220045780800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "美国总统特朗普：已有超过70亿美元用于加沙救援行动。",
+          "url": "https://flash.jin10.com/detail/20260219231144473800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "特朗普称美国今年贸易逆差将数十年来首次逆转",
+          "url": "https://wallstreetcn.com/livenews/3056538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            18,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 12时35分]"
+        },
+        {
+          "title": "特朗普将于美国东部时间周四下午4点（北京时间次日凌晨5点）就经济问题发表讲话。",
+          "url": "https://wallstreetcn.com/livenews/3056537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            19,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 12时35分]"
+        },
+        {
+          "title": "美多家团体起诉特朗普政府撤销气候危害认定",
+          "url": "https://wallstreetcn.com/livenews/3056582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时20分 ~ 17时14分]"
+        },
+        {
+          "title": "据英国金融时报：据知情人士透露，摩根大通正在洽谈为特朗普的“和平委员会”提供银行服务。",
+          "url": "https://flash.jin10.com/detail/20260219130438457800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 14时19分]"
+        },
+        {
+          "title": "特朗普政府扩大了移民与海关执法局拘留合法难民的权力。",
+          "url": "https://flash.jin10.com/detail/20260219184006351800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 20时07分]"
+        },
+        {
+          "title": "美国总统特朗普考虑达成一项不包括加拿大的北美贸易协定。",
+          "url": "https://flash.jin10.com/detail/20260219181201454800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 20时07分]"
+        },
+        {
+          "title": "法国总统马克龙：将与美国总统特朗普讨论社交媒体。",
+          "url": "https://flash.jin10.com/detail/20260219191957644800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
+          "title": "美国总统特朗普：看来哈马斯要放下武器了，但我们还得弄清楚。",
+          "url": "https://flash.jin10.com/detail/20260219231139490800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "英国阻止特朗普使用英国的基地打击伊朗。",
+          "url": "https://flash.jin10.com/detail/20260219215414927800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "美国总统特朗普：致力于实现一个治理得当的加沙。",
+          "url": "https://flash.jin10.com/detail/20260219231117267800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "美国总统特朗普：今天晚些时候将与联合国秘书长古特雷斯通话。",
+          "url": "https://flash.jin10.com/detail/20260219230915461800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "英国阻止特朗普使用英国的基地打击伊朗。（泰晤士报）",
+          "url": "https://wallstreetcn.com/livenews/3056653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "在特朗普推动和平计划之际，哈马斯加大对加沙的控制",
+          "url": "https://flash.jin10.com/detail/20260219205710816800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗不能拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260219230900663800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "加州就终止能源中心资金起诉特朗普",
+          "url": "https://flash.jin10.com/detail/20260219084435962800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "美国总统特朗普：我们确实还有一些与伊朗相关的工作要做。",
+          "url": "https://flash.jin10.com/detail/20260219230832569800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "特朗普的加沙和平计划恐陷入僵局 哈马斯是否放下武器成为焦点",
+          "url": "https://flash.jin10.com/detail/20260219205124822800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
+          "title": "美国总统特朗普：认为哈马斯会放弃武器，否则将遭到严厉打击。",
+          "url": "https://flash.jin10.com/detail/20260219230633297800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-19）",
+          "url": "https://flash.jin10.com/detail/20260219174052852800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普要求孟加拉国总理完成“例行国防”协议。",
+          "url": "https://flash.jin10.com/detail/20260219204541105800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
+          "title": "美国总统特朗普：将在大约10天内找到伊朗问题的答案。",
+          "url": "https://flash.jin10.com/detail/20260219230556172800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "特朗普援引国防生产法，保障磷与除草剂的国内供应",
+          "url": "https://wallstreetcn.com/livenews/3056519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "美国总统特朗普：目前中东地区处于和平状态。",
+          "url": "https://flash.jin10.com/detail/20260219230506510800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "特朗普签署行政令指示农业部和国防部确保元素磷、除草剂充足",
+          "url": "https://flash.jin10.com/detail/20260219070013382800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "美国总统特朗普：在美国大选中我只想要美国人投票。",
+          "url": "https://flash.jin10.com/detail/20260219202807714800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
+          "title": "美国总统特朗普：正与伊朗进行良好的对话，我们必须与伊朗达成一项有意义的协议。",
+          "url": "https://flash.jin10.com/detail/20260219230223305800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "市场消息：美国法官推翻移民上诉委员会支持特朗普政府大规模拘留政策的裁决。",
+          "url": "https://flash.jin10.com/detail/20260219093138689800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
+        {
+          "title": "美多家团体起诉特朗普政府撤销气候危害认定",
+          "url": "https://flash.jin10.com/detail/20260219140818011800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "美国总统特朗普：乌克兰、俄罗斯和欧洲都喜欢美国特使威特科夫。",
+          "url": "https://flash.jin10.com/detail/20260219225958625800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "特朗普称美国今年贸易逆差将数十年来首次逆转",
+          "url": "https://flash.jin10.com/detail/20260219080811370800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "特朗普将于美国东部时间周四下午4点（北京时间次日凌晨5点）就经济问题发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260219080556837800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "美国总统特朗普：越南太令人惊叹了。",
+          "url": "https://flash.jin10.com/detail/20260219225430423800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "美油大涨5%！美以或对伊朗联合袭击，白宫称谈判取得进展、但关键议题相距甚远",
@@ -19,8 +531,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时57分 ~ 22时18分]"
+          "appearance_count": 18,
+          "time_info": "[10时57分 ~ 23时15分]"
         },
         {
           "title": "这一次不一样？美军做好“最早本周末打击伊朗”准备，油价会如何？",
@@ -37,8 +549,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时50分 ~ 22时18分]"
+          "appearance_count": 17,
+          "time_info": "[11时50分 ~ 23时15分]"
         },
         {
           "title": "美以或对伊朗发动大规模袭击",
@@ -50,11 +562,12 @@
             9,
             14,
             15,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时20分 ~ 22时18分]"
+          "appearance_count": 13,
+          "time_info": "[15时20分 ~ 23时15分]"
         },
         {
           "title": "原油贵金属大幅收涨 消息称美以或将联合袭击伊朗 | 环球市场",
@@ -66,8 +579,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时09分 ~ 22时18分]"
+          "appearance_count": 12,
+          "time_info": "[16时09分 ~ 23时15分]"
         },
         {
           "title": "伊朗与俄罗斯将举行海上联合军演",
@@ -84,22 +597,6 @@
           "time_info": "[08时07分 ~ 17时14分]"
         },
         {
-          "title": "俄外长：美国若打击伊朗后果严重",
-          "url": "https://www.douyin.com/hot/2405736",
-          "source": "抖音",
-          "ranks": [
-            26,
-            16,
-            24,
-            25,
-            27,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时20分 ~ 22时18分]"
-        },
-        {
           "title": "美设定“3月中旬”期限：对伊朗兵力将部署到位，战云逼近？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32632034",
           "source": "澎湃新闻",
@@ -107,11 +604,27 @@
             17,
             15,
             14,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时14分 ~ 22时18分]"
+          "appearance_count": 10,
+          "time_info": "[17时14分 ~ 23时15分]"
+        },
+        {
+          "title": "美媒称美军方已准备好“最早本周末”打击伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32632095",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            15,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时14分 ~ 23时15分]"
         },
         {
           "title": "伊朗：已进入全面战备状态",
@@ -126,22 +639,38 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时14分 ~ 22时18分]"
+          "appearance_count": 10,
+          "time_info": "[17时14分 ~ 23时15分]"
         },
         {
-          "title": "美媒称美军方已准备好“最早本周末”打击伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32632095",
-          "source": "澎湃新闻",
+          "title": "俄外长：美国若打击伊朗后果严重",
+          "url": "https://www.douyin.com/hot/2405736",
+          "source": "抖音",
           "ranks": [
-            18,
+            26,
             16,
+            24,
+            25,
+            27,
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[15时20分 ~ 23时15分]"
+        },
+        {
+          "title": "伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
             15,
-            12
+            16
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[17时14分 ~ 22时18分]"
+          "time_info": "[19时14分 ~ 23时15分]"
         },
         {
           "title": "伊朗将迅速落实伊俄全面战略合作计划",
@@ -201,18 +730,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时31分 ~ 14时19分]"
-        },
-        {
-          "title": "伊朗",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时14分 ~ 22时18分]"
         },
         {
           "title": "伊朗：已进入全面战备状态",
@@ -292,6 +809,18 @@
           "time_info": "[18时14分 ~ 20时07分]"
         },
         {
+          "title": "美军舰和战机在伊朗附近集结",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E8%88%B0%E5%92%8C%E6%88%98%E6%9C%BA%E5%9C%A8%E4%BC%8A%E6%9C%97%E9%99%84%E8%BF%91%E9%9B%86%E7%BB%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 23时15分]"
+        },
+        {
           "title": "美国众议院可能下周就美国总统在伊朗问题上的“战争权力”进行投票。（Punchbowl）",
           "url": "https://wallstreetcn.com/livenews/3056528",
           "source": "华尔街见闻-快讯",
@@ -362,17 +891,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时19分 ~ 15时20分]"
-        },
-        {
-          "title": "美军舰和战机在伊朗附近集结",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E8%88%B0%E5%92%8C%E6%88%98%E6%9C%BA%E5%9C%A8%E4%BC%8A%E6%9C%97%E9%99%84%E8%BF%91%E9%9B%86%E7%BB%93",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
         },
         {
           "title": "美国被曝最早本周末攻打伊朗",
@@ -450,6 +968,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        },
+        {
+          "title": "丹麦海事当局：因船舶登记不正确而扣押一艘悬挂伊朗国旗的船只。",
+          "url": "https://flash.jin10.com/detail/20260219230613686800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "克里姆林宫就伊朗问题表示：我们正在发展与伊朗的关系，并敦促我们的伊朗朋友及其他各方保持克制和审慎。",
@@ -542,333 +1071,8 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 28,
-      "titles": [
-        {
-          "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
-          "url": "https://news.ifeng.com/c/8qri3CsyaiS",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时57分 ~ 21时29分]"
-        },
-        {
-          "title": "特朗普将举行首届“和平委员会”会议，宣布成员国注资",
-          "url": "https://news.ifeng.com/c/8qrooPYgaLN",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时35分 ~ 17时14分]"
-        },
-        {
-          "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
-          "url": "https://news.ifeng.com/c/8qrt27zMNrI",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时35分 ~ 18时14分]"
-        },
-        {
-          "title": "美媒：美军最早本周末打击伊朗，特朗普尚未决定",
-          "url": "https://news.ifeng.com/c/8qraTXTgXgI",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 11时50分]"
-        },
-        {
-          "title": "美国内政部长：天然气为美国家庭和工业提供动力。当生产增加时，公用事业账单就会减少。总统特朗普正在带来真正的成果，降低家庭开支。这就是美国能源主导的实际体现。",
-          "url": "https://flash.jin10.com/detail/20260219091602708800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "美法官推翻一项支持特朗普政府拘留移民政策的裁决",
-          "url": "https://flash.jin10.com/detail/20260219111448057800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        },
-        {
-          "title": "美国财政部声明：特朗普将于12月14日至15日在迈阿密主持G20峰会。美国将于8月下旬和9月在北卡罗来纳州阿什维尔举办G20财政官员会议。",
-          "url": "https://flash.jin10.com/detail/20260219220303113800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        },
-        {
-          "title": "英国阻止特朗普使用英国空军基地打击伊朗",
-          "url": "https://flash.jin10.com/detail/20260219220045780800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        },
-        {
-          "title": "特朗普称美国今年贸易逆差将数十年来首次逆转",
-          "url": "https://wallstreetcn.com/livenews/3056538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            18,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时31分 ~ 12时35分]"
-        },
-        {
-          "title": "特朗普将于美国东部时间周四下午4点（北京时间次日凌晨5点）就经济问题发表讲话。",
-          "url": "https://wallstreetcn.com/livenews/3056537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            19,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时31分 ~ 12时35分]"
-        },
-        {
-          "title": "美多家团体起诉特朗普政府撤销气候危害认定",
-          "url": "https://wallstreetcn.com/livenews/3056582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时20分 ~ 17时14分]"
-        },
-        {
-          "title": "据英国金融时报：据知情人士透露，摩根大通正在洽谈为特朗普的“和平委员会”提供银行服务。",
-          "url": "https://flash.jin10.com/detail/20260219130438457800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 14时19分]"
-        },
-        {
-          "title": "特朗普政府扩大了移民与海关执法局拘留合法难民的权力。",
-          "url": "https://flash.jin10.com/detail/20260219184006351800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时07分]"
-        },
-        {
-          "title": "美国总统特朗普考虑达成一项不包括加拿大的北美贸易协定。",
-          "url": "https://flash.jin10.com/detail/20260219181201454800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时07分]"
-        },
-        {
-          "title": "法国总统马克龙：将与美国总统特朗普讨论社交媒体。",
-          "url": "https://flash.jin10.com/detail/20260219191957644800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时07分"
-        },
-        {
-          "title": "英国阻止特朗普使用英国的基地打击伊朗。",
-          "url": "https://flash.jin10.com/detail/20260219215414927800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        },
-        {
-          "title": "在特朗普推动和平计划之际，哈马斯加大对加沙的控制",
-          "url": "https://flash.jin10.com/detail/20260219205710816800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "加州就终止能源中心资金起诉特朗普",
-          "url": "https://flash.jin10.com/detail/20260219084435962800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "特朗普的加沙和平计划恐陷入僵局 哈马斯是否放下武器成为焦点",
-          "url": "https://flash.jin10.com/detail/20260219205124822800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-19）",
-          "url": "https://flash.jin10.com/detail/20260219174052852800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普要求孟加拉国总理完成“例行国防”协议。",
-          "url": "https://flash.jin10.com/detail/20260219204541105800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "特朗普援引国防生产法，保障磷与除草剂的国内供应",
-          "url": "https://wallstreetcn.com/livenews/3056519",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "特朗普签署行政令指示农业部和国防部确保元素磷、除草剂充足",
-          "url": "https://flash.jin10.com/detail/20260219070013382800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "美国总统特朗普：在美国大选中我只想要美国人投票。",
-          "url": "https://flash.jin10.com/detail/20260219202807714800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "市场消息：美国法官推翻移民上诉委员会支持特朗普政府大规模拘留政策的裁决。",
-          "url": "https://flash.jin10.com/detail/20260219093138689800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
-          "title": "美多家团体起诉特朗普政府撤销气候危害认定",
-          "url": "https://flash.jin10.com/detail/20260219140818011800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
-          "title": "特朗普称美国今年贸易逆差将数十年来首次逆转",
-          "url": "https://flash.jin10.com/detail/20260219080811370800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "特朗普将于美国东部时间周四下午4点（北京时间次日凌晨5点）就经济问题发表讲话。",
-          "url": "https://flash.jin10.com/detail/20260219080556837800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
@@ -879,8 +1083,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时07分 ~ 22时18分]"
+          "appearance_count": 20,
+          "time_info": "[08时07分 ~ 23时15分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -892,8 +1096,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时07分 ~ 22时18分]"
+          "appearance_count": 20,
+          "time_info": "[08时07分 ~ 23时15分]"
+        },
+        {
+          "title": "科技股拖累美股期指转跌，特斯拉盘前领跌Mag7，地缘局势升温推高金银油，黄金站上5000美元",
+          "url": "https://wallstreetcn.com/articles/3765856",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时07分 ~ 23时15分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -905,8 +1122,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时07分 ~ 22时18分]"
+          "appearance_count": 20,
+          "time_info": "[08时07分 ~ 23时15分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -916,11 +1133,12 @@
             11,
             9,
             8,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时07分 ~ 22时18分]"
+          "appearance_count": 20,
+          "time_info": "[08时07分 ~ 23时15分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -931,8 +1149,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时09分 ~ 22时18分]"
+          "appearance_count": 12,
+          "time_info": "[16时09分 ~ 23时15分]"
         },
         {
           "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
@@ -947,17 +1165,15 @@
           "time_info": "[08时07分 ~ 11时50分]"
         },
         {
-          "title": "科技股拖累美股期指转跌，特斯拉盘前领跌Mag7，地缘局势升温推高金银油，黄金站上5000美元",
-          "url": "https://wallstreetcn.com/articles/3765856",
-          "source": "华尔街见闻",
+          "title": "波音美股盘初跌超1.8%，越南航空公司Vietnam Airlines、Sun PhuQuoc Airways、以及VietJet宣布，采购将近100架波音飞机。",
+          "url": "https://wallstreetcn.com/livenews/3056664",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            4,
             2
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时07分 ~ 22时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "金十数据整理：每日美股市场要闻速递（2026-02-19）",
@@ -966,9 +1182,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
+        },
+        {
+          "title": "美国机械制造商Deere美股盘初上涨7.8%，创2025年4月以来最大涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3056663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "美股盘初：纳指跌近0.5%，特斯拉跌1%因纽约撤回机器人出租车计划",
+          "url": "https://wallstreetcn.com/livenews/3056662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "美股盘前，白银概念股走强，泛美白银(PAAS.O)涨4.6%、赫克拉矿业(HL.N)涨1.9%、First Majestic(AG.O)涨1.3%。",
@@ -1026,11 +1264,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 22时18分]"
+          "appearance_count": 3,
+          "time_info": "[21时29分 ~ 23时15分]"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3056655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "Doordash美股盘后涨10%。",
@@ -1050,6 +1300,17 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
+          "url": "https://wallstreetcn.com/articles/3765864",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时14分 ~ 23时15分]"
+        },
+        {
           "title": "OpenAI最新一轮融资进展顺利，融资总额有望突破1000亿美元，首轮融资将于本月完成。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3056559",
           "source": "华尔街见闻-快讯",
@@ -1064,17 +1325,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时57分 ~ 15时20分]"
-        },
-        {
-          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
-          "url": "https://wallstreetcn.com/articles/3765864",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时14分 ~ 22时18分]"
         },
         {
           "title": "OpenAI CEO Sam Altman：人工智能需要监管和保障措施。",
@@ -1159,7 +1409,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -1173,6 +1423,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Deepseek神回复",
+          "url": "https://s.weibo.com/weibo?q=Deepseek%E7%A5%9E%E5%9B%9E%E5%A4%8D&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时14分 ~ 23时15分]"
         }
       ]
     },
@@ -1224,6 +1491,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数站上98，为2月6日以来首次，日内涨近0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3056658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         }
       ]
     }
