@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T21:29:04.974106+08:00",
-  "total_titles_processed": 1347,
+  "generated_at": "2026-02-19T22:18:39.649277+08:00",
+  "total_titles_processed": 1429,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时57分 ~ 21时29分]"
+          "appearance_count": 16,
+          "time_info": "[10时57分 ~ 22时18分]"
         },
         {
           "title": "这一次不一样？美军做好“最早本周末打击伊朗”准备，油价会如何？",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时50分 ~ 21时29分]"
+          "appearance_count": 15,
+          "time_info": "[11时50分 ~ 22时18分]"
         },
         {
           "title": "美以或对伊朗发动大规模袭击",
@@ -53,8 +53,21 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时20分 ~ 22时18分]"
+        },
+        {
+          "title": "原油贵金属大幅收涨 消息称美以或将联合袭击伊朗 | 环球市场",
+          "url": "https://www.cls.cn/detail/2291663",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[15时20分 ~ 21时29分]"
+          "time_info": "[16时09分 ~ 22时18分]"
         },
         {
           "title": "伊朗与俄罗斯将举行海上联合军演",
@@ -79,24 +92,56 @@
             16,
             24,
             25,
-            27
+            27,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时20分 ~ 21时29分]"
+          "appearance_count": 11,
+          "time_info": "[15时20分 ~ 22时18分]"
         },
         {
-          "title": "原油贵金属大幅收涨 消息称美以或将联合袭击伊朗 | 环球市场",
-          "url": "https://www.cls.cn/detail/2291663",
-          "source": "财联社热门",
+          "title": "美设定“3月中旬”期限：对伊朗兵力将部署到位，战云逼近？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32632034",
+          "source": "澎湃新闻",
           "ranks": [
-            13,
-            9,
-            8
+            17,
+            15,
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时09分 ~ 21时29分]"
+          "appearance_count": 8,
+          "time_info": "[17时14分 ~ 22时18分]"
+        },
+        {
+          "title": "伊朗：已进入全面战备状态",
+          "url": "https://www.douyin.com/hot/2405773",
+          "source": "抖音",
+          "ranks": [
+            17,
+            16,
+            11,
+            14,
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时14分 ~ 22时18分]"
+        },
+        {
+          "title": "美媒称美军方已准备好“最早本周末”打击伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32632095",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时14分 ~ 22时18分]"
         },
         {
           "title": "伊朗将迅速落实伊俄全面战略合作计划",
@@ -112,49 +157,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[08时07分 ~ 14时19分]"
-        },
-        {
-          "title": "美设定“3月中旬”期限：对伊朗兵力将部署到位，战云逼近？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32632034",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时14分 ~ 21时29分]"
-        },
-        {
-          "title": "伊朗：已进入全面战备状态",
-          "url": "https://www.douyin.com/hot/2405773",
-          "source": "抖音",
-          "ranks": [
-            17,
-            16,
-            11,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时14分 ~ 21时29分]"
-        },
-        {
-          "title": "美媒称美军方已准备好“最早本周末”打击伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32632095",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时14分 ~ 21时29分]"
         },
         {
           "title": "俄外长：美国对伊朗的任何新打击将产生严重后果",
@@ -199,6 +201,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时31分 ~ 14时19分]"
+        },
+        {
+          "title": "伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时14分 ~ 22时18分]"
         },
         {
           "title": "伊朗：已进入全面战备状态",
@@ -251,29 +265,18 @@
           "time_info": "[16时10分 ~ 19时15分]"
         },
         {
-          "title": "伊朗",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时14分 ~ 21时29分]"
-        },
-        {
           "title": "波兰总理呼吁在伊朗的波兰公民尽快离境",
           "url": "https://wallstreetcn.com/livenews/3056625",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
             11,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 21时29分]"
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 22时18分]"
         },
         {
           "title": "国际原子能机构（IAEA）总干事：达成伊朗核协议“时间已经不多了”。",
@@ -488,7 +491,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         },
@@ -540,7 +543,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
@@ -607,6 +610,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
+        },
+        {
+          "title": "美国财政部声明：特朗普将于12月14日至15日在迈阿密主持G20峰会。美国将于8月下旬和9月在北卡罗来纳州阿什维尔举办G20财政官员会议。",
+          "url": "https://flash.jin10.com/detail/20260219220303113800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "英国阻止特朗普使用英国空军基地打击伊朗",
+          "url": "https://flash.jin10.com/detail/20260219220045780800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "特朗普称美国今年贸易逆差将数十年来首次逆转",
@@ -697,13 +722,24 @@
           "time_info": "20时07分"
         },
         {
+          "title": "英国阻止特朗普使用英国的基地打击伊朗。",
+          "url": "https://flash.jin10.com/detail/20260219215414927800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "在特朗普推动和平计划之际，哈马斯加大对加沙的控制",
           "url": "https://flash.jin10.com/detail/20260219205710816800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         },
@@ -725,7 +761,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         },
@@ -747,7 +783,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         },
@@ -780,7 +816,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         },
@@ -832,7 +868,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
@@ -843,8 +879,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时07分 ~ 21时29分]"
+          "appearance_count": 18,
+          "time_info": "[08时07分 ~ 22时18分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -856,8 +892,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时07分 ~ 21时29分]"
+          "appearance_count": 18,
+          "time_info": "[08时07分 ~ 22时18分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -869,8 +905,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时07分 ~ 21时29分]"
+          "appearance_count": 18,
+          "time_info": "[08时07分 ~ 22时18分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -883,8 +919,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时07分 ~ 21时29分]"
+          "appearance_count": 18,
+          "time_info": "[08时07分 ~ 22时18分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -895,8 +931,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时09分 ~ 21时29分]"
+          "appearance_count": 10,
+          "time_info": "[16时09分 ~ 22时18分]"
         },
         {
           "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
@@ -916,11 +952,23 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时07分 ~ 21时29分]"
+          "appearance_count": 4,
+          "time_info": "[20时07分 ~ 22时18分]"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-02-19）",
+          "url": "https://flash.jin10.com/detail/20260219220707052800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "美股盘前，白银概念股走强，泛美白银(PAAS.O)涨4.6%、赫克拉矿业(HL.N)涨1.9%、First Majestic(AG.O)涨1.3%。",
@@ -977,11 +1025,12 @@
           "url": "https://wallstreetcn.com/livenews/3056638",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时29分 ~ 22时18分]"
         },
         {
           "title": "Doordash美股盘后涨10%。",
@@ -1024,8 +1073,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时14分 ~ 21时29分]"
+          "appearance_count": 6,
+          "time_info": "[19时14分 ~ 22时18分]"
         },
         {
           "title": "OpenAI CEO Sam Altman：人工智能需要监管和保障措施。",
@@ -1088,7 +1137,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价迎来新一轮大涨",
@@ -1102,6 +1151,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时14分 ~ 19时15分]"
+        },
+        {
+          "title": "加拿大2025年贸易逆差创历史新高 金价上涨掩盖了关税的真正冲击",
+          "url": "https://flash.jin10.com/detail/20260219215117708800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "金价涨约2%，白银涨约5%",
