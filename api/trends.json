@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T16:09:40.687424+08:00",
-  "total_titles_processed": 923,
+  "generated_at": "2026-02-20T17:12:05.844291+08:00",
+  "total_titles_processed": 1011,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时32分 ~ 16时09分]"
+          "appearance_count": 12,
+          "time_info": "[09时32分 ~ 17时12分]"
         },
         {
           "title": "特朗普被曝考虑军事打击伊朗，细节披露",
@@ -34,6 +34,17 @@
           "time_info": "[09时32分 ~ 13时23分]"
         },
         {
+          "title": "特朗普：高市早苗“特别喜欢我”",
+          "url": "https://news.ifeng.com/c/8qtWnv1ctZC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时32分 ~ 17时12分]"
+        },
+        {
           "title": "特朗普开了前所未有的一个会",
           "url": "https://news.ifeng.com/c/8qtKTnIR6kQ",
           "source": "凤凰网",
@@ -41,8 +52,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时32分 ~ 16时09分]"
+          "appearance_count": 12,
+          "time_info": "[09时32分 ~ 17时12分]"
         },
         {
           "title": "奥巴马称外星人确实存在，特朗普：他泄密了",
@@ -52,19 +63,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时32分 ~ 16时09分]"
-        },
-        {
-          "title": "特朗普：高市早苗“特别喜欢我”",
-          "url": "https://news.ifeng.com/c/8qtWnv1ctZC",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时32分 ~ 16时09分]"
+          "appearance_count": 12,
+          "time_info": "[09时32分 ~ 17时12分]"
         },
         {
           "title": "特朗普阵营的坚定降息派动摇了？美联储理事米兰：劳动力市场改善可令今年少些降息",
@@ -76,8 +76,19 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时46分 ~ 17时12分]"
+        },
+        {
+          "title": "“和平委员会”首次开会，特朗普警告拒加入国家“勿耍小聪明”",
+          "url": "https://news.ifeng.com/c/8qtXIx1u77H",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时46分 ~ 16时09分]"
+          "time_info": "[12时32分 ~ 17时12分]"
         },
         {
           "title": "特朗普称美国将开始公布与外星人、不明飞行物相关的文件。",
@@ -119,15 +130,17 @@
           "time_info": "09时33分"
         },
         {
-          "title": "“和平委员会”首次开会，特朗普警告拒加入国家“勿耍小聪明”",
-          "url": "https://news.ifeng.com/c/8qtXIx1u77H",
-          "source": "凤凰网",
+          "title": "对于伊朗和油价，特朗普是“自信过头”还是“姿态做足”？",
+          "url": "https://wallstreetcn.com/articles/3765874",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            10,
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时32分 ~ 16时09分]"
+          "time_info": "[14时15分 ~ 17时12分]"
         },
         {
           "title": "特朗普宣称：美国已在“生活成本”战役中获胜",
@@ -166,19 +179,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时23分 ~ 16时09分]"
-        },
-        {
-          "title": "对于伊朗和油价，特朗普是“自信过头”还是“姿态做足”？",
-          "url": "https://wallstreetcn.com/articles/3765874",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时15分 ~ 16时09分]"
         },
         {
           "title": "特朗普称奥巴马涉外星人言论泄密",
@@ -355,7 +355,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "以总理：伊朗若攻击，将遭无法想象的回应",
@@ -366,8 +366,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时32分 ~ 16时09分]"
+          "appearance_count": 12,
+          "time_info": "[09时32分 ~ 17时12分]"
         },
         {
           "title": "美军在中东集结近 23 年来最大空中兵力，伊朗致信联合国称若遭军事侵略将反击，局势会怎样发展？",
@@ -378,8 +378,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时55分 ~ 16时09分]"
+          "appearance_count": 10,
+          "time_info": "[10时55分 ~ 17时12分]"
+        },
+        {
+          "title": "美考虑对伊朗有限军事打击",
+          "url": "https://www.douyin.com/hot/2406424",
+          "source": "抖音",
+          "ranks": [
+            20,
+            19,
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时55分 ~ 17时12分]"
         },
         {
           "title": "原油贵金属大幅收涨 消息称美以或将联合袭击伊朗 | 环球市场",
@@ -391,8 +405,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时06分 ~ 16时09分]"
+          "appearance_count": 13,
+          "time_info": "[08时06分 ~ 17时12分]"
         },
         {
           "title": "俄罗斯：已准备好接收伊朗浓缩铀",
@@ -431,6 +445,19 @@
           "time_info": "[08时06分 ~ 11时47分]"
         },
         {
+          "title": "伊朗致函联合国",
+          "url": "https://www.douyin.com/hot/2406601",
+          "source": "抖音",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时15分 ~ 17时12分]"
+        },
+        {
           "title": "伊朗致信联合国：若遭军事侵略将反击",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%87%B4%E4%BF%A1%E8%81%94%E5%90%88%E5%9B%BD%EF%BC%9A%E8%8B%A5%E9%81%AD%E5%86%9B%E4%BA%8B%E4%BE%B5%E7%95%A5%E5%B0%86%E5%8F%8D%E5%87%BB",
           "source": "百度热搜",
@@ -446,19 +473,6 @@
           "time_info": "[08时06分 ~ 13时23分]"
         },
         {
-          "title": "美考虑对伊朗有限军事打击",
-          "url": "https://www.douyin.com/hot/2406424",
-          "source": "抖音",
-          "ranks": [
-            20,
-            19,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时55分 ~ 16时09分]"
-        },
-        {
           "title": "伊朗致信联合国：如遭侵略将回击",
           "url": "https://www.toutiao.com/trending/7608264659308822570/",
           "source": "今日头条",
@@ -472,6 +486,21 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时55分 ~ 14时15分]"
+        },
+        {
+          "title": "美考虑对伊朗有限军事打击",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%80%83%E8%99%91%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%9C%89%E9%99%90%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5,
+            27,
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时32分 ~ 17时12分]"
         },
         {
           "title": "伊朗致信联合国：不寻求战争，若遭军事侵略将反击",
@@ -509,33 +538,6 @@
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时32分 ~ 16时09分]"
-        },
-        {
-          "title": "伊朗致函联合国",
-          "url": "https://www.douyin.com/hot/2406601",
-          "source": "抖音",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时15分 ~ 16时09分]"
-        },
-        {
-          "title": "美考虑对伊朗有限军事打击",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%80%83%E8%99%91%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%9C%89%E9%99%90%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5,
-            27,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
           "time_info": "[12时32分 ~ 16时09分]"
         },
         {
@@ -616,6 +618,17 @@
           "time_info": "[08时06分 ~ 09时33分]"
         },
         {
+          "title": "俄配合伊朗展开军演释放何信号",
+          "url": "https://www.toutiao.com/trending/7608813964167745034/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时11分 ~ 17时12分]"
+        },
+        {
           "title": "市场消息：伊朗和埃及达成协议，同意恢复全面外交关系，并在对方首都重新开设大使馆。",
           "url": "https://flash.jin10.com/detail/20260220100223282800",
           "source": "金十数据",
@@ -673,8 +686,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时06分 ~ 16时09分]"
+          "appearance_count": 13,
+          "time_info": "[08时06分 ~ 17时12分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -687,8 +700,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时55分 ~ 16时09分]"
+          "appearance_count": 10,
+          "time_info": "[10时55分 ~ 17时12分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -699,8 +712,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时06分 ~ 16时09分]"
+          "appearance_count": 13,
+          "time_info": "[08时06分 ~ 17时12分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -711,8 +724,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时06分 ~ 16时09分]"
+          "appearance_count": 13,
+          "time_info": "[08时06分 ~ 17时12分]"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
+          "url": "https://www.cls.cn/detail/2291354",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时06分 ~ 17时12分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -726,26 +750,16 @@
           "time_info": "[08时06分 ~ 11时47分]"
         },
         {
-          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
-          "url": "https://www.cls.cn/detail/2291354",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时06分 ~ 16时09分]"
-        },
-        {
           "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
           "url": "https://wallstreetcn.com/articles/3765893",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时09分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时09分 ~ 17时12分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，布油基金涨超2.2%",
