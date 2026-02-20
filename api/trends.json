@@ -1,11 +1,264 @@
 {
-  "generated_at": "2026-02-20T09:33:00.246349+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2026-02-20T10:55:56.518016+08:00",
+  "total_titles_processed": 525,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "伊朗",
+      "match_count": 21,
+      "titles": [
+        {
+          "title": "这一次不一样？美军做好“最早本周末打击伊朗”准备，油价会如何？",
+          "url": "https://wallstreetcn.com/articles/3765857",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时06分 ~ 10时55分]"
+        },
+        {
+          "title": "以总理：伊朗若攻击，将遭无法想象的回应",
+          "url": "https://news.ifeng.com/c/8qtIAFu2gu5",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时32分 ~ 10时55分]"
+        },
+        {
+          "title": "俄罗斯：已准备好接收伊朗浓缩铀",
+          "url": "https://news.ifeng.com/c/8qtFgNSIZ3k",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时32分 ~ 10时55分]"
+        },
+        {
+          "title": "伊朗致信联合国：不寻求战争，若遭军事侵略将反击",
+          "url": "https://news.ifeng.com/c/8qt4n1oaql6",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时32分 ~ 10时55分]"
+        },
+        {
+          "title": "俄外长：美国若打击伊朗后果严重",
+          "url": "https://www.douyin.com/hot/2405736",
+          "source": "抖音",
+          "ranks": [
+            24,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时06分 ~ 10时55分]"
+        },
+        {
+          "title": "伊朗致信联合国：如遭侵略将回击",
+          "url": "https://www.toutiao.com/trending/7608264659308822570/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "美军在中东集结近 23 年来最大空中兵力，伊朗致信联合国称若遭军事侵略将反击，局势会怎样发展？",
+          "url": "https://www.zhihu.com/question/2008093003923808772",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "美国被曝最早本周末攻打伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E6%9C%80%E6%97%A9%E6%9C%AC%E5%91%A8%E6%9C%AB%E6%94%BB%E6%89%93%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 09时33分]"
+        },
+        {
+          "title": "伊朗与俄罗斯海军联合海上演习结束",
+          "url": "https://wallstreetcn.com/livenews/3056825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 10时55分]"
+        },
+        {
+          "title": "伊朗：已进入全面战备状态",
+          "url": "https://www.douyin.com/hot/2405773",
+          "source": "抖音",
+          "ranks": [
+            10,
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时06分 ~ 10时55分]"
+        },
+        {
+          "title": "美设定“3月中旬”期限：对伊朗兵力将部署到位，战云逼近？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32632034",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时06分 ~ 10时55分]"
+        },
+        {
+          "title": "原油贵金属大幅收涨 消息称美以或将联合袭击伊朗 | 环球市场",
+          "url": "https://www.cls.cn/detail/2291663",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时06分 ~ 10时55分]"
+        },
+        {
+          "title": "美媒称美军方已准备好“最早本周末”打击伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32632095",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时06分 ~ 10时55分]"
+        },
+        {
+          "title": "伊朗致信联合国：若遭军事侵略将反击",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%87%B4%E4%BF%A1%E8%81%94%E5%90%88%E5%9B%BD%EF%BC%9A%E8%8B%A5%E9%81%AD%E5%86%9B%E4%BA%8B%E4%BE%B5%E7%95%A5%E5%B0%86%E5%8F%8D%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时06分 ~ 10时55分]"
+        },
+        {
+          "title": "俄称若美伊达成协议 已准备好接收伊朗浓缩铀",
+          "url": "https://wallstreetcn.com/livenews/3056823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 10时55分]"
+        },
+        {
+          "title": "伊朗致信联合国：不寻求战争，若遭军事侵略将反击",
+          "url": "https://wallstreetcn.com/livenews/3056817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 09时33分]"
+        },
+        {
+          "title": "市场消息：伊朗和埃及达成协议，同意恢复全面外交关系，并在对方首都重新开设大使馆。",
+          "url": "https://flash.jin10.com/detail/20260220100223282800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "美以或对伊朗发动大规模袭击",
+          "url": "https://www.douyin.com/hot/2405517",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "美考虑对伊朗有限军事打击",
+          "url": "https://www.douyin.com/hot/2406424",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "伊朗致信联合国：不寻求战争 若遭军事侵略将反击",
+          "url": "https://flash.jin10.com/detail/20260220063854969800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "伊朗致联合国秘书长的信：伊朗并不寻求紧张局势或战争，也不会率先发动战争。",
+          "url": "https://flash.jin10.com/detail/20260220062312689800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普被曝考虑军事打击伊朗，细节披露",
@@ -15,19 +268,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时32分 ~ 09时33分]"
+          "appearance_count": 3,
+          "time_info": "[09时32分 ~ 10时55分]"
         },
         {
           "title": "“10-15天”最后通牒？特朗普：美伊必须达成有意义协议，否则发生“糟糕的事”",
           "url": "https://wallstreetcn.com/articles/3765876",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时32分 ~ 09时33分]"
+          "appearance_count": 3,
+          "time_info": "[09时32分 ~ 10时55分]"
         },
         {
           "title": "美国总统特朗普：将指示战争部长及其他相关部门和机构，开始识别和公布与外星人及外星生命相关的政府档案。",
@@ -36,7 +290,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
         },
@@ -45,11 +299,12 @@
           "url": "https://wallstreetcn.com/livenews/3056840",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时33分 ~ 10时55分]"
         },
         {
           "title": "特朗普开了前所未有的一个会",
@@ -59,8 +314,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时32分 ~ 09时33分]"
+          "appearance_count": 3,
+          "time_info": "[09时32分 ~ 10时55分]"
         },
         {
           "title": "特朗普宣称：美国已在“生活成本”战役中获胜",
@@ -68,11 +323,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时06分 ~ 09时33分]"
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 10时55分]"
         },
         {
           "title": "奥巴马称外星人确实存在，特朗普：他泄密了",
@@ -82,19 +338,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时32分 ~ 09时33分]"
+          "appearance_count": 3,
+          "time_info": "[09时32分 ~ 10时55分]"
         },
         {
           "title": "特朗普称奥巴马涉外星人言论泄密",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%A5%A5%E5%B7%B4%E9%A9%AC%E6%B6%89%E5%A4%96%E6%98%9F%E4%BA%BA%E8%A8%80%E8%AE%BA%E6%B3%84%E5%AF%86%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
           "ranks": [
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时32分 ~ 09时33分]"
+          "appearance_count": 3,
+          "time_info": "[09时32分 ~ 10时55分]"
         },
         {
           "title": "特朗普：奥巴马涉外星人言论泄密",
@@ -140,6 +397,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "据韩联社：韩国出席特朗普设立的加沙和平委员会的首次会议。",
+          "url": "https://flash.jin10.com/detail/20260220102740214800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "特朗普称在“可负担性”问题上赢得了胜利",
@@ -199,209 +467,8 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "这一次不一样？美军做好“最早本周末打击伊朗”准备，油价会如何？",
-          "url": "https://wallstreetcn.com/articles/3765857",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时06分 ~ 09时33分]"
-        },
-        {
-          "title": "以总理：伊朗若攻击，将遭无法想象的回应",
-          "url": "https://news.ifeng.com/c/8qtIAFu2gu5",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时32分 ~ 09时33分]"
-        },
-        {
-          "title": "俄罗斯：已准备好接收伊朗浓缩铀",
-          "url": "https://news.ifeng.com/c/8qtFgNSIZ3k",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时32分 ~ 09时33分]"
-        },
-        {
-          "title": "伊朗致信联合国：不寻求战争，若遭军事侵略将反击",
-          "url": "https://news.ifeng.com/c/8qt4n1oaql6",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时32分 ~ 09时33分]"
-        },
-        {
-          "title": "美国被曝最早本周末攻打伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E6%9C%80%E6%97%A9%E6%9C%AC%E5%91%A8%E6%9C%AB%E6%94%BB%E6%89%93%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时06分 ~ 09时33分]"
-        },
-        {
-          "title": "伊朗与俄罗斯海军联合海上演习结束",
-          "url": "https://wallstreetcn.com/livenews/3056825",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时06分 ~ 09时33分]"
-        },
-        {
-          "title": "伊朗：已进入全面战备状态",
-          "url": "https://www.douyin.com/hot/2405773",
-          "source": "抖音",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时06分 ~ 09时33分]"
-        },
-        {
-          "title": "俄外长：美国若打击伊朗后果严重",
-          "url": "https://www.douyin.com/hot/2405736",
-          "source": "抖音",
-          "ranks": [
-            24,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时06分 ~ 09时33分]"
-        },
-        {
-          "title": "美设定“3月中旬”期限：对伊朗兵力将部署到位，战云逼近？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32632034",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时06分 ~ 09时33分]"
-        },
-        {
-          "title": "原油贵金属大幅收涨 消息称美以或将联合袭击伊朗 | 环球市场",
-          "url": "https://www.cls.cn/detail/2291663",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时06分 ~ 09时33分]"
-        },
-        {
-          "title": "美媒称美军方已准备好“最早本周末”打击伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32632095",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时06分 ~ 09时33分]"
-        },
-        {
-          "title": "伊朗致信联合国：若遭军事侵略将反击",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%87%B4%E4%BF%A1%E8%81%94%E5%90%88%E5%9B%BD%EF%BC%9A%E8%8B%A5%E9%81%AD%E5%86%9B%E4%BA%8B%E4%BE%B5%E7%95%A5%E5%B0%86%E5%8F%8D%E5%87%BB",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时06分 ~ 09时33分]"
-        },
-        {
-          "title": "俄称若美伊达成协议 已准备好接收伊朗浓缩铀",
-          "url": "https://wallstreetcn.com/livenews/3056823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时06分 ~ 09时33分]"
-        },
-        {
-          "title": "伊朗致信联合国：不寻求战争，若遭军事侵略将反击",
-          "url": "https://wallstreetcn.com/livenews/3056817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时06分 ~ 09时33分]"
-        },
-        {
-          "title": "美以或对伊朗发动大规模袭击",
-          "url": "https://www.douyin.com/hot/2405517",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "伊朗致信联合国：不寻求战争 若遭军事侵略将反击",
-          "url": "https://flash.jin10.com/detail/20260220063854969800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "伊朗致联合国秘书长的信：伊朗并不寻求紧张局势或战争，也不会率先发动战争。",
-          "url": "https://flash.jin10.com/detail/20260220062312689800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -411,8 +478,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时06分 ~ 09时33分]"
+          "appearance_count": 4,
+          "time_info": "[08时06分 ~ 10时55分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -422,30 +489,43 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时06分 ~ 09时33分]"
+          "appearance_count": 4,
+          "time_info": "[08时06分 ~ 10时55分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291551",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时06分 ~ 09时33分]"
+          "appearance_count": 4,
+          "time_info": "[08时06分 ~ 10时55分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
           "url": "https://www.cls.cn/detail/2291660",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时06分 ~ 09时33分]"
+          "appearance_count": 4,
+          "time_info": "[08时06分 ~ 10时55分]"
+        },
+        {
+          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2291935",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -495,18 +575,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
           "url": "https://wallstreetcn.com/articles/3765864",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时06分 ~ 09时33分]"
+          "appearance_count": 4,
+          "time_info": "[08时06分 ~ 10时55分]"
         },
         {
           "title": "OpenAI：关于芯片供应，公司已做到“对未来需求心中有数”",
@@ -514,11 +595,35 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            20
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 10时55分]"
+        },
+        {
+          "title": "英伟达接近敲定与OpenAI的300亿美元投资，将取代两家公司去年达成的1000亿美元长期承诺。英伟达投资是OpenAI新一轮融资的一部分。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3056832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时06分 ~ 09时33分]"
+          "time_info": "[09时33分 ~ 10时55分]"
+        },
+        {
+          "title": "OpenAI创始人：超级智能将比人类做得更好，“包括我自己”",
+          "url": "https://flash.jin10.com/detail/20260220103317440800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "OpenAI称将“睁着一只眼睡觉” 全力确保芯片供应",
@@ -532,24 +637,13 @@
           "time_info": "08时06分"
         },
         {
-          "title": "英伟达接近敲定与OpenAI的300亿美元投资，将取代两家公司去年达成的1000亿美元长期承诺。英伟达投资是OpenAI新一轮融资的一部分。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3056832",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时33分"
-        },
-        {
           "title": "英伟达接近敲定300亿美元投资OpenAI 取代原1000亿合作计划",
           "url": "https://flash.jin10.com/detail/20260220082223005800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
         },
@@ -560,9 +654,26 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Gemini3.1 Pro上线",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3.1%20Pro%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         }
       ]
     },
@@ -576,11 +687,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时06分 ~ 09时33分]"
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 10时55分]"
         }
       ]
     }
