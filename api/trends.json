@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T20:09:47.937834+08:00",
-  "total_titles_processed": 1405,
+  "generated_at": "2026-02-25T21:28:32.571825+08:00",
+  "total_titles_processed": 1525,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 94,
+      "match_count": 95,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时14分 ~ 20时09分]"
+          "appearance_count": 19,
+          "time_info": "[08时14分 ~ 21时28分]"
         },
         {
           "title": "特朗普发表国情咨文演讲，民主党议员举横幅被带离",
@@ -68,6 +68,29 @@
           "time_info": "[09时37分 ~ 13时29分]"
         },
         {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时15分 ~ 21时28分]"
+        },
+        {
+          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
+          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时15分 ~ 21时28分]"
+        },
+        {
           "title": "特朗普：伊朗正研制能打到美国的导弹",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
           "source": "百度热搜",
@@ -79,29 +102,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[12时35分 ~ 17时16分]"
-        },
-        {
-          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
-          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时15分 ~ 20时09分]"
-        },
-        {
-          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
-          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时15分 ~ 20时09分]"
         },
         {
           "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”",
@@ -138,6 +138,20 @@
           "time_info": "[13时28分 ~ 14时20分]"
         },
         {
+          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
+          "url": "https://www.cls.cn/detail/2294552",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时15分 ~ 21时28分]"
+        },
+        {
           "title": "特朗普，走上“关税悬崖”",
           "url": "https://news.ifeng.com/c/8r1Z2HFV2Mj",
           "source": "凤凰网",
@@ -147,6 +161,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时14分 ~ 09时37分]"
+        },
+        {
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时15分 ~ 21时28分]"
         },
         {
           "title": "美国总统特朗普：关税将在经批准且经过测试的替代性法律条款下继续实施。",
@@ -202,32 +229,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
-        },
-        {
-          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
-          "url": "https://wallstreetcn.com/articles/3766126",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时15分 ~ 20时09分]"
-        },
-        {
-          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
-          "url": "https://www.cls.cn/detail/2294552",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时15分 ~ 20时09分]"
         },
         {
           "title": "美国总统特朗普：展望未来，工厂、就业、投资和数万亿美元将继续涌入美国——因为我们终于有了一位把美国放在首位的总统。",
@@ -873,6 +874,17 @@
           "time_info": "12时36分"
         },
         {
+          "title": "白宫称特朗普对伊朗问题的首选手段永远是外交",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32650673",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "美国总统特朗普：已经就数据中心能源的新缴费承诺进行了谈判。",
           "url": "https://flash.jin10.com/detail/20260225105452500800",
           "source": "金十数据",
@@ -1074,7 +1086,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美大军压境伊朗为何不屈服",
@@ -1108,11 +1120,12 @@
             4,
             2,
             1,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时35分 ~ 20时09分]"
+          "appearance_count": 14,
+          "time_info": "[12时35分 ~ 21时28分]"
         },
         {
           "title": "伊朗一军用直升机坠毁",
@@ -1198,6 +1211,17 @@
           "time_info": "13时29分"
         },
         {
+          "title": "德国外长：伊朗必须停止对哈马斯、真主党和胡塞武装的支持。",
+          "url": "https://flash.jin10.com/detail/20260225210414622800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "美中情局公开教伊朗人“怎么找它”",
           "url": "https://www.toutiao.com/trending/7610697188645158955/",
           "source": "今日头条",
@@ -1247,7 +1271,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
@@ -1292,7 +1316,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -1315,7 +1339,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -1342,13 +1366,24 @@
           "time_info": "18时16分"
         },
         {
+          "title": "美股期货维持涨势，纳斯达克100指数期货涨0.5%。美国贸易代表格里尔重申第122、301和232条作为关税的替代方案。暗示部分关税可能会高于15%。",
+          "url": "https://wallstreetcn.com/livenews/3058887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "劳氏第四季度调整后每股收益1.98美元，上年同期1.93美元，预估1.94美元。 第四季度销售净额205.8亿美元，同比增长11%，预估203.5亿美元。 第四季度同店销售增长1.3％，预估增长0.47％。 第四季度毛利66.8亿美元，同比增长9.6%，预估66.3亿美元。 劳氏预计全年调整后每股收益12.25美元至12.75美元。 劳氏预计全年调整后运营利润率11.6％至11.8％。 劳氏预计全年资本支出大约25亿美元，预估25亿美元。 劳氏美股盘前跌1.5%。",
           "url": "https://wallstreetcn.com/livenews/3058828",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -1362,6 +1397,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金十图示：2026年02月25日（周三）上海金早盘价为1147.79元/克，较国际金价(1144.76元/克)，高3.03元/克",
+          "url": "https://flash.jin10.com/detail/20260225110107331800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "金价高的已经推出红绳戒指了",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%AB%98%E7%9A%84%E5%B7%B2%E7%BB%8F%E6%8E%A8%E5%87%BA%E7%BA%A2%E7%BB%B3%E6%88%92%E6%8C%87%E4%BA%86&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "摩根大通：将长期黄金价格预测上调至每盎司4500美元。",
+          "url": "https://flash.jin10.com/detail/20260225150843874800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时11分"
+        },
+        {
+          "title": "摩根大通：预计2026年底黄金价格将达到每盎司6300美元。",
+          "url": "https://flash.jin10.com/detail/20260225150719104800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时11分"
         }
       ]
     },
@@ -1406,45 +1491,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金十图示：2026年02月25日（周三）上海金早盘价为1147.79元/克，较国际金价(1144.76元/克)，高3.03元/克",
-          "url": "https://flash.jin10.com/detail/20260225110107331800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "摩根大通：将长期黄金价格预测上调至每盎司4500美元。",
-          "url": "https://flash.jin10.com/detail/20260225150843874800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
-          "title": "摩根大通：预计2026年底黄金价格将达到每盎司6300美元。",
-          "url": "https://flash.jin10.com/detail/20260225150719104800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -1455,7 +1501,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
