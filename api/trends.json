@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T21:28:32.571825+08:00",
-  "total_titles_processed": 1525,
+  "generated_at": "2026-02-25T22:19:02.715408+08:00",
+  "total_titles_processed": 1608,
   "failed_sources": [],
   "trends": [
     {
@@ -44,6 +44,29 @@
           "time_info": "[08时14分 ~ 21时28分]"
         },
         {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时15分 ~ 22时19分]"
+        },
+        {
+          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
+          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时15分 ~ 22时19分]"
+        },
+        {
           "title": "特朗普发表国情咨文演讲，民主党议员举横幅被带离",
           "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
           "source": "凤凰网",
@@ -68,29 +91,6 @@
           "time_info": "[09时37分 ~ 13时29分]"
         },
         {
-          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
-          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时15分 ~ 21时28分]"
-        },
-        {
-          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
-          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时15分 ~ 21时28分]"
-        },
-        {
           "title": "特朗普：伊朗正研制能打到美国的导弹",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
           "source": "百度热搜",
@@ -102,6 +102,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[12时35分 ~ 17时16分]"
+        },
+        {
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时15分 ~ 22时19分]"
         },
         {
           "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”",
@@ -161,19 +175,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时14分 ~ 09时37分]"
-        },
-        {
-          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
-          "url": "https://wallstreetcn.com/articles/3766126",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时15分 ~ 21时28分]"
         },
         {
           "title": "美国总统特朗普：关税将在经批准且经过测试的替代性法律条款下继续实施。",
@@ -880,7 +881,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -1085,8 +1086,194 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
+          "url": "https://www.cls.cn/detail/2294131",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[08时14分 ~ 15时21分]"
+        },
+        {
+          "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2293967",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时14分 ~ 12时36分]"
+        },
+        {
+          "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2295156",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 22时19分]"
+        },
+        {
+          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
+          "url": "https://www.cls.cn/detail/2294269",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时20分 ~ 18时16分]"
+        },
+        {
+          "title": "甲骨文(ORCL.N)美股盘前一度上涨3%。",
+          "url": "https://flash.jin10.com/detail/20260225193717302800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-02-25）",
+          "url": "https://flash.jin10.com/detail/20260225220210090800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
+          "title": "美股锂矿概念股盘前走强，Sigma Lithium涨超8%，美国雅保涨超4%，智利矿业化工、Lithium Argentina AG涨约4%。此前消息称津巴布韦据悉暂停出口锂精矿和原矿。",
+          "url": "https://wallstreetcn.com/livenews/3058780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 19时15分]"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3058910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
+          "title": "甲骨文美股盘前涨3%，此前Oppenheimer将甲骨文评级从与大盘一致上调至“跑赢大盘”，目标价185美元。",
+          "url": "https://wallstreetcn.com/livenews/3058852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
+          "title": "科技股反弹提振美股 亚洲股市望接力强劲开盘",
+          "url": "https://flash.jin10.com/detail/20260225072639170800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时14分"
+        },
+        {
+          "title": "美股锂矿概念股盘前走强，Sigma Lithium涨超8%，美国雅保涨超4%，智利矿业化工、Lithium Argentina AG涨约4%。消息面上，津巴布韦暂停了锂精矿和原矿的出口。",
+          "url": "https://flash.jin10.com/detail/20260225173456379800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "美股期货维持涨势，纳斯达克100指数期货涨0.5%。美国贸易代表格里尔重申第122、301和232条作为关税的替代方案。暗示部分关税可能会高于15%。",
+          "url": "https://wallstreetcn.com/livenews/3058887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "美股期货短线波动不大，美国贸易代表格里尔：正在研究如何实施15%的关税",
+          "url": "https://wallstreetcn.com/livenews/3058905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
+          "title": "劳氏第四季度调整后每股收益1.98美元，上年同期1.93美元，预估1.94美元。 第四季度销售净额205.8亿美元，同比增长11%，预估203.5亿美元。 第四季度同店销售增长1.3％，预估增长0.47％。 第四季度毛利66.8亿美元，同比增长9.6%，预估66.3亿美元。 劳氏预计全年调整后每股收益12.25美元至12.75美元。 劳氏预计全年调整后运营利润率11.6％至11.8％。 劳氏预计全年资本支出大约25亿美元，预估25亿美元。 劳氏美股盘前跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3058828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
+          "title": "惠普（HPQ）美股盘后跌幅扩大至将近7%，存储芯片打压其业绩展望。",
+          "url": "https://wallstreetcn.com/livenews/3058381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时14分"
+        },
+        {
+          "title": "美股期货维持涨势，美国贸易代表：部分国家关税将升至15% 其他或更高",
+          "url": "https://wallstreetcn.com/livenews/3058887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美大军压境伊朗为何不屈服",
@@ -1121,11 +1308,12 @@
             2,
             1,
             6,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时35分 ~ 21时28分]"
+          "appearance_count": 16,
+          "time_info": "[12时35分 ~ 22时19分]"
         },
         {
           "title": "伊朗一军用直升机坠毁",
@@ -1217,7 +1405,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -1257,6 +1445,17 @@
           "time_info": "16时11分"
         },
         {
+          "title": "伊朗加紧装载油轮 或为防备美可能发动的袭击做准备",
+          "url": "https://flash.jin10.com/detail/20260225212833464800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "土耳其否认“计划以安全为由入侵伊朗领土”",
           "url": "https://wallstreetcn.com/livenews/3058748",
           "source": "华尔街见闻-快讯",
@@ -1266,137 +1465,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
-          "url": "https://www.cls.cn/detail/2294131",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时14分 ~ 15时21分]"
-        },
-        {
-          "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2293967",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时14分 ~ 12时36分]"
-        },
-        {
-          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
-          "url": "https://www.cls.cn/detail/2294269",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时20分 ~ 18时16分]"
-        },
-        {
-          "title": "甲骨文(ORCL.N)美股盘前一度上涨3%。",
-          "url": "https://flash.jin10.com/detail/20260225193717302800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时09分"
-        },
-        {
-          "title": "美股锂矿概念股盘前走强，Sigma Lithium涨超8%，美国雅保涨超4%，智利矿业化工、Lithium Argentina AG涨约4%。此前消息称津巴布韦据悉暂停出口锂精矿和原矿。",
-          "url": "https://wallstreetcn.com/livenews/3058780",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 19时15分]"
-        },
-        {
-          "title": "甲骨文美股盘前涨3%，此前Oppenheimer将甲骨文评级从与大盘一致上调至“跑赢大盘”，目标价185美元。",
-          "url": "https://wallstreetcn.com/livenews/3058852",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时09分"
-        },
-        {
-          "title": "科技股反弹提振美股 亚洲股市望接力强劲开盘",
-          "url": "https://flash.jin10.com/detail/20260225072639170800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "美股锂矿概念股盘前走强，Sigma Lithium涨超8%，美国雅保涨超4%，智利矿业化工、Lithium Argentina AG涨约4%。消息面上，津巴布韦暂停了锂精矿和原矿的出口。",
-          "url": "https://flash.jin10.com/detail/20260225173456379800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "美股期货维持涨势，纳斯达克100指数期货涨0.5%。美国贸易代表格里尔重申第122、301和232条作为关税的替代方案。暗示部分关税可能会高于15%。",
-          "url": "https://wallstreetcn.com/livenews/3058887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "劳氏第四季度调整后每股收益1.98美元，上年同期1.93美元，预估1.94美元。 第四季度销售净额205.8亿美元，同比增长11%，预估203.5亿美元。 第四季度同店销售增长1.3％，预估增长0.47％。 第四季度毛利66.8亿美元，同比增长9.6%，预估66.3亿美元。 劳氏预计全年调整后每股收益12.25美元至12.75美元。 劳氏预计全年调整后运营利润率11.6％至11.8％。 劳氏预计全年资本支出大约25亿美元，预估25亿美元。 劳氏美股盘前跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3058828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时09分"
-        },
-        {
-          "title": "惠普（HPQ）美股盘后跌幅扩大至将近7%，存储芯片打压其业绩展望。",
-          "url": "https://wallstreetcn.com/livenews/3058381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
         }
       ]
     },
@@ -1420,11 +1488,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%AB%98%E7%9A%84%E5%B7%B2%E7%BB%8F%E6%8E%A8%E5%87%BA%E7%BA%A2%E7%BB%B3%E6%88%92%E6%8C%87%E4%BA%86&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时28分 ~ 22时19分]"
         },
         {
           "title": "摩根大通：将长期黄金价格预测上调至每盎司4500美元。",
