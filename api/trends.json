@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T09:31:30.605312+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-02-27T10:53:50.371920+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
@@ -36,9 +36,33 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "中国是否会与俄罗斯一道支持伊朗抵御美国侵略？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32653060",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 10时53分]"
+        },
+        {
+          "title": "伊美第三轮谈判结束，伊朗外长称取得良好进展，美媒称美方谈判期间感到失望",
+          "url": "https://wallstreetcn.com/articles/3766294",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 10时53分]"
         },
         {
           "title": "一图看懂｜新一轮谈判在即，美军如何在伊朗周边布阵？",
@@ -76,29 +100,6 @@
           "time_info": "[08时06分 ~ 09时31分]"
         },
         {
-          "title": "中国是否会与俄罗斯一道支持伊朗抵御美国侵略？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32653060",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时06分 ~ 09时31分]"
-        },
-        {
-          "title": "伊美第三轮谈判结束，伊朗外长称取得良好进展，美媒称美方谈判期间感到失望",
-          "url": "https://wallstreetcn.com/articles/3766294",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
           "title": "伊朗拒绝向国外转移浓缩铀",
           "url": "https://www.douyin.com/hot/2412896",
           "source": "抖音",
@@ -124,7 +125,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美军驻中东最高将领向特朗普汇报针对伊朗的军事选项",
@@ -133,7 +134,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -149,26 +150,16 @@
           "time_info": "08时06分"
         },
         {
-          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
-          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时06分 ~ 09时31分]"
-        },
-        {
           "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
           "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时06分 ~ 09时31分]"
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 10时53分]"
         },
         {
           "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
@@ -176,7 +167,19 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            18
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 10时53分]"
+        },
+        {
+          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
+          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
+          "source": "凤凰网",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -189,7 +192,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -203,23 +206,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "美中东最高指挥官向特朗普汇报对伊朗军事选项",
+          "url": "https://wallstreetcn.com/livenews/3059912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "谷歌Nano Banana 2亮相：专业能力全面下放 成本腰斩一半",
           "url": "https://www.cls.cn/detail/2296526",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 10时53分]"
+        },
+        {
+          "title": "谷歌深夜发布生图模型Nano Banana 2",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E6%B7%B1%E5%A4%9C%E5%8F%91%E5%B8%83%E7%94%9F%E5%9B%BE%E6%A8%A1%E5%9E%8BNano+Banana+2",
+          "source": "百度热搜",
+          "ranks": [
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "10时53分"
         },
         {
           "title": "谷歌与一家未具名的大型投资机构签署协议，由对方出资成立合资企业向其他客户出租TPU。 谷歌正与其他投资机构洽谈，推动成立更多此类合资企业。（The Information）",
@@ -291,8 +317,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时06分 ~ 09时31分]"
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 10时53分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
@@ -300,11 +326,29 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时06分 ~ 09时31分]"
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 10时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价消息称 DeepSeek V4 打破常规优先适配华为，冷落英伟达 AMD？会带来什么影响？",
+          "url": "https://www.zhihu.com/question/2010465986483025153",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         }
       ]
     },
@@ -319,9 +363,26 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年02月27日（周五）上海金早盘价为1146.78元/克，较国际金价(1144.18元/克)，高2.6元/克",
+          "url": "https://flash.jin10.com/detail/20260227102159136800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         }
       ]
     }
