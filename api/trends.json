@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T16:09:05.937314+08:00",
-  "total_titles_processed": 1028,
+  "generated_at": "2026-02-27T17:12:00.135353+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊美第三轮谈判结束，伊朗外长称取得良好进展，美媒称美方谈判期间感到失望",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时31分 ~ 16时09分]"
+          "appearance_count": 12,
+          "time_info": "[09时31分 ~ 17时12分]"
         },
         {
           "title": "中国是否会与俄罗斯一道支持伊朗抵御美国侵略？外交部回应",
@@ -35,6 +35,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[08时06分 ~ 16时09分]"
+        },
+        {
+          "title": "伊朗外交部发言人：本轮伊美谈判非常深入",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32661028",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时16分 ~ 17时12分]"
         },
         {
           "title": "白宫官员希望以色列先打击伊朗",
@@ -81,16 +94,16 @@
           "time_info": "09时31分"
         },
         {
-          "title": "伊朗外交部发言人：本轮伊美谈判非常深入",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32661028",
-          "source": "澎湃新闻",
+          "title": "伊朗警告：将让侵略者付出惨重代价",
+          "url": "https://www.toutiao.com/trending/7610045179701624886/",
+          "source": "今日头条",
           "ranks": [
-            20,
-            19
+            9,
+            30
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时16分 ~ 16时09分]"
+          "time_info": "[16时08分 ~ 17时12分]"
         },
         {
           "title": "伊朗石油出货量为何突然飙升",
@@ -140,17 +153,6 @@
           "time_info": "[13时22分 ~ 14时14分]"
         },
         {
-          "title": "伊朗警告：将让侵略者付出惨重代价",
-          "url": "https://www.toutiao.com/trending/7610045179701624886/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 16时09分]"
-        },
-        {
           "title": "伊朗威胁美国",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A8%81%E8%83%81%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -161,6 +163,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时06分 ~ 09时31分]"
+        },
+        {
+          "title": "联合国人权高级专员：对伊朗局势可能出现军事升级深感忧虑，希望理性占上风。",
+          "url": "https://flash.jin10.com/detail/20260227164830688800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         },
         {
           "title": "伊朗拒绝向国外转移浓缩铀",
@@ -210,7 +223,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
@@ -226,8 +239,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时06分 ~ 16时09分]"
+          "appearance_count": 13,
+          "time_info": "[08时06分 ~ 17时12分]"
         },
         {
           "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
@@ -268,6 +281,18 @@
           "time_info": "[15时16分 ~ 15时17分]"
         },
         {
+          "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
+          "url": "https://news.ifeng.com/c/8r5F4LVejaT",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时16分 ~ 17时12分]"
+        },
+        {
           "title": "美军驻中东最高将领向特朗普汇报针对伊朗的军事选项",
           "url": "https://flash.jin10.com/detail/20260227091836465800",
           "source": "金十数据",
@@ -288,18 +313,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
-        },
-        {
-          "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
-          "url": "https://news.ifeng.com/c/8r5F4LVejaT",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时16分 ~ 16时09分]"
         },
         {
           "title": "消息人士称，美国目前并无情报支持特朗普有关“伊朗将很快拥有能打到美国的导弹”的这一说法。（路透）",
@@ -327,6 +340,18 @@
           "time_info": "[12时31分 ~ 13时22分]"
         },
         {
+          "title": "美军中东最高指挥官向特朗普汇报",
+          "url": "https://www.toutiao.com/trending/7611361368545280036/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时08分 ~ 17时12分]"
+        },
+        {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
           "url": "https://news.ifeng.com/c/8r3yuvat2ge",
           "source": "凤凰网",
@@ -336,6 +361,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时06分 ~ 09时31分]"
+        },
+        {
+          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
+          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时11分 ~ 17时12分]"
         },
         {
           "title": "特朗普关于伊朗导弹的说法未获美国情报部门支持",
@@ -348,17 +384,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时31分 ~ 13时22分]"
-        },
-        {
-          "title": "美军中东最高指挥官向特朗普汇报",
-          "url": "https://www.toutiao.com/trending/7611361368545280036/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 16时09分]"
         },
         {
           "title": "美中东最高指挥官向特朗普汇报对伊朗军事选项",
@@ -592,11 +617,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            25
+            25,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时14分 ~ 16时09分]"
+          "appearance_count": 5,
+          "time_info": "[14时14分 ~ 17时12分]"
         },
         {
           "title": "OpenAI向加拿大官员作出多项承诺，将加强安全机制",
