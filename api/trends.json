@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T18:02:36.736656+08:00",
-  "total_titles_processed": 1258,
+  "generated_at": "2026-02-28T19:02:22.880967+08:00",
+  "total_titles_processed": 1367,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 255,
+      "match_count": 306,
       "titles": [
         {
           "title": "美军最大航母抵达中东，美官方：美国公民尽快离开以色列！我外交部：中国公民尽快撤离伊朗",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时04分 ~ 18时02分]"
+          "appearance_count": 14,
+          "time_info": "[08时04分 ~ 19时02分]"
         },
         {
           "title": "外交部提醒中国公民暂勿前往伊朗，在当地中国公民尽快撤离",
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时04分 ~ 18时02分]"
+          "appearance_count": 14,
+          "time_info": "[08时04分 ~ 19时02分]"
         },
         {
           "title": "伊朗危!提醒中国公民撤离",
@@ -63,17 +63,6 @@
           "time_info": "[10时44分 ~ 14时04分]"
         },
         {
-          "title": "以色列宣布袭击伊朗",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时07分 ~ 18时02分]"
-        },
-        {
           "title": "中东炸了!以军突袭伊朗",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351119&amp;topic_name=%E4%B8%AD%E4%B8%9C%E7%82%B8%E4%BA%86%21%E4%BB%A5%E5%86%9B%E7%AA%81%E8%A2%AD%E4%BC%8A%E6%9C%97",
           "source": "贴吧",
@@ -81,8 +70,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时07分 ~ 18时02分]"
+          "appearance_count": 6,
+          "time_info": "[15时07分 ~ 19时02分]"
         },
         {
           "title": "以色列宣布袭击伊朗",
@@ -92,8 +81,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时07分 ~ 18时02分]"
+          "appearance_count": 6,
+          "time_info": "[15时07分 ~ 19时02分]"
         },
         {
           "title": "伊朗首都德黑兰市中心发生爆炸，以色列宣布袭击伊朗，现场局势如何？哪些信息值得关注？",
@@ -103,8 +92,20 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时07分 ~ 19时02分]"
+        },
+        {
+          "title": "伊朗最新局势",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E6%96%B0%E5%B1%80%E5%8A%BF",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[15时07分 ~ 18时02分]"
+          "time_info": "[16时02分 ~ 19时02分]"
         },
         {
           "title": "中国驻伊朗大使馆郑重提醒",
@@ -135,17 +136,51 @@
           "time_info": "[09时31分 ~ 16时02分]"
         },
         {
-          "title": "美官员透露空袭伊朗行动细节",
-          "url": "https://news.ifeng.com/c/8r75t3tAl7m",
-          "source": "凤凰网",
+          "title": "伊朗反击",
+          "url": "https://www.toutiao.com/trending/7611829558051999241/",
+          "source": "今日头条",
           "ranks": [
-            2,
-            3,
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时02分 ~ 18时02分]"
+          "time_info": "[17时03分 ~ 19时02分]"
+        },
+        {
+          "title": "伊朗向以色列发射数十枚导弹",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E5%B0%84%E6%95%B0%E5%8D%81%E6%9E%9A%E5%AF%BC%E5%BC%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时03分 ~ 19时02分]"
+        },
+        {
+          "title": "美国出兵,联手以军炸伊朗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351135&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%87%BA%E5%85%B5%2C%E8%81%94%E6%89%8B%E4%BB%A5%E5%86%9B%E7%82%B8%E4%BC%8A%E6%9C%97",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时03分 ~ 19时02分]"
+        },
+        {
+          "title": "美以袭击伊朗",
+          "url": "https://www.douyin.com/hot/2414338",
+          "source": "抖音",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时03分 ~ 19时02分]"
         },
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
@@ -164,30 +199,6 @@
           "time_info": "[08时04分 ~ 13时11分]"
         },
         {
-          "title": "美以联合袭击伊朗",
-          "url": "https://www.toutiao.com/trending/7611797380253404710/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时02分 ~ 18时02分]"
-        },
-        {
-          "title": "伊朗最新局势",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E6%96%B0%E5%B1%80%E5%8A%BF",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时02分 ~ 18时02分]"
-        },
-        {
           "title": "伊朗首都发生爆炸",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%A6%96%E9%83%BD%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -202,16 +213,54 @@
         },
         {
           "title": "以色列宣布袭击伊朗",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时07分 ~ 19时02分]"
+        },
+        {
+          "title": "美官员透露空袭伊朗行动细节",
+          "url": "https://news.ifeng.com/c/8r75t3tAl7m",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3,
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时02分 ~ 19时02分]"
+        },
+        {
+          "title": "以色列宣布袭击伊朗",
           "url": "https://search.bilibili.com/all?keyword=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97",
           "source": "bilibili 热搜",
           "ranks": [
             1,
             5,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时07分 ~ 18时02分]"
+          "appearance_count": 6,
+          "time_info": "[15时07分 ~ 19时02分]"
+        },
+        {
+          "title": "伊朗：总统佩泽希齐扬安全无事",
+          "url": "https://news.ifeng.com/c/8r78DFQO6Ut",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时03分 ~ 19时02分]"
         },
         {
           "title": "以色列为何再次突袭伊朗",
@@ -223,6 +272,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时03分 ~ 18时02分]"
+        },
+        {
+          "title": "美以联合袭击伊朗",
+          "url": "https://www.toutiao.com/trending/7611797380253404710/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时02分 ~ 19时02分]"
         },
         {
           "title": "美以空袭伊朗，以色列称准备“第一阶段为期四天联合打击”，美方称“规模比去年六月大得多”",
@@ -238,64 +300,6 @@
         },
         {
           "title": "伊朗反击",
-          "url": "https://www.toutiao.com/trending/7611829558051999241/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 18时02分]"
-        },
-        {
-          "title": "美国出兵,联手以军炸伊朗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351135&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%87%BA%E5%85%B5%2C%E8%81%94%E6%89%8B%E4%BB%A5%E5%86%9B%E7%82%B8%E4%BC%8A%E6%9C%97",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 18时02分]"
-        },
-        {
-          "title": "伊朗向以色列发射数十枚导弹",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E5%B0%84%E6%95%B0%E5%8D%81%E6%9E%9A%E5%AF%BC%E5%BC%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 18时02分]"
-        },
-        {
-          "title": "美以袭击伊朗",
-          "url": "https://www.douyin.com/hot/2414338",
-          "source": "抖音",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 18时02分]"
-        },
-        {
-          "title": "伊朗正准备毁灭性报复行动",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%AD%A3%E5%87%86%E5%A4%87%E6%AF%81%E7%81%AD%E6%80%A7%E6%8A%A5%E5%A4%8D%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 18时02分]"
-        },
-        {
-          "title": "伊朗反击",
           "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E5%8F%8D%E5%87%BB&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
@@ -304,6 +308,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时03分 ~ 18时02分]"
+        },
+        {
+          "title": "直击伊朗首都德黑兰爆炸现场",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%B4%E5%87%BB%E4%BC%8A%E6%9C%97%E9%A6%96%E9%83%BD%E5%BE%B7%E9%BB%91%E5%85%B0%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            12,
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时02分 ~ 19时02分]"
         },
         {
           "title": "伊朗首都德黑兰市中心发生爆炸",
@@ -320,28 +338,16 @@
           "time_info": "[15时07分 ~ 18时02分]"
         },
         {
-          "title": "伊朗：总统佩泽希齐扬安全无事",
-          "url": "https://news.ifeng.com/c/8r78DFQO6Ut",
-          "source": "凤凰网",
+          "title": "以色列宣布袭击伊朗，全国进入紧急状态",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32671966",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 18时02分]"
-        },
-        {
-          "title": "直击伊朗首都德黑兰爆炸现场",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9B%B4%E5%87%BB%E4%BC%8A%E6%9C%97%E9%A6%96%E9%83%BD%E5%BE%B7%E9%BB%91%E5%85%B0%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            12,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时02分 ~ 18时02分]"
+          "appearance_count": 5,
+          "time_info": "[16时02分 ~ 19时02分]"
         },
         {
           "title": "伊朗同意不拥有可制造核弹的核材料",
@@ -356,6 +362,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时31分 ~ 15时07分]"
+        },
+        {
+          "title": "美以空袭伊朗，美方称“规模比去年六月大得多”，目标是推翻伊朗政权",
+          "url": "https://wallstreetcn.com/articles/3766427",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
         },
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
@@ -380,6 +397,17 @@
           "time_info": "[17时03分 ~ 17时04分]"
         },
         {
+          "title": "直播 | 美以联手对伊朗发动打击，伊朗进行反击",
+          "url": "https://www.cls.cn/detail/2298102",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
+        },
+        {
           "title": "直播|凤凰独家解读：美以联合袭击 伊朗何去何从？",
           "url": "https://flive.ifeng.com/live/1016526.html?webkit=1",
           "source": "凤凰网",
@@ -389,6 +417,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时03分 ~ 17时04分]"
+        },
+        {
+          "title": "实时更新丨遭美以袭击后，伊朗发起报复行动",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
+        },
+        {
+          "title": "伊朗正准备毁灭性报复行动",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%AD%A3%E5%87%86%E5%A4%87%E6%AF%81%E7%81%AD%E6%80%A7%E6%8A%A5%E5%A4%8D%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时03分 ~ 19时02分]"
+        },
+        {
+          "title": "伊朗最高领袖办公室附近遭袭",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%8A%9E%E5%85%AC%E5%AE%A4%E9%99%84%E8%BF%91%E9%81%AD%E8%A2%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            9,
+            15,
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时07分 ~ 19时02分]"
         },
         {
           "title": "实时更新|遭美以空袭后，伊朗反击",
@@ -414,6 +481,17 @@
           "time_info": "[15时07分 ~ 16时02分]"
         },
         {
+          "title": "以总理：目标是推翻伊朗政权",
+          "url": "https://news.ifeng.com/c/8r7AH40qhPO",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
+        },
+        {
           "title": "伊朗遭袭 导弹飞越伊拉克画面曝光",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%81%AD%E8%A2%AD+%E5%AF%BC%E5%BC%B9%E9%A3%9E%E8%B6%8A%E4%BC%8A%E6%8B%89%E5%85%8B%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89",
           "source": "百度热搜",
@@ -425,16 +503,15 @@
           "time_info": "[17时03分 ~ 17时04分]"
         },
         {
-          "title": "以色列宣布袭击伊朗，全国进入紧急状态",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32671966",
-          "source": "澎湃新闻",
+          "title": "伊朗打击美国中东军事基地",
+          "url": "https://www.douyin.com/hot/2414519",
+          "source": "抖音",
           "ranks": [
-            10,
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时02分 ~ 18时02分]"
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
         },
         {
           "title": "以消息人士：美以认为与伊朗没有谈判可能而发动打击",
@@ -442,36 +519,51 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时02分 ~ 18时02分]"
-        },
-        {
-          "title": "伊朗最高领袖办公室附近遭袭",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%8A%9E%E5%85%AC%E5%AE%A4%E9%99%84%E8%BF%91%E9%81%AD%E8%A2%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
             9,
-            15,
             12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[15时07分 ~ 18时02分]"
+          "time_info": "[16时02分 ~ 19时02分]"
         },
         {
-          "title": "美以空袭伊朗，美方称“规模比去年六月大得多”，目标是推翻伊朗政权",
-          "url": "https://wallstreetcn.com/articles/3766427",
-          "source": "华尔街见闻",
+          "title": "以媒：伊朗陆军总司令身亡",
+          "url": "https://www.douyin.com/hot/2414508",
+          "source": "抖音",
           "ranks": [
-            1
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
+        },
+        {
+          "title": "美国正从空中和海上打击伊朗",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E4%BB%8E%E7%A9%BA%E4%B8%AD%E5%92%8C%E6%B5%B7%E4%B8%8A%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            14,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时02分 ~ 19时02分]"
+        },
+        {
+          "title": "伊朗首都德黑兰发生爆炸",
+          "url": "https://www.toutiao.com/trending/7611800642813693490/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            8,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时02分 ~ 19时02分]"
         },
         {
           "title": "美以联手对伊朗发动打击，伊朗回应：正准备毁灭性报复行动",
@@ -483,17 +575,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
-        },
-        {
-          "title": "直播 | 美以联手对伊朗发动打击，伊朗进行反击",
-          "url": "https://www.cls.cn/detail/2298102",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
         },
         {
           "title": "以色列袭击伊朗，德黑兰市中心爆炸！",
@@ -516,17 +597,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
-        },
-        {
-          "title": "实时更新丨遭美以袭击后，伊朗发起报复行动",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
         },
         {
           "title": "伊朗媒体报道称，德黑兰东部和西部部分地区手机通信线路已被切断，部分区域的互联网连接出现减弱。",
@@ -562,6 +632,17 @@
           "time_info": "17时04分"
         },
         {
+          "title": "伊朗伊斯兰革命卫队：此次行动将持续不懈地进行，直至敌人被“彻底击败”。",
+          "url": "https://flash.jin10.com/detail/20260228183738009800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "以媒：伊朗陆军总司令身亡",
           "url": "https://wallstreetcn.com/livenews/3060728",
           "source": "华尔街见闻-快讯",
@@ -573,15 +654,19 @@
           "time_info": "17时04分"
         },
         {
-          "title": "伊朗导弹袭击4处美军基地",
-          "url": "https://wallstreetcn.com/livenews/3060776",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗首都德黑兰市中心发生爆炸",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E9%A6%96%E9%83%BD%E5%BE%B7%E9%BB%91%E5%85%B0%E5%B8%82%E4%B8%AD%E5%BF%83%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8",
+          "source": "bilibili 热搜",
           "ranks": [
-            1
+            7,
+            20,
+            16,
+            15,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时07分 ~ 19时02分]"
         },
         {
           "title": "伊朗核问题到底咋回事",
@@ -633,15 +718,48 @@
           "time_info": "08时04分"
         },
         {
-          "title": "伊朗安全委员会呼吁德黑兰居民撤离。",
-          "url": "https://wallstreetcn.com/livenews/3060775",
+          "title": "伊朗：报复性打击目标是中东地区所有美军基地",
+          "url": "https://news.ifeng.com/c/8r7GrAQyE8v",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "以色列军方表示，检测到伊朗新一轮弹道导弹发射，预计以色列南部地区将响起警报。",
+          "url": "https://flash.jin10.com/detail/20260228183729550800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "伊朗总统之子发声：佩泽希齐扬及多名高级官员平安",
+          "url": "https://wallstreetcn.com/livenews/3060804",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时02分"
+          "time_info": "19时02分"
+        },
+        {
+          "title": "报复来袭!伊朗击中美军基地",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351142&amp;topic_name=%E6%8A%A5%E5%A4%8D%E6%9D%A5%E8%A2%AD%21%E4%BC%8A%E6%9C%97%E5%87%BB%E4%B8%AD%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "伊朗陆军总司令身亡",
@@ -650,7 +768,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -694,15 +812,15 @@
           "time_info": "15时07分"
         },
         {
-          "title": "以总理：目标是推翻伊朗政权",
-          "url": "https://news.ifeng.com/c/8r7AH40qhPO",
-          "source": "凤凰网",
+          "title": "伊朗否认陆军总司令死亡",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%90%A6%E8%AE%A4%E9%99%86%E5%86%9B%E6%80%BB%E5%8F%B8%E4%BB%A4%E6%AD%BB%E4%BA%A1",
+          "source": "bilibili 热搜",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时02分"
+          "time_info": "19时02分"
         },
         {
           "title": "以色列国防官员：以色列在伊朗的行动与美国协调进行。此次行动已筹划数月，行动发起日期数周前即已确定。",
@@ -727,41 +845,26 @@
           "time_info": "15时07分"
         },
         {
-          "title": "阿联酋称拦截了伊朗导弹。 卡塔尔称拦截了针对其领土的袭击。",
-          "url": "https://wallstreetcn.com/livenews/3060774",
+          "title": "伊朗再次袭击卡塔尔美军基地",
+          "url": "https://wallstreetcn.com/livenews/3060803",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时02分"
+          "time_info": "19时02分"
         },
         {
-          "title": "美国正从空中和海上打击伊朗",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E4%BB%8E%E7%A9%BA%E4%B8%AD%E5%92%8C%E6%B5%B7%E4%B8%8A%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97",
-          "source": "百度热搜",
+          "title": "美以袭击瞄准伊朗最高领袖和总统",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E7%9E%84%E5%87%86%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%92%8C%E6%80%BB%E7%BB%9F",
+          "source": "bilibili 热搜",
           "ranks": [
-            2,
-            14,
-            16
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时02分 ~ 18时02分]"
-        },
-        {
-          "title": "伊朗首都德黑兰发生爆炸",
-          "url": "https://www.toutiao.com/trending/7611800642813693490/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时02分 ~ 18时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "以色列宣布：袭击伊朗",
@@ -784,6 +887,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队：已向以色列发动导弹和无人机袭击",
+          "url": "https://news.ifeng.com/c/8r7CHQUMp8e",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "美官员：美国对伊朗的空袭正在进行中",
@@ -836,18 +950,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "伊朗打击美国中东军事基地",
-          "url": "https://www.douyin.com/hot/2414519",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -874,6 +977,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时02分 ~ 17时04分]"
+        },
+        {
+          "title": "伊朗官员：正准备“毁灭性”报复行动",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AE%98%E5%91%98%EF%BC%9A%E6%AD%A3%E5%87%86%E5%A4%87%E2%80%9C%E6%AF%81%E7%81%AD%E6%80%A7%E2%80%9D%E6%8A%A5%E5%A4%8D%E8%A1%8C%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时03分 ~ 19时02分]"
+        },
+        {
+          "title": "伊朗打击美国中东军事基地",
+          "url": "https://www.toutiao.com/trending/7611826417433575434/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "市场消息：伊朗首都德黑兰东西两侧传出爆炸声，梅赫拉巴德机场据称遭到袭击。",
@@ -909,6 +1036,17 @@
           "time_info": "17时04分"
         },
         {
+          "title": "伊朗再次袭击卡塔尔美军基地",
+          "url": "https://flash.jin10.com/detail/20260228183530908800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "伊朗迈赫尔通讯社2月28日报道，伊朗已关闭领空。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3060641",
           "source": "华尔街见闻-快讯",
@@ -931,6 +1069,17 @@
           "time_info": "17时04分"
         },
         {
+          "title": "伊朗第五轮导弹射向以色列",
+          "url": "https://wallstreetcn.com/livenews/3060801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "伊朗总统遭刺杀未遂",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E9%81%AD%E5%88%BA%E6%9D%80%E6%9C%AA%E9%81%82%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -940,17 +1089,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
-        },
-        {
-          "title": "以媒：伊朗陆军总司令身亡",
-          "url": "https://www.douyin.com/hot/2414508",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
         },
         {
           "title": "伊朗最高领袖办公室附近遭袭",
@@ -967,30 +1105,44 @@
           "time_info": "[15时07分 ~ 18时02分]"
         },
         {
-          "title": "伊朗官员：正准备“毁灭性”报复行动",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AE%98%E5%91%98%EF%BC%9A%E6%AD%A3%E5%87%86%E5%A4%87%E2%80%9C%E6%AF%81%E7%81%AD%E6%80%A7%E2%80%9D%E6%8A%A5%E5%A4%8D%E8%A1%8C%E5%8A%A8",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 18时02分]"
-        },
-        {
-          "title": "伊朗首都德黑兰市中心发生爆炸",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E9%A6%96%E9%83%BD%E5%BE%B7%E9%BB%91%E5%85%B0%E5%B8%82%E4%B8%AD%E5%BF%83%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8",
+          "title": "伊朗称正为毁灭性报复行动做准备",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%AD%A3%E4%B8%BA%E6%AF%81%E7%81%AD%E6%80%A7%E6%8A%A5%E5%A4%8D%E8%A1%8C%E5%8A%A8%E5%81%9A%E5%87%86%E5%A4%87",
           "source": "bilibili 热搜",
           "ranks": [
-            7,
-            20,
-            16,
-            15
+            6,
+            14,
+            18,
+            26
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[15时07分 ~ 18时02分]"
+          "time_info": "[16时02分 ~ 19时02分]"
+        },
+        {
+          "title": "以色列称已对伊朗发动二次袭击，为什么是以色列而不是美国率先对伊朗发动打击？伊朗将如何回击？",
+          "url": "https://www.zhihu.com/question/2011083864420918918",
+          "source": "知乎",
+          "ranks": [
+            10,
+            7,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时02分 ~ 19时02分]"
+        },
+        {
+          "title": "伊媒称伊朗总统安全",
+          "url": "https://www.douyin.com/hot/2414432",
+          "source": "抖音",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时02分 ~ 19时02分]"
         },
         {
           "title": "伊朗",
@@ -1032,6 +1184,17 @@
           "time_info": "[15时07分 ~ 17时04分]"
         },
         {
+          "title": "以媒：伊朗革命卫队损失惨重",
+          "url": "https://news.ifeng.com/c/8r767CLfGEP",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时03分 ~ 19时02分]"
+        },
+        {
           "title": "土耳其航空公司：飞往伊朗的日间航班正常运营",
           "url": "https://flash.jin10.com/detail/20260228072949426800",
           "source": "金十数据",
@@ -1056,6 +1219,30 @@
           "time_info": "[10时45分 ~ 11时34分]"
         },
         {
+          "title": "伊朗导弹袭击4处美军基地",
+          "url": "https://wallstreetcn.com/livenews/3060776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
+        },
+        {
+          "title": "阿曼外交大臣：伊朗已同意不拥有“可制造核弹的核材料”",
+          "url": "https://wallstreetcn.com/articles/3766403",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时03分 ~ 19时02分]"
+        },
+        {
           "title": "阿曼外交大臣：伊朗已同意不拥有“可制造核弹的核材料”",
           "url": "https://flash.jin10.com/detail/20260228071849330800",
           "source": "金十数据",
@@ -1066,6 +1253,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时04分 ~ 09时31分]"
+        },
+        {
+          "title": "伊朗安全委员会呼吁德黑兰居民撤离。",
+          "url": "https://wallstreetcn.com/livenews/3060775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外长阿拉格奇与沙特外长进行多次通话，就最新局势进行讨论。",
@@ -1080,30 +1279,89 @@
           "time_info": "[08时04分 ~ 09时31分]"
         },
         {
-          "title": "伊朗称正为毁灭性报复行动做准备",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%AD%A3%E4%B8%BA%E6%AF%81%E7%81%AD%E6%80%A7%E6%8A%A5%E5%A4%8D%E8%A1%8C%E5%8A%A8%E5%81%9A%E5%87%86%E5%A4%87",
-          "source": "bilibili 热搜",
+          "title": "阿联酋称拦截了伊朗导弹。 卡塔尔称拦截了针对其领土的袭击。",
+          "url": "https://wallstreetcn.com/livenews/3060774",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            14,
-            18
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
+        },
+        {
+          "title": "伊朗正在打击美国军事基地",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%AD%A3%E5%9C%A8%E6%89%93%E5%87%BB%E7%BE%8E%E5%9B%BD%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
+        },
+        {
+          "title": "美以联手对伊朗发动打击 伊朗总统府和最高领袖办公室附近遭袭",
+          "url": "https://www.cls.cn/detail/2298153",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时02分 ~ 18时02分]"
+          "time_info": "[17时03分 ~ 19时02分]"
         },
         {
-          "title": "以色列称已对伊朗发动二次袭击，为什么是以色列而不是美国率先对伊朗发动打击？伊朗将如何回击？",
-          "url": "https://www.zhihu.com/question/2011083864420918918",
+          "title": "伊朗正在打击美国军事基地",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%AD%A3%E5%9C%A8%E6%89%93%E5%87%BB%E7%BE%8E%E5%9B%BD%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
+        },
+        {
+          "title": "伊朗军队正在对美国中东地区的军事基地实施打击，战火会蔓延至其他国家吗？中东各国有何反应？",
+          "url": "https://www.zhihu.com/question/2011129557315511537",
           "source": "知乎",
           "ranks": [
             10,
-            7,
-            12
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
+        },
+        {
+          "title": "以色列对伊发起“先发制人”打击，伊朗此前多次警告将强硬回击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32671979",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            8,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时02分 ~ 18时02分]"
+          "time_info": "[17时03分 ~ 19时02分]"
+        },
+        {
+          "title": "伊朗向以色列发射导弹",
+          "url": "https://www.douyin.com/hot/2414469",
+          "source": "抖音",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时03分 ~ 19时02分]"
         },
         {
           "title": "【早报】证监会召开重磅会议，吴清发声；特朗警告伊朗“有时候不得不打”",
@@ -1169,15 +1427,30 @@
           "time_info": "[08时04分 ~ 10时45分]"
         },
         {
-          "title": "伊媒称伊朗总统安全",
-          "url": "https://www.douyin.com/hot/2414432",
-          "source": "抖音",
+          "title": "美官员：美国对伊朗空袭正在进行中",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AE%98%E5%91%98%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%A9%BA%E8%A2%AD%E6%AD%A3%E5%9C%A8%E8%BF%9B%E8%A1%8C%E4%B8%AD",
+          "source": "百度热搜",
           "ranks": [
+            12,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时03分 ~ 19时02分]"
+        },
+        {
+          "title": "美以袭击伊朗 过去2小时发生了什么",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97+%E8%BF%87%E5%8E%BB2%E5%B0%8F%E6%97%B6%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            17,
             12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时02分 ~ 18时02分]"
+          "time_info": "[17时03分 ~ 19时02分]"
         },
         {
           "title": "以方：伊朗领导人都是打击目标",
@@ -1190,6 +1463,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时02分 ~ 18时02分]"
+        },
+        {
+          "title": "深度｜最高领袖办公室附近遭袭，伊朗权力体系如何“去中心化”强化韧性？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32671097",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时03分 ~ 19时02分]"
         },
         {
           "title": "伊朗同意不拥有制造核弹的核材料",
@@ -1206,17 +1492,6 @@
           "time_info": "[11时34分 ~ 14时04分]"
         },
         {
-          "title": "以媒：伊朗革命卫队损失惨重",
-          "url": "https://news.ifeng.com/c/8r767CLfGEP",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 18时02分]"
-        },
-        {
           "title": "美国对伊朗提了4项要求",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%8F%90%E4%BA%864%E9%A1%B9%E8%A6%81%E6%B1%82%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -1230,17 +1505,6 @@
           "time_info": "[11时34分 ~ 13时11分]"
         },
         {
-          "title": "阿曼外交大臣：伊朗已同意不拥有“可制造核弹的核材料”",
-          "url": "https://wallstreetcn.com/articles/3766403",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 18时02分]"
-        },
-        {
           "title": "伊朗总统府遭袭",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%BA%9C%E9%81%AD%E8%A2%AD%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -1251,41 +1515,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时02分 ~ 17时04分]"
-        },
-        {
-          "title": "以色列对伊发起“先发制人”打击，伊朗此前多次警告将强硬回击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32671979",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 18时02分]"
-        },
-        {
-          "title": "伊朗向以色列发射导弹",
-          "url": "https://www.douyin.com/hot/2414469",
-          "source": "抖音",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 18时02分]"
-        },
-        {
-          "title": "美以联手对伊朗发动打击 伊朗总统府和最高领袖办公室附近遭袭",
-          "url": "https://www.cls.cn/detail/2298153",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 18时02分]"
         },
         {
           "title": "卡塔尔首相与伊朗外长通电话 讨论地区局势",
@@ -1337,18 +1566,6 @@
           "time_info": "[16时02分 ~ 17时04分]"
         },
         {
-          "title": "美官员：美国对伊朗空袭正在进行中",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AE%98%E5%91%98%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%A9%BA%E8%A2%AD%E6%AD%A3%E5%9C%A8%E8%BF%9B%E8%A1%8C%E4%B8%AD",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 18时02分]"
-        },
-        {
           "title": "伊朗以色列均已关闭领空",
           "url": "https://www.douyin.com/hot/2414398",
           "source": "抖音",
@@ -1370,30 +1587,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时02分 ~ 17时04分]"
-        },
-        {
-          "title": "美以袭击伊朗 过去2小时发生了什么",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97+%E8%BF%87%E5%8E%BB2%E5%B0%8F%E6%97%B6%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 18时02分]"
-        },
-        {
-          "title": "深度｜最高领袖办公室附近遭袭，伊朗权力体系如何“去中心化”强化韧性？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32671097",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 18时02分]"
         },
         {
           "title": "中国公民暂勿前往伊朗",
@@ -1454,6 +1647,18 @@
           "time_info": "[10时44分 ~ 10时45分]"
         },
         {
+          "title": "伊朗局势梳理",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF%E6%A2%B3%E7%90%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
+        },
+        {
           "title": "以方：袭击伊朗是美以共同行动",
           "url": "https://www.douyin.com/hot/2414362",
           "source": "抖音",
@@ -1500,6 +1705,18 @@
           "time_info": "[15时07分 ~ 16时02分]"
         },
         {
+          "title": "伊朗又一轮导弹射向以色列",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%8F%88%E4%B8%80%E8%BD%AE%E5%AF%BC%E5%BC%B9%E5%B0%84%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
+        },
+        {
           "title": "以色列袭击伊朗现场画面",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -1510,6 +1727,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时07分 ~ 16时02分]"
+        },
+        {
+          "title": "专家：以色列率先袭击伊朗，至少有两方面的考虑",
+          "url": "https://news.ifeng.com/c/8r7CmfhqOGa",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
         },
         {
           "title": "美以导弹飞向伊朗现场视频曝光",
@@ -1569,6 +1797,18 @@
           "time_info": "[17时03分 ~ 17时04分]"
         },
         {
+          "title": "伊朗高官说结局已不再由以色列掌控",
+          "url": "https://www.toutiao.com/trending/7611341773775912966/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
+        },
+        {
           "title": "以色列总理称目标是推翻伊朗政权",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%90%86%E7%A7%B0%E7%9B%AE%E6%A0%87%E6%98%AF%E6%8E%A8%E7%BF%BB%E4%BC%8A%E6%9C%97%E6%94%BF%E6%9D%83%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -1578,6 +1818,53 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时03分 ~ 17时04分]"
+        },
+        {
+          "title": "伊朗首都全城大堵车",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%A6%96%E9%83%BD%E5%85%A8%E5%9F%8E%E5%A4%A7%E5%A0%B5%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
+        },
+        {
+          "title": "以色列监测到伊朗向以方向发射导弹，以色列大片地区响起警报，伊朗这波用了哪些武器装备？能形成有效反击吗？",
+          "url": "https://www.zhihu.com/question/2011112534820799837",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
+        },
+        {
+          "title": "为何突袭伊朗？以色列两重目的已达到",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95%E7%AA%81%E8%A2%AD%E4%BC%8A%E6%9C%97%EF%BC%9F%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%A4%E9%87%8D%E7%9B%AE%E7%9A%84%E5%B7%B2%E8%BE%BE%E5%88%B0",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
+        },
+        {
+          "title": "以总理：美以军事行动目标是推翻伊朗政权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32672580",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
         },
         {
           "title": "伊朗首都爆炸后升起蘑菇云",
@@ -1613,26 +1900,38 @@
           "time_info": "[17时03分 ~ 17时04分]"
         },
         {
+          "title": "伊朗第三轮导弹袭击",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%AC%AC%E4%B8%89%E8%BD%AE%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
+        },
+        {
           "title": "以媒：伊朗陆军总司令身亡",
           "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E5%AA%92%EF%BC%9A%E4%BC%8A%E6%9C%97%E9%99%86%E5%86%9B%E6%80%BB%E5%8F%B8%E4%BB%A4%E8%BA%AB%E4%BA%A1",
           "source": "百度热搜",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
         {
-          "title": "伊朗局势梳理",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF%E6%A2%B3%E7%90%86",
-          "source": "bilibili 热搜",
+          "title": "直播丨美以“先发制人”袭击伊朗，连线德黑兰华人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32672222",
+          "source": "澎湃新闻",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时02分"
+          "time_info": "19时02分"
         },
         {
           "title": "市场消息：以色列领导人前往总参谋部总部，讨论对伊朗的战争。",
@@ -1657,6 +1956,17 @@
           "time_info": "16时02分"
         },
         {
+          "title": "伊朗伊斯兰革命卫队：美国在该地区的所有基地、资源和利益均被视为伊朗军队的合法打击目标。",
+          "url": "https://flash.jin10.com/detail/20260228183511631800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "消息人士：以美联合袭击伊朗已筹备数月",
           "url": "https://wallstreetcn.com/livenews/3060640",
           "source": "华尔街见闻-快讯",
@@ -1679,6 +1989,28 @@
           "time_info": "17时04分"
         },
         {
+          "title": "绝大多数侨胞已撤离伊朗 伊朗华侨华人联合会会长谈凯：已经做好准备应对突发情况",
+          "url": "https://wallstreetcn.com/livenews/3060800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "伊朗军方称总司令身体健康",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%86%9B%E6%96%B9%E7%A7%B0%E6%80%BB%E5%8F%B8%E4%BB%A4%E8%BA%AB%E4%BD%93%E5%81%A5%E5%BA%B7%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "伊朗强势回应美以袭击",
           "url": "https://news.ifeng.com/c/8r75t3tAlI4",
           "source": "凤凰网",
@@ -1699,6 +2031,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
+        },
+        {
+          "title": "卡塔尔外交部：在伊朗发动袭击后，卡塔尔保留采取反制措施的权利。",
+          "url": "https://flash.jin10.com/detail/20260228183436815800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "伊朗媒体称总统佩泽希齐扬安全无事",
@@ -1729,20 +2072,53 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
         {
-          "title": "伊朗又一轮导弹射向以色列",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%8F%88%E4%B8%80%E8%BD%AE%E5%AF%BC%E5%BC%B9%E5%B0%84%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "伊朗陆军称其总司令哈塔米无恙 正在指挥陆军部队",
+          "url": "https://wallstreetcn.com/livenews/3060799",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时02分"
+          "time_info": "19时02分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：卡兹温的居民区遭到导弹袭击。",
+          "url": "https://flash.jin10.com/detail/20260228183422795800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "伊朗敦促联合国采取行动",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%95%A6%E4%BF%83%E8%81%94%E5%90%88%E5%9B%BD%E9%87%87%E5%8F%96%E8%A1%8C%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "美以隐身战机大规模参战，重点打击伊朗核导设施",
+          "url": "https://news.ifeng.com/c/8r7I3LQSrdw",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "以色列媒体：伊朗境内已发生多起暗杀行动。",
@@ -1795,20 +2171,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
         {
-          "title": "伊朗正在打击美国军事基地",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%AD%A3%E5%9C%A8%E6%89%93%E5%87%BB%E7%BE%8E%E5%9B%BD%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
+          "title": "伊朗军方称，所有伊朗军队指挥官均安全无恙。（伊朗迈赫尔通讯社)",
+          "url": "https://wallstreetcn.com/livenews/3060797",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时02分"
+          "time_info": "19时02分"
         },
         {
           "title": "伊朗最高领袖办公室附近遭袭",
@@ -1822,15 +2198,15 @@
           "time_info": "16时02分"
         },
         {
-          "title": "专家：以色列率先袭击伊朗，至少有两方面的考虑",
-          "url": "https://news.ifeng.com/c/8r7CmfhqOGa",
-          "source": "凤凰网",
+          "title": "伊朗炮声响起！这一中国人喜爱的小众商品预计将迎来涨价",
+          "url": "https://www.cls.cn/detail/2298248",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时02分"
+          "time_info": "19时02分"
         },
         {
           "title": "以色列方面预计，至少在今晚之前，伊朗不会做出回应。",
@@ -1861,7 +2237,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -1877,6 +2253,17 @@
           "time_info": "15时07分"
         },
         {
+          "title": "欧盟委员会主席冯德莱恩：伊朗局势令人深感担忧。",
+          "url": "https://wallstreetcn.com/livenews/3060796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "直播关注伊朗局势",
           "url": "https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E5%85%B3%E6%B3%A8%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -1888,15 +2275,15 @@
           "time_info": "16时02分"
         },
         {
-          "title": "伊朗军队正在对美国中东地区的军事基地实施打击，战火会蔓延至其他国家吗？中东各国有何反应？",
-          "url": "https://www.zhihu.com/question/2011129557315511537",
-          "source": "知乎",
+          "title": "以媒称伊朗陆军总司令身亡",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%A5%E5%AA%92%E7%A7%B0%E4%BC%8A%E6%9C%97%E9%99%86%E5%86%9B%E6%80%BB%E5%8F%B8%E4%BB%A4%E8%BA%AB%E4%BA%A1",
+          "source": "bilibili 热搜",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时02分"
+          "time_info": "19时02分"
         },
         {
           "title": "据伊朗媒体Fars News：伊朗要给以色列、美国一个他们从未有过的教训。",
@@ -1905,7 +2292,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -1921,15 +2308,37 @@
           "time_info": "17时04分"
         },
         {
-          "title": "伊朗正在打击美国军事基地",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%AD%A3%E5%9C%A8%E6%89%93%E5%87%BB%E7%BE%8E%E5%9B%BD%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0",
-          "source": "百度热搜",
+          "title": "伊朗迈赫尔通讯社：敌方发动了网络攻击。伊朗已采取措施保障网络安全、应对网络攻击。",
+          "url": "https://wallstreetcn.com/livenews/3060795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "伊朗外交部喊话联合国尽快履职，采取行动应对美以军事侵略，如何看待这一表态？",
+          "url": "https://www.zhihu.com/question/2011132499053535486",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "以色列遭到伊朗第三轮导弹袭击",
+          "url": "https://www.toutiao.com/trending/7611835182961659442/",
+          "source": "今日头条",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时02分"
+          "time_info": "19时02分"
         },
         {
           "title": "伊朗议会高官：结局已不再由以色列掌控",
@@ -1952,6 +2361,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
+        },
+        {
+          "title": "美国将海军陆战队派往伊朗行动",
+          "url": "https://wallstreetcn.com/livenews/3060794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "以色列炸伊朗是“踹门”还是决战",
@@ -1982,9 +2402,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
+        },
+        {
+          "title": "伊朗陆军称其总司令哈塔米无恙 正在指挥陆军部队",
+          "url": "https://flash.jin10.com/detail/20260228183232130800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "伊朗首都德黑兰传出数次爆炸声后，德黑兰证券交易所已暂停交易。",
@@ -2009,6 +2440,28 @@
           "time_info": "16时02分"
         },
         {
+          "title": "美以袭击瞄准伊朗最高领袖和总统",
+          "url": "https://wallstreetcn.com/livenews/3060793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "伊朗袭击科威特美军基地",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E7%A7%91%E5%A8%81%E7%89%B9%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "据纽约时报：美国参议员杰克·里德，即参议院军委会的主要民主党议员，在对伊朗的空袭之前并未被提前通知。",
           "url": "https://flash.jin10.com/detail/20260228164614576800",
           "source": "金十数据",
@@ -2018,6 +2471,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
+        },
+        {
+          "title": "伊朗第五轮导弹射向以色列",
+          "url": "https://flash.jin10.com/detail/20260228183116920800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "以媒：以军袭击伊朗数十个目标",
@@ -2037,20 +2501,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
         {
-          "title": "伊朗高官说结局已不再由以色列掌控",
-          "url": "https://www.toutiao.com/trending/7611341773775912966/",
+          "title": "伊朗否认陆军总司令去世",
+          "url": "https://www.toutiao.com/trending/7611171461609062451/",
           "source": "今日头条",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时02分"
+          "time_info": "19时02分"
         },
         {
           "title": "以色列军方官员：以色列继续对伊朗实施空袭。",
@@ -2059,9 +2523,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
+        },
+        {
+          "title": "据新华社：伊朗首都德黑兰传出巨大爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260228183025691800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "伊朗最高领袖办公室附近遭袭。（新华社）",
@@ -2125,7 +2600,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -2150,6 +2625,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
+        },
+        {
+          "title": "伊朗最高国家安全委员会：已就美以军事行动予以回应",
+          "url": "https://wallstreetcn.com/livenews/3060790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "以色列初步报告称，伊朗总统佩泽希齐扬遭遇刺杀未遂。",
@@ -2180,7 +2666,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -2213,9 +2699,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
+        },
+        {
+          "title": "伊朗一学校遭以色列袭击，造成5名学生死亡。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3060789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "伊朗最高领袖办公室附近遭袭。（新华社）",
@@ -2235,7 +2732,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -2257,9 +2754,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
+        },
+        {
+          "title": "伊朗革命卫队宣布大规模军事行动",
+          "url": "https://wallstreetcn.com/livenews/3060788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗伊斯兰革命卫队称，为回应针对伊朗的袭击，已向以色列发动第一波导弹和无人机袭击。",
@@ -2279,9 +2787,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
+        },
+        {
+          "title": "据AXIOS记者：一位美国高级官员表示，美国的打击集中在伊朗的导弹和发射器上。以色列的打击则集中在消灭伊朗高级官员和导弹上。",
+          "url": "https://flash.jin10.com/detail/20260228182816531800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "伊朗官员称正为“毁灭性”报复行动做准备",
@@ -2312,42 +2831,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
         {
-          "title": "以色列监测到伊朗向以方向发射导弹，以色列大片地区响起警报，伊朗这波用了哪些武器装备？能形成有效反击吗？",
-          "url": "https://www.zhihu.com/question/2011112534820799837",
-          "source": "知乎",
+          "title": "伊朗一学校5名学生遇袭身亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E4%B8%80%E5%AD%A6%E6%A0%A15%E5%90%8D%E5%AD%A6%E7%94%9F%E9%81%87%E8%A2%AD%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "为何突袭伊朗？以色列两重目的已达到",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95%E7%AA%81%E8%A2%AD%E4%BC%8A%E6%9C%97%EF%BC%9F%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%A4%E9%87%8D%E7%9B%AE%E7%9A%84%E5%B7%B2%E8%BE%BE%E5%88%B0",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "以总理：美以军事行动目标是推翻伊朗政权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32672580",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
+          "time_info": "19时02分"
         },
         {
           "title": "市场消息：伊朗最高领袖被转移到安全屋。",
@@ -2378,7 +2875,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -2389,20 +2886,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
         {
-          "title": "伊朗首都全城大堵车",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%A6%96%E9%83%BD%E5%85%A8%E5%9F%8E%E5%A4%A7%E5%A0%B5%E8%BD%A6",
+          "title": "伊朗陆军称其总司令无恙",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%99%86%E5%86%9B%E7%A7%B0%E5%85%B6%E6%80%BB%E5%8F%B8%E4%BB%A4%E6%97%A0%E6%81%99",
           "source": "百度热搜",
           "ranks": [
             21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时02分"
+          "time_info": "19时02分"
         },
         {
           "title": "伊朗法尔斯通讯社说多枚导弹击中德黑兰市中心多处目标。",
@@ -2416,6 +2913,17 @@
           "time_info": "15时07分"
         },
         {
+          "title": "一名知情人士表示，美国国防部长赫格塞思和美军参谋长联席会议主席丹·凯恩将军正在佛罗里达州的海湖庄园指挥伊朗行动。",
+          "url": "https://flash.jin10.com/detail/20260228182611430800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "伊朗西部两省响起爆炸声",
           "url": "https://wallstreetcn.com/livenews/3060661",
           "source": "华尔街见闻-快讯",
@@ -2425,6 +2933,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "伊朗导弹袭击约旦美军基地",
+          "url": "https://wallstreetcn.com/livenews/3060784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "伊朗媒体：德黑兰东部发生爆炸。",
@@ -2499,7 +3018,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -2515,15 +3034,37 @@
           "time_info": "16时02分"
         },
         {
+          "title": "美国官员预计对伊朗军事行动将持续数天",
+          "url": "https://wallstreetcn.com/livenews/3060782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "伊朗报复行动没有任何红线",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%8A%A5%E5%A4%8D%E8%A1%8C%E5%8A%A8%E6%B2%A1%E6%9C%89%E4%BB%BB%E4%BD%95%E7%BA%A2%E7%BA%BF%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
+        },
+        {
+          "title": "美总统：将彻底摧毁伊朗海军",
+          "url": "https://www.toutiao.com/trending/7611423404086247467/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "以方称袭击伊朗是美以共同行动",
@@ -2598,9 +3139,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
+        },
+        {
+          "title": "以总理：美以目标是推翻伊朗政权",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E6%80%BB%E7%90%86%EF%BC%9A%E7%BE%8E%E4%BB%A5%E7%9B%AE%E6%A0%87%E6%98%AF%E6%8E%A8%E7%BF%BB%E4%BC%8A%E6%9C%97%E6%94%BF%E6%9D%83",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "阿拉伯电视台记者：以色列完全封锁对伊朗袭击目标的信息。",
@@ -2642,7 +3194,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -2680,6 +3232,17 @@
           "time_info": "17时04分"
         },
         {
+          "title": "欧盟委员会主席冯德莱恩：伊朗局势令人深感担忧。我们仍与该地区的伙伴保持密切联系。",
+          "url": "https://flash.jin10.com/detail/20260228182540210800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "以色列防长宣布：对伊朗发动“先发制人打击”",
           "url": "https://wallstreetcn.com/livenews/3060619",
           "source": "华尔街见闻-快讯",
@@ -2708,7 +3271,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -2735,6 +3298,17 @@
           "time_info": "16时02分"
         },
         {
+          "title": "伊朗外长阿拉格奇与伊拉克外长通话",
+          "url": "https://flash.jin10.com/detail/20260228182440262800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "以色列外交部说已对伊朗发动二次袭击。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3060618",
           "source": "华尔街见闻-快讯",
@@ -2757,15 +3331,15 @@
           "time_info": "17时04分"
         },
         {
-          "title": "伊朗第三轮导弹袭击",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%AC%AC%E4%B8%89%E8%BD%AE%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
+          "title": "阿联酋拦截伊朗导弹1人死亡",
+          "url": "https://wallstreetcn.com/livenews/3060777",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时02分"
+          "time_info": "19时02分"
         },
         {
           "title": "美国国务院：任何美国公民均不应以任何理由前往伊朗。",
@@ -2845,6 +3419,17 @@
           "time_info": "17时04分"
         },
         {
+          "title": "德国政府发言人：德方今晨已事先获知以色列对伊朗发动的军事袭击。",
+          "url": "https://flash.jin10.com/detail/20260228182403552800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "据路透社援引以色列国防部消息，以色列今天（2月28日）对伊朗发动了“预防性”的打击。（CCTV国际时讯）",
           "url": "https://wallstreetcn.com/livenews/3060616",
           "source": "华尔街见闻-快讯",
@@ -2895,9 +3480,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：敌方发起了网络攻击。",
+          "url": "https://flash.jin10.com/detail/20260228182221145800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "据以色列方面消息称，以色列已对伊朗发起打击。（央视）",
@@ -2928,7 +3524,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         }
@@ -2936,7 +3532,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 85,
+      "match_count": 86,
       "titles": [
         {
           "title": "【早报】证监会召开重磅会议，吴清发声；特朗普警告伊朗“有时候不得不打”",
@@ -2948,8 +3544,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时44分 ~ 18时02分]"
+          "appearance_count": 12,
+          "time_info": "[10时44分 ~ 19时02分]"
         },
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -2961,8 +3557,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时31分 ~ 18时02分]"
+          "appearance_count": 13,
+          "time_info": "[09时31分 ~ 19时02分]"
         },
         {
           "title": "专访｜打击伊核设施“刺激”特朗普军事冒进，以色列欲再推美国动武",
@@ -2975,8 +3571,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时04分 ~ 18时02分]"
+          "appearance_count": 14,
+          "time_info": "[08时04分 ~ 19时02分]"
         },
         {
           "title": "特朗普扬言：美国或“友好接管”古巴",
@@ -3001,8 +3597,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时31分 ~ 18时02分]"
+          "appearance_count": 13,
+          "time_info": "[09时31分 ~ 19时02分]"
+        },
+        {
+          "title": "特朗普透露美伊将继续谈判 但警告“有时候不得不打”",
+          "url": "https://www.cls.cn/detail/2297953",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时11分 ~ 19时02分]"
         },
         {
           "title": "特朗普宣布打击伊朗",
@@ -3010,11 +3619,25 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时02分 ~ 18时02分]"
+          "appearance_count": 5,
+          "time_info": "[16时02分 ~ 19时02分]"
+        },
+        {
+          "title": "特朗普宣布打击伊朗",
+          "url": "https://www.douyin.com/hot/2414412",
+          "source": "抖音",
+          "ranks": [
+            2,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时02分 ~ 19时02分]"
         },
         {
           "title": "特朗普呼吁伊朗政权更迭",
@@ -3026,18 +3649,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时03分 ~ 17时04分]"
-        },
-        {
-          "title": "特朗普宣布打击伊朗",
-          "url": "https://www.douyin.com/hot/2414412",
-          "source": "抖音",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时02分 ~ 18时02分]"
         },
         {
           "title": "特朗普对伊核谈判不满",
@@ -3066,19 +3677,6 @@
           "time_info": "[10时45分 ~ 14时04分]"
         },
         {
-          "title": "特朗普透露美伊将继续谈判 但警告“有时候不得不打”",
-          "url": "https://www.cls.cn/detail/2297953",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时11分 ~ 18时02分]"
-        },
-        {
           "title": "特朗普：尚未就对伊动武作最终决定",
           "url": "https://www.toutiao.com/trending/7611682870167342633/",
           "source": "今日头条",
@@ -3096,7 +3694,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -3158,6 +3756,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时04分 ~ 11时34分]"
+        },
+        {
+          "title": "特朗普称美军对伊朗进行军事打击",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E8%BF%9B%E8%A1%8C%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            15,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时02分 ~ 19时02分]"
         },
         {
           "title": "美国总统特朗普：明尼苏达州自闭症补助金从2017年的1,099,946美元飙升至2024年的343,176,474美元，短短几年内增长了34,000%。这简直就是个天大的骗局。立即调查并逮捕骗子。更多索马里势力介入。加州的情况更糟。要平衡预算。",
@@ -3225,19 +3837,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时04分 ~ 11时34分]"
-        },
-        {
-          "title": "特朗普称美军对伊朗进行军事打击",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E8%BF%9B%E8%A1%8C%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时02分 ~ 18时02分]"
         },
         {
           "title": "特朗普：将彻底摧毁伊朗海军",
@@ -3373,6 +3972,18 @@
           "time_info": "[11时34分 ~ 12时24分]"
         },
         {
+          "title": "特朗普呼吁伊朗政权更迭，他在打什么主意？能如愿吗？",
+          "url": "https://www.zhihu.com/question/2011106976499724764",
+          "source": "知乎",
+          "ranks": [
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
+        },
+        {
           "title": "美国总统特朗普：我正考虑让特德·克鲁兹（Ted Cruz）进入最高法院。",
           "url": "https://flash.jin10.com/detail/20260228061953767800",
           "source": "金十数据",
@@ -3443,6 +4054,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时04分 ~ 09时31分]"
+        },
+        {
+          "title": "特朗普：等行动结束接管伊朗政府",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%AD%89%E8%A1%8C%E5%8A%A8%E7%BB%93%E6%9D%9F%E6%8E%A5%E7%AE%A1%E4%BC%8A%E6%9C%97%E6%94%BF%E5%BA%9C",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
         },
         {
           "title": "特朗普就伊朗问题释放最新信号",
@@ -3616,7 +4239,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -3709,17 +4332,6 @@
           "time_info": "16时02分"
         },
         {
-          "title": "特朗普呼吁伊朗政权更迭，他在打什么主意？能如愿吗？",
-          "url": "https://www.zhihu.com/question/2011106976499724764",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
           "title": "美国总统特朗普：伊朗正在研发威胁美国及其他国家的远程导弹。",
           "url": "https://flash.jin10.com/detail/20260228153639209800",
           "source": "金十数据",
@@ -3808,15 +4420,15 @@
           "time_info": "08时04分"
         },
         {
-          "title": "特朗普：等行动结束接管伊朗政府",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%AD%89%E8%A1%8C%E5%8A%A8%E7%BB%93%E6%9D%9F%E6%8E%A5%E7%AE%A1%E4%BC%8A%E6%9C%97%E6%94%BF%E5%BA%9C",
-          "source": "百度热搜",
+          "title": "美国总统特朗普预计将于当地时间周六上午再次向全国发表讲话。（AXIOS)",
+          "url": "https://wallstreetcn.com/livenews/3060783",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时02分"
+          "time_info": "19时02分"
         },
         {
           "title": "美国总统特朗普：联邦住房金融局（FHFA）局长Bill Pulte是一个金融“天才”。",
@@ -3836,7 +4448,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -3932,7 +4544,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
@@ -3945,8 +4557,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时04分 ~ 18时02分]"
+          "appearance_count": 14,
+          "time_info": "[08时04分 ~ 19时02分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -3974,6 +4586,21 @@
           "time_info": "[10时44分 ~ 10时45分]"
         },
         {
+          "title": "解读OpenAI获千亿美元投资背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            14,
+            18,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时07分 ~ 19时02分]"
+        },
+        {
           "title": "AWS与OpenAI联合开发“有状态运行时环境”，预计数月内推出",
           "url": "https://flash.jin10.com/detail/20260228132543765800",
           "source": "金十数据",
@@ -3997,20 +4624,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时34分 ~ 14时04分]"
-        },
-        {
-          "title": "解读OpenAI获千亿美元投资背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            14,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时07分 ~ 18时02分]"
         },
         {
           "title": "和Anthropic闹翻“仅数小时” 美国国防部便和OpenAI签署合作协议",
@@ -4104,6 +4717,17 @@
           "time_info": "[11时34分 ~ 13时11分]"
         },
         {
+          "title": "AI界的“冰火两重天”：Anthropic刚被封杀 OpenAI就拿下了五角大楼",
+          "url": "https://www.cls.cn/detail/2298126",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "一位消息人士透露，五角大楼已同意OpenAI制定的在保密环境下安全部署其技术的规则，但尚未签署任何合同。",
           "url": "https://flash.jin10.com/detail/20260228080935525800",
           "source": "金十数据",
@@ -4131,8 +4755,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时04分 ~ 18时02分]"
+          "appearance_count": 14,
+          "time_info": "[08时04分 ~ 19时02分]"
         },
         {
           "title": "伊朗局势演变会如何影响美股、黄金和原油？一文读懂",
@@ -4144,8 +4768,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时07分 ~ 18时02分]"
+          "appearance_count": 6,
+          "time_info": "[15时07分 ~ 19时02分]"
+        },
+        {
+          "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
+          "url": "https://www.zhihu.com/question/2011096140146286806",
+          "source": "知乎",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
         },
         {
           "title": "美股下跌对普通人有何启示",
@@ -4157,17 +4793,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
-        },
-        {
-          "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
-          "url": "https://www.zhihu.com/question/2011096140146286806",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
         }
       ]
     },
@@ -4180,11 +4805,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时02分 ~ 18时02分]"
+          "appearance_count": 5,
+          "time_info": "[16时02分 ~ 19时02分]"
         },
         {
           "title": "以色列伊朗 金价",
@@ -4203,11 +4829,12 @@
           "url": "https://www.toutiao.com/trending/7611434469627330601/",
           "source": "今日头条",
           "ranks": [
-            10
+            10,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
         }
       ]
     },
@@ -4224,8 +4851,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时31分 ~ 18时02分]"
+          "appearance_count": 13,
+          "time_info": "[09时31分 ~ 19时02分]"
         },
         {
           "title": "地缘政治与信贷担忧拖累美股，道指跌1%，10年期美债收益率跌破4%，金银拉升，原油走强",
