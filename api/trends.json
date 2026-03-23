@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T16:14:58.786948+08:00",
-  "total_titles_processed": 1179,
+  "generated_at": "2026-03-23T17:18:27.083188+08:00",
+  "total_titles_processed": 1290,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 84,
+      "match_count": 91,
       "titles": [
         {
           "title": "高盛解读“伊朗战争会持续多久”：市场只交易了“通胀”，还未交易“衰退”",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时06分 ~ 16时14分]"
+          "appearance_count": 13,
+          "time_info": "[08时06分 ~ 17时18分]"
         },
         {
           "title": "伊朗外长：没有贸易自由，就没有航行自由",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时31分 ~ 16时14分]"
+          "appearance_count": 11,
+          "time_info": "[09时31分 ~ 17时18分]"
         },
         {
           "title": "【早报】伊朗提出停战六项条件；宇树科技IPO获受理",
@@ -52,8 +52,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时06分 ~ 16时14分]"
+          "appearance_count": 13,
+          "time_info": "[08时06分 ~ 17时18分]"
         },
         {
           "title": "伊朗宣布：从防御转为进攻！制造出了先进新武器，“造价低廉，破坏力更强，可快速量产”",
@@ -65,8 +65,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时06分 ~ 16时14分]"
+          "appearance_count": 13,
+          "time_info": "[08时06分 ~ 17时18分]"
         },
         {
           "title": "伊朗武装部队称已从防御转为进攻",
@@ -76,8 +76,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时06分 ~ 16时14分]"
+          "appearance_count": 13,
+          "time_info": "[08时06分 ~ 17时18分]"
         },
         {
           "title": "伊朗彻底豁出去了",
@@ -186,6 +186,17 @@
           "time_info": "[08时06分 ~ 13时31分]"
         },
         {
+          "title": "伊朗打击3800公里外美军迪戈加西亚基地，释放何种信号？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32810674",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时44分 ~ 17时18分]"
+        },
+        {
           "title": "以军称打击位于德黑兰的伊朗政权设施",
           "url": "https://www.toutiao.com/trending/7620271815352389126/",
           "source": "今日头条",
@@ -225,15 +236,15 @@
           "time_info": "[08时06分 ~ 08时07分]"
         },
         {
-          "title": "伊朗打击3800公里外美军迪戈加西亚基地，释放何种信号？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32810674",
-          "source": "澎湃新闻",
+          "title": "美以伊战争丨以色列多地目击伊朗使用集束导弹",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
-            12
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时44分 ~ 16时14分]"
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 17时18分]"
         },
         {
           "title": "CIA前局长：美国入侵伊朗无正当理由",
@@ -319,17 +330,6 @@
           "time_info": "09时31分"
         },
         {
-          "title": "美以伊战争丨以色列多地目击伊朗使用集束导弹",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
           "title": "以色列拦截伊朗导弹失败瞬间画面曝光",
           "url": "https://www.toutiao.com/trending/7619957030270275114/",
           "source": "今日头条",
@@ -343,6 +343,17 @@
           "time_info": "[08时06分 ~ 12时45分]"
         },
         {
+          "title": "伊朗：非交战国过霍尔木兹须先协调",
+          "url": "https://news.ifeng.com/c/8rjIulNrONh",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "伊朗48小时通牒压顶，亚洲股市暴跌、黄金闪崩！",
           "url": "https://flash.jin10.com/detail/20260323092402414800",
           "source": "金十数据",
@@ -352,6 +363,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "美被曝考虑地面行动夺取伊朗哈尔克岛",
+          "url": "https://www.toutiao.com/trending/7620218676884602921/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            15,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时20分 ~ 17时18分]"
         },
         {
           "title": "俄方：暗杀伊朗领导人产生极严重后果",
@@ -380,17 +405,39 @@
           "time_info": "[11时57分 ~ 13时31分]"
         },
         {
-          "title": "美被曝考虑地面行动夺取伊朗哈尔克岛",
-          "url": "https://www.toutiao.com/trending/7620218676884602921/",
-          "source": "今日头条",
+          "title": "美伊各自曝出“谈判条件”，美国要“停核和军控”，伊朗要“保证和赔款”",
+          "url": "https://wallstreetcn.com/articles/3768108",
+          "source": "华尔街见闻",
           "ranks": [
-            17,
-            15,
-            12
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时20分 ~ 16时14分]"
+          "time_info": "[15时26分 ~ 17时18分]"
+        },
+        {
+          "title": "伊朗：整体战局正在扭转",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E6%95%B4%E4%BD%93%E6%88%98%E5%B1%80%E6%AD%A3%E5%9C%A8%E6%89%AD%E8%BD%AC",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 17时18分]"
+        },
+        {
+          "title": "以军：已开始大规模打击伊朗首都德黑兰的基础设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32813452",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 17时18分]"
         },
         {
           "title": "俄称暗杀伊朗领导人后果极其严重",
@@ -440,17 +487,6 @@
           "time_info": "[08时06分 ~ 09时31分]"
         },
         {
-          "title": "美伊各自曝出“谈判条件”，美国要“停核和军控”，伊朗要“保证和赔款”",
-          "url": "https://wallstreetcn.com/articles/3768108",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时26分 ~ 16时14分]"
-        },
-        {
           "title": "伊朗阐述霍尔木兹海峡通行原则",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%90%E8%BF%B0%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E9%80%9A%E8%A1%8C%E5%8E%9F%E5%88%99",
           "source": "百度热搜",
@@ -475,17 +511,6 @@
           "time_info": "[08时06分 ~ 09时31分]"
         },
         {
-          "title": "以军：已开始大规模打击伊朗首都德黑兰的基础设施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32813452",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时26分 ~ 16时14分]"
-        },
-        {
           "title": "伊朗9省逮捕35名“内鬼”",
           "url": "https://www.toutiao.com/trending/7619315479916199946/",
           "source": "今日头条",
@@ -497,18 +522,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时31分 ~ 11时57分]"
-        },
-        {
-          "title": "伊朗：整体战局正在扭转",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E6%95%B4%E4%BD%93%E6%88%98%E5%B1%80%E6%AD%A3%E5%9C%A8%E6%89%AD%E8%BD%AC",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时26分 ~ 16时14分]"
         },
         {
           "title": "以军打击伊朗首都基础设施",
@@ -532,6 +545,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时06分 ~ 08时07分]"
+        },
+        {
+          "title": "伊朗媒体：一架美国战斗机被击落",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AA%92%E4%BD%93%EF%BC%9A%E4%B8%80%E6%9E%B6%E7%BE%8E%E5%9B%BD%E6%88%98%E6%96%97%E6%9C%BA%E8%A2%AB%E5%87%BB%E8%90%BD",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 17时18分]"
         },
         {
           "title": "伊朗导弹绕过以色列拦截弹",
@@ -624,15 +649,26 @@
           "time_info": "[10时58分 ~ 11时57分]"
         },
         {
-          "title": "伊朗媒体：一架美国战斗机被击落",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AA%92%E4%BD%93%EF%BC%9A%E4%B8%80%E6%9E%B6%E7%BE%8E%E5%9B%BD%E6%88%98%E6%96%97%E6%9C%BA%E8%A2%AB%E5%87%BB%E8%90%BD",
-          "source": "百度热搜",
+          "title": "中方是否要求伊朗保证运往中国的石油安全？外交部回应",
+          "url": "https://news.ifeng.com/c/8rjI9zIAc32",
+          "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "17时18分"
+        },
+        {
+          "title": "伊朗冲突导致全球债市重挫2.5万亿美元 势创2022年以来最大单月跌幅",
+          "url": "https://wallstreetcn.com/livenews/3075053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "奇正藏药：公司藏红花原材料储备充足 伊朗出口受阻未对公司生产造成影响",
@@ -652,7 +688,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -756,6 +792,17 @@
           "time_info": "14时20分"
         },
         {
+          "title": "中国政府中东问题特使提醒：暂勿前往伊朗和周边地区国家",
+          "url": "https://wallstreetcn.com/livenews/3075044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "Kpler：全球液化天然气出口因伊朗冲突降至六个月来最低水平",
           "url": "https://flash.jin10.com/detail/20260323091856526800",
           "source": "金十数据",
@@ -795,7 +842,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -828,7 +875,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -861,9 +908,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
+        },
+        {
+          "title": "伊朗：若岛屿遭袭将在波斯湾布设水雷",
+          "url": "https://wallstreetcn.com/livenews/3075028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "据知情人士透露，沙特阿美CEO Amin Nasser取消前往美国得州休斯顿参加CERAWeek的行程，将因伊朗冲突而滞留沙特。 科威特石油公司CEO Sheikh Nawaf Al-Sabah将在科威特按线上方式参与CERAWeek。（路透）",
@@ -894,7 +952,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -919,6 +977,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
+        },
+        {
+          "title": "伊朗发动午夜以来第三次袭击 以色列多地拉响警报",
+          "url": "https://flash.jin10.com/detail/20260323165033468800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "伊朗外交部：美以袭击给波斯湾地区和霍尔木兹海峡带来危险局面",
@@ -985,12 +1054,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "外交部回应美国威胁伊朗",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "本周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
@@ -1001,8 +1081,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时31分 ~ 16时14分]"
+          "appearance_count": 11,
+          "time_info": "[09时31分 ~ 17时18分]"
         },
         {
           "title": "美媒：特朗普团队已开始谋划与伊朗“和谈”事宜",
@@ -1013,8 +1093,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时06分 ~ 16时14分]"
+          "appearance_count": 13,
+          "time_info": "[08时06分 ~ 17时18分]"
         },
         {
           "title": "特朗普最后通牒还剩24小时，贝森特称“先升级再缓和”，亚洲股市重挫、黄金再跌3%",
@@ -1035,11 +1115,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时31分 ~ 16时14分]"
+          "appearance_count": 11,
+          "time_info": "[09时31分 ~ 17时18分]"
         },
         {
           "title": "周末要闻汇总：特朗普考虑逐步降级对伊朗的军事行动；宇树IPO申请获受理",
@@ -1072,8 +1153,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时57分 ~ 16时14分]"
+          "appearance_count": 9,
+          "time_info": "[11时57分 ~ 17时18分]"
         },
         {
           "title": "凤凰女记者：德黑兰被炸如同地震，特朗普的威胁致民众恐慌",
@@ -1083,8 +1164,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时20分 ~ 16时14分]"
+          "appearance_count": 5,
+          "time_info": "[14时20分 ~ 17时18分]"
         },
         {
           "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
@@ -1109,6 +1190,42 @@
           "time_info": "[15时26分 ~ 15时27分]"
         },
         {
+          "title": "特朗普最后通牒倒计时！全球股债遭遇“黑色星期一”，黄金跌破4100、白银逼近60",
+          "url": "https://wallstreetcn.com/articles/3768110",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 17时18分]"
+        },
+        {
+          "title": "特朗普下最后通牒后双方僵持 中东民用基础设施面临“生死局”",
+          "url": "https://www.cls.cn/detail/2321109",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 17时18分]"
+        },
+        {
+          "title": "靠“夺取哈尔克岛”，特朗普能让“霍尔木兹海峡”重开吗？",
+          "url": "https://wallstreetcn.com/articles/3768111",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时31分 ~ 17时18分]"
+        },
+        {
           "title": "下周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
           "url": "https://wallstreetcn.com/articles/3768072",
           "source": "华尔街见闻",
@@ -1118,17 +1235,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时06分 ~ 08时07分]"
-        },
-        {
-          "title": "特朗普最后通牒倒计时！全球股债遭遇“黑色星期一”，黄金跌破4100、白银逼近60",
-          "url": "https://wallstreetcn.com/articles/3768110",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
         },
         {
           "title": "特朗普重开霍尔木兹海峡的最后期限：两周！",
@@ -1142,29 +1248,16 @@
           "time_info": "13时31分"
         },
         {
-          "title": "特朗普下最后通牒后双方僵持 中东民用基础设施面临“生死局”",
-          "url": "https://www.cls.cn/detail/2321109",
-          "source": "财联社热门",
+          "title": "特朗普骂北约“纸老虎”，吕特不敢回击还说“理解”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32813357",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            4
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时26分 ~ 16时14分]"
-        },
-        {
-          "title": "靠“夺取哈尔克岛”，特朗普能让“霍尔木兹海峡”重开吗？",
-          "url": "https://wallstreetcn.com/articles/3768111",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时31分 ~ 16时14分]"
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 17时18分]"
         },
         {
           "title": "伊朗议长回应特朗普开放霍尔木兹海峡“最后通牒”",
@@ -1187,17 +1280,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时06分 ~ 09时31分]"
-        },
-        {
-          "title": "特朗普骂北约“纸老虎”，吕特不敢回击还说“理解”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32813357",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时26分 ~ 16时14分]"
         },
         {
           "title": "伊朗提出4项措施回应特朗普威胁",
@@ -1266,6 +1348,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "中方回应特朗普向伊朗发出最后通牒",
+          "url": "https://www.toutiao.com/trending/7620351961246924809/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "特朗普借电视短剧嘲讽英国首相",
@@ -1393,8 +1486,34 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时58分 ~ 16时14分]"
+          "appearance_count": 10,
+          "time_info": "[10时58分 ~ 17时18分]"
+        },
+        {
+          "title": "金价八连跌抄底大军越买越跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%85%AB%E8%BF%9E%E8%B7%8C%E6%8A%84%E5%BA%95%E5%A4%A7%E5%86%9B%E8%B6%8A%E4%B9%B0%E8%B6%8A%E8%B7%8C%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 17时18分]"
+        },
+        {
+          "title": "金价下跌 30克金手镯能省约1万元",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C+30%E5%85%8B%E9%87%91%E6%89%8B%E9%95%AF%E8%83%BD%E7%9C%81%E7%BA%A61%E4%B8%87%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            23,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 17时18分]"
         },
         {
           "title": "国内金价跌破1000元",
@@ -1410,36 +1529,12 @@
           "time_info": "[11时57分 ~ 13时31分]"
         },
         {
-          "title": "金价八连跌抄底大军越买越跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%85%AB%E8%BF%9E%E8%B7%8C%E6%8A%84%E5%BA%95%E5%A4%A7%E5%86%9B%E8%B6%8A%E4%B9%B0%E8%B6%8A%E8%B7%8C%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时26分 ~ 16时14分]"
-        },
-        {
           "title": "金价大跌后还会回升吗",
           "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%90%8E%E8%BF%98%E4%BC%9A%E5%9B%9E%E5%8D%87%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
             14,
             15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时26分 ~ 16时14分]"
-        },
-        {
-          "title": "金价下跌 30克金手镯能省约1万元",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C+30%E5%85%8B%E9%87%91%E6%89%8B%E9%95%AF%E8%83%BD%E7%9C%81%E7%BA%A61%E4%B8%87%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            23
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -1456,6 +1551,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时31分 ~ 14时20分]"
+        },
+        {
+          "title": "金价九连跌 妈妈花10万给女儿买金饰",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B9%9D%E8%BF%9E%E8%B7%8C+%E5%A6%88%E5%A6%88%E8%8A%B110%E4%B8%87%E7%BB%99%E5%A5%B3%E5%84%BF%E4%B9%B0%E9%87%91%E9%A5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 17时18分]"
         },
         {
           "title": "金价",
@@ -1497,7 +1604,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -1511,17 +1618,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
-        },
-        {
-          "title": "金价九连跌 妈妈花10万给女儿买金饰",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B9%9D%E8%BF%9E%E8%B7%8C+%E5%A6%88%E5%A6%88%E8%8A%B110%E4%B8%87%E7%BB%99%E5%A5%B3%E5%84%BF%E4%B9%B0%E9%87%91%E9%A5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
         }
       ]
     },
@@ -1547,7 +1643,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -1600,8 +1696,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时57分 ~ 16时14分]"
+          "appearance_count": 9,
+          "time_info": "[11时57分 ~ 17时18分]"
         },
         {
           "title": "美债规模正一路狂飙",
@@ -1656,6 +1752,34 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据AXIOS：OpenAI正就从Sam Altman支持的核聚变初创公司Helion Energy购买电力进行深入谈判。",
+          "url": "https://flash.jin10.com/detail/20260323170206648800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
+          "title": "OpenAI Codex工程师Tibo：Codex团队正忙于对整个系统进行几乎端到端的全面重构，以适应未来模型能力的扩展；而且很高兴有Codex来协助完成这些重构，否则这将耗费数月时间。",
+          "url": "https://flash.jin10.com/detail/20260323125725631800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -1668,28 +1792,12 @@
             2,
             6,
             8,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时31分 ~ 16时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI Codex工程师Tibo：Codex团队正忙于对整个系统进行几乎端到端的全面重构，以适应未来模型能力的扩展；而且很高兴有Codex来协助完成这些重构，否则这将耗费数月时间。",
-          "url": "https://flash.jin10.com/detail/20260323125725631800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
+          "appearance_count": 11,
+          "time_info": "[09时31分 ~ 17时18分]"
         }
       ]
     }
