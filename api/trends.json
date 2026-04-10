@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T14:32:03.307845+08:00",
-  "total_titles_processed": 927,
+  "generated_at": "2026-04-10T15:31:23.061750+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
         {
           "title": "【早报】伊朗最高领袖：霍尔木兹海峡管理将进入新阶段；电池行业，重要座谈会召开",
@@ -15,8 +15,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时22分 ~ 14时32分]"
+          "appearance_count": 14,
+          "time_info": "[08时22分 ~ 15时31分]"
+        },
+        {
+          "title": "俄媒：伊朗每天限15艘船通过霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8sCceUR9IBI",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时00分 ~ 15时31分]"
+        },
+        {
+          "title": "伊朗：停火以来没袭击任何国家，有关事件若属实是美以所为",
+          "url": "https://news.ifeng.com/c/8sChNa6KIvz",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时07分 ~ 15时31分]"
         },
         {
           "title": "伊朗最高领袖外交政策顾问伤重不治",
@@ -29,17 +51,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[08时22分 ~ 14时32分]"
-        },
-        {
-          "title": "俄媒：伊朗每天限15艘船通过霍尔木兹海峡",
-          "url": "https://news.ifeng.com/c/8sCceUR9IBI",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时00分 ~ 14时32分]"
         },
         {
           "title": "石油巨头向白宫抗议：如果伊朗可以收费，那新加坡和土耳其也可以",
@@ -55,6 +66,21 @@
           "time_info": "[08时22分 ~ 14时32分]"
         },
         {
+          "title": "伊朗最高领袖：伊朗不寻求战争也不会放弃权利，霍尔木兹海峡的管理将进入新阶段",
+          "url": "https://wallstreetcn.com/articles/3769620",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时00分 ~ 15时31分]"
+        },
+        {
           "title": "美以袭击伊朗进入第 42 天，当前局势如何？哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2025706275451795397",
           "source": "知乎",
@@ -62,19 +88,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时22分 ~ 14时32分]"
-        },
-        {
-          "title": "伊朗：停火以来没袭击任何国家，有关事件若属实是美以所为",
-          "url": "https://news.ifeng.com/c/8sChNa6KIvz",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时07分 ~ 14时32分]"
+          "appearance_count": 14,
+          "time_info": "[08时22分 ~ 15时31分]"
         },
         {
           "title": "停火首日，霍尔木兹仅有4艘船通过，美国催盟友给出方案，伊朗公布安全航路图",
@@ -83,11 +98,24 @@
           "ranks": [
             10,
             8,
-            9
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[09时31分 ~ 15时31分]"
+        },
+        {
+          "title": "伊朗最高领袖对和谈提出三点主张，包括将对霍尔木兹海峡的管理推进到「一个新阶段」，新阶段可能指什么？",
+          "url": "https://www.zhihu.com/question/2025840148768712276",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
           ],
           "is_new": false,
           "appearance_count": 10,
-          "time_info": "[09时31分 ~ 14时32分]"
+          "time_info": "[11时00分 ~ 15时31分]"
         },
         {
           "title": "伊朗副外长：霍尔木兹海峡保持开放",
@@ -98,11 +126,12 @@
             25,
             13,
             19,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时22分 ~ 14时32分]"
+          "appearance_count": 14,
+          "time_info": "[08时22分 ~ 15时31分]"
         },
         {
           "title": "打击伊朗期间美军消耗约760万杯咖啡",
@@ -118,6 +147,28 @@
           "time_info": "[08时22分 ~ 13时41分]"
         },
         {
+          "title": "伊朗战争丨谈判前夕，伊斯兰堡已进入“红色警戒”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时31分 ~ 15时31分]"
+        },
+        {
+          "title": "伊朗最高领袖提出三点主张",
+          "url": "https://news.ifeng.com/c/8sCO9ImCQWB",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时07分 ~ 15时31分]"
+        },
+        {
           "title": "凤凰女记者：哈梅内伊哀悼仪式上，伊朗民众高喊“不要谈判”(图)",
           "url": "https://news.ifeng.com/c/8sBvi08w8vZ",
           "source": "凤凰网",
@@ -128,20 +179,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时22分 ~ 09时32分]"
-        },
-        {
-          "title": "伊朗最高领袖：伊朗不寻求战争也不会放弃权利，霍尔木兹海峡的管理将进入新阶段",
-          "url": "https://wallstreetcn.com/articles/3769620",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时00分 ~ 14时32分]"
         },
         {
           "title": "伊朗最高领袖提出三点主张",
@@ -156,18 +193,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[08时22分 ~ 12时08分]"
-        },
-        {
-          "title": "伊朗最高领袖对和谈提出三点主张，包括将对霍尔木兹海峡的管理推进到「一个新阶段」，新阶段可能指什么？",
-          "url": "https://www.zhihu.com/question/2025840148768712276",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时00分 ~ 14时32分]"
         },
         {
           "title": "伊朗前外长哈拉齐伤重不治",
@@ -196,17 +221,6 @@
           "time_info": "[08时22分 ~ 14时32分]"
         },
         {
-          "title": "伊朗战争丨谈判前夕，伊斯兰堡已进入“红色警戒”",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 14时32分]"
-        },
-        {
           "title": "伊朗副外长：只有美国真正停止在中东地区的“侵略”行为，霍尔木兹海峡才会重新开放",
           "url": "https://www.cls.cn/detail/2339462",
           "source": "财联社热门",
@@ -216,17 +230,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时22分 ~ 08时23分]"
-        },
-        {
-          "title": "伊朗最高领袖提出三点主张",
-          "url": "https://news.ifeng.com/c/8sCO9ImCQWB",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时07分 ~ 14时32分]"
         },
         {
           "title": "中方担保伊朗官员不在谈判中被暗杀？外交部回应",
@@ -264,6 +267,18 @@
           "time_info": "[08时22分 ~ 11时01分]"
         },
         {
+          "title": "伊朗最高领袖发表最新声明",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%8F%91%E8%A1%A8%E6%9C%80%E6%96%B0%E5%A3%B0%E6%98%8E%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时31分 ~ 15时31分]"
+        },
+        {
           "title": "美国3月CPI今晚重磅公布，首次实质性体现伊朗能源冲击的影响；美伊谈判前夕，金银油多空占比较昨日变化不大，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅",
           "url": "https://flash.jin10.com/detail/20260410105417273800",
           "source": "金十数据",
@@ -273,6 +288,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
+        },
+        {
+          "title": "伊朗强征霍尔木兹海峡通行费，海湾产油国或接近吞下全部成本",
+          "url": "https://flash.jin10.com/detail/20260410150743142800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "伊朗最高领袖提出三点主张",
@@ -288,6 +314,19 @@
           "time_info": "[09时31分 ~ 12时08分]"
         },
         {
+          "title": "伊朗欲在霍尔木兹收“过路费” 能赚多少钱、能否行得通？一文读懂",
+          "url": "https://www.cls.cn/detail/2340145",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时40分 ~ 15时31分]"
+        },
+        {
           "title": "伊朗最高领袖发文纪念哈梅内伊",
           "url": "https://www.toutiao.com/trending/7626895863851306506/",
           "source": "今日头条",
@@ -299,6 +338,32 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时22分 ~ 11时01分]"
+        },
+        {
+          "title": "在世界上伊朗的导弹水平如何？为何伊朗导弹能突破爱国者的拦截，摧毁萨德？",
+          "url": "https://www.zhihu.com/question/2022275543672833940",
+          "source": "知乎",
+          "ranks": [
+            16,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时40分 ~ 15时31分]"
+        },
+        {
+          "title": "伊朗总统：伊朗绝不会抛弃黎巴嫩",
+          "url": "https://www.toutiao.com/trending/7625866062126530614/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时22分 ~ 15时31分]"
         },
         {
           "title": "伊朗最高领袖外交政策顾问伤重不治",
@@ -320,7 +385,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -348,16 +413,16 @@
           "time_info": "[08时22分 ~ 09时32分]"
         },
         {
-          "title": "伊朗欲在霍尔木兹收“过路费” 能赚多少钱、能否行得通？一文读懂",
-          "url": "https://www.cls.cn/detail/2340145",
-          "source": "财联社热门",
+          "title": "报道：伊朗每天允许不超过15艘船只通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3769603",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            11
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时40分 ~ 14时32分]"
+          "time_info": "[14时31分 ~ 15时31分]"
         },
         {
           "title": "伊朗：通行霍尔木兹海峡需与伊方协调",
@@ -372,18 +437,6 @@
           "time_info": "[08时22分 ~ 09时32分]"
         },
         {
-          "title": "在世界上伊朗的导弹水平如何？为何伊朗导弹能突破爱国者的拦截，摧毁萨德？",
-          "url": "https://www.zhihu.com/question/2022275543672833940",
-          "source": "知乎",
-          "ranks": [
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时40分 ~ 14时32分]"
-        },
-        {
           "title": "打击伊朗期间美军消耗约760万杯咖啡",
           "url": "https://s.weibo.com/weibo?q=%23%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E6%9C%9F%E9%97%B4%E7%BE%8E%E5%86%9B%E6%B6%88%E8%80%97%E7%BA%A6760%E4%B8%87%E6%9D%AF%E5%92%96%E5%95%A1%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -394,40 +447,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时07分 ~ 13时41分]"
-        },
-        {
-          "title": "伊朗总统：伊朗绝不会抛弃黎巴嫩",
-          "url": "https://www.toutiao.com/trending/7625866062126530614/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时22分 ~ 11时01分]"
-        },
-        {
-          "title": "报道：伊朗每天允许不超过15艘船只通过霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3769603",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 14时32分]"
-        },
-        {
-          "title": "伊朗最高领袖发表最新声明",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%8F%91%E8%A1%A8%E6%9C%80%E6%96%B0%E5%A3%B0%E6%98%8E%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 14时32分]"
         },
         {
           "title": "伊朗驻巴基斯坦大使删除伊朗代表团将抵达伊斯兰堡的帖文，释放什么信号？双方还会如约谈判吗？",
@@ -480,7 +499,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -513,9 +532,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰为帮助海湾国家击落伊朗无人机，获得了空中防御拦截器、原油、柴油以及额外的财政“安排”。",
+          "url": "https://flash.jin10.com/detail/20260410145237780800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "警报拉响：今夜CPI将首次计入“伊朗溢价”，交易员提前布防！",
@@ -527,12 +557,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时23分"
+        },
+        {
+          "title": "据伊朗通讯社：伊朗所有银行网点将从明天（周六）起恢复营业",
+          "url": "https://flash.jin10.com/detail/20260410144830696800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
@@ -557,8 +598,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时31分 ~ 14时32分]"
+          "appearance_count": 12,
+          "time_info": "[09时31分 ~ 15时31分]"
         },
         {
           "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
@@ -570,8 +611,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时22分 ~ 14时32分]"
+          "appearance_count": 14,
+          "time_info": "[08时22分 ~ 15时31分]"
         },
         {
           "title": "伊朗最高领袖提出三点主张 特朗普要求以色列减少对黎巴嫩打击",
@@ -583,8 +624,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时22分 ~ 14时32分]"
+          "appearance_count": 14,
+          "time_info": "[08时22分 ~ 15时31分]"
         },
         {
           "title": "伊朗提出和谈前提：黎巴嫩实现停火！特朗普：已要求以色列“低调”",
@@ -596,8 +637,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时31分 ~ 14时32分]"
+          "appearance_count": 12,
+          "time_info": "[09时31分 ~ 15时31分]"
         },
         {
           "title": "特朗普警告伊朗不要收霍尔木兹海峡通行费 | 环球市场",
@@ -658,6 +699,17 @@
           "time_info": "[08时22分 ~ 09时32分]"
         },
         {
+          "title": "拜登儿子约战特朗普儿子：来场笼斗吧",
+          "url": "https://news.ifeng.com/c/8sCrezhn1o8",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时07分 ~ 15时31分]"
+        },
+        {
           "title": "伊朗战争丨特朗普：若伊朗不达成协议，将极其痛苦",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -680,15 +732,16 @@
           "time_info": "[08时22分 ~ 08时23分]"
         },
         {
-          "title": "拜登儿子约战特朗普儿子：来场笼斗吧",
-          "url": "https://news.ifeng.com/c/8sCrezhn1o8",
-          "source": "凤凰网",
+          "title": "美媒称特朗普要求以色列总理内塔尼亚胡减少对黎巴嫩的打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32936449",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            20,
+            19
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时07分 ~ 14时32分]"
+          "time_info": "[13时40分 ~ 15时31分]"
         },
         {
           "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
@@ -727,16 +780,15 @@
           "time_info": "[08时22分 ~ 09时32分]"
         },
         {
-          "title": "美媒称特朗普要求以色列总理内塔尼亚胡减少对黎巴嫩的打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32936449",
-          "source": "澎湃新闻",
+          "title": "特朗普，对鲤鱼宣战？",
+          "url": "https://news.ifeng.com/c/8sD4lNUQ8Uf",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            19
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时40分 ~ 14时32分]"
+          "appearance_count": 2,
+          "time_info": "[15时30分 ~ 15时31分]"
         },
         {
           "title": "拜登儿子约战特朗普儿子",
@@ -852,8 +904,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时22分 ~ 14时32分]"
+          "appearance_count": 14,
+          "time_info": "[08时22分 ~ 15时31分]"
         },
         {
           "title": "美伊停火持续性存疑 油价反弹美股震荡走弱 | 今夜看点",
@@ -877,6 +929,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时22分 ~ 08时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年04月10日（周五）上海金午盘价为1045.68元/克，较国际金价(1042.32元/克)，高3.36元/克",
+          "url": "https://flash.jin10.com/detail/20260410150418852800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "通胀今晚迎来大考，金价能否守住该中枢？",
+          "url": "https://flash.jin10.com/detail/20260410104150722800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时01分"
         }
       ]
     },
@@ -936,23 +1016,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "通胀今晚迎来大考，金价能否守住该中枢？",
-          "url": "https://flash.jin10.com/detail/20260410104150722800",
-          "source": "金十数据",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 1,
