@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T22:32:20.674257+08:00",
-  "total_titles_processed": 1712,
+  "generated_at": "2026-04-21T23:26:34.254463+08:00",
+  "total_titles_processed": 1797,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 81,
+      "match_count": 89,
       "titles": [
         {
           "title": "伊朗最高领袖重申三项基本立场",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时13分 ~ 22时32分]"
+          "appearance_count": 19,
+          "time_info": "[08时13分 ~ 23时26分]"
         },
         {
           "title": "到底谈不谈？伊朗议员：谈判“今天或明天”进行，伊外交部：暂无第二轮谈判计划",
@@ -64,8 +64,22 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时13分 ~ 22时32分]"
+          "appearance_count": 19,
+          "time_info": "[08时13分 ~ 23时26分]"
+        },
+        {
+          "title": "万斯将赴巴基斯坦推进新一轮美伊谈判，伊朗再反转：没派代表团前往",
+          "url": "https://wallstreetcn.com/articles/3770465",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时31分 ~ 23时26分]"
         },
         {
           "title": "伊朗最高领袖重申三项基本立场 苹果任命John Ternus为首席执行官 | 环球市场",
@@ -80,6 +94,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[08时13分 ~ 15时32分]"
+        },
+        {
+          "title": "伊朗将恢复国内航班运营",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353546&amp;topic_name=%E4%BC%8A%E6%9C%97%E5%B0%86%E6%81%A2%E5%A4%8D%E5%9B%BD%E5%86%85%E8%88%AA%E7%8F%AD%E8%BF%90%E8%90%A5",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时31分 ~ 23时26分]"
         },
         {
           "title": "伊朗男足备战世界杯",
@@ -111,31 +136,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[08时13分 ~ 16时32分]"
-        },
-        {
-          "title": "万斯将赴巴基斯坦推进新一轮美伊谈判，伊朗再反转：没派代表团前往",
-          "url": "https://wallstreetcn.com/articles/3770465",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时31分 ~ 22时32分]"
-        },
-        {
-          "title": "伊朗将恢复国内航班运营",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353546&amp;topic_name=%E4%BC%8A%E6%9C%97%E5%B0%86%E6%81%A2%E5%A4%8D%E5%9B%BD%E5%86%85%E8%88%AA%E7%8F%AD%E8%BF%90%E8%90%A5",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时31分 ~ 22时32分]"
         },
         {
           "title": "伊朗战争丨美军3个航母打击群或同时部署中东",
@@ -221,6 +221,17 @@
           "time_info": "[08时13分 ~ 08时14分]"
         },
         {
+          "title": "美军高官：已准备好重启对伊朗作战行动",
+          "url": "https://news.ifeng.com/c/8sVknmMlG6R",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时32分 ~ 23时26分]"
+        },
+        {
           "title": "美国“敲定”谈判日 伊朗仍未点头",
           "url": "https://www.toutiao.com/trending/7630980651969154606/",
           "source": "今日头条",
@@ -247,15 +258,15 @@
           "time_info": "[08时13分 ~ 12时08分]"
         },
         {
-          "title": "美军高官：已准备好重启对伊朗作战行动",
-          "url": "https://news.ifeng.com/c/8sVknmMlG6R",
-          "source": "凤凰网",
+          "title": "哈里伯顿警告伊朗战争将推高成本，但第一季度利润超预期",
+          "url": "https://wallstreetcn.com/livenews/3091957",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时32分"
+          "time_info": "23时26分"
         },
         {
           "title": "伊朗驳斥西方报道：所谓内部矛盾纯属捏造 国内目前空前团结",
@@ -308,9 +319,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
+        },
+        {
+          "title": "【伊朗议会主席团成员：海上封锁解决前不会进行第二轮谈判】据伊朗学生通讯社21日报道，伊朗议会主席团成员纳德里当天表示，在海上封锁问题解决前，“我们不会举行第二轮谈判”。纳德里否认了一些媒体此前关于伊朗派遣高级代表团访问巴基斯坦的报道，表示“没有任何伊方代表团在巴基斯坦”。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3091953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "乌克兰总统泽连斯基：伊朗的战争使俄罗斯受益，消耗美国的力量，并耗尽欧洲的能源储备。",
@@ -322,6 +344,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "美军集结三航母 伊朗能扛住吗",
+          "url": "https://www.toutiao.com/trending/7630298529822736426/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时31分 ~ 23时26分]"
         },
         {
           "title": "伊朗已决定继续与美国谈判",
@@ -434,16 +468,17 @@
           "time_info": "[08时13分 ~ 11时00分]"
         },
         {
-          "title": "美军集结三航母 伊朗能扛住吗",
-          "url": "https://www.toutiao.com/trending/7630298529822736426/",
+          "title": "伊朗称已为战事重新爆发做好准备",
+          "url": "https://www.toutiao.com/trending/7630242126521008169/",
           "source": "今日头条",
           "ranks": [
-            29,
-            13
+            9,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时31分 ~ 22时32分]"
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 23时26分]"
         },
         {
           "title": "伊朗嘲讽欧盟外长：哦，你管那个叫国际法？",
@@ -480,16 +515,16 @@
           "time_info": "[15时31分 ~ 15时32分]"
         },
         {
-          "title": "伊朗称已为战事重新爆发做好准备",
-          "url": "https://www.toutiao.com/trending/7630242126521008169/",
-          "source": "今日头条",
+          "title": "伊朗储油罐要满了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%82%A8%E6%B2%B9%E7%BD%90%E8%A6%81%E6%BB%A1%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            9,
-            7
+            18,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时31分 ~ 22时32分]"
+          "time_info": "[22时32分 ~ 23时26分]"
         },
         {
           "title": "伊朗在霍尔木兹海峡划定新航线，未经许可不得通行，有何战略意图？是否标志着伊朗对海峡的控制进入新阶段？",
@@ -556,6 +591,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
+        },
+        {
+          "title": "伊朗股市10至12天内重开",
+          "url": "https://wallstreetcn.com/livenews/3091950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "伊朗议会主席团成员：海上封锁解决前不会进行第二轮谈判",
+          "url": "https://flash.jin10.com/detail/20260421231933589800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "伊朗外交部：伊朗已提请联合国秘书长、安理会成员及国际海事组织关注此事，并要求国际机构和负责任的各国政府对美国针对国际商业航运的犯罪行为采取坚决且严肃的回应。",
@@ -679,6 +736,28 @@
           "time_info": "16时32分"
         },
         {
+          "title": "巴基斯坦部长：仍在等待伊朗正式回应",
+          "url": "https://wallstreetcn.com/livenews/3091943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "美国中央司令部：美国已指示28艘船只掉头或返回伊朗。",
+          "url": "https://flash.jin10.com/detail/20260421231426395800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "伊朗外交部：伊朗将动用一切能力捍卫其利益、国家安全和人民尊严。",
           "url": "https://flash.jin10.com/detail/20260421113428729800",
           "source": "金十数据",
@@ -688,17 +767,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
-        },
-        {
-          "title": "伊朗储油罐要满了",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%82%A8%E6%B2%B9%E7%BD%90%E8%A6%81%E6%BB%A1%E4%BA%86%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时32分"
         },
         {
           "title": "伊朗政府：伊朗海军副司令巴马尼少将与外长阿拉格齐举行会晤。阿拉格齐表示，武装力量的权威是维护国家利益的坚实支撑。",
@@ -745,6 +813,17 @@
           "time_info": "15时32分"
         },
         {
+          "title": "伊朗股市10至12天内重开",
+          "url": "https://flash.jin10.com/detail/20260421230948226800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "土耳其因伊朗战事食品涨价近两成",
           "url": "https://wallstreetcn.com/livenews/3091456",
           "source": "华尔街见闻-快讯",
@@ -762,7 +841,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },
@@ -853,6 +932,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "伊朗政府：将在战后恢复互联网连接",
+          "url": "https://wallstreetcn.com/livenews/3091931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "伊朗军方：已准备好果断回应“敌方违背承诺的行为”",
@@ -946,7 +1036,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 80,
+      "match_count": 84,
       "titles": [
         {
           "title": "美伊停火倒计时？特朗普敲定21日“二轮谈判”，伊朗仍未点头答应！",
@@ -972,8 +1062,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时32分 ~ 22时32分]"
+          "appearance_count": 17,
+          "time_info": "[09时32分 ~ 23时26分]"
         },
         {
           "title": "特朗普：若有突破进展 愿同伊朗高级别领导人会面",
@@ -1013,8 +1103,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时32分 ~ 22时32分]"
+          "appearance_count": 17,
+          "time_info": "[09时32分 ~ 23时26分]"
         },
         {
           "title": "特朗普：延长停火极不可能 在达成“协议”前不会解除对伊朗的封锁",
@@ -1060,8 +1150,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时27分 ~ 22时32分]"
+          "appearance_count": 6,
+          "time_info": "[18时27分 ~ 23时26分]"
+        },
+        {
+          "title": "事关煤、气、油、电！特朗普动用“战时权力”",
+          "url": "https://www.cls.cn/detail/2350491",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时31分 ~ 23时26分]"
         },
         {
           "title": "民调：特朗普支持率创第二任期内新低",
@@ -1079,17 +1182,26 @@
           "time_info": "[10时59分 ~ 15时32分]"
         },
         {
-          "title": "事关煤、气、油、电！特朗普动用“战时权力”",
-          "url": "https://www.cls.cn/detail/2350491",
-          "source": "财联社热门",
+          "title": "凤凰女记者：巴外长不断给伊朗做工作，特朗普态度成关键",
+          "url": "https://news.ifeng.com/c/8sVQzCFVrqc",
+          "source": "凤凰网",
           "ranks": [
-            11,
-            7,
-            6
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时31分 ~ 22时32分]"
+          "appearance_count": 7,
+          "time_info": "[17时29分 ~ 23时26分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普：我不想延长停火协议",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时32分 ~ 23时26分]"
         },
         {
           "title": "特朗普：若有突破进展，愿同伊朗高级别领导人会面",
@@ -1112,28 +1224,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时13分 ~ 08时14分]"
-        },
-        {
-          "title": "凤凰女记者：巴外长不断给伊朗做工作，特朗普态度成关键",
-          "url": "https://news.ifeng.com/c/8sVQzCFVrqc",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时29分 ~ 22时32分]"
-        },
-        {
-          "title": "伊朗战争丨特朗普：我不想延长停火协议",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时32分"
         },
         {
           "title": "路透社/益普索调查：美国总统特朗普的支持率维持在上个月的最低水平36%。仅有16%的美国人支持美国退出北约。",
@@ -1213,6 +1303,18 @@
           "time_info": "08时14分"
         },
         {
+          "title": "5月1日——特朗普“任性打仗”的关键时限",
+          "url": "https://wallstreetcn.com/articles/3770498",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 23时26分]"
+        },
+        {
           "title": "伊朗议长：特朗普妄图将谈判桌变成投降桌",
           "url": "https://news.ifeng.com/c/8sUi19J5Hpg",
           "source": "凤凰网",
@@ -1234,18 +1336,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时31分 ~ 20时16分]"
-        },
-        {
-          "title": "5月1日——特朗普“任性打仗”的关键时限",
-          "url": "https://wallstreetcn.com/articles/3770498",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 22时32分]"
         },
         {
           "title": "特朗普：伊朗已多次违反停火协议。",
@@ -1295,15 +1385,38 @@
           "time_info": "[11时00分 ~ 12时08分]"
         },
         {
+          "title": "一图看懂｜特朗普执政一年后，美国科学界面临什么困境",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33015762",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时32分 ~ 23时26分]"
+        },
+        {
           "title": "特朗普：停火到期后将继续轰炸伊朗",
           "url": "https://www.toutiao.com/trending/7630112244986334726/",
           "source": "今日头条",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
+        },
+        {
+          "title": "美联储主席提名人沃什：绝对不会沦为总统的“布偶玩具”（sock puppet）。 总统从没有要求我对任何利率决定作出承诺。 （被问及是否已同意降息时表示）特朗普从未要求我预先敲定利率决策，而我自己也不会同意这么做。",
+          "url": "https://wallstreetcn.com/livenews/3091951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "特朗普称不想延长停火协议",
@@ -1345,7 +1458,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },
@@ -1403,6 +1516,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
+        },
+        {
+          "title": "美联储主席提名人沃什在被问及是否同意降息时表示，特朗普从未要求他预先决定利率，而且他也不会同意这样做。",
+          "url": "https://flash.jin10.com/detail/20260421231622459800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "特朗普批评最高法院允许退还关税",
@@ -1510,7 +1634,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },
@@ -1524,6 +1648,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
+        },
+        {
+          "title": "美联储主席提名人沃什：（被问及是否会成为特朗普的傀儡）绝对不会。",
+          "url": "https://flash.jin10.com/detail/20260421231242393800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "美联储主席提名人沃什：不知道美国总统特朗普为何选择我来接任美联储主席。 我将独立于特朗普（的意见）之外。 总统们倾向于要求FOMC降息。 独立性取决于美联储（自身）。",
+          "url": "https://wallstreetcn.com/livenews/3091939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "外媒：美国对伊朗协议持乐观态度 特朗普或考虑远程甚至亲自出席会议",
@@ -1557,17 +1703,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
-        },
-        {
-          "title": "一图看懂｜特朗普执政一年后，美国科学界面临什么困境",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33015762",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时32分"
         },
         {
           "title": "美国总统特朗普：昨天与沙特进行了交谈，并没有提出任何要求。北约才是没有提供帮助的那一方。",
@@ -1686,7 +1821,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },
@@ -1883,8 +2018,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时13分 ~ 22时32分]"
+          "appearance_count": 19,
+          "time_info": "[08时13分 ~ 23时26分]"
         },
         {
           "title": "中东局势缓和叠加沃什听证会预期，美股期指回暖，半导体股普涨，油价续跌",
@@ -1906,7 +2041,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },
@@ -1920,6 +2055,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
+        },
+        {
+          "title": "特朗普称美伊将达成重大协议 美股三大期指小幅上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2351163",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 23时26分]"
         },
         {
           "title": "伊朗谈判曙光提振全球股市，美股期指上涨，韩国综指新高，半导体股领涨，油价续跌",
@@ -1942,18 +2089,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时13分 ~ 09时32分]"
-        },
-        {
-          "title": "特朗普称美伊将达成重大协议 美股三大期指小幅上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2351163",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 22时32分]"
         },
         {
           "title": "高盛交易员：美股已经做好本周回调的准备",
@@ -2028,7 +2163,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },
@@ -2039,7 +2174,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         }
@@ -2137,6 +2272,34 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "彭博美元指数刷新日高，追随美债收益率、国际油价走势。",
+          "url": "https://wallstreetcn.com/livenews/3091945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "美国10年期国债收益率涨3.27个基点，在美联储主席提名人沃什讲话期间刷新日高至4.2836%。 两年期美债收益率涨幅扩大至超过4.6个基点，逼近北京时间21:23刷新的日高3.7707%。",
+          "url": "https://wallstreetcn.com/livenews/3091929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -2184,6 +2347,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国三大股指转跌，标普跌超0.2%，纳指跌0.2%，生物科技指数跌1%。 WTI原油日内涨幅达1.5%，报88.74美元/桶；现货白银日内跌幅达3.5%，报76.78美元/盎司。 纽约银日内跌幅达4.0%，报77.36美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3091944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         }
       ]
     }
