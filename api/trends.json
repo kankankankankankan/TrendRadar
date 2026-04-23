@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T10:59:53.183819+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2026-04-23T12:08:40.422305+08:00",
+  "total_titles_processed": 661,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 29,
       "titles": [
         {
           "title": "拒绝谈判后，伊朗：收到“一些信号”暗示美国准备解除封锁",
@@ -16,19 +16,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时15分 ~ 10时59分]"
+          "appearance_count": 4,
+          "time_info": "[08时15分 ~ 12时08分]"
         },
         {
           "title": "美官员披露：伊朗保留的军事能力远超美方此前声明",
           "url": "https://news.ifeng.com/c/8sYFid5LBTu",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时32分 ~ 12时08分]"
+        },
+        {
+          "title": "伊朗战争丨美国：正在中东部署史上最强军力",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时32分 ~ 10时59分]"
+          "time_info": "[10时59分 ~ 12时08分]"
         },
         {
           "title": "伊朗战争丨伊朗反击了，美却认为“不违反停火协议”",
@@ -42,26 +54,15 @@
           "time_info": "09时32分"
         },
         {
-          "title": "伊朗战争丨美国：正在中东部署史上最强军力",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "title": "伊朗：永远不会忘记美国这一“史无前例的战争罪行”",
+          "url": "https://news.ifeng.com/c/8sYNQUTETSb",
           "source": "凤凰网",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "美国务院要求美在伊朗公民立即离境",
-          "url": "https://wallstreetcn.com/livenews/3093001",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
+          "time_info": "12时08分"
         },
         {
           "title": "伊朗议长：取消海上封锁，全面停火才有意义",
@@ -73,6 +74,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
+        },
+        {
+          "title": "伊朗马汉航空：26日起逐步恢复伊朗往返中国航线客运航班",
+          "url": "https://wallstreetcn.com/livenews/3093041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "泽连斯基：在伊朗问题解决前，乌克兰谈判不会取得任何进展",
@@ -94,8 +106,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时15分 ~ 10时59分]"
+          "appearance_count": 4,
+          "time_info": "[08时15分 ~ 12时08分]"
+        },
+        {
+          "title": "美国务院要求美在伊朗公民立即离境",
+          "url": "https://wallstreetcn.com/livenews/3093001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 12时08分]"
         },
         {
           "title": "伊朗拒谈判,美国延长停火",
@@ -104,11 +128,12 @@
           "ranks": [
             15,
             16,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时15分 ~ 10时59分]"
+          "appearance_count": 4,
+          "time_info": "[08时15分 ~ 12时08分]"
         },
         {
           "title": "伊朗将恢复国内航班运营",
@@ -117,22 +142,71 @@
           "ranks": [
             20,
             21,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时15分 ~ 10时59分]"
+          "appearance_count": 4,
+          "time_info": "[08时15分 ~ 12时08分]"
         },
         {
           "title": "伊朗安全部队在边境开火",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AE%89%E5%85%A8%E9%83%A8%E9%98%9F%E5%9C%A8%E8%BE%B9%E5%A2%83%E5%BC%80%E7%81%AB",
           "source": "百度热搜",
           "ranks": [
-            6
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时32分 ~ 12时08分]"
+        },
+        {
+          "title": "美要求美在伊朗公民立即离境",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%A6%81%E6%B1%82%E7%BE%8E%E5%9C%A8%E4%BC%8A%E6%9C%97%E5%85%AC%E6%B0%91%E7%AB%8B%E5%8D%B3%E7%A6%BB%E5%A2%83%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时32分 ~ 10时59分]"
+          "time_info": "[10时59分 ~ 12时08分]"
+        },
+        {
+          "title": "伊朗：美以造成霍尔木兹海峡当前局面",
+          "url": "https://www.toutiao.com/trending/7630759405525631027/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 12时08分]"
+        },
+        {
+          "title": "美国务院要求美在伊朗公民立即离境",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8A%A1%E9%99%A2%E8%A6%81%E6%B1%82%E7%BE%8E%E5%9C%A8%E4%BC%8A%E6%9C%97%E5%85%AC%E6%B0%91%E7%AB%8B%E5%8D%B3%E7%A6%BB%E5%A2%83",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 12时08分]"
+        },
+        {
+          "title": "伊朗安全部队打死多名恐怖分子",
+          "url": "https://www.toutiao.com/trending/7631693826478997523/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 12时08分]"
         },
         {
           "title": "伊朗反击了，美国却认为“不违反停火协议”",
@@ -152,7 +226,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -174,31 +248,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
         {
-          "title": "美要求美在伊朗公民立即离境",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%A6%81%E6%B1%82%E7%BE%8E%E5%9C%A8%E4%BC%8A%E6%9C%97%E5%85%AC%E6%B0%91%E7%AB%8B%E5%8D%B3%E7%A6%BB%E5%A2%83%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
+          "title": "伊朗高官：伊朗从未要求停火",
+          "url": "https://flash.jin10.com/detail/20260423114052430800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "美军称封锁以来已指令31艘船只掉头或返回伊朗港口",
+          "url": "https://wallstreetcn.com/livenews/3093027",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "美国务院要求美在伊朗公民立即离境",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8A%A1%E9%99%A2%E8%A6%81%E6%B1%82%E7%BE%8E%E5%9C%A8%E4%BC%8A%E6%9C%97%E5%85%AC%E6%B0%91%E7%AB%8B%E5%8D%B3%E7%A6%BB%E5%A2%83",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
+          "time_info": "12时08分"
         },
         {
           "title": "伊朗致信联合国：要求美以对袭击民用空间基础设施担责",
@@ -212,15 +286,26 @@
           "time_info": "08时15分"
         },
         {
-          "title": "伊朗：美以造成霍尔木兹海峡当前局面",
-          "url": "https://www.toutiao.com/trending/7630759405525631027/",
+          "title": "美国务院要求美在伊朗公民立即离境",
+          "url": "https://www.toutiao.com/trending/7630828960271846954/",
           "source": "今日头条",
           "ranks": [
-            15
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时59分"
+          "time_info": "12时08分"
+        },
+        {
+          "title": "伊朗外长：美以是海湾不安全的根源 一切后果由他们承担",
+          "url": "https://flash.jin10.com/detail/20260423113309889800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "伊朗就美国利用中东五国领土领空提出抗议",
@@ -229,26 +314,37 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
         {
-          "title": "伊朗安全部队打死多名恐怖分子",
-          "url": "https://www.toutiao.com/trending/7631693826478997523/",
-          "source": "今日头条",
+          "title": "IBM：伊朗局势及其他不确定性正在影响公司前景",
+          "url": "https://wallstreetcn.com/livenews/3093039",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时59分"
+          "time_info": "12时08分"
+        },
+        {
+          "title": "Swift：伊朗冲突期间美元在全球贸易中的使用量大幅上升",
+          "url": "https://flash.jin10.com/detail/20260423112737212800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普称最快周五或重启美伊和谈，伊朗称他“又说谎”，以媒称停火期26日结束",
@@ -258,8 +354,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时15分 ~ 10时59分]"
+          "appearance_count": 4,
+          "time_info": "[08时15分 ~ 12时08分]"
         },
         {
           "title": "据称特朗普将再给伊朗3至5天停火时间",
@@ -273,17 +369,6 @@
           "time_info": "[08时15分 ~ 10时59分]"
         },
         {
-          "title": "伊朗：特朗普又说谎了",
-          "url": "https://news.ifeng.com/c/8sXbZA8ZMyL",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时32分 ~ 10时59分]"
-        },
-        {
           "title": "伊朗战争丨特朗普：何时结束冲突，目前没有时间表",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -295,16 +380,29 @@
           "time_info": "08时15分"
         },
         {
+          "title": "伊朗：特朗普又说谎了",
+          "url": "https://news.ifeng.com/c/8sXbZA8ZMyL",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时32分 ~ 12时08分]"
+        },
+        {
           "title": "卢拉讽刺：快给特朗普颁诺贝尔奖，这样就不用生活在战争中了",
           "url": "https://news.ifeng.com/c/8sXQUmwnG6C",
           "source": "凤凰网",
           "ranks": [
             11,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时15分 ~ 10时59分]"
+          "appearance_count": 4,
+          "time_info": "[08时15分 ~ 12时08分]"
         },
         {
           "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
@@ -316,8 +414,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时15分 ~ 10时59分]"
+          "appearance_count": 4,
+          "time_info": "[08时15分 ~ 12时08分]"
         },
         {
           "title": "特朗普：何时结束同伊朗冲突目前“没有时间表”",
@@ -325,11 +423,24 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            17
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时32分 ~ 12时08分]"
+        },
+        {
+          "title": "美伊局势追踪：特朗普放出“和谈时间表”又被拒 伊朗方面态度强硬",
+          "url": "https://www.cls.cn/detail/2352936",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时32分 ~ 10时59分]"
+          "time_info": "[10时59分 ~ 12时08分]"
         },
         {
           "title": "伊朗否认举行美伊新谈判：特朗普又说谎了",
@@ -343,15 +454,26 @@
           "time_info": "08时15分"
         },
         {
-          "title": "美伊局势追踪：特朗普放出“和谈时间表”又被拒 伊朗方面态度强硬",
-          "url": "https://www.cls.cn/detail/2352936",
-          "source": "财联社热门",
+          "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
+          "url": "https://wallstreetcn.com/articles/3770662",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时59分"
+          "time_info": "12时08分"
+        },
+        {
+          "title": "乌官员建议给部分顿巴斯地区改名“特朗普地”",
+          "url": "https://news.ifeng.com/c/8sYPEJGNmH6",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "本月第三次！特朗普宣布延长停火前15分钟，4.3亿美元原油空单精准埋伏",
@@ -363,6 +485,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
+        },
+        {
+          "title": "5月1日，60天战争权限耗尽：特朗普还能打多久？",
+          "url": "https://flash.jin10.com/detail/20260423113848889800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "否认设限、否认三天窗口期，特朗普与白宫均称：停火延长无硬性最后期限",
@@ -386,11 +519,12 @@
           "url": "https://www.cls.cn/detail/2352859",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时15分 ~ 10时59分]"
+          "appearance_count": 4,
+          "time_info": "[08时15分 ~ 12时08分]"
         },
         {
           "title": "特朗普延长对伊朗停火 美股三大期指小幅上涨 | 今夜看点",
@@ -436,11 +570,12 @@
           "url": "https://www.douyin.com/hot/2474931",
           "source": "抖音",
           "ranks": [
-            15
+            15,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 12时08分]"
         },
         {
           "title": "软银寻求以OpenAI股票作抵押，申请100亿美元保证金贷款。（彭博）",
@@ -479,8 +614,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时15分 ~ 10时59分]"
+          "appearance_count": 4,
+          "time_info": "[08时15分 ~ 12时08分]"
         },
         {
           "title": "金银比低位震荡暗示多头未死，金价陷最不利组合紧盯三大变数",
@@ -489,7 +624,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -500,7 +635,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         }
@@ -516,11 +651,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            3
+            3,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时15分 ~ 10时59分]"
+          "appearance_count": 4,
+          "time_info": "[08时15分 ~ 12时08分]"
         }
       ]
     },
@@ -535,11 +671,12 @@
           "ranks": [
             7,
             5,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时15分 ~ 10时59分]"
+          "appearance_count": 4,
+          "time_info": "[08时15分 ~ 12时08分]"
         }
       ]
     }
