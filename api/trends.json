@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T22:42:22.609434+08:00",
-  "total_titles_processed": 1744,
+  "generated_at": "2026-04-29T23:36:21.712597+08:00",
+  "total_titles_processed": 1836,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时42分 ~ 22时42分]"
+          "appearance_count": 9,
+          "time_info": "[16时42分 ~ 23时36分]"
         },
         {
           "title": "英国国王当面嘲讽美国，特朗普表情亮了",
@@ -41,8 +41,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时39分 ~ 22时42分]"
+          "appearance_count": 8,
+          "time_info": "[17时39分 ~ 23时36分]"
         },
         {
           "title": "美伊极致拉扯：伊朗或因特朗普不满调整方案，美国禁止向伊缴纳“通行费”！",
@@ -117,6 +117,17 @@
           "time_info": "[08时17分 ~ 15时48分]"
         },
         {
+          "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
+          "url": "https://news.ifeng.com/c/8siqYiXyeAp",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时32分 ~ 23时36分]"
+        },
+        {
           "title": "纪念建国250周年，美国将发行印有特朗普肖像的护照(图)",
           "url": "https://news.ifeng.com/c/8si2qqUHRAp",
           "source": "凤凰网",
@@ -169,17 +180,6 @@
           "time_info": "[17时39分 ~ 18时34分]"
         },
         {
-          "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
-          "url": "https://news.ifeng.com/c/8siqYiXyeAp",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时32分 ~ 22时42分]"
-        },
-        {
           "title": "美国总统特朗普：伊朗无法达成一致意见。他们不知道如何签署无核协议。他们最好尽快明智起来！",
           "url": "https://flash.jin10.com/detail/20260429161232382800",
           "source": "金十数据",
@@ -197,7 +197,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -329,6 +329,18 @@
           "time_info": "[17时39分 ~ 18时34分]"
         },
         {
+          "title": "英国查尔斯国王当面嘲讽特朗普，要不是英国，美国现在说的是法语，这是个什么梗？特朗普台下尬笑可能在想啥？",
+          "url": "https://www.zhihu.com/question/2032828585195434245",
+          "source": "知乎",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 23时36分]"
+        },
+        {
           "title": "特朗普支持率降至任内新低",
           "url": "https://www.douyin.com/hot/2482851",
           "source": "抖音",
@@ -339,6 +351,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时01分 ~ 12时20分]"
+        },
+        {
+          "title": "特朗普再次无视英王室规矩拍国王肩膀",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E6%97%A0%E8%A7%86%E8%8B%B1%E7%8E%8B%E5%AE%A4%E8%A7%84%E7%9F%A9%E6%8B%8D%E5%9B%BD%E7%8E%8B%E8%82%A9%E8%86%80%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 23时36分]"
         },
         {
           "title": "特朗普：美国准备长期封锁伊朗",
@@ -358,7 +382,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -460,17 +484,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
-        },
-        {
-          "title": "英国查尔斯国王当面嘲讽特朗普，要不是英国，美国现在说的是法语，这是个什么梗？特朗普台下尬笑可能在想啥？",
-          "url": "https://www.zhihu.com/question/2032828585195434245",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
         },
         {
           "title": "美参议院否决限制特朗普对古巴动武决议",
@@ -647,23 +660,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
-        },
-        {
-          "title": "特朗普再次无视英王室规矩拍国王肩膀",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E6%97%A0%E8%A7%86%E8%8B%B1%E7%8E%8B%E5%AE%A4%E8%A7%84%E7%9F%A9%E6%8B%8D%E5%9B%BD%E7%8E%8B%E8%82%A9%E8%86%80%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 41,
+      "match_count": 48,
       "titles": [
         {
           "title": "美方禁止本国个人或实体向伊朗缴纳海峡通行费",
@@ -675,20 +677,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时01分 ~ 22时42分]"
-        },
-        {
-          "title": "伊朗男孩重回中国上学全班紧紧抱住",
-          "url": "https://www.toutiao.com/trending/7633313371160464950/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时00分 ~ 22时42分]"
+          "appearance_count": 15,
+          "time_info": "[11时01分 ~ 23时36分]"
         },
         {
           "title": "【早报】阿联酋“退群”，全球油市巨震；伊朗或向巴基斯坦提交调整版方案",
@@ -701,6 +691,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[08时17分 ~ 15时01分]"
+        },
+        {
+          "title": "伊朗男孩重回中国上学全班紧紧抱住",
+          "url": "https://www.toutiao.com/trending/7633313371160464950/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[15时00分 ~ 23时36分]"
         },
         {
           "title": "伊朗陆军：战争尚未结束，正严阵以待",
@@ -815,7 +818,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -865,6 +868,18 @@
           "time_info": "[15时00分 ~ 15时48分]"
         },
         {
+          "title": "伊朗：将以前所未有的军事行动回应美",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B0%86%E4%BB%A5%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E7%9A%84%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E5%9B%9E%E5%BA%94%E7%BE%8E",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时32分 ~ 23时36分]"
+        },
+        {
           "title": "伊朗“蚊子舰队”如何控制海峡",
           "url": "https://www.toutiao.com/trending/7632881081640976430/",
           "source": "今日头条",
@@ -876,16 +891,27 @@
           "time_info": "[08时17分 ~ 11时01分]"
         },
         {
-          "title": "伊朗：将以前所未有的军事行动回应美",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B0%86%E4%BB%A5%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E7%9A%84%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E5%9B%9E%E5%BA%94%E7%BE%8E",
-          "source": "百度热搜",
+          "title": "伊朗：将以前所未有军事行动回应美",
+          "url": "https://www.toutiao.com/trending/7633112393258172443/",
+          "source": "今日头条",
           "ranks": [
-            14,
+            7,
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时32分 ~ 22时42分]"
+          "time_info": "[22时42分 ~ 23时36分]"
+        },
+        {
+          "title": "伊朗战争丨伊朗专家亮出反封锁底牌",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         },
         {
           "title": "伊朗官员：美国试图以封锁逼迫伊朗的做法是徒劳的",
@@ -897,17 +923,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
-        },
-        {
-          "title": "伊朗：将以前所未有军事行动回应美",
-          "url": "https://www.toutiao.com/trending/7633112393258172443/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
         },
         {
           "title": "美国务卿鲁比奥：伊朗将霍尔木兹海峡当作\"经济核武器\"",
@@ -930,6 +945,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
+        },
+        {
+          "title": "美国五角大楼审计长Hurst：美国迄今在伊朗战争中耗费了250亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3096788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
+          "title": "渣打：全球股市在（美国和以色列发动）伊朗战争期间走弱，这推高美元。",
+          "url": "https://wallstreetcn.com/livenews/3096786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         },
         {
           "title": "印度财政部报告：预计伊朗危机不会对金融稳定产生不利影响。",
@@ -1009,15 +1046,37 @@
           "time_info": "16时42分"
         },
         {
+          "title": "伊朗官员：如美国继续海上封锁 伊将采取“前所未有的军事行动”",
+          "url": "https://wallstreetcn.com/livenews/3096778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
           "title": "伊朗货币里亚尔兑美元汇率跌至历史新低，目前汇率已突破1美元兑181万里亚尔的水平。",
           "url": "https://wallstreetcn.com/livenews/3096746",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
+        },
+        {
+          "title": "伊朗和印度外长通话讨论停火及双边关系。",
+          "url": "https://flash.jin10.com/detail/20260429225201837800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         },
         {
           "title": "德国能源公司Uniper CEO：如果伊朗局势持续，欧洲天然气价格可能会上涨。",
@@ -1048,7 +1107,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -1075,13 +1134,24 @@
           "time_info": "20时25分"
         },
         {
+          "title": "美国国防部长赫格塞思：必须坚决对抗伊朗这样的敌人。他们的核设施已被摧毁。",
+          "url": "https://flash.jin10.com/detail/20260429224950008800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
           "title": "伊朗货币里亚尔汇率跌至历史新低",
           "url": "https://flash.jin10.com/detail/20260429215412381800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -1119,6 +1189,17 @@
           "time_info": "21时32分"
         },
         {
+          "title": "美国国防部审计官赫斯特：美国迄今已在伊朗战争中花费了250亿美元。",
+          "url": "https://flash.jin10.com/detail/20260429224758672800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
           "title": "伊朗黑客公布中东美军2379人信息",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%BB%91%E5%AE%A2%E5%85%AC%E5%B8%83%E4%B8%AD%E4%B8%9C%E7%BE%8E%E5%86%9B2379%E4%BA%BA%E4%BF%A1%E6%81%AF%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -1143,8 +1224,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时17分 ~ 22时42分]"
+          "appearance_count": 17,
+          "time_info": "[08时17分 ~ 23时36分]"
         },
         {
           "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
@@ -1154,11 +1235,12 @@
             6,
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时17分 ~ 22时42分]"
+          "appearance_count": 17,
+          "time_info": "[08时17分 ~ 23时36分]"
         },
         {
           "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
@@ -1183,8 +1265,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时59分 ~ 22时42分]"
+          "appearance_count": 13,
+          "time_info": "[13时59分 ~ 23时36分]"
         },
         {
           "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
@@ -1193,11 +1275,12 @@
           "ranks": [
             19,
             18,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时30分 ~ 22时42分]"
+          "appearance_count": 6,
+          "time_info": "[19时30分 ~ 23时36分]"
         },
         {
           "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
@@ -1270,7 +1353,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -1286,8 +1369,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时59分 ~ 22时42分]"
+          "appearance_count": 13,
+          "time_info": "[13时59分 ~ 23时36分]"
         },
         {
           "title": "6家券商抢先部署DeepSeek V4，2小时接入、24小时上线，新一轮竞速开始",
@@ -1318,11 +1401,12 @@
           "url": "https://www.baidu.com/s?wd=DeepSeek%E4%B8%8A%E7%BA%BF%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
           "source": "百度热搜",
           "ranks": [
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时30分 ~ 21时32分]"
+          "appearance_count": 5,
+          "time_info": "[19时30分 ~ 23时36分]"
         },
         {
           "title": "揭秘DeepSeekV4背后的黑科技",
@@ -1338,13 +1422,24 @@
           "time_info": "[20时25分 ~ 22时42分]"
         },
         {
+          "title": "如何评价 DeepSeek 刚刚上线的多模态「识图模式」？",
+          "url": "https://www.zhihu.com/question/2032851960177631968",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
           "title": "阿里云百炼宣布DeepSeek-V4-Pro模型隐式缓存降价",
           "url": "https://wallstreetcn.com/livenews/3096738",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         }
@@ -1352,7 +1447,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "周三美股盘前你需要了解的全球要闻",
@@ -1375,6 +1470,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
+        },
+        {
+          "title": "市场静待联储决策及巨头财报，美股低开，存储芯片股大涨，布油日内涨5%，金银下跌",
+          "url": "https://wallstreetcn.com/articles/3771214",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         },
         {
           "title": "存储芯片龙头希捷科技(STX.O)美股盘前涨近18%，公司2026年第三财季营收31.1亿美元高于预期。",
@@ -1424,7 +1530,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "影响金价的关键因素是什么",
@@ -1451,6 +1557,17 @@
           "time_info": "15时48分"
         },
         {
+          "title": "国际金价继续回撤至4500美元附近",
+          "url": "https://www.toutiao.com/trending/7634171899290848787/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
           "title": "世界黄金协会： 一季度，高金价环境持续重塑全球黄金需求格局",
           "url": "https://wallstreetcn.com/livenews/3096261",
           "source": "华尔街见闻-快讯",
@@ -1460,6 +1577,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         },
         {
           "title": "金价换手中枢下移至这一水平，今晚鲍威尔将决定下一站！",
@@ -1502,7 +1630,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         }
