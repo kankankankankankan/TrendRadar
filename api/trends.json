@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T08:17:53.662971+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-04-29T09:33:51.948118+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 24,
       "titles": [
         {
           "title": "美情报机构正在研判：若特朗普宣布“胜利”，伊朗将如何反应",
@@ -19,6 +19,17 @@
           "time_info": "08时17分"
         },
         {
+          "title": "特朗普：美国准备长期封锁伊朗",
+          "url": "https://flash.jin10.com/detail/20260429091149623800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
           "title": "伊朗战争丨受战事影响，特朗普支持率跌至任内新低",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -26,30 +37,110 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时17分"
+          "appearance_count": 2,
+          "time_info": "[08时17分 ~ 09时33分]"
         },
         {
           "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
           "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时17分"
+          "appearance_count": 2,
+          "time_info": "[08时17分 ~ 09时33分]"
         },
         {
           "title": "美最新民调显示特朗普支持率跌至任内新低 | 环球市场",
           "url": "https://www.cls.cn/detail/2358895",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时17分 ~ 09时33分]"
+        },
+        {
+          "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33069415",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时17分 ~ 09时33分]"
+        },
+        {
+          "title": "特朗普：美国准备长期封锁伊朗",
+          "url": "https://www.toutiao.com/trending/7633982673785982506/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时17分"
+          "time_info": "09时33分"
+        },
+        {
+          "title": "纪念建国250周年，美国将发行印有特朗普肖像的护照(图)",
+          "url": "https://news.ifeng.com/c/8si2qqUHRAp",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
+          "title": "特朗普：美国准备长期封锁伊朗",
+          "url": "https://wallstreetcn.com/livenews/3096093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
+          "title": "美国总统特朗普表示，英国国王查尔斯三世同意他有关需确保伊朗永不拥有核武器的观点。",
+          "url": "https://wallstreetcn.com/livenews/3096087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
+          "title": "美媒：特朗普拟延长对伊朗封锁 施压其在核问题上让步",
+          "url": "https://flash.jin10.com/detail/20260429090428990800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
+          "title": "美伊极致拉扯：伊朗或因特朗普不满调整方案，美国禁止向伊缴纳“通行费”！",
+          "url": "https://www.cls.cn/detail/2358925",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
         },
         {
           "title": "特朗普爆伊朗“崩溃”请求开海峡！伊朗却宣布绝对控制，要求缴纳通行费",
@@ -85,15 +176,26 @@
           "time_info": "08时17分"
         },
         {
-          "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33069415",
-          "source": "澎湃新闻",
+          "title": "美国财长贝森特在声明中表示，总统特朗普打算提名G·亨特·麦克马斯特二世（G. Hunter McMaster II）担任主管金融市场的助理部长。",
+          "url": "https://wallstreetcn.com/livenews/3096080",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时17分"
+          "time_info": "09时33分"
+        },
+        {
+          "title": "美国总统特朗普：美国已在军事上击败伊朗。",
+          "url": "https://flash.jin10.com/detail/20260429090017847800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
         },
         {
           "title": "美最新民调显示特朗普支持率跌至任内新低",
@@ -107,6 +209,28 @@
           "time_info": "08时17分"
         },
         {
+          "title": "美国总统特朗普：查尔斯国王认同伊朗不能拥有核弹。",
+          "url": "https://flash.jin10.com/detail/20260429085744688800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
+          "title": "特朗普再次无视英国王室规矩",
+          "url": "https://www.douyin.com/hot/2482526",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
           "title": "纪念建国250周年 美国将发行印有特朗普肖像的护照",
           "url": "https://flash.jin10.com/detail/20260429063235658800",
           "source": "金十数据",
@@ -116,6 +240,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
+        },
+        {
+          "title": "美国将发行印有特朗普肖像的护照",
+          "url": "https://www.toutiao.com/trending/7633903451563507739/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
         },
         {
           "title": "因与特朗普分歧加剧，美驻乌临时代办将离任",
@@ -150,11 +285,24 @@
           "url": "https://www.cls.cn/detail/2358883",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时17分"
+          "appearance_count": 2,
+          "time_info": "[08时17分 ~ 09时33分]"
+        },
+        {
+          "title": "伊朗陆军：战争尚未结束，正严阵以待",
+          "url": "https://news.ifeng.com/c/8shTPbRP5sB",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时17分 ~ 09时33分]"
         },
         {
           "title": "美以袭击伊朗进入第 61 天，当前局势如何？还有哪些信息值得关注？",
@@ -164,8 +312,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时17分"
+          "appearance_count": 2,
+          "time_info": "[08时17分 ~ 09时33分]"
+        },
+        {
+          "title": "伊朗“蚊子舰队”如何控制海峡",
+          "url": "https://www.toutiao.com/trending/7632881081640976430/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时17分 ~ 09时33分]"
         },
         {
           "title": "美国务卿鲁比奥：伊朗将霍尔木兹海峡当作\"经济核武器\"",
@@ -179,33 +338,11 @@
           "time_info": "08时17分"
         },
         {
-          "title": "伊朗陆军：战争尚未结束，正严阵以待",
-          "url": "https://news.ifeng.com/c/8shTPbRP5sB",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时17分"
-        },
-        {
           "title": "普京：全世界都钦佩伊朗人民抵抗美国",
           "url": "https://www.toutiao.com/trending/7632898398869474879/",
           "source": "今日头条",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时17分"
-        },
-        {
-          "title": "伊朗“蚊子舰队”如何控制海峡",
-          "url": "https://www.toutiao.com/trending/7632881081640976430/",
-          "source": "今日头条",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -226,7 +363,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -236,41 +373,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时17分"
-        },
-        {
-          "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
-          "url": "https://wallstreetcn.com/articles/3771064",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时17分"
+          "appearance_count": 2,
+          "time_info": "[08时17分 ~ 09时33分]"
         },
         {
           "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
           "url": "https://www.cls.cn/detail/2358855",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时17分"
+          "appearance_count": 2,
+          "time_info": "[08时17分 ~ 09时33分]"
         },
         {
-          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
-          "url": "https://wallstreetcn.com/articles/3771151",
+          "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
+          "url": "https://wallstreetcn.com/articles/3771064",
           "source": "华尔街见闻",
           "ranks": [
+            4,
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时17分"
+          "appearance_count": 2,
+          "time_info": "[08时17分 ~ 09时33分]"
         },
         {
           "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
@@ -280,8 +408,48 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时17分 ~ 09时33分]"
+        },
+        {
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时17分 ~ 09时33分]"
+        },
+        {
+          "title": "OpenAI：当我们发现有人试图使用我们的工具潜在地策划或实施暴力时，我们会采取行动，包括撤销访问权限。",
+          "url": "https://flash.jin10.com/detail/20260429085748656800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时17分"
+          "time_info": "09时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeekV4Pro优惠延期",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4Pro%E4%BC%98%E6%83%A0%E5%BB%B6%E6%9C%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
         }
       ]
     }
