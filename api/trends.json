@@ -1,29 +1,42 @@
 {
-  "generated_at": "2026-05-08T08:18:25.542217+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-08T09:33:07.121483+08:00",
+  "total_titles_processed": 424,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "特朗普回应打击伊朗：只是轻微敲打",
+          "url": "https://news.ifeng.com/c/8swugAgjYdA",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时18分 ~ 09时33分]"
+        },
+        {
+          "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
+          "url": "https://news.ifeng.com/c/8swPaRUXu6L",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时18分 ~ 09时33分]"
+        },
         {
           "title": "美国总统特朗普：我已被简要通报关于汉坦病毒的情况，我们希望它能得到很好的控制。",
           "url": "https://flash.jin10.com/detail/20260508080440191800",
           "source": "金十数据",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时18分"
-        },
-        {
-          "title": "特朗普回应打击伊朗：只是轻微敲打",
-          "url": "https://news.ifeng.com/c/8swugAgjYdA",
-          "source": "凤凰网",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -52,42 +65,9 @@
           "time_info": "08时18分"
         },
         {
-          "title": "特朗普表示，他与巴西总统卢拉的会晤非常成功。",
-          "url": "https://wallstreetcn.com/livenews/3100279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时18分"
-        },
-        {
-          "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
-          "url": "https://news.ifeng.com/c/8swPaRUXu6L",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时18分"
-        },
-        {
           "title": "美国总统特朗普：我们正在与伊朗方面进行谈判。",
           "url": "https://flash.jin10.com/detail/20260508080329027800",
           "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时18分"
-        },
-        {
-          "title": "特朗普表示，他已听取有关汉坦病毒的情况汇报，希望疫情能得到有效控制。",
-          "url": "https://wallstreetcn.com/livenews/3100278",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
@@ -107,15 +87,40 @@
           "time_info": "08时18分"
         },
         {
+          "title": "特朗普表示，他与巴西总统卢拉的会晤非常成功。",
+          "url": "https://wallstreetcn.com/livenews/3100279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时18分 ~ 09时33分]"
+        },
+        {
+          "title": "特朗普表示，他已听取有关汉坦病毒的情况汇报，希望疫情能得到有效控制。",
+          "url": "https://wallstreetcn.com/livenews/3100278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时18分 ~ 09时33分]"
+        },
+        {
           "title": "特朗普：我们正在与伊朗进行谈判，伊朗停火协议依然有效。巴基斯坦已请求美国在与伊朗谈判期间不要执行“自由计划”。",
           "url": "https://wallstreetcn.com/livenews/3100277",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时18分"
+          "appearance_count": 2,
+          "time_info": "[08时18分 ~ 09时33分]"
         },
         {
           "title": "特朗普访华前瞻——台湾怎么办？",
@@ -125,8 +130,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时18分"
+          "appearance_count": 3,
+          "time_info": "[08时18分 ~ 09时33分]"
         },
         {
           "title": "美国总统特朗普：巴基斯坦已要求美国在与伊朗谈判期间不要进行“自由计划”。",
@@ -160,6 +165,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时18分"
+        },
+        {
+          "title": "沙特科威特解除限制，但特朗普称：巴方要求谈判期间暂停“自由计划”",
+          "url": "https://flash.jin10.com/detail/20260508085204917800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
+          "title": "特朗普：没必要对美国的石油出口进行限制",
+          "url": "https://flash.jin10.com/detail/20260508084134483800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
         },
         {
           "title": "特朗普：美伊停火仍有效，3艘美军舰穿越霍尔木兹海峡",
@@ -209,7 +236,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "【早报】美方：定点打击伊军事设施；伊朗武装部队实施反击",
@@ -219,8 +246,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时18分"
+          "appearance_count": 3,
+          "time_info": "[08时18分 ~ 09时33分]"
         },
         {
           "title": "伊朗战争丨美军对伊朗格什姆岛及阿巴斯港发动袭击",
@@ -230,30 +257,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时18分"
+          "appearance_count": 3,
+          "time_info": "[08时18分 ~ 09时33分]"
         },
         {
           "title": "伊朗划定两条霍尔木兹航道，油价应声大跌",
           "url": "https://wallstreetcn.com/articles/3771758",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时18分"
+          "appearance_count": 3,
+          "time_info": "[08时18分 ~ 09时33分]"
         },
         {
           "title": "霍尔木兹局势又紧张！伊朗称美违反停火空袭、已反击，美军称拦截伊发起的无端袭击",
           "url": "https://wallstreetcn.com/articles/3771778",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时18分"
+          "appearance_count": 3,
+          "time_info": "[08时18分 ~ 09时33分]"
         },
         {
           "title": "美中央司令部：对伊朗军事设施实施定点打击",
@@ -263,8 +292,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时18分"
+          "appearance_count": 3,
+          "time_info": "[08时18分 ~ 09时33分]"
         },
         {
           "title": "美军称袭击伊朗军事设施",
@@ -285,8 +314,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时18分"
+          "appearance_count": 3,
+          "time_info": "[08时18分 ~ 09时33分]"
         },
         {
           "title": "美以袭击伊朗进入第 70 天，当前局势如何？哪些信息值得关注？",
@@ -296,30 +325,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时18分"
+          "appearance_count": 3,
+          "time_info": "[08时18分 ~ 09时33分]"
         },
         {
           "title": "伊朗武装部队：美军袭击油轮并空袭沿海地区 伊方已进行反击",
           "url": "https://www.cls.cn/detail/2365488",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时18分"
-        },
-        {
-          "title": "伊朗倒逼美国承认既定事实",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%80%92%E9%80%BC%E7%BE%8E%E5%9B%BD%E6%89%BF%E8%AE%A4%E6%97%A2%E5%AE%9A%E4%BA%8B%E5%AE%9E%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时18分"
+          "appearance_count": 3,
+          "time_info": "[08时18分 ~ 09时33分]"
         },
         {
           "title": "伊朗确认将在美加墨世界杯开幕前 14 天抵达美国，如何看待这一决定？伊朗队世界杯发挥可能如何？",
@@ -329,8 +348,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时18分"
+          "appearance_count": 3,
+          "time_info": "[08时18分 ~ 09时33分]"
+        },
+        {
+          "title": "伊朗倒逼美国承认既定事实",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%80%92%E9%80%BC%E7%BE%8E%E5%9B%BD%E6%89%BF%E8%AE%A4%E6%97%A2%E5%AE%9A%E4%BA%8B%E5%AE%9E%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时18分 ~ 09时33分]"
         },
         {
           "title": "伊朗：最高领袖穆杰塔巴全面掌控局势",
@@ -340,8 +371,30 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时18分"
+          "appearance_count": 3,
+          "time_info": "[08时18分 ~ 09时33分]"
+        },
+        {
+          "title": "伊朗打击美舰 美空袭伊沿海地区",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%89%93%E5%87%BB%E7%BE%8E%E8%88%B0+%E7%BE%8E%E7%A9%BA%E8%A2%AD%E4%BC%8A%E6%B2%BF%E6%B5%B7%E5%9C%B0%E5%8C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时32分 ~ 09时33分]"
+        },
+        {
+          "title": "美国和伊朗又打起来了",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%BC%8A%E6%9C%97%E5%8F%88%E6%89%93%E8%B5%B7%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时32分 ~ 09时33分]"
         },
         {
           "title": "美联储卡什卡利：受伊朗战争影响，下一步利率变动尚不确定",
@@ -369,7 +422,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
@@ -379,19 +432,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时18分"
+          "appearance_count": 3,
+          "time_info": "[08时18分 ~ 09时33分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
           "url": "https://www.cls.cn/detail/2365503",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时18分"
+          "appearance_count": 3,
+          "time_info": "[08时18分 ~ 09时33分]"
         },
         {
           "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
@@ -403,6 +457,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时18分"
+        },
+        {
+          "title": "美伊接近重启谈判 美股再冲新高 布油跌破97美元 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2365305",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时32分 ~ 09时33分]"
         }
       ]
     },
@@ -415,11 +480,12 @@
           "url": "https://wallstreetcn.com/articles/3771759",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时18分"
+          "appearance_count": 3,
+          "time_info": "[08时18分 ~ 09时33分]"
         },
         {
           "title": "OpenAI推出新模型，以供网络安全团队使用",
@@ -435,6 +501,23 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英矽智能与Google Cloud合作，借助Gemini模型与可扩展基础设施加速药物发现",
+          "url": "https://flash.jin10.com/detail/20260508091942153800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -443,11 +526,12 @@
           "url": "https://wallstreetcn.com/articles/3771769",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时18分"
+          "appearance_count": 3,
+          "time_info": "[08时18分 ~ 09时33分]"
         }
       ]
     }
