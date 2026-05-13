@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-05-13T18:49:17.024933+08:00",
-  "total_titles_processed": 1243,
+  "generated_at": "2026-05-13T19:41:59.167627+08:00",
+  "total_titles_processed": 1333,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 61,
       "titles": [
-        {
-          "title": "特朗普访华",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时20分 ~ 18时49分]"
-        },
         {
           "title": "特朗普启程访华，如何理解时隔近十年中美又一次元首会晤的特殊性？",
           "url": "https://www.zhihu.com/question/2037099280243102645",
@@ -28,8 +15,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时02分 ~ 18时49分]"
+          "appearance_count": 8,
+          "time_info": "[11时02分 ~ 19时41分]"
+        },
+        {
+          "title": "特朗普访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            2,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时20分 ~ 19时41分]"
         },
         {
           "title": "【早报】马斯克、库克等将随特朗普访华；国内航线燃油附加费将上调",
@@ -55,8 +56,21 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时34分 ~ 18时49分]"
+          "appearance_count": 9,
+          "time_info": "[09时34分 ~ 19时41分]"
+        },
+        {
+          "title": "特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国，是我的荣幸",
+          "url": "https://www.cls.cn/detail/2369985",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时58分 ~ 19时41分]"
         },
         {
           "title": "特朗普访华",
@@ -68,6 +82,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时58分 ~ 18时49分]"
+        },
+        {
+          "title": "外交部：欢迎特朗普访问中国",
+          "url": "https://www.toutiao.com/trending/7638540672749125641/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时04分 ~ 19时41分]"
         },
         {
           "title": "马斯克库克随特朗普访华",
@@ -82,17 +108,16 @@
           "time_info": "[08时20分 ~ 11时02分]"
         },
         {
-          "title": "特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国，是我的荣幸",
-          "url": "https://www.cls.cn/detail/2369985",
-          "source": "财联社热门",
+          "title": "外交部：欢迎特朗普访问中国",
+          "url": "https://www.douyin.com/hot/2497697",
+          "source": "抖音",
           "ranks": [
-            3,
             1,
-            2
+            5
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时58分 ~ 18时49分]"
+          "time_info": "[17时04分 ~ 19时41分]"
         },
         {
           "title": "特朗普期待与中方会晤",
@@ -108,26 +133,30 @@
           "time_info": "[14时06分 ~ 18时49分]"
         },
         {
-          "title": "外交部：欢迎特朗普访问中国",
-          "url": "https://www.toutiao.com/trending/7638540672749125641/",
-          "source": "今日头条",
+          "title": "外交部：中方欢迎特朗普总统对中国进行国事访问",
+          "url": "https://www.cls.cn/detail/2370077",
+          "source": "财联社热门",
           "ranks": [
+            12,
+            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时04分 ~ 18时49分]"
+          "appearance_count": 5,
+          "time_info": "[15时58分 ~ 19时41分]"
         },
         {
-          "title": "外交部：欢迎特朗普访问中国",
-          "url": "https://www.douyin.com/hot/2497697",
+          "title": "特朗普访华随行人员名单",
+          "url": "https://www.douyin.com/hot/2496992",
           "source": "抖音",
           "ranks": [
-            1
+            11,
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时04分 ~ 18时49分]"
+          "appearance_count": 8,
+          "time_info": "[11时02分 ~ 19时41分]"
         },
         {
           "title": "特朗普启程赴华",
@@ -154,30 +183,16 @@
           "time_info": "[09时34分 ~ 12时27分]"
         },
         {
-          "title": "外交部：中方欢迎特朗普总统对中国进行国事访问",
-          "url": "https://www.cls.cn/detail/2370077",
-          "source": "财联社热门",
+          "title": "欢迎特朗普访问中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A2%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            12,
-            2,
+            20,
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时58分 ~ 18时49分]"
-        },
-        {
-          "title": "特朗普访华随行人员名单",
-          "url": "https://www.douyin.com/hot/2496992",
-          "source": "抖音",
-          "ranks": [
-            11,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时02分 ~ 18时49分]"
+          "appearance_count": 5,
+          "time_info": "[15时58分 ~ 19时41分]"
         },
         {
           "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
@@ -215,16 +230,16 @@
           "time_info": "[09时34分 ~ 15时58分]"
         },
         {
-          "title": "欢迎特朗普访问中国",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A2%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "特朗普回过味了，“万斯嗖一下就被提溜走了，我呢？”",
+          "url": "https://news.ifeng.com/c/8t5xvo1H7JW",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            1
+            7,
+            5
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时58分 ~ 18时49分]"
+          "time_info": "[17时04分 ~ 19时41分]"
         },
         {
           "title": "鲁比奥赫格塞思随特朗普访华",
@@ -238,6 +253,28 @@
           "time_info": "11时02分"
         },
         {
+          "title": "美国总统特朗普将抵达北京",
+          "url": "https://www.toutiao.com/trending/7639334931310710323/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
+          "title": "特朗普将抵达北京",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "特朗普访华,黄仁勋被踢出局",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354222&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%2C%E9%BB%84%E4%BB%81%E5%8B%8B%E8%A2%AB%E8%B8%A2%E5%87%BA%E5%B1%80",
           "source": "贴吧",
@@ -249,15 +286,15 @@
           "time_info": "11时02分"
         },
         {
-          "title": "特朗普公布访华团高管名单",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%B8%83%E8%AE%BF%E5%8D%8E%E5%9B%A2%E9%AB%98%E7%AE%A1%E5%90%8D%E5%8D%95",
-          "source": "bilibili 热搜",
+          "title": "美国总统特朗普将抵达北京",
+          "url": "https://www.douyin.com/hot/2497952",
+          "source": "抖音",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时49分"
+          "time_info": "19时41分"
         },
         {
           "title": "特朗普访华在即，如何理解时隔近十年中美又一次元首会晤的特殊性？",
@@ -270,18 +307,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时20分 ~ 09时34分]"
-        },
-        {
-          "title": "特朗普回过味了，“万斯嗖一下就被提溜走了，我呢？”",
-          "url": "https://news.ifeng.com/c/8t5xvo1H7JW",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时04分 ~ 18时49分]"
         },
         {
           "title": "特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国，是我的荣幸；黄仁勋未受邀是“假新闻”，此刻他与我同乘“空军一号”",
@@ -307,6 +332,20 @@
           "time_info": "[15时58分 ~ 17时05分]"
         },
         {
+          "title": "外交部：中方欢迎特朗普总统访华",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%B8%AD%E6%96%B9%E6%AC%A2%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%BB%E7%BB%9F%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            15,
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时58分 ~ 19时41分]"
+        },
+        {
           "title": "外交部介绍特朗普访华具体安排",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
           "source": "bilibili 热搜",
@@ -318,6 +357,42 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时20分 ~ 14时06分]"
+        },
+        {
+          "title": "欢迎特朗普访问中国",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A2%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时49分 ~ 19时41分]"
+        },
+        {
+          "title": "特朗普公布访华团高管名单",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%B8%83%E8%AE%BF%E5%8D%8E%E5%9B%A2%E9%AB%98%E7%AE%A1%E5%90%8D%E5%8D%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时49分 ~ 19时41分]"
+        },
+        {
+          "title": "最后一刻临时追加！黄仁勋加入特朗普访华代表团",
+          "url": "https://wallstreetcn.com/articles/3772146",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时04分 ~ 19时41分]"
         },
         {
           "title": "美国海军将建造史上最贵军舰：核动力“特朗普”级战列舰",
@@ -332,17 +407,17 @@
           "time_info": "[14时06分 ~ 17时05分]"
         },
         {
-          "title": "外交部：中方欢迎特朗普总统访华",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%B8%AD%E6%96%B9%E6%AC%A2%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%BB%E7%BB%9F%E8%AE%BF%E5%8D%8E",
-          "source": "百度热搜",
+          "title": "媒体称黄仁勋半路加入特朗普的访华专机中，他为什么能「压哨登机」？",
+          "url": "https://www.zhihu.com/question/2037919154393408436",
+          "source": "知乎",
           "ranks": [
-            19,
-            15,
-            12
+            18,
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时58分 ~ 18时49分]"
+          "time_info": "[17时04分 ~ 19时41分]"
         },
         {
           "title": "特朗普回应访华团高管名单",
@@ -358,28 +433,16 @@
           "time_info": "[15时58分 ~ 18时49分]"
         },
         {
-          "title": "最后一刻临时追加！黄仁勋加入特朗普访华代表团",
-          "url": "https://wallstreetcn.com/articles/3772146",
-          "source": "华尔街见闻",
+          "title": "白宫公布名单：美国16位商业巨头与特朗普一同访华",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33166126",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            8
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时04分 ~ 18时49分]"
-        },
-        {
-          "title": "媒体称黄仁勋半路加入特朗普的访华专机中，他为什么能「压哨登机」？",
-          "url": "https://www.zhihu.com/question/2037919154393408436",
-          "source": "知乎",
-          "ranks": [
-            18,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时04分 ~ 18时49分]"
+          "appearance_count": 4,
+          "time_info": "[15时58分 ~ 19时41分]"
         },
         {
           "title": "特朗普访华期间是否会讨论台湾和香港有关问题？外交部回应",
@@ -430,15 +493,15 @@
           "time_info": "[15时58分 ~ 17时05分]"
         },
         {
-          "title": "白宫公布名单：美国16位商业巨头与特朗普一同访华",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33166126",
-          "source": "澎湃新闻",
+          "title": "启程访华！特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国，是我的荣幸",
+          "url": "https://wallstreetcn.com/articles/3772164",
+          "source": "华尔街见闻",
           "ranks": [
-            19
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时58分 ~ 17时05分]"
+          "appearance_count": 2,
+          "time_info": "[18时49分 ~ 19时41分]"
         },
         {
           "title": "美国总统特朗普：非常期待中国之行",
@@ -464,15 +527,27 @@
           "time_info": "[09时34分 ~ 11时02分]"
         },
         {
-          "title": "启程访华！特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国，是我的荣幸",
-          "url": "https://wallstreetcn.com/articles/3772164",
-          "source": "华尔街见闻",
+          "title": "商界巨头、政府高官、儿子儿媳：哪些人即将随特朗普同机抵达中国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33172029",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时49分 ~ 19时41分]"
+        },
+        {
+          "title": "美国总统特朗普将抵达北京",
+          "url": "https://wallstreetcn.com/livenews/3102977",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时49分"
+          "time_info": "19时41分"
         },
         {
           "title": "特朗普启程访华",
@@ -552,6 +627,17 @@
           "time_info": "12时27分"
         },
         {
+          "title": "5月13日傍晚，美国总统特朗普乘专机将抵达北京。",
+          "url": "https://flash.jin10.com/detail/20260513192112757800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "外媒：黄仁勋陪同特朗普访华",
           "url": "https://www.douyin.com/hot/2497188",
           "source": "抖音",
@@ -583,17 +669,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
-        },
-        {
-          "title": "商界巨头、政府高官、儿子儿媳：哪些人即将随特朗普同机抵达中国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33172029",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时49分"
         },
         {
           "title": "特朗普启程访华：相信会有好事发生，中美有深厚的合作",
@@ -629,17 +704,6 @@
           "time_info": "08时21分"
         },
         {
-          "title": "欢迎特朗普访问中国",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A2%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
           "title": "白宫证实英伟达CEO黄仁勋将随同特朗普访华。 黄仁勋在阿拉斯加登上空军一号前往中国。",
           "url": "https://wallstreetcn.com/livenews/3102616",
           "source": "华尔街见闻-快讯",
@@ -664,6 +728,206 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "知情人士称阿联酋秘密打击伊朗，正式成为参战方，为何阿联酋要参战？会给中东局势带来哪些变化？",
+          "url": "https://www.zhihu.com/question/2037656032046838013",
+          "source": "知乎",
+          "ranks": [
+            18,
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时27分 ~ 19时41分]"
+        },
+        {
+          "title": "伊朗官员：若再次遭袭，伊方或选择将浓缩铀丰度提升至90%",
+          "url": "https://news.ifeng.com/c/8t4DYs3Ow88",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时20分 ~ 08时21分]"
+        },
+        {
+          "title": "沙特、阿联酋被曝曾秘密空袭伊朗",
+          "url": "https://news.ifeng.com/c/8t5hJ4xQWHE",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时06分 ~ 15时58分]"
+        },
+        {
+          "title": "沙特被曝3月曾对伊朗发动多次“报复性”空袭",
+          "url": "https://wallstreetcn.com/livenews/3102707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "最新情报打脸白宫：伊朗仍保留70%导弹，30处海峡基地“可作战”",
+          "url": "https://flash.jin10.com/detail/20260513135118394800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "世界杯将至，伊朗队仍在等待入境美国",
+          "url": "https://news.ifeng.com/c/8t4Ge0tB5EZ",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时20分 ~ 12时27分]"
+        },
+        {
+          "title": "伊朗军队发言人：这场战争结束后，将再无退路可言。",
+          "url": "https://flash.jin10.com/detail/20260513192503190800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
+          "title": "伊拉克巴基斯坦已分别同伊朗签订协议",
+          "url": "https://www.toutiao.com/trending/7638201251310764073/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            8,
+            16,
+            22,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时21分 ~ 14时06分]"
+        },
+        {
+          "title": "伊朗军队发言人：对霍尔木兹海峡的控制也将增强伊朗在外交政策上的力量。",
+          "url": "https://flash.jin10.com/detail/20260513192318679800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
+          "title": "伊朗军队发言人：对霍尔木兹海峡的控制将为我们带来相当于石油收入两倍的经济收益。",
+          "url": "https://flash.jin10.com/detail/20260513192246985800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 75 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2037651644314116713",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
+          "title": "伊朗副总统否认哈尔克岛石油设施漏油",
+          "url": "https://flash.jin10.com/detail/20260513072333209800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时21分"
+        },
+        {
+          "title": "伊朗掌控霍尔木兹海峡，伊拉克、巴基斯坦双双拿下能源通航协议",
+          "url": "https://flash.jin10.com/detail/20260513083013302800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时34分"
+        },
+        {
+          "title": "国际能源署：假设霍尔木兹海峡的石油流量从6月开始逐步恢复，2026年全球石油供应将减少390万桶/日（此前预测为减少150万桶/日）。 预计2026年全球石油供应总量将比需求低178万桶/日（此前报告为高于需求41万桶/日）。 预计由于伊朗战争，2026年全球石油需求将减少42万桶/日（此前预测为减少8万桶/日）。 预计自2月份以来，霍尔木兹海峡关闭导致全球石油供应总损失达1280万桶/日。 预计受袭击、原油供应减少及出口限制影响，2026年全球炼油厂加工量将减少160万桶/日。",
+          "url": "https://wallstreetcn.com/livenews/3102838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时05分"
+        },
+        {
+          "title": "沙特也被曝曾对伊朗本土发动报复打击：海湾暗战浮出水面",
+          "url": "https://flash.jin10.com/detail/20260513065137238800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时21分"
+        },
+        {
+          "title": "科威特指伊朗“武装渗透”布比延岛，伊朗说巡逻船“导航故障”",
+          "url": "https://wallstreetcn.com/livenews/3102547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时21分"
+        },
+        {
+          "title": "科威特指伊朗“武装渗透”布比延岛 伊朗说巡逻船“导航故障”",
+          "url": "https://flash.jin10.com/detail/20260513063429108800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 15,
       "titles": [
@@ -676,8 +940,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时20分 ~ 18时49分]"
+          "appearance_count": 11,
+          "time_info": "[08时20分 ~ 19时41分]"
         },
         {
           "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
@@ -689,8 +953,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时20分 ~ 18时49分]"
+          "appearance_count": 11,
+          "time_info": "[08时20分 ~ 19时41分]"
         },
         {
           "title": "美股收盘： 通胀升温及伊朗局势施压市场 芯片股普遍回调 三大股指涨跌不一",
@@ -773,7 +1037,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -817,7 +1081,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -828,7 +1092,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -836,172 +1100,6 @@
           "title": "周二（5月12日），美股人工智能（AI）赢家指数跌2.35%，报391.38点，整体呈现出平坦的V形走势、北京时间00:54刷新日低至391.38点。成分股Fluence Energy收跌15.66%，闪迪跌6.17%，CoreWeave跌6.06%，Lumentum Holdings跌5.77%，核电股Oklo跌5.76%，西部数据跌5.25%，康宁公司跌4.41%跌幅第七大，英伟达涨0.61%表现第六，Meta涨0.69%。",
           "url": "https://wallstreetcn.com/livenews/3102557",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "伊朗官员：若再次遭袭，伊方或选择将浓缩铀丰度提升至90%",
-          "url": "https://news.ifeng.com/c/8t4DYs3Ow88",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时20分 ~ 08时21分]"
-        },
-        {
-          "title": "沙特、阿联酋被曝曾秘密空袭伊朗",
-          "url": "https://news.ifeng.com/c/8t5hJ4xQWHE",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时06分 ~ 15时58分]"
-        },
-        {
-          "title": "知情人士称阿联酋秘密打击伊朗，正式成为参战方，为何阿联酋要参战？会给中东局势带来哪些变化？",
-          "url": "https://www.zhihu.com/question/2037656032046838013",
-          "source": "知乎",
-          "ranks": [
-            18,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时27分 ~ 18时49分]"
-        },
-        {
-          "title": "沙特被曝3月曾对伊朗发动多次“报复性”空袭",
-          "url": "https://wallstreetcn.com/livenews/3102707",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "最新情报打脸白宫：伊朗仍保留70%导弹，30处海峡基地“可作战”",
-          "url": "https://flash.jin10.com/detail/20260513135118394800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时06分"
-        },
-        {
-          "title": "世界杯将至，伊朗队仍在等待入境美国",
-          "url": "https://news.ifeng.com/c/8t4Ge0tB5EZ",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时20分 ~ 12时27分]"
-        },
-        {
-          "title": "伊拉克巴基斯坦已分别同伊朗签订协议",
-          "url": "https://www.toutiao.com/trending/7638201251310764073/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            8,
-            16,
-            22,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时21分 ~ 14时06分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 75 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2037651644314116713",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "伊朗副总统否认哈尔克岛石油设施漏油",
-          "url": "https://flash.jin10.com/detail/20260513072333209800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时21分"
-        },
-        {
-          "title": "伊朗掌控霍尔木兹海峡，伊拉克、巴基斯坦双双拿下能源通航协议",
-          "url": "https://flash.jin10.com/detail/20260513083013302800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时34分"
-        },
-        {
-          "title": "国际能源署：假设霍尔木兹海峡的石油流量从6月开始逐步恢复，2026年全球石油供应将减少390万桶/日（此前预测为减少150万桶/日）。 预计2026年全球石油供应总量将比需求低178万桶/日（此前报告为高于需求41万桶/日）。 预计由于伊朗战争，2026年全球石油需求将减少42万桶/日（此前预测为减少8万桶/日）。 预计自2月份以来，霍尔木兹海峡关闭导致全球石油供应总损失达1280万桶/日。 预计受袭击、原油供应减少及出口限制影响，2026年全球炼油厂加工量将减少160万桶/日。",
-          "url": "https://wallstreetcn.com/livenews/3102838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时05分"
-        },
-        {
-          "title": "沙特也被曝曾对伊朗本土发动报复打击：海湾暗战浮出水面",
-          "url": "https://flash.jin10.com/detail/20260513065137238800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时21分"
-        },
-        {
-          "title": "科威特指伊朗“武装渗透”布比延岛，伊朗说巡逻船“导航故障”",
-          "url": "https://wallstreetcn.com/livenews/3102547",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时21分"
-        },
-        {
-          "title": "科威特指伊朗“武装渗透”布比延岛 伊朗说巡逻船“导航故障”",
-          "url": "https://flash.jin10.com/detail/20260513063429108800",
-          "source": "金十数据",
           "ranks": [
             30
           ],
@@ -1022,7 +1120,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -1058,6 +1156,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI合作传闻四起，联发科回应:在看大模型合作新机会",
+          "url": "https://wallstreetcn.com/livenews/3102983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
+          "title": "OpenAI合作传闻四起，联发科回应：在看大模型合作新机会",
+          "url": "https://flash.jin10.com/detail/20260513192439649800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         }
       ]
     },
