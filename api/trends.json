@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T21:32:45.532376+08:00",
-  "total_titles_processed": 1461,
+  "generated_at": "2026-05-14T22:49:26.344512+08:00",
+  "total_titles_processed": 1576,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 123,
+      "match_count": 126,
       "titles": [
         {
           "title": "美国总统特朗普抵达北京",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时06分 ~ 21时32分]"
+          "appearance_count": 11,
+          "time_info": "[14时06分 ~ 22时49分]"
         },
         {
           "title": "美国总统特朗普抵京，韩正前往机场迎接",
@@ -52,8 +52,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时55分 ~ 21时32分]"
+          "appearance_count": 10,
+          "time_info": "[15时55分 ~ 22时49分]"
         },
         {
           "title": "习近平同特朗普参观天坛",
@@ -64,8 +64,30 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时55分 ~ 22时49分]"
+        },
+        {
+          "title": "习近平同特朗普会晤详讯公布",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4%E8%AF%A6%E8%AE%AF%E5%85%AC%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[15时55分 ~ 21时32分]"
+          "time_info": "[16时52分 ~ 22时49分]"
+        },
+        {
+          "title": "伊朗学者：特朗普访华或影响美伊谈判走向",
+          "url": "https://news.ifeng.com/c/8t7cmt9kbtR",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时52分 ~ 22时49分]"
         },
         {
           "title": "习近平同美国总统特朗普会谈",
@@ -81,18 +103,18 @@
           "time_info": "[15时55分 ~ 21时32分]"
         },
         {
-          "title": "美国总统特朗普开始对中国进行国事访问，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2037998600785850525",
-          "source": "知乎",
+          "title": "习近平同特朗普举行会谈：中美应当做伙伴而不是对手，让2026年成为中美关系继往开来的历史性、标志性年份",
+          "url": "https://wallstreetcn.com/articles/3772243",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            2,
+            6,
+            5,
             4,
-            10
+            3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时22分 ~ 21时32分]"
+          "appearance_count": 11,
+          "time_info": "[14时06分 ~ 22时49分]"
         },
         {
           "title": "美国总统特朗普抵达北京开始访华",
@@ -108,30 +130,6 @@
           "time_info": "[08时22分 ~ 20时30分]"
         },
         {
-          "title": "习近平同特朗普举行会谈：中美应当做伙伴而不是对手，让2026年成为中美关系继往开来的历史性、标志性年份",
-          "url": "https://wallstreetcn.com/articles/3772243",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时06分 ~ 21时32分]"
-        },
-        {
-          "title": "习近平同特朗普会晤详讯公布",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4%E8%AF%A6%E8%AE%AF%E5%85%AC%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时52分 ~ 21时32分]"
-        },
-        {
           "title": "特朗普参观天坛:大美中国!",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354280&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%82%E8%A7%82%E5%A4%A9%E5%9D%9B%3A%E5%A4%A7%E7%BE%8E%E4%B8%AD%E5%9B%BD%21",
           "source": "贴吧",
@@ -143,20 +141,24 @@
           "time_info": "[15时55分 ~ 20时30分]"
         },
         {
+          "title": "美国总统特朗普开始对中国进行国事访问，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2037998600785850525",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2,
+            4,
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[08时22分 ~ 22时49分]"
+        },
+        {
           "title": "习近平同美国总统特朗普参观天坛",
           "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%82%E8%A7%82%E5%A4%A9%E5%9D%9B",
           "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时52分 ~ 21时32分]"
-        },
-        {
-          "title": "伊朗学者：特朗普访华或影响美伊谈判走向",
-          "url": "https://news.ifeng.com/c/8t7cmt9kbtR",
-          "source": "凤凰网",
           "ranks": [
             3
           ],
@@ -188,8 +190,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时06分 ~ 21时32分]"
+          "appearance_count": 11,
+          "time_info": "[14时06分 ~ 22时49分]"
         },
         {
           "title": "启程访华！特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国，是我的荣幸",
@@ -216,6 +218,37 @@
           "time_info": "[08时22分 ~ 14时06分]"
         },
         {
+          "title": "图讯丨习近平同美国总统特朗普参观天坛",
+          "url": "https://www.cls.cn/detail/2371151",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            7,
+            6,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时55分 ~ 22时49分]"
+        },
+        {
+          "title": "特朗普访华，为什么首选去天坛参观而不是其他地方？",
+          "url": "https://www.zhihu.com/question/2038289422072767093",
+          "source": "知乎",
+          "ranks": [
+            14,
+            5,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时45分 ~ 22时49分]"
+        },
+        {
           "title": "特朗普：今天的会谈举世瞩目",
           "url": "https://www.toutiao.com/trending/7639530295872749587/",
           "source": "今日头条",
@@ -224,11 +257,12 @@
             2,
             11,
             16,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时26分 ~ 21时32分]"
+          "appearance_count": 12,
+          "time_info": "[12时26分 ~ 22时49分]"
         },
         {
           "title": "特朗普参观天坛",
@@ -243,6 +277,28 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[14时06分 ~ 21时32分]"
+        },
+        {
+          "title": "习近平为特朗普举行欢迎宴会",
+          "url": "https://www.toutiao.com/trending/7639683077849271858/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时46分 ~ 22时49分]"
+        },
+        {
+          "title": "习近平为特朗普举行欢迎宴会",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BE%E8%A1%8C%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时46分 ~ 22时49分]"
         },
         {
           "title": "特朗普乘专机抵达中国",
@@ -278,44 +334,28 @@
           "time_info": "[09时35分 ~ 21时32分]"
         },
         {
-          "title": "特朗普访华，为什么首选去天坛参观而不是其他地方？",
-          "url": "https://www.zhihu.com/question/2038289422072767093",
-          "source": "知乎",
+          "title": "特朗普访华欢迎宴会",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            14,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时46分 ~ 22时49分]"
+        },
+        {
+          "title": "特朗普称赞“中国太美了”",
+          "url": "https://www.toutiao.com/trending/7639622366336253958/",
+          "source": "今日头条",
+          "ranks": [
             5,
-            4,
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时45分 ~ 21时32分]"
-        },
-        {
-          "title": "图讯丨习近平同美国总统特朗普参观天坛",
-          "url": "https://www.cls.cn/detail/2371151",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            7,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时55分 ~ 21时32分]"
-        },
-        {
-          "title": "习近平为特朗普举行欢迎宴会",
-          "url": "https://www.toutiao.com/trending/7639683077849271858/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时46分 ~ 21时32分]"
+          "appearance_count": 6,
+          "time_info": "[18时46分 ~ 22时49分]"
         },
         {
           "title": "习近平为特朗普举行欢迎宴会",
@@ -338,6 +378,32 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时01分 ~ 15时55分]"
+        },
+        {
+          "title": "习近平为特朗普举行欢迎宴会",
+          "url": "https://www.douyin.com/hot/2499066",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时32分 ~ 22时49分]"
+        },
+        {
+          "title": "特朗普为中国少年儿童驻足鼓掌",
+          "url": "https://www.toutiao.com/trending/7638863754645782534/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            26,
+            13,
+            16,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时06分 ~ 22时49分]"
         },
         {
           "title": "图讯丨美国总统特朗普抵达北京开始访华",
@@ -364,11 +430,12 @@
             11,
             14,
             13,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时26分 ~ 21时32分]"
+          "appearance_count": 12,
+          "time_info": "[12时26分 ~ 22时49分]"
         },
         {
           "title": "欢迎特朗普访问中国",
@@ -385,22 +452,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时22分 ~ 21时32分]"
-        },
-        {
-          "title": "特朗普为中国少年儿童驻足鼓掌",
-          "url": "https://www.toutiao.com/trending/7638863754645782534/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            26,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时06分 ~ 21时32分]"
+          "appearance_count": 17,
+          "time_info": "[08时22分 ~ 22时49分]"
         },
         {
           "title": "视频丨美国总统特朗普抵达北京",
@@ -423,42 +476,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时22分 ~ 21时32分]"
-        },
-        {
-          "title": "习近平为特朗普举行欢迎宴会",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BE%E8%A1%8C%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时46分 ~ 21时32分]"
-        },
-        {
-          "title": "特朗普访华欢迎宴会",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时46分 ~ 21时32分]"
-        },
-        {
-          "title": "特朗普称赞“中国太美了”",
-          "url": "https://www.toutiao.com/trending/7639622366336253958/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时46分 ~ 21时32分]"
+          "appearance_count": 17,
+          "time_info": "[08时22分 ~ 22时49分]"
         },
         {
           "title": "特朗普社媒发帖人曝光：34岁癌症幸存者，只听总统一人指令",
@@ -484,17 +503,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时35分 ~ 14时06分]"
-        },
-        {
-          "title": "习近平为特朗普举行欢迎宴会",
-          "url": "https://www.douyin.com/hot/2499066",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时32分 ~ 21时32分]"
         },
         {
           "title": "习近平同美国总统特朗普举行会谈",
@@ -570,6 +578,34 @@
           "time_info": "[16时52分 ~ 21时32分]"
         },
         {
+          "title": "特朗普访华欢迎仪式完整版视频",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33176000",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            19,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时55分 ~ 22时49分]"
+        },
+        {
+          "title": "全视角看特朗普访华欢迎仪式",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E8%A7%86%E8%A7%92%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%AC%A2%E8%BF%8E%E4%BB%AA%E5%BC%8F",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时45分 ~ 22时49分]"
+        },
+        {
           "title": "习近平举行仪式欢迎特朗普访华",
           "url": "https://www.douyin.com/hot/2498335",
           "source": "抖音",
@@ -591,6 +627,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时22分 ~ 11时02分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普会谈",
+          "url": "https://wallstreetcn.com/articles/3772261",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时46分 ~ 22时49分]"
         },
         {
           "title": "央视现场报道特朗普抵京",
@@ -661,33 +711,6 @@
           "time_info": "[09时35分 ~ 09时36分]"
         },
         {
-          "title": "特朗普访华欢迎仪式完整版视频",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33176000",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时55分 ~ 21时32分]"
-        },
-        {
-          "title": "全视角看特朗普访华欢迎仪式",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E8%A7%86%E8%A7%92%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%AC%A2%E8%BF%8E%E4%BB%AA%E5%BC%8F",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时45分 ~ 21时32分]"
-        },
-        {
           "title": "习近平与特朗普握手",
           "url": "https://www.toutiao.com/trending/7638536386953612842/",
           "source": "今日头条",
@@ -697,6 +720,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时01分 ~ 11时02分]"
+        },
+        {
+          "title": "特朗普访华欢迎宴会，都有哪些看点值得关注？",
+          "url": "https://www.zhihu.com/question/2038333650341557719",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时49分]"
         },
         {
           "title": "特朗普抵京",
@@ -745,6 +780,17 @@
           "time_info": "08时22分"
         },
         {
+          "title": "美国参议员沃伦要求美国证券交易委员会（SEC）调查美国总统特朗普家族的加密货币公司。",
+          "url": "https://flash.jin10.com/detail/20260514223452146800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "美国总统特朗普抵达北京",
           "url": "https://www.douyin.com/hot/2497952",
           "source": "抖音",
@@ -754,6 +800,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时22分"
+        },
+        {
+          "title": "特朗普乘车抵达欢迎宴会现场",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B9%98%E8%BD%A6%E6%8A%B5%E8%BE%BE%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%E7%8E%B0%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时46分 ~ 22时49分]"
+        },
+        {
+          "title": "特朗普抵达欢迎宴会现场",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            20,
+            23,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时46分 ~ 22时49分]"
         },
         {
           "title": "特朗普：美国大企业家都想来中国",
@@ -792,6 +866,17 @@
           "time_info": "12时26分"
         },
         {
+          "title": "美国参议院民主党成员Warren要求证券交易委员会（SEC）调查总统特朗普家族的加密货币公司。",
+          "url": "https://wallstreetcn.com/livenews/3103789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "特朗普抵达北京开始访华",
           "url": "https://www.toutiao.com/trending/7639334931310710323/",
           "source": "今日头条",
@@ -804,30 +889,6 @@
           "time_info": "[08时22分 ~ 09时36分]"
         },
         {
-          "title": "特朗普访华欢迎宴会，都有哪些看点值得关注？",
-          "url": "https://www.zhihu.com/question/2038333650341557719",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
-          "title": "习近平同美国总统特朗普会谈",
-          "url": "https://wallstreetcn.com/articles/3772261",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时46分 ~ 21时32分]"
-        },
-        {
           "title": "商界巨头、政府高官、儿子儿媳：哪些人即将随特朗普同机抵达中国",
           "url": "https://m.thepaper.cn/newsDetail_forward_33172029",
           "source": "澎湃新闻",
@@ -838,6 +899,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时22分 ~ 09时36分]"
+        },
+        {
+          "title": "详讯丨习近平同美国总统特朗普参观天坛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33177730",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "特朗普回过味了，“万斯嗖一下就被提溜走了，我呢？”",
@@ -906,30 +978,16 @@
           "time_info": "14时06分"
         },
         {
-          "title": "特朗普乘车抵达欢迎宴会现场",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B9%98%E8%BD%A6%E6%8A%B5%E8%BE%BE%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%E7%8E%B0%E5%9C%BA",
-          "source": "百度热搜",
+          "title": "详讯丨习近平同美国总统特朗普会谈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33176579",
+          "source": "澎湃新闻",
           "ranks": [
-            14,
-            13
+            10,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时46分 ~ 21时32分]"
-        },
-        {
-          "title": "特朗普抵达欢迎宴会现场",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            20,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时46分 ~ 21时32分]"
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时49分]"
         },
         {
           "title": "习近平将举行仪式欢迎美国总统特朗普访华",
@@ -1091,6 +1149,18 @@
           "time_info": "[11时02分 ~ 12时26分]"
         },
         {
+          "title": "习近平会见随同美国总统特朗普访华的美国企业家",
+          "url": "https://wallstreetcn.com/articles/3772253",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时49分]"
+        },
+        {
           "title": "特朗普访华随行现“芯片天团”",
           "url": "https://www.toutiao.com/trending/7639109572141006875/",
           "source": "今日头条",
@@ -1100,6 +1170,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时35分 ~ 09时36分]"
+        },
+        {
+          "title": "特朗普：美高法门楣上刻着孔子雕像",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E9%AB%98%E6%B3%95%E9%97%A8%E6%A5%A3%E4%B8%8A%E5%88%BB%E7%9D%80%E5%AD%94%E5%AD%90%E9%9B%95%E5%83%8F",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时49分]"
         },
         {
           "title": "特朗普访华欢迎宴会上雷军和马斯克合照，他们可能交流了什么？会对新能源车行业有影响吗？",
@@ -1164,7 +1246,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1191,17 +1273,6 @@
           "time_info": "08时22分"
         },
         {
-          "title": "习近平会见随同美国总统特朗普访华的美国企业家",
-          "url": "https://wallstreetcn.com/articles/3772253",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
           "title": "习近平为特朗普举行欢迎宴会",
           "url": "https://flash.jin10.com/detail/20260514181151260800",
           "source": "金十数据",
@@ -1213,24 +1284,13 @@
           "time_info": "18时46分"
         },
         {
-          "title": "详讯丨习近平同美国总统特朗普会谈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33176579",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
           "title": "市场消息：特朗普领导的美国劳工部撤销了美国前总统拜登的加班扩展政策。",
           "url": "https://flash.jin10.com/detail/20260514211206083800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1274,7 +1334,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1299,17 +1359,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
-        },
-        {
-          "title": "特朗普：美高法门楣上刻着孔子雕像",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E9%AB%98%E6%B3%95%E9%97%A8%E6%A5%A3%E4%B8%8A%E5%88%BB%E7%9D%80%E5%AD%94%E5%AD%90%E9%9B%95%E5%83%8F",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
         },
         {
           "title": "习近平将同美国总统特朗普举行会谈",
@@ -1340,7 +1389,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1479,6 +1528,233 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "伊朗外长：科威特攻击伊朗船只并扣押伊公民",
+          "url": "https://news.ifeng.com/c/8t6ZERSuZf6",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时22分 ~ 14时06分]"
+        },
+        {
+          "title": "据韩联社：韩国一名高级官员表示，在霍尔木兹海峡附近袭击“Namu”号货船的，不太可能是伊朗以外的其他实体。",
+          "url": "https://flash.jin10.com/detail/20260514104511857800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "以防长称或对伊朗再次采取行动",
+          "url": "https://flash.jin10.com/detail/20260514202359168800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时30分"
+        },
+        {
+          "title": "伊朗外交部：在新德里金砖国家外长会议期间，伊朗外长阿拉格齐俄罗斯外长拉夫罗夫进行会晤和交谈。",
+          "url": "https://flash.jin10.com/detail/20260514212412094800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "美军方宣称已摧毁伊朗90%水雷库存，国会却不买账",
+          "url": "https://flash.jin10.com/detail/20260514223414381800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "伊朗外长要求科威特立即释放扣押人员",
+          "url": "https://www.toutiao.com/trending/7638972470343663662/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时02分]"
+        },
+        {
+          "title": "日本央行审议委员增一行：伊朗战争引发的能源冲击对日本经济的影响可能比1973年的第一次石油危机更为严重，这一风险值得关注。",
+          "url": "https://flash.jin10.com/detail/20260514120928959800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "美国中央司令部司令Brad Cooper告诉国会山成员们：伊朗大约还剩下10%的无人机和导弹能力。",
+          "url": "https://wallstreetcn.com/livenews/3103776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "伊朗副总统Reza Aref：我们永远不会失去霍尔木兹海峡，无论付出任何代价。霍尔木兹海峡是我们的；它一直是我们的财产，只是有一段时间我们没能好好利用它。",
+          "url": "https://flash.jin10.com/detail/20260514201121858800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时30分"
+        },
+        {
+          "title": "美国高级海军上将：伊朗的军事能力已大幅下降，无法对邻国进行大规模的攻击。",
+          "url": "https://flash.jin10.com/detail/20260514221711922800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "美国高级海军上将：伊朗海军将在一代人时间内无法恢复到战前水平。",
+          "url": "https://flash.jin10.com/detail/20260514221450722800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "美国高级海军上将：伊朗的导弹、海军及无人机工业基础已遭90%的削弱。",
+          "url": "https://flash.jin10.com/detail/20260514221432587800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗革命卫队表示，自周三晚上以来，大约30艘船只在德黑兰的许可下穿越霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260514185427371800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "自昨晚以来，伊朗已允许30艘船只通过霍尔木兹海峡。（伊朗国家电视台）",
+          "url": "https://wallstreetcn.com/livenews/3103682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时30分"
+        },
+        {
+          "title": "土耳其央行行长：伊朗战争带来的通胀影响在短期内将十分明显，我们将监测次级影响。",
+          "url": "https://flash.jin10.com/detail/20260514153306170800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "英国海军称，一艘船只在富查伊拉附近被扣押，正被带往伊朗水域。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3103526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "沙特欲拉伊朗签互不侵犯条约，以色列难入局成“硬伤”！",
+          "url": "https://flash.jin10.com/detail/20260514221307698800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "以防长称或对伊朗再次采取行动",
+          "url": "https://wallstreetcn.com/livenews/3103714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "接近国际货币基金组织（IMF）的消息人士称，由于伊朗战争，伊拉克已向IMF寻求财政援助。",
+          "url": "https://flash.jin10.com/detail/20260514204622472800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "伊朗战争推高俄油税基 乌拉尔原油出口价格创逾两年高位",
+          "url": "https://flash.jin10.com/detail/20260514221018488800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 13,
       "titles": [
@@ -1512,7 +1788,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1541,6 +1817,18 @@
           "time_info": "[08时22分 ~ 09时36分]"
         },
         {
+          "title": "美股三大期指集体走高 思科盘前大涨15% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2371660",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时49分]"
+        },
+        {
           "title": "美股盘前，英伟达涨超2%；存储芯片概念股普跌，美光科技、闪迪均跌超1%。思科盘前涨近20%，第三季度营收超预期并宣布裁员。",
           "url": "https://wallstreetcn.com/livenews/3103563",
           "source": "华尔街见闻-快讯",
@@ -1553,24 +1841,13 @@
           "time_info": "[16时52分 ~ 17时46分]"
         },
         {
-          "title": "美股三大期指集体走高 思科盘前大涨15% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2371660",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
           "title": "金十数据整理：每日美股市场要闻速递（2026-05-14）",
           "url": "https://flash.jin10.com/detail/20260514211414370800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1632,156 +1909,6 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "伊朗外长：科威特攻击伊朗船只并扣押伊公民",
-          "url": "https://news.ifeng.com/c/8t6ZERSuZf6",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时22分 ~ 14时06分]"
-        },
-        {
-          "title": "据韩联社：韩国一名高级官员表示，在霍尔木兹海峡附近袭击“Namu”号货船的，不太可能是伊朗以外的其他实体。",
-          "url": "https://flash.jin10.com/detail/20260514104511857800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        },
-        {
-          "title": "以防长称或对伊朗再次采取行动",
-          "url": "https://flash.jin10.com/detail/20260514202359168800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时30分"
-        },
-        {
-          "title": "伊朗外交部：在新德里金砖国家外长会议期间，伊朗外长阿拉格齐俄罗斯外长拉夫罗夫进行会晤和交谈。",
-          "url": "https://flash.jin10.com/detail/20260514212412094800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
-          "title": "伊朗外长要求科威特立即释放扣押人员",
-          "url": "https://www.toutiao.com/trending/7638972470343663662/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时02分]"
-        },
-        {
-          "title": "日本央行审议委员增一行：伊朗战争引发的能源冲击对日本经济的影响可能比1973年的第一次石油危机更为严重，这一风险值得关注。",
-          "url": "https://flash.jin10.com/detail/20260514120928959800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "伊朗副总统Reza Aref：我们永远不会失去霍尔木兹海峡，无论付出任何代价。霍尔木兹海峡是我们的；它一直是我们的财产，只是有一段时间我们没能好好利用它。",
-          "url": "https://flash.jin10.com/detail/20260514201121858800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时30分"
-        },
-        {
-          "title": "据伊朗国家媒体：伊朗革命卫队表示，自周三晚上以来，大约30艘船只在德黑兰的许可下穿越霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260514185427371800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "自昨晚以来，伊朗已允许30艘船只通过霍尔木兹海峡。（伊朗国家电视台）",
-          "url": "https://wallstreetcn.com/livenews/3103682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时30分"
-        },
-        {
-          "title": "土耳其央行行长：伊朗战争带来的通胀影响在短期内将十分明显，我们将监测次级影响。",
-          "url": "https://flash.jin10.com/detail/20260514153306170800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时55分"
-        },
-        {
-          "title": "英国海军称，一艘船只在富查伊拉附近被扣押，正被带往伊朗水域。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3103526",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时55分"
-        },
-        {
-          "title": "以防长称或对伊朗再次采取行动",
-          "url": "https://wallstreetcn.com/livenews/3103714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
-          "title": "接近国际货币基金组织（IMF）的消息人士称，由于伊朗战争，伊拉克已向IMF寻求财政援助。",
-          "url": "https://flash.jin10.com/detail/20260514204622472800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -1792,11 +1919,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时46分 ~ 21时32分]"
+          "appearance_count": 6,
+          "time_info": "[18时46分 ~ 22时49分]"
         },
         {
           "title": "伊朗战火烧到美债市场：30年期收益率重回5%，上一次出现后便是金融危机",
