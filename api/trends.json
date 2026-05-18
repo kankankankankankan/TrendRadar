@@ -1,349 +1,11 @@
 {
-  "generated_at": "2026-05-18T18:25:44.924976+08:00",
-  "total_titles_processed": 1114,
+  "generated_at": "2026-05-18T20:08:19.774322+08:00",
+  "total_titles_processed": 1247,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 29,
-      "titles": [
-        {
-          "title": "特朗普威胁伊朗，又开始倒计时了",
-          "url": "https://news.ifeng.com/c/8tDfE3dOA2C",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时19分 ~ 18时25分]"
-        },
-        {
-          "title": "伊朗还剩多少导弹？特朗普称仅18%，伊方称有120%",
-          "url": "https://news.ifeng.com/c/8tCj0YcwzIz",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时19分 ~ 18时25分]"
-        },
-        {
-          "title": "特朗普涉台“四不”示警“台独”",
-          "url": "https://www.toutiao.com/trending/7641033902121058340/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时01分 ~ 18时25分]"
-        },
-        {
-          "title": "如何看待特朗普访华和战争威胁？伊朗民众回应",
-          "url": "https://news.ifeng.com/c/8tDhN597aTX",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时36分 ~ 18时25分]"
-        },
-        {
-          "title": "外交部发言人就美国总统特朗普涉台表态答记者问",
-          "url": "https://www.cls.cn/detail/2374157",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "外交部回应特朗普涉台表态",
-          "url": "https://news.ifeng.com/c/8tEEErjEHHh",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "美国总统特朗普在《财富》采访中表示，应该在与英特尔的交易中提出更高的要求。",
-          "url": "https://flash.jin10.com/detail/20260518160516110800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "伊朗回应特朗普威胁：“我们知道如何应对”",
-          "url": "https://wallstreetcn.com/livenews/3105254",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "特朗普连发15张图分享中国记忆",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%9E%E5%8F%9115%E5%BC%A0%E5%9B%BE%E5%88%86%E4%BA%AB%E4%B8%AD%E5%9B%BD%E8%AE%B0%E5%BF%86%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "岛内称特朗普警告“台独”重击赖当局",
-          "url": "https://www.toutiao.com/trending/7640276210946179115/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            15,
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时19分 ~ 12时37分]"
-        },
-        {
-          "title": "外交部回应特朗普涉台表态",
-          "url": "https://www.douyin.com/hot/2503354",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "伊朗回应特朗普威胁：我们知道如何应对",
-          "url": "https://news.ifeng.com/c/8tEGnREugMl",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "伊朗对特朗普的最新威胁作出回应：我们自有应对之策。",
-          "url": "https://wallstreetcn.com/livenews/3105251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "特朗普涉台“四不”示警“台独”",
-          "url": "https://news.ifeng.com/c/8tDfE3dO9u7",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时25分 ~ 18时25分]"
-        },
-        {
-          "title": "伊朗方面就特朗普的最新威胁表示，我们知道如何应对。",
-          "url": "https://flash.jin10.com/detail/20260518160408415800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "特朗普在接受《财星》杂志采访时表示：伊朗“渴望签署”协议。 最高法院的关税裁决“让我很生气”。 人工智能蕴含着积极的力量。 在与英特尔的交易中本应“要求更多”的。",
-          "url": "https://wallstreetcn.com/livenews/3105250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "特朗普最新访谈：承认短期内难以降息，“继承者”至关重要",
-          "url": "https://flash.jin10.com/detail/20260518181609236800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "特朗普称「伊斯兰国」二号头目被「清除」，可信度如何？可能带来什么影响？",
-          "url": "https://www.zhihu.com/question/2038948707844846917",
-          "source": "知乎",
-          "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时01分 ~ 12时37分]"
-        },
-        {
-          "title": "内塔尼亚胡与特朗普通话“讨论重启对伊战事可能性”，阿联酋关键核电站遭袭",
-          "url": "https://wallstreetcn.com/articles/3772466",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 18时25分]"
-        },
-        {
-          "title": "特朗普连发15张图分享中国记忆",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%9E%E5%8F%9115%E5%BC%A0%E5%9B%BE%E5%88%86%E4%BA%AB%E4%B8%AD%E5%9B%BD%E8%AE%B0%E5%BF%86",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 18时25分]"
-        },
-        {
-          "title": "中方回应特朗普涉台表态",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 18时25分]"
-        },
-        {
-          "title": "美国总统特朗普在社媒上分享了一张人工智能生成的与外星人的合照。",
-          "url": "https://flash.jin10.com/detail/20260518074442462800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
-        },
-        {
-          "title": "美国总统特朗普在《财富》采访中表示“伊朗迫切希望达成协议”。",
-          "url": "https://flash.jin10.com/detail/20260518160114421800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "特朗普警告伊朗：“时钟正滴答作响”",
-          "url": "https://www.cls.cn/detail/2373911",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "特朗普访华后，日本慌了？日媒急了！",
-          "url": "https://www.cls.cn/detail/2373281",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时38分"
-        },
-        {
-          "title": "台名嘴谈特朗普拒为“台独”背书",
-          "url": "https://www.toutiao.com/trending/7640870565197676580/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "特朗普与内塔尼亚胡通话：讨论重启对伊朗军事打击！美以联合空袭风险骤增",
-          "url": "https://flash.jin10.com/detail/20260518064310354800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
-        },
-        {
-          "title": "特朗普称仍相信伊朗有意达成协议",
-          "url": "https://wallstreetcn.com/livenews/3104917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
-        },
-        {
-          "title": "【外交部：中方愿同美方一道全面准确落实好两国元首达成的重要共识】5月18日，外交部发言人郭嘉昆主持例行记者会。总台央视记者提问，白宫发布了特朗普总统访华的事实清单，介绍此访的有关成果，请问中方对此有何评论？郭嘉昆表示，特朗普总统访华期间，两国元首同意将“中美建设性战略稳定关系”作为两国关系的新定位，就下阶段高层交往和外交、经贸等各领域对话合作作出规划，就共同关心的国际和地区热点问题深入交换意见。中方愿同美方一道全面准确落实好两国元首达成的重要共识。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3105215",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
           "title": "报道：美方在回应伊朗提议时列出5个关键条件",
@@ -391,7 +53,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -413,7 +75,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -441,6 +103,18 @@
           "time_info": "[11时02分 ~ 12时37分]"
         },
         {
+          "title": "伊朗成立管理霍尔木兹海峡新机构",
+          "url": "https://news.ifeng.com/c/8tEPWGzaW36",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 20时08分]"
+        },
+        {
           "title": "伊朗宣布5月19日起恢复股票市场交易",
           "url": "https://www.cls.cn/detail/2373254",
           "source": "财联社热门",
@@ -453,15 +127,15 @@
           "time_info": "[08时19分 ~ 09时38分]"
         },
         {
-          "title": "伊朗成立管理霍尔木兹海峡新机构",
-          "url": "https://news.ifeng.com/c/8tEPWGzaW36",
+          "title": "伊朗通过巴基斯坦提交14点谈判文本",
+          "url": "https://news.ifeng.com/c/8tEPz9vOwBG",
           "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时25分"
+          "time_info": "20时08分"
         },
         {
           "title": "伊朗成立管理霍尔木兹海峡新机构",
@@ -470,7 +144,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -481,7 +155,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -492,7 +166,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -503,9 +177,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "巴基斯坦消息人士：巴方已将伊朗最新方案转交美国",
+          "url": "https://wallstreetcn.com/livenews/3105382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
         },
         {
           "title": "贝森特呼吁七国集团及其他国家加强对伊朗的制裁",
@@ -525,7 +210,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -563,6 +248,17 @@
           "time_info": "16时19分"
         },
         {
+          "title": "消息人士：美国提出暂时豁免伊朗石油制裁",
+          "url": "https://flash.jin10.com/detail/20260518193932627800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
+        },
+        {
           "title": "巴基斯坦消息人士：巴基斯坦周日晚分享了修订版的伊朗提案，以结束美伊战争。",
           "url": "https://flash.jin10.com/detail/20260518155754935800",
           "source": "金十数据",
@@ -591,7 +287,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -618,6 +314,17 @@
           "time_info": "16时19分"
         },
         {
+          "title": "伊朗主要原油出口枢纽哈尔克岛油轮积压 创美军实施封锁以来的峰值",
+          "url": "https://wallstreetcn.com/livenews/3105359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
+        },
+        {
           "title": "欧盟外交与安全政策高级代表卡拉斯：美国和伊朗应就“第一阶段”协议达成一致意见，谈判困难重重，最终美国不得不与伊朗达成协议，第一阶段结束后，美伊可以就更棘手的问题进行谈判。",
           "url": "https://flash.jin10.com/detail/20260518155024548800",
           "source": "金十数据",
@@ -635,7 +342,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -646,9 +353,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "伊朗称已将最新谈判意见反馈给美方",
+          "url": "https://wallstreetcn.com/livenews/3105351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
         },
         {
           "title": "伊朗外交部发言人：德黑兰在与美国的谈判中要求释放伊朗被冻结的资金并解除制裁。",
@@ -671,6 +389,478 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 32,
+      "titles": [
+        {
+          "title": "特朗普威胁伊朗，又开始倒计时了",
+          "url": "https://news.ifeng.com/c/8tDfE3dOA2C",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时19分 ~ 20时08分]"
+        },
+        {
+          "title": "伊朗还剩多少导弹？特朗普称仅18%，伊方称有120%",
+          "url": "https://news.ifeng.com/c/8tCj0YcwzIz",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时19分 ~ 18时25分]"
+        },
+        {
+          "title": "特朗普涉台“四不”示警“台独”",
+          "url": "https://www.toutiao.com/trending/7641033902121058340/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时01分 ~ 20时08分]"
+        },
+        {
+          "title": "如何看待特朗普访华和战争威胁？伊朗民众回应",
+          "url": "https://news.ifeng.com/c/8tDhN597aTX",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时36分 ~ 18时25分]"
+        },
+        {
+          "title": "外交部发言人就美国总统特朗普涉台表态答记者问",
+          "url": "https://www.cls.cn/detail/2374157",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 20时08分]"
+        },
+        {
+          "title": "外交部回应特朗普涉台表态",
+          "url": "https://news.ifeng.com/c/8tEEErjEHHh",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 20时08分]"
+        },
+        {
+          "title": "特朗普连发15张图分享中国记忆",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%9E%E5%8F%9115%E5%BC%A0%E5%9B%BE%E5%88%86%E4%BA%AB%E4%B8%AD%E5%9B%BD%E8%AE%B0%E5%BF%86%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 20时08分]"
+        },
+        {
+          "title": "伊朗回应特朗普威胁：我们知道如何应对",
+          "url": "https://news.ifeng.com/c/8tEGnREugMl",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 20时08分]"
+        },
+        {
+          "title": "特朗普涉台“四不”示警“台独”",
+          "url": "https://news.ifeng.com/c/8tDfE3dO9u7",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时25分 ~ 20时08分]"
+        },
+        {
+          "title": "美国总统特朗普在《财富》采访中表示，应该在与英特尔的交易中提出更高的要求。",
+          "url": "https://flash.jin10.com/detail/20260518160516110800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "伊朗回应特朗普威胁：“我们知道如何应对”",
+          "url": "https://wallstreetcn.com/livenews/3105254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "岛内称特朗普警告“台独”重击赖当局",
+          "url": "https://www.toutiao.com/trending/7640276210946179115/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            15,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时19分 ~ 12时37分]"
+        },
+        {
+          "title": "外交部回应特朗普涉台表态",
+          "url": "https://www.douyin.com/hot/2503354",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "伊朗对特朗普的最新威胁作出回应：我们自有应对之策。",
+          "url": "https://wallstreetcn.com/livenews/3105251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "伊朗方面就特朗普的最新威胁表示，我们知道如何应对。",
+          "url": "https://flash.jin10.com/detail/20260518160408415800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "特朗普在接受《财星》杂志采访时表示：伊朗“渴望签署”协议。 最高法院的关税裁决“让我很生气”。 人工智能蕴含着积极的力量。 在与英特尔的交易中本应“要求更多”的。",
+          "url": "https://wallstreetcn.com/livenews/3105250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "特朗普最新访谈：承认短期内难以降息，“继承者”至关重要",
+          "url": "https://flash.jin10.com/detail/20260518181609236800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "特朗普称「伊斯兰国」二号头目被「清除」，可信度如何？可能带来什么影响？",
+          "url": "https://www.zhihu.com/question/2038948707844846917",
+          "source": "知乎",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时01分 ~ 12时37分]"
+        },
+        {
+          "title": "内塔尼亚胡与特朗普通话“讨论重启对伊战事可能性”，阿联酋关键核电站遭袭",
+          "url": "https://wallstreetcn.com/articles/3772466",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 20时08分]"
+        },
+        {
+          "title": "特朗普连发15张图分享中国记忆",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%9E%E5%8F%9115%E5%BC%A0%E5%9B%BE%E5%88%86%E4%BA%AB%E4%B8%AD%E5%9B%BD%E8%AE%B0%E5%BF%86",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 20时08分]"
+        },
+        {
+          "title": "中方回应特朗普涉台表态",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 20时08分]"
+        },
+        {
+          "title": "特朗普警告伊朗：“时钟正滴答作响”",
+          "url": "https://www.cls.cn/detail/2373911",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 20时08分]"
+        },
+        {
+          "title": "美国总统特朗普在社媒上分享了一张人工智能生成的与外星人的合照。",
+          "url": "https://flash.jin10.com/detail/20260518074442462800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时19分"
+        },
+        {
+          "title": "美国总统特朗普在《财富》采访中表示“伊朗迫切希望达成协议”。",
+          "url": "https://flash.jin10.com/detail/20260518160114421800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "特朗普访华后，日本慌了？日媒急了！",
+          "url": "https://www.cls.cn/detail/2373281",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "中方回应高市早苗与特朗普通话",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
+        },
+        {
+          "title": "台名嘴谈特朗普拒为“台独”背书",
+          "url": "https://www.toutiao.com/trending/7640870565197676580/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "UP主独家解读特朗普访华国宴",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%8B%AC%E5%AE%B6%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%9B%BD%E5%AE%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
+        },
+        {
+          "title": "特朗普与内塔尼亚胡通话：讨论重启对伊朗军事打击！美以联合空袭风险骤增",
+          "url": "https://flash.jin10.com/detail/20260518064310354800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时19分"
+        },
+        {
+          "title": "特朗普称仍相信伊朗有意达成协议",
+          "url": "https://wallstreetcn.com/livenews/3104917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时19分"
+        },
+        {
+          "title": "白宫发特朗普访华回顾视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%AB%E5%8F%91%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%9B%9E%E9%A1%BE%E8%A7%86%E9%A2%91%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
+        },
+        {
+          "title": "【外交部：中方愿同美方一道全面准确落实好两国元首达成的重要共识】5月18日，外交部发言人郭嘉昆主持例行记者会。总台央视记者提问，白宫发布了特朗普总统访华的事实清单，介绍此访的有关成果，请问中方对此有何评论？郭嘉昆表示，特朗普总统访华期间，两国元首同意将“中美建设性战略稳定关系”作为两国关系的新定位，就下阶段高层交往和外交、经贸等各领域对话合作作出规划，就共同关心的国际和地区热点问题深入交换意见。中方愿同美方一道全面准确落实好两国元首达成的重要共识。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3105215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "全球债市抛售加剧、10年期日债收益率创30年新高，美股盘前短线拉升，黄金小幅上涨",
+          "url": "https://wallstreetcn.com/articles/3772473",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
+        },
+        {
+          "title": "国际油价短线下挫，现货黄金、美股期货短线拉升，报道称美国提出暂时豁免伊朗石油制裁",
+          "url": "https://wallstreetcn.com/livenews/3105394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
+        },
+        {
+          "title": "美股和金银开盘大跌，但美国 4 月工业数据超预期，纽约联储制造业指数创近 4 年新高，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2038737314017432936",
+          "source": "知乎",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时19分 ~ 11时02分]"
+        },
+        {
+          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
+          "url": "https://www.cls.cn/detail/2373249",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时19分 ~ 09时38分]"
+        },
+        {
+          "title": "摩根士丹利：债市抛售恐冲击美股涨势",
+          "url": "https://wallstreetcn.com/livenews/3105305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
+          "url": "https://www.cls.cn/detail/2373172",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时19分"
+        },
+        {
+          "title": "百度集团第一季度营收320.8亿元人民币，预估314.9亿元人民币。 调整后营业利润38.1亿元人民币，预估33.4亿元人民币。 经调整每ADS利润12.06元人民币，预估11.84元人民币。 调整后息税折旧及摊销前利润59.5亿元人民币，预估52.3亿元人民币。 第一季度爱奇艺收入62.3亿元人民币，预估64.3亿元人民币。 百度美股盘前一度涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/3105289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "特朗普亲手“拆台”沃什新政，美股长牛面临考验！",
+          "url": "https://flash.jin10.com/detail/20260518083334771800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时38分"
         }
       ]
     },
@@ -776,6 +966,19 @@
           "time_info": "[09时38分 ~ 18时25分]"
         },
         {
+          "title": "全线雪崩！美债抛售加剧 “债券义警”正倒逼美联储加息？",
+          "url": "https://www.cls.cn/detail/2374021",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 20时08分]"
+        },
+        {
           "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
           "url": "https://wallstreetcn.com/articles/3772363",
           "source": "华尔街见闻",
@@ -788,28 +991,17 @@
           "time_info": "[08时19分 ~ 09时38分]"
         },
         {
-          "title": "全线雪崩！美债抛售加剧 “债券义警”正倒逼美联储加息？",
-          "url": "https://www.cls.cn/detail/2374021",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 18时25分]"
-        },
-        {
           "title": "美股不祥信号浮现？美债收益率狂飙 一文解析背后三大推手",
           "url": "https://www.cls.cn/detail/2373864",
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时25分 ~ 18时25分]"
+          "appearance_count": 4,
+          "time_info": "[14时25分 ~ 20时08分]"
         },
         {
           "title": "高盛：伊朗冲突持续与供应冲击，削弱美债分散风险能力",
@@ -836,92 +1028,20 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美股和金银开盘大跌，但美国 4 月工业数据超预期，纽约联储制造业指数创近 4 年新高，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2038737314017432936",
-          "source": "知乎",
-          "ranks": [
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时19分 ~ 11时02分]"
-        },
-        {
-          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
-          "url": "https://www.cls.cn/detail/2373249",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时19分 ~ 09时38分]"
-        },
-        {
-          "title": "摩根士丹利：债市抛售恐冲击美股涨势",
-          "url": "https://wallstreetcn.com/livenews/3105305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
-          "url": "https://www.cls.cn/detail/2373172",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
-        },
-        {
-          "title": "百度集团第一季度营收320.8亿元人民币，预估314.9亿元人民币。 调整后营业利润38.1亿元人民币，预估33.4亿元人民币。 经调整每ADS利润12.06元人民币，预估11.84元人民币。 调整后息税折旧及摊销前利润59.5亿元人民币，预估52.3亿元人民币。 第一季度爱奇艺收入62.3亿元人民币，预估64.3亿元人民币。 百度美股盘前一度涨近4%。",
-          "url": "https://wallstreetcn.com/livenews/3105289",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "特朗普亲手“拆台”沃什新政，美股长牛面临考验！",
-          "url": "https://flash.jin10.com/detail/20260518083334771800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时38分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "本周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
           "url": "https://wallstreetcn.com/articles/3772335",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时38分 ~ 18时25分]"
+          "appearance_count": 9,
+          "time_info": "[09时38分 ~ 20时08分]"
         },
         {
           "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
@@ -933,6 +1053,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时19分"
+        },
+        {
+          "title": "Gemini精准算中Offer",
+          "url": "https://s.weibo.com/weibo?q=Gemini%E7%B2%BE%E5%87%86%E7%AE%97%E4%B8%ADOffer&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
         },
         {
           "title": "伊朗威胁掐断霍尔木兹海峡海底光缆，要对谷歌、微软收“海底买路钱”",
@@ -962,6 +1093,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时19分 ~ 09时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY短线下挫近20点，报99.06。",
+          "url": "https://flash.jin10.com/detail/20260518194217180800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
         }
       ]
     }
