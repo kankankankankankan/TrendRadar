@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T08:19:54.275282+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-05-18T09:38:34.873290+08:00",
+  "total_titles_processed": 437,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普威胁伊朗，又开始倒计时了",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
+          "appearance_count": 2,
+          "time_info": "[08时19分 ~ 09时38分]"
         },
         {
           "title": "伊朗还剩多少导弹？特朗普称仅18%，伊方称有120%",
@@ -26,8 +26,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
+          "appearance_count": 2,
+          "time_info": "[08时19分 ~ 09时38分]"
+        },
+        {
+          "title": "岛内称特朗普警告“台独”重击赖当局",
+          "url": "https://www.toutiao.com/trending/7640276210946179115/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时19分 ~ 09时38分]"
         },
         {
           "title": "美国总统特朗普在社媒上分享了一张人工智能生成的与外星人的合照。",
@@ -41,15 +53,15 @@
           "time_info": "08时19分"
         },
         {
-          "title": "岛内称特朗普警告“台独”重击赖当局",
-          "url": "https://www.toutiao.com/trending/7640276210946179115/",
-          "source": "今日头条",
+          "title": "特朗普访华后，日本慌了？日媒急了！",
+          "url": "https://www.cls.cn/detail/2373281",
+          "source": "财联社热门",
           "ranks": [
-            17
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时19分"
+          "time_info": "09时38分"
         },
         {
           "title": "特朗普与内塔尼亚胡通话：讨论重启对伊朗军事打击！美以联合空袭风险骤增",
@@ -84,22 +96,24 @@
           "url": "https://wallstreetcn.com/articles/3772457",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
+          "appearance_count": 2,
+          "time_info": "[08时19分 ~ 09时38分]"
         },
         {
           "title": "伊媒：美对伊朗提出5个关键条件",
           "url": "https://news.ifeng.com/c/8tCiiAKahND",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
+          "appearance_count": 2,
+          "time_info": "[08时19分 ~ 09时38分]"
         },
         {
           "title": "胡锡进：卡利巴夫任伊朗对华事务特别代表，蕴含着重大动向",
@@ -109,36 +123,38 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
+          "appearance_count": 2,
+          "time_info": "[08时19分 ~ 09时38分]"
         },
         {
           "title": "伊朗宣布5月19日起恢复股票市场交易",
           "url": "https://www.cls.cn/detail/2373254",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
+          "appearance_count": 2,
+          "time_info": "[08时19分 ~ 09时38分]"
         },
         {
           "title": "消息人士：美方在回应伊朗提议时列出5个关键条件",
           "url": "https://m.thepaper.cn/newsDetail_forward_33190671",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
+          "appearance_count": 2,
+          "time_info": "[08时19分 ~ 09时38分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
@@ -148,8 +164,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
+          "appearance_count": 2,
+          "time_info": "[08时19分 ~ 09时38分]"
         },
         {
           "title": "美股和金银开盘大跌，但美国 4 月工业数据超预期，纽约联储制造业指数创近 4 年新高，对此你怎么看？",
@@ -159,8 +175,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
+          "appearance_count": 2,
+          "time_info": "[08时19分 ~ 09时38分]"
         },
         {
           "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
@@ -172,6 +188,85 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时19分"
+        },
+        {
+          "title": "特朗普亲手“拆台”沃什新政，美股长牛面临考验！",
+          "url": "https://flash.jin10.com/detail/20260518083334771800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "本周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
+          "url": "https://wallstreetcn.com/articles/3772335",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
+          "url": "https://wallstreetcn.com/articles/3772335",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时19分"
+        },
+        {
+          "title": "伊朗威胁掐断霍尔木兹海峡海底光缆，要对谷歌、微软收“海底买路钱”",
+          "url": "https://flash.jin10.com/detail/20260518084601617800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
+          "url": "https://wallstreetcn.com/articles/3772363",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时19分 ~ 09时38分]"
+        },
+        {
+          "title": "抛美债、买日债--华尔街准备应对“日资回流”",
+          "url": "https://wallstreetcn.com/articles/3772455",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
         }
       ]
     },
@@ -184,45 +279,12 @@
           "url": "https://www.zhihu.com/question/2037925163765691524",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
-          "url": "https://wallstreetcn.com/articles/3772335",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
-          "url": "https://wallstreetcn.com/articles/3772363",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
+          "appearance_count": 2,
+          "time_info": "[08时19分 ~ 09时38分]"
         }
       ]
     }
