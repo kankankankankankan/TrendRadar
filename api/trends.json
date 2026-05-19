@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T16:08:31.935804+08:00",
-  "total_titles_processed": 1090,
+  "generated_at": "2026-05-19T18:15:31.774657+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "报道：美方同意在谈判期间暂时豁免对伊朗的石油制裁",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时08分 ~ 16时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时08分 ~ 18时15分]"
         },
         {
           "title": "伊朗披露穆杰塔巴受伤细节",
@@ -42,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时22分 ~ 16时08分]"
+          "appearance_count": 9,
+          "time_info": "[08时22分 ~ 18时15分]"
         },
         {
           "title": "伊朗称有权对霍尔木兹海峡海底光缆收“管理费”",
@@ -80,6 +80,31 @@
           "time_info": "14时22分"
         },
         {
+          "title": "以媒：内塔尼亚胡连续两晚开会，为重启对伊朗战事做准备",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33197057",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时01分 ~ 18时15分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 81 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2039842544964429579",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时01分 ~ 18时15分]"
+        },
+        {
           "title": "澳洲联储会议纪要：委员会讨论了金融市场是否低估了伊朗冲突风险的可能性。",
           "url": "https://flash.jin10.com/detail/20260519093508538800",
           "source": "金十数据",
@@ -113,28 +138,15 @@
           "time_info": "14时22分"
         },
         {
-          "title": "美以袭击伊朗进入第 81 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2039842544964429579",
-          "source": "知乎",
+          "title": "伊朗军方发言人称若再次遭袭将“开启新战线”",
+          "url": "https://wallstreetcn.com/livenews/3105963",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            11
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时01分 ~ 16时08分]"
-        },
-        {
-          "title": "以媒：内塔尼亚胡连续两晚开会，为重启对伊朗战事做准备",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33197057",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时01分 ~ 16时08分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "美方被曝将暂停对伊朗的石油制裁",
@@ -214,6 +226,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "伊朗与阿塞拜疆边境恢复汽车进口通关业务",
+          "url": "https://wallstreetcn.com/livenews/3105951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "伊朗议员：伊朗“从未离开谈判桌”",
+          "url": "https://wallstreetcn.com/livenews/3105946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "报道：美国拒绝了伊朗的最新和平方案建议",
@@ -337,15 +371,37 @@
           "time_info": "00时08分"
         },
         {
+          "title": "伊朗议员：伊朗“从未离开谈判桌”",
+          "url": "https://flash.jin10.com/detail/20260519172715448800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "伊朗副外长公布伊对美协议草案提议 包括美军从周边地区撤离",
           "url": "https://wallstreetcn.com/livenews/3105877",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时08分"
+        },
+        {
+          "title": "伊朗称在东南部摧毁4个极端组织武装小组",
+          "url": "https://wallstreetcn.com/livenews/3105928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "伊朗消息称美方展现灵活性 伊方重申核心立场",
@@ -373,8 +429,22 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
+          "url": "https://wallstreetcn.com/articles/3772569",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时37分 ~ 18时15分]"
+        },
         {
           "title": "特朗普称将推迟对伊朗发动军事打击",
           "url": "https://www.cls.cn/detail/2374774",
@@ -389,19 +459,6 @@
           "time_info": "[08时22分 ~ 16时08分]"
         },
         {
-          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
-          "url": "https://wallstreetcn.com/articles/3772569",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时37分 ~ 16时08分]"
-        },
-        {
           "title": "特朗普连发15张图分享“中国记忆”",
           "url": "https://news.ifeng.com/c/8tFAH622lBt",
           "source": "凤凰网",
@@ -409,8 +466,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时22分 ~ 16时08分]"
+          "appearance_count": 9,
+          "time_info": "[08时22分 ~ 18时15分]"
         },
         {
           "title": "特朗普连发15张图分享中国记忆",
@@ -530,6 +587,18 @@
           "time_info": "08时23分"
         },
         {
+          "title": "沃什上任在即！特朗普“撤回”降息压力：伊朗战争结束前无法确定利率前景",
+          "url": "https://www.cls.cn/detail/2375112",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时08分 ~ 18时15分]"
+        },
+        {
           "title": "特朗普敲打“台独” 日本被美撤梯子",
           "url": "https://www.toutiao.com/trending/7640786941127196678/",
           "source": "今日头条",
@@ -644,17 +713,6 @@
           "time_info": "00时08分"
         },
         {
-          "title": "沃什上任在即！特朗普“撤回”降息压力：伊朗战争结束前无法确定利率前景",
-          "url": "https://www.cls.cn/detail/2375112",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时08分"
-        },
-        {
           "title": "美国总统特朗普将在周一披露折价医药方案。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3105497",
           "source": "华尔街见闻-快讯",
@@ -664,6 +722,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "特朗普暗示日本过头了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%97%E7%A4%BA%E6%97%A5%E6%9C%AC%E8%BF%87%E5%A4%B4%E4%BA%86%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "特朗普：海湾盟友请求推迟对伊军事打击“两三天”",
@@ -723,6 +792,118 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
+          "url": "https://wallstreetcn.com/articles/3772473",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时22分 ~ 18时15分]"
+        },
+        {
+          "title": "【早报】美股存储、半导体板块大跌；特朗普：暂缓对伊打击",
+          "url": "https://www.cls.cn/detail/2374806",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时22分 ~ 16时08分]"
+        },
+        {
+          "title": "美股收盘：标普纳指连跌两日 存储概念股、芯片板块整体走弱",
+          "url": "https://www.cls.cn/detail/2374787",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时22分 ~ 16时08分]"
+        },
+        {
+          "title": "美股迎来史上最大电力并购案 SpaceX概念股盘前走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2374572",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 11时02分]"
+        },
+        {
+          "title": "美伊局势缓和，美股高开，半导体股普涨，油价回落，黄金小幅上涨",
+          "url": "https://wallstreetcn.com/articles/3772473",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时08分"
+        },
+        {
+          "title": "美股股指期货跌幅扩大，纳指期货跌超0.8%，标普500指数期货跌超0.5%，道指期货跌0.3%。",
+          "url": "https://flash.jin10.com/detail/20260519175344100800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "美股股指期货跌幅扩大，纳指期货跌0.8%，触及日内低点，标普500指数期货跌超0.5%，道指期货跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3105955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "美股创近百年最大分化！指数在狂欢，多数成份股却在逆行",
+          "url": "https://flash.jin10.com/detail/20260519140355448800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
+          "title": "禾赛美股盘前涨超8%，公司2026年第一季度净收入6.81亿元，同比增长29.6%；净利润1830万元。",
+          "url": "https://wallstreetcn.com/livenews/3105925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 6,
       "titles": [
@@ -776,11 +957,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            8
+            8,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 16时08分]"
+          "appearance_count": 3,
+          "time_info": "[14时22分 ~ 18时15分]"
         },
         {
           "title": "报道：谷歌与黑石集团拟成立一家新的AI云公司",
@@ -796,87 +978,22 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 6,
+      "keyword_group": "美债",
+      "match_count": 5,
       "titles": [
         {
-          "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
-          "url": "https://wallstreetcn.com/articles/3772473",
+          "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
+          "url": "https://wallstreetcn.com/articles/3772572",
           "source": "华尔街见闻",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时22分 ~ 16时08分]"
-        },
-        {
-          "title": "【早报】美股存储、半导体板块大跌；特朗普：暂缓对伊打击",
-          "url": "https://www.cls.cn/detail/2374806",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时22分 ~ 16时08分]"
-        },
-        {
-          "title": "美股收盘：标普纳指连跌两日 存储概念股、芯片板块整体走弱",
-          "url": "https://www.cls.cn/detail/2374787",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时22分 ~ 16时08分]"
-        },
-        {
-          "title": "美股迎来史上最大电力并购案 SpaceX概念股盘前走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2374572",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            11,
+            10,
             9,
             8
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时08分 ~ 11时02分]"
+          "time_info": "[11时01分 ~ 18时15分]"
         },
-        {
-          "title": "美伊局势缓和，美股高开，半导体股普涨，油价回落，黄金小幅上涨",
-          "url": "https://wallstreetcn.com/articles/3772473",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "美股创近百年最大分化！指数在狂欢，多数成份股却在逆行",
-          "url": "https://flash.jin10.com/detail/20260519140355448800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 5,
-      "titles": [
         {
           "title": "美联储“不得不鹰”？大摩预警：若美债收益率持续飙升 美股恐现“重大回调”",
           "url": "https://www.cls.cn/detail/2374855",
@@ -888,19 +1005,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时32分 ~ 16时08分]"
-        },
-        {
-          "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
-          "url": "https://wallstreetcn.com/articles/3772572",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时01分 ~ 16时08分]"
         },
         {
           "title": "美债收益率破5%有何影响",
@@ -953,8 +1057,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时22分 ~ 16时08分]"
+          "appearance_count": 9,
+          "time_info": "[08时22分 ~ 18时15分]"
         },
         {
           "title": "金价跳水 黑金首饰受追捧",
@@ -993,7 +1097,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "马斯克对OpenAI诉讼被驳回",
@@ -1016,6 +1120,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "软银推出400亿美元的银团贷款计划，所得款项将用于支持软银对美国人工智能巨头OpenAI的投资。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3105924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         }
       ]
     }
