@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T08:23:37.731326+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-05-20T09:46:16.800470+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 08时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 09时46分]"
         },
         {
           "title": "美防长公开学特朗普讲话，现场一阵哄堂大笑",
@@ -37,8 +37,19 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 09时46分]"
+        },
+        {
+          "title": "特朗普称或再次打击伊朗 伊方警告将“开辟新战线”",
+          "url": "https://www.cls.cn/detail/2375999",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时12分 ~ 08时23分]"
+          "time_info": "[08时23分 ~ 09时46分]"
         },
         {
           "title": "美国副总统万斯为特朗普超长交易单辩护 称股票买卖不是总统本人操作",
@@ -47,9 +58,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时23分"
+        },
+        {
+          "title": "美联储加息概率飙升！特朗普松口：沃什可“按自己意愿” 决定利率",
+          "url": "https://www.cls.cn/detail/2376144",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
         },
         {
           "title": "国际油价短线小幅走低。特朗普发表讲话称，将很快结束伊朗战争，伊朗非常想达成协议。",
@@ -58,7 +80,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时23分"
         },
@@ -80,20 +102,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时23分"
         },
         {
-          "title": "特朗普称或再次打击伊朗 伊方警告将“开辟新战线”",
-          "url": "https://www.cls.cn/detail/2375999",
-          "source": "财联社热门",
+          "title": "美国商品期货交易委员会（CFTC）正在审查今年3月特朗普宣布推迟对伊朗进行军事打击前夕，原油期货交易量暴增的情况。作为调查的一部分，CFTC目前对至少三家公司进行关注。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3106339",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时23分"
+          "time_info": "09时46分"
         },
         {
           "title": "特朗普：将让沃什按自己的意愿决定利率",
@@ -113,7 +135,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时23分"
         },
@@ -135,7 +157,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时23分"
         },
@@ -146,7 +168,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时23分"
         },
@@ -157,9 +179,31 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时23分"
+        },
+        {
+          "title": "特朗普3月推迟打击伊朗前原油期货现异动，CFTC展开调查",
+          "url": "https://flash.jin10.com/detail/20260520092125955800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "特朗普说希望“非常迅速”地结束伊朗战事",
+          "url": "https://wallstreetcn.com/livenews/3106324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
         },
         {
           "title": "特朗普称美方可能不得不对伊朗“再予以一击”",
@@ -179,7 +223,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时23分"
         }
@@ -197,8 +241,34 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 08时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 09时46分]"
+        },
+        {
+          "title": "秘密袭击伊朗，野心与压力碰撞下阿联酋正将海湾变成前线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33197672",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 09时46分]"
+        },
+        {
+          "title": "释新闻｜伊朗威胁对霍尔木兹海峡海底电缆收费，可行性有多大？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33197944",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 09时46分]"
         },
         {
           "title": "以媒：内塔尼亚胡连续两晚开会，为重启对伊朗战事做准备",
@@ -213,28 +283,15 @@
           "time_info": "[00时12分 ~ 08时23分]"
         },
         {
-          "title": "秘密袭击伊朗，野心与压力碰撞下阿联酋正将海湾变成前线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33197672",
-          "source": "澎湃新闻",
+          "title": "伊朗战争冲击AI供应链 分析人士警告：最坏影响或仍未到来",
+          "url": "https://www.cls.cn/detail/2375963",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            11
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时12分 ~ 08时23分]"
-        },
-        {
-          "title": "释新闻｜伊朗威胁对霍尔木兹海峡海底电缆收费，可行性有多大？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33197944",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 08时23分]"
+          "time_info": "[08时23分 ~ 09时46分]"
         },
         {
           "title": "伊朗驻墨西哥大使：伊朗视墨西哥为拉美友好、有影响力且重要的国家，并特别重视全面扩大各领域的双边关系。",
@@ -268,17 +325,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
-        },
-        {
-          "title": "伊朗战争冲击AI供应链 分析人士警告：最坏影响或仍未到来",
-          "url": "https://www.cls.cn/detail/2375963",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时23分"
         },
         {
           "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：很明显，伊朗正崛起成为一个强大而有影响力的国家。",
@@ -320,7 +366,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时23分"
         }
@@ -328,18 +374,31 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
           "url": "https://wallstreetcn.com/articles/3772658",
           "source": "华尔街见闻",
           "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时23分 ~ 09时46分]"
+        },
+        {
+          "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
+          "url": "https://www.cls.cn/detail/2376057",
+          "source": "财联社热门",
+          "ranks": [
+            8,
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时23分 ~ 09时46分]"
         },
         {
           "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
@@ -347,22 +406,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 08时23分]"
-        },
-        {
-          "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
-          "url": "https://www.cls.cn/detail/2376057",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时23分"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 09时46分]"
         },
         {
           "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
@@ -371,20 +420,65 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时23分 ~ 09时46分]"
         },
         {
           "title": "万斯称美伊谈判取得“很大进展”谷歌推出Gemini 3.5系列模型 | 环球市场",
           "url": "https://www.cls.cn/detail/2376118",
           "source": "财联社热门",
           "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时23分 ~ 09时46分]"
+        },
+        {
+          "title": "Gemini Omni实测效果速览",
+          "url": "https://search.bilibili.com/all?keyword=Gemini%20Omni%E5%AE%9E%E6%B5%8B%E6%95%88%E6%9E%9C%E9%80%9F%E8%A7%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：通过与新加坡政府建立新的国家人工智能合作伙伴关系，加大在新加坡的人工智能投资。",
+          "url": "https://flash.jin10.com/detail/20260520093335274800",
+          "source": "金十数据",
+          "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时23分"
+          "time_info": "09时46分"
+        },
+        {
+          "title": "谷歌I/O大会全复盘",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CI%2FO%E5%A4%A7%E4%BC%9A%E5%85%A8%E5%A4%8D%E7%9B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "谷歌开发者大会",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
         },
         {
           "title": "谷歌母公司Alphabet的投资者们在谷歌广告诉讼中获得集体诉讼地位。（彭博法律Blaw）",
@@ -408,11 +502,12 @@
           "url": "https://www.cls.cn/detail/2376079",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时23分 ~ 09时46分]"
         },
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
@@ -430,11 +525,12 @@
           "url": "https://wallstreetcn.com/articles/3772622",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时23分 ~ 09时46分]"
         },
         {
           "title": "美股三大指数收跌 光通信逆势走强",
@@ -443,9 +539,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时23分 ~ 09时46分]"
         },
         {
           "title": "美股开盘：西部数据、闪迪跌超3%",
@@ -471,7 +567,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时23分"
         },
@@ -504,7 +600,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时23分"
         }
@@ -532,7 +628,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时23分"
         }
@@ -584,7 +680,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时23分"
         }
