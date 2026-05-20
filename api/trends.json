@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T21:50:33.799715+08:00",
-  "total_titles_processed": 1610,
+  "generated_at": "2026-05-20T23:02:30.505433+08:00",
+  "total_titles_processed": 1723,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "伊媒：伊朗格什姆岛传出爆炸声",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时32分 ~ 21时50分]"
+          "appearance_count": 8,
+          "time_info": "[14时32分 ~ 23时02分]"
         },
         {
           "title": "秘密袭击伊朗，野心与压力碰撞下阿联酋正将海湾变成前线",
@@ -50,7 +51,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         },
@@ -155,7 +156,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         },
@@ -210,7 +211,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         },
@@ -254,7 +255,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         },
@@ -309,7 +310,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         },
@@ -364,7 +365,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         },
@@ -386,9 +387,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
+        },
+        {
+          "title": "美中央司令部司令就伊朗小学遭袭接受质询",
+          "url": "https://wallstreetcn.com/livenews/3106784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "伊朗总统：战争期间能源生产供应未中断",
@@ -408,7 +420,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         },
@@ -449,7 +461,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "美防长公开学特朗普讲话，现场一阵哄堂大笑",
@@ -463,6 +475,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时12分 ~ 16时08分]"
+        },
+        {
+          "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
+          "url": "https://news.ifeng.com/c/8tHSbfpek1w",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时13分 ~ 23时02分]"
         },
         {
           "title": "美联储加息概率飙升！特朗普松口：沃什可“按自己意愿” 决定利率",
@@ -480,17 +503,6 @@
           "time_info": "[09时46分 ~ 16时08分]"
         },
         {
-          "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
-          "url": "https://news.ifeng.com/c/8tHSbfpek1w",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时13分 ~ 21时50分]"
-        },
-        {
           "title": "港大学者李成：我觉得特朗普对台军售政策会调整",
           "url": "https://news.ifeng.com/c/8tHoD8gEXdY",
           "source": "凤凰网",
@@ -498,8 +510,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时47分 ~ 21时50分]"
+          "appearance_count": 3,
+          "time_info": "[20时47分 ~ 23时02分]"
         },
         {
           "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
@@ -543,7 +555,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         },
@@ -557,6 +569,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
+        },
+        {
+          "title": "特朗普说在伊朗问题上内塔尼亚胡“听我的”",
+          "url": "https://wallstreetcn.com/livenews/3106805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "亚马逊创始人贝索斯：美国总统特朗普有很多好的想法。",
@@ -576,7 +599,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         },
@@ -598,9 +621,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
+        },
+        {
+          "title": "郑丽文：特朗普叫台湾不要再讲“台独”，民进党还装听不懂",
+          "url": "https://news.ifeng.com/c/8tHcSaikz2t",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时57分 ~ 23时02分]"
         },
         {
           "title": "为啥特朗普抛涉台“四不”说法？鲁比奥用大白话解释了",
@@ -612,17 +646,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时12分 ~ 09时46分]"
-        },
-        {
-          "title": "郑丽文：特朗普叫台湾不要再讲“台独”，民进党还装听不懂",
-          "url": "https://news.ifeng.com/c/8tHcSaikz2t",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时57分 ~ 21时50分]"
         },
         {
           "title": "特朗普家族被豁免永久禁止国税局审计",
@@ -708,7 +731,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         },
@@ -730,7 +753,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         },
@@ -785,7 +808,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         },
@@ -870,7 +893,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
@@ -879,11 +902,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时23分 ~ 21时50分]"
+          "appearance_count": 12,
+          "time_info": "[08时23分 ~ 23时02分]"
         },
         {
           "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
@@ -1044,6 +1068,17 @@
           "time_info": "09时46分"
         },
         {
+          "title": "如何评价 gemini 于 26 年 5 月 17 日实行的新限额形式？",
+          "url": "https://www.zhihu.com/question/2040264998916712429",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "谷歌开发者大会",
           "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -1080,7 +1115,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股收盘：三大指数集体走低 光通信概念股逆市走强",
@@ -1124,9 +1159,22 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
+        },
+        {
+          "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
+          "url": "https://wallstreetcn.com/articles/3772678",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时13分 ~ 23时02分]"
         },
         {
           "title": "美股费城半导体指数七日跌幅一度逼近10%，抄底资金开始入场",
@@ -1141,28 +1189,17 @@
           "time_info": "[11时02分 ~ 20时47分]"
         },
         {
-          "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
-          "url": "https://wallstreetcn.com/articles/3772678",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时13分 ~ 21时50分]"
-        },
-        {
           "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
           "url": "https://wallstreetcn.com/articles/3772698",
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时57分 ~ 21时50分]"
+          "appearance_count": 4,
+          "time_info": "[19时57分 ~ 23时02分]"
         },
         {
           "title": "美股三大指数收跌 光通信逆势走强",
@@ -1176,13 +1213,24 @@
           "time_info": "[08时23分 ~ 09时46分]"
         },
         {
+          "title": "都盯着英伟达财报！美股高开，半导体股普涨，全球长债收益率高企，油价跌超2%",
+          "url": "https://wallstreetcn.com/articles/3772708",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "周三美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/3106748",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         },
@@ -1193,7 +1241,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         },
@@ -1247,8 +1295,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时02分 ~ 21时50分]"
+          "appearance_count": 10,
+          "time_info": "[11时02分 ~ 23时02分]"
         },
         {
           "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
@@ -1434,8 +1482,20 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "如何看待 DeepSeek 组建 Harness 团队对标 Claude Code？",
+          "url": "https://www.zhihu.com/question/2040450519303288568",
+          "source": "知乎",
+          "ranks": [
+            15,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 23时02分]"
+        },
         {
           "title": "DeepSeek：特殊字符引发模型幻觉，不涉及安全问题或隐私泄露",
           "url": "https://www.cls.cn/detail/2375756",
@@ -1449,15 +1509,15 @@
           "time_info": "[00时12分 ~ 08时23分]"
         },
         {
-          "title": "如何看待 DeepSeek 组建 Harness 团队对标 Claude Code？",
-          "url": "https://www.zhihu.com/question/2040450519303288568",
-          "source": "知乎",
+          "title": "对标Claude Code！DeepSeek组建Harness团队 入局编程智能体",
+          "url": "https://www.cls.cn/detail/2376780",
+          "source": "财联社热门",
           "ranks": [
-            15
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时50分"
+          "time_info": "23时02分"
         }
       ]
     },
@@ -1491,8 +1551,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "WTI原油期货跌超4%，回撤至100美元关口下方。 欧洲STOXX 600指数涨幅扩大至1.1%，刷新日高。 纳斯达克100指数涨幅一度扩大至1%，半导体指数涨超3.3%，银行指数涨1.5%%。 新兴市场外汇指数刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3106788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
         {
           "title": "WTI原油、现货黄金和美元指数DXY小幅异动，美国总统特朗普称，将迅速结束战争。",
           "url": "https://flash.jin10.com/detail/20260520073537411800",
