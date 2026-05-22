@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T16:06:03.061598+08:00",
-  "total_titles_processed": 1093,
+  "generated_at": "2026-05-22T18:03:46.794329+08:00",
+  "total_titles_processed": 1243,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普称将与赖清德谈对台军售，外交部：敦促美方兑现所作承诺和表态",
@@ -21,6 +21,17 @@
           "time_info": "[00时04分 ~ 16时06分]"
         },
         {
+          "title": "特朗普若购格陵兰岛，将面临什么国内障碍？",
+          "url": "https://news.ifeng.com/c/8tKJKXPcRAX",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时37分 ~ 18时03分]"
+        },
+        {
           "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
           "url": "https://news.ifeng.com/c/8tHcLpLqPgM",
           "source": "凤凰网",
@@ -32,17 +43,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[08时21分 ~ 14时21分]"
-        },
-        {
-          "title": "特朗普若购格陵兰岛，将面临什么国内障碍？",
-          "url": "https://news.ifeng.com/c/8tKJKXPcRAX",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时37分 ~ 16时06分]"
         },
         {
           "title": "特朗普再威胁伊朗交出浓缩铀 欧盟被爆考虑重启与俄正式沟通 | 环球市场",
@@ -57,6 +57,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[08时21分 ~ 16时06分]"
+        },
+        {
+          "title": "特朗普：历任美国总统都想干预古巴，这次轮到我来做",
+          "url": "https://v.ifeng.com/c/8tHcLpLqPgU",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时33分 ~ 18时03分]"
         },
         {
           "title": "特朗普称将与赖清德就对台军售交谈，外交部回应",
@@ -76,15 +87,15 @@
           "time_info": "[00时04分 ~ 16时06分]"
         },
         {
-          "title": "特朗普：历任美国总统都想干预古巴，这次轮到我来做",
-          "url": "https://v.ifeng.com/c/8tHcLpLqPgU",
+          "title": "美国欲在古巴重演“委内瑞拉剧本”？专家：特朗普另有图谋",
+          "url": "https://news.ifeng.com/c/8tJqOjVcrpo",
           "source": "凤凰网",
           "ranks": [
-            4
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时33分 ~ 16时06分]"
+          "appearance_count": 9,
+          "time_info": "[09时37分 ~ 18时03分]"
         },
         {
           "title": "特朗普政府推动量子战略升级：20亿美元扶持9家企业 政府将直接持股",
@@ -98,17 +109,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时04分 ~ 09时37分]"
-        },
-        {
-          "title": "美国欲在古巴重演“委内瑞拉剧本”？专家：特朗普另有图谋",
-          "url": "https://news.ifeng.com/c/8tJqOjVcrpo",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时37分 ~ 16时06分]"
         },
         {
           "title": "特朗普儿媳再忆中国行直呼震撼",
@@ -180,6 +180,28 @@
           "time_info": "[00时04分 ~ 08时22分]"
         },
         {
+          "title": "特朗普密集谈伊朗、关税与AI，称美国将获得伊浓缩铀、重申伊不能拥有核武",
+          "url": "https://wallstreetcn.com/articles/3772862",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时05分 ~ 18时03分]"
+        },
+        {
+          "title": "特朗普拟建“凯旋门” 方案获批",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%9F%E5%BB%BA%E2%80%9C%E5%87%AF%E6%97%8B%E9%97%A8%E2%80%9D+%E6%96%B9%E6%A1%88%E8%8E%B7%E6%89%B9",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时05分 ~ 18时03分]"
+        },
+        {
           "title": "俄方不排除普京与特朗普11月在华会晤",
           "url": "https://www.toutiao.com/trending/7642226694478856198/",
           "source": "今日头条",
@@ -189,17 +211,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时01分 ~ 11时02分]"
-        },
-        {
-          "title": "特朗普密集谈伊朗、关税与AI，称美国将获得伊浓缩铀、重申伊不能拥有核武",
-          "url": "https://wallstreetcn.com/articles/3772862",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
         },
         {
           "title": "特朗普宣布向波兰增兵5000人",
@@ -235,17 +246,6 @@
           "time_info": "[16时05分 ~ 16时06分]"
         },
         {
-          "title": "特朗普拟建“凯旋门” 方案获批",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%9F%E5%BB%BA%E2%80%9C%E5%87%AF%E6%97%8B%E9%97%A8%E2%80%9D+%E6%96%B9%E6%A1%88%E8%8E%B7%E6%89%B9",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
-        },
-        {
           "title": "特朗普说去不去儿子婚礼都会被骂",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E5%8E%BB%E4%B8%8D%E5%8E%BB%E5%84%BF%E5%AD%90%E5%A9%9A%E7%A4%BC%E9%83%BD%E4%BC%9A%E8%A2%AB%E9%AA%82%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -266,6 +266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "今晚11点！美联储新主席沃什将宣誓就职 特朗普“降息梦”能实现吗？",
+          "url": "https://www.cls.cn/detail/2378649",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "白宫推迟美国总统特朗普的人工智能（AI）行政命令的签字仪式。（Axios）",
@@ -348,7 +359,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
@@ -360,8 +371,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时21分 ~ 16时06分]"
+          "appearance_count": 11,
+          "time_info": "[08时21分 ~ 18时03分]"
         },
         {
           "title": "伊朗：美方谈判文本在一定程度上“缩小了分歧”，伊方“正在回应”",
@@ -376,6 +387,21 @@
           "time_info": "[08时21分 ~ 16时06分]"
         },
         {
+          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205517",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            18,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 18时03分]"
+        },
+        {
           "title": "据英国金融时报：法国财政部长表示，各国在了解伊朗冲突将持续多久之前，无法决定是否释放更多石油储备。",
           "url": "https://flash.jin10.com/detail/20260522121242400800",
           "source": "金十数据",
@@ -387,18 +413,37 @@
           "time_info": "12时34分"
         },
         {
-          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33205517",
-          "source": "澎湃新闻",
+          "title": "欧盟扩大对伊朗制裁 将“威胁中东航行自由”行为纳入制裁范围",
+          "url": "https://wallstreetcn.com/livenews/3107962",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19,
-            16,
-            18,
-            20
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 16时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
+          "title": "欧盟扩大对伊朗制裁 将“威胁中东航行自由”行为纳入制裁范围",
+          "url": "https://flash.jin10.com/detail/20260522175044483800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
+          "title": "伊朗最高领袖驻革命卫队代表萨德吉：敌人应该知道，我们指挥官的殉难不仅不会在我们的队伍中造成任何裂痕，反而会让我们毁灭傲慢势力的决心更加坚定。",
+          "url": "https://flash.jin10.com/detail/20260522174905894800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "伊朗最高领袖：接近武器级的铀得留下",
@@ -452,7 +497,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         },
@@ -466,6 +511,136 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "伊朗革命卫队：过去24小时有35艘船只通过海峡",
+          "url": "https://flash.jin10.com/detail/20260522172307176800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "美股收盘：三大指数齐升道指刷新高 量子概念爆发存储续走强",
+          "url": "https://www.cls.cn/detail/2378488",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时21分 ~ 16时06分]"
+        },
+        {
+          "title": "“三巨头”竞相登陆华尔街，美股或迎“强制大换血”",
+          "url": "https://flash.jin10.com/detail/20260522121130127800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "史诗级资金“抽水泵”来了：三大世纪IPO恐触发美股“大换血”？",
+          "url": "https://www.cls.cn/detail/2378668",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时21分 ~ 18时03分]"
+        },
+        {
+          "title": "美股盘前，美股存储芯片概念股走低，美光跌约1.8%，闪迪跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3107953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
+          "title": "盈透证券美股盘前涨超9％，现报91美元。",
+          "url": "https://wallstreetcn.com/livenews/3107930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
+          "title": "美股盘前，老虎证券跌幅扩大至逾40%，富途控股跌超30%。",
+          "url": "https://wallstreetcn.com/livenews/3107928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
+          "title": "美股盘前，老虎证券跌幅扩大至逾33%，富途控股跌超25%。",
+          "url": "https://wallstreetcn.com/livenews/3107927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
+          "title": "据华尔街日报报道，IMAX探索出售，与多家娱乐公司进行了初步接触。 IMAX美股盘后涨14.34%。",
+          "url": "https://wallstreetcn.com/livenews/3107635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时22分"
+        },
+        {
+          "title": "美股盘前，老虎证券跌幅扩大至逾24%，富途控股跌超20%。",
+          "url": "https://wallstreetcn.com/livenews/3107925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
+          "title": "美股盘前，老虎证券跌近16%，富途控股跌近13%。",
+          "url": "https://wallstreetcn.com/livenews/3107922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         }
       ]
     },
@@ -481,8 +656,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时21分 ~ 16时06分]"
+          "appearance_count": 11,
+          "time_info": "[08时21分 ~ 18时03分]"
         },
         {
           "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
@@ -520,55 +695,41 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 4,
+      "keyword_group": "金价",
+      "match_count": 3,
       "titles": [
         {
-          "title": "美股收盘：三大指数齐升道指刷新高 量子概念爆发存储续走强",
-          "url": "https://www.cls.cn/detail/2378488",
-          "source": "财联社热门",
+          "title": "金价又“坐过山车”",
+          "url": "https://www.douyin.com/hot/2507965",
+          "source": "抖音",
           "ranks": [
-            4,
-            3,
-            2
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时21分 ~ 16时06分]"
+          "appearance_count": 4,
+          "time_info": "[14时21分 ~ 18时03分]"
         },
         {
-          "title": "“三巨头”竞相登陆华尔街，美股或迎“强制大换血”",
-          "url": "https://flash.jin10.com/detail/20260522121130127800",
-          "source": "金十数据",
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=25&Refer=top",
+          "source": "微博",
           "ranks": [
-            2
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时34分"
+          "time_info": "09时37分"
         },
         {
-          "title": "史诗级资金“抽水泵”来了：三大世纪IPO恐触发美股“大换血”？",
-          "url": "https://www.cls.cn/detail/2378668",
-          "source": "财联社热门",
+          "title": "黄金价格不断下跌 货币重置开始了吗",
+          "url": "https://www.toutiao.com/trending/7642595063947595305/",
+          "source": "今日头条",
           "ranks": [
-            11,
-            9
+            27
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时21分 ~ 16时06分]"
-        },
-        {
-          "title": "据华尔街日报报道，IMAX探索出售，与多家娱乐公司进行了初步接触。 IMAX美股盘后涨14.34%。",
-          "url": "https://wallstreetcn.com/livenews/3107635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时22分"
+          "time_info": "18时03分"
         }
       ]
     },
@@ -628,34 +789,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价又“坐过山车”",
-          "url": "https://www.douyin.com/hot/2507965",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时21分 ~ 16时06分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
         }
       ]
     }
