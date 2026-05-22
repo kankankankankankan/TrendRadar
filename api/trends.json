@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T22:58:45.338410+08:00",
-  "total_titles_processed": 1711,
+  "generated_at": "2026-05-22T23:56:40.544492+08:00",
+  "total_titles_processed": 1781,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普称将与赖清德谈对台军售，外交部：敦促美方兑现所作承诺和表态",
@@ -87,6 +87,17 @@
           "time_info": "[00时04分 ~ 16时06分]"
         },
         {
+          "title": "特朗普声称要与赖清德通话，美媒分析后果",
+          "url": "https://news.ifeng.com/c/8tKs2cfjitj",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时54分 ~ 23时56分]"
+        },
+        {
           "title": "美国欲在古巴重演“委内瑞拉剧本”？专家：特朗普另有图谋",
           "url": "https://news.ifeng.com/c/8tJqOjVcrpo",
           "source": "凤凰网",
@@ -110,17 +121,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时37分 ~ 21时45分]"
-        },
-        {
-          "title": "特朗普声称要与赖清德通话，美媒分析后果",
-          "url": "https://news.ifeng.com/c/8tKs2cfjitj",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时54分 ~ 22时58分]"
         },
         {
           "title": "特朗普政府推动量子战略升级：20亿美元扶持9家企业 政府将直接持股",
@@ -156,6 +156,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "美国总统特朗普：预计凯文·沃什将是一位伟大的美联储主席。",
+          "url": "https://wallstreetcn.com/livenews/3108156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "美国总统特朗普在白宫为沃什宣誓就任美联储主席的仪式上讲话。",
+          "url": "https://wallstreetcn.com/livenews/3108154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "特朗普凯旋门方案获批",
@@ -204,6 +226,31 @@
           "time_info": "[16时05分 ~ 21时45分]"
         },
         {
+          "title": "俄方称，普京与特朗普有可能 11 月在中国见面，美俄关系是否有望迎来转机？中国在这其中会扮演怎样的角色？",
+          "url": "https://www.zhihu.com/question/2040769816697558038",
+          "source": "知乎",
+          "ranks": [
+            18,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时45分 ~ 23时56分]"
+        },
+        {
+          "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33206550",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时45分 ~ 23时56分]"
+        },
+        {
           "title": "特朗普拟建“凯旋门” 方案获批",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%9F%E5%BB%BA%E2%80%9C%E5%87%AF%E6%97%8B%E9%97%A8%E2%80%9D+%E6%96%B9%E6%A1%88%E8%8E%B7%E6%89%B9",
           "source": "百度热搜",
@@ -225,18 +272,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时54分 ~ 20时42分]"
-        },
-        {
-          "title": "俄方称，普京与特朗普有可能 11 月在中国见面，美俄关系是否有望迎来转机？中国在这其中会扮演怎样的角色？",
-          "url": "https://www.zhihu.com/question/2040769816697558038",
-          "source": "知乎",
-          "ranks": [
-            18,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时45分 ~ 22时58分]"
         },
         {
           "title": "俄方不排除普京与特朗普11月在华会晤",
@@ -281,18 +316,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时05分 ~ 16时06分]"
-        },
-        {
-          "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33206550",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时45分 ~ 22时58分]"
         },
         {
           "title": "特朗普说去不去儿子婚礼都会被骂",
@@ -510,8 +533,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时54分 ~ 22时58分]"
+          "appearance_count": 5,
+          "time_info": "[19时54分 ~ 23时56分]"
         },
         {
           "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
@@ -584,28 +607,6 @@
           "time_info": "20时42分"
         },
         {
-          "title": "伊朗“最大内鬼”，原来是他？",
-          "url": "https://news.ifeng.com/c/8tLCbdpnraF",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时58分"
-        },
-        {
-          "title": "巴基斯坦军方消息人士：巴三军情报局局长已前往伊朗",
-          "url": "https://wallstreetcn.com/livenews/3108126",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时58分"
-        },
-        {
           "title": "伊朗最高领袖驻革命卫队代表萨德吉：敌人应该知道，我们指挥官的殉难不仅不会在我们的队伍中造成任何裂痕，反而会让我们毁灭傲慢势力的决心更加坚定。",
           "url": "https://flash.jin10.com/detail/20260522174905894800",
           "source": "金十数据",
@@ -617,15 +618,40 @@
           "time_info": "18时03分"
         },
         {
+          "title": "伊朗“最大内鬼”，原来是他？",
+          "url": "https://news.ifeng.com/c/8tLCbdpnraF",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时58分 ~ 23时56分]"
+        },
+        {
+          "title": "巴基斯坦军方消息人士：巴三军情报局局长已前往伊朗",
+          "url": "https://wallstreetcn.com/livenews/3108126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时58分 ~ 23时56分]"
+        },
+        {
           "title": "卡塔尔被曝“秘密空降”伊朗！美国却在做最坏打算？",
           "url": "https://flash.jin10.com/detail/20260522225155728800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时58分 ~ 23时56分]"
         },
         {
           "title": "伊朗最高领袖：接近武器级的铀得留下",
@@ -734,7 +760,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时58分"
         },
@@ -778,7 +804,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时58分"
         },
@@ -907,7 +933,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：三大指数齐升道指刷新高 量子概念爆发存储续走强",
@@ -1064,7 +1090,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时58分"
         },
@@ -1091,6 +1117,17 @@
           "time_info": "18时03分"
         },
         {
+          "title": "美股早盘小幅上涨，标普500指数势创2023年以来最长周连涨",
+          "url": "https://wallstreetcn.com/livenews/3108140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "美股盘前，老虎证券跌近16%，富途控股跌近13%。",
           "url": "https://wallstreetcn.com/livenews/3107922",
           "source": "华尔街见闻-快讯",
@@ -1114,11 +1151,12 @@
           "ranks": [
             1,
             2,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时21分 ~ 22时58分]"
+          "appearance_count": 16,
+          "time_info": "[08时21分 ~ 23时56分]"
         },
         {
           "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
@@ -1149,7 +1187,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时58分"
         },
@@ -1160,7 +1198,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时58分"
         },
@@ -1171,7 +1209,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时58分"
         },
@@ -1197,11 +1235,12 @@
           "url": "https://www.zhihu.com/question/2041260640740927118",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时58分 ~ 23时56分]"
         },
         {
           "title": "不小心把DeepSeek叫成豆包",
@@ -1263,7 +1302,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时58分"
         }
@@ -1321,8 +1360,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时54分 ~ 22时58分]"
+          "appearance_count": 5,
+          "time_info": "[19时54分 ~ 23时56分]"
         }
       ]
     }
