@@ -1,12 +1,58 @@
 {
-  "generated_at": "2026-05-22T00:04:30.004363+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-05-22T08:22:09.641274+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "美副防长能否访华与特朗普如何处理对台军售挂钩？外交部回应",
+          "url": "https://news.ifeng.com/c/8tJDfVFuwhB",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 08时22分]"
+        },
+        {
+          "title": "特朗普称将与赖清德谈对台军售，外交部：敦促美方兑现所作承诺和表态",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205095",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 08时22分]"
+        },
+        {
+          "title": "特朗普政府推动量子战略升级：20亿美元扶持9家企业 政府将直接持股",
+          "url": "https://www.cls.cn/detail/2378228",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 08时22分]"
+        },
+        {
+          "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
+          "url": "https://news.ifeng.com/c/8tHcLpLqPgM",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时21分 ~ 08时22分]"
+        },
         {
           "title": "中方回应特朗普称将与赖清德对话",
           "url": "https://news.ifeng.com/c/8tJCrQkCYgq",
@@ -19,48 +65,39 @@
           "time_info": "00时04分"
         },
         {
-          "title": "美副防长能否访华与特朗普如何处理对台军售挂钩？外交部回应",
-          "url": "https://news.ifeng.com/c/8tJDfVFuwhB",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "特朗普称将与赖清德谈对台军售，外交部：敦促美方兑现所作承诺和表态",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33205095",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "特朗普政府推动量子战略升级：20亿美元扶持9家企业 政府将直接持股",
-          "url": "https://www.cls.cn/detail/2378228",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
           "title": "中方回应特朗普称将与赖清德谈军售",
           "url": "https://www.toutiao.com/trending/7642244493529321014/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 08时22分]"
+        },
+        {
+          "title": "特朗普称将与赖清德就对台军售交谈，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205325",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 08时22分]"
+        },
+        {
+          "title": "特朗普再威胁伊朗交出浓缩铀 欧盟被爆考虑重启与俄正式沟通 | 环球市场",
+          "url": "https://www.cls.cn/detail/2378520",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时21分 ~ 08时22分]"
         },
         {
           "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
@@ -79,17 +116,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "特朗普称将与赖清德就对台军售交谈，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33205325",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -118,6 +144,17 @@
           "time_info": "00时04分"
         },
         {
+          "title": "美国总统特朗普将于美东时间周五上午11点主持沃什的美联储主席就职宣誓仪式。",
+          "url": "https://wallstreetcn.com/livenews/3107644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时22分"
+        },
+        {
           "title": "外交部回应“特朗普将与赖清德交谈”",
           "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%B8%8E%E8%B5%96%E6%B8%85%E5%BE%B7%E4%BA%A4%E8%B0%88%E2%80%9D",
           "source": "百度热搜",
@@ -127,30 +164,76 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "特朗普政策急转：将向波兰增派5000名美军",
+          "url": "https://flash.jin10.com/detail/20260522070739326800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时22分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
-          "title": "伊朗革命卫队：过去24小时内有31艘船只通过霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3107525",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
+          "url": "https://wallstreetcn.com/articles/3772837",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 2,
+          "time_info": "[08时21分 ~ 08时22分]"
         },
         {
           "title": "伊朗最高领袖：接近武器级的铀得留下",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%EF%BC%9A%E6%8E%A5%E8%BF%91%E6%AD%A6%E5%99%A8%E7%BA%A7%E7%9A%84%E9%93%80%E5%BE%97%E7%95%99%E4%B8%8B",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 08时22分]"
+        },
+        {
+          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205517",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 08时22分]"
+        },
+        {
+          "title": "伊朗：美方谈判文本在一定程度上“缩小了分歧”，伊方“正在回应”",
+          "url": "https://wallstreetcn.com/articles/3772830",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时21分 ~ 08时22分]"
+        },
+        {
+          "title": "伊朗革命卫队：过去24小时内有31艘船只通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3107525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -179,17 +262,6 @@
           "time_info": "00时04分"
         },
         {
-          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33205517",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
           "title": "31艘船只在伊斯兰革命卫队的协调下通过霍尔木兹海峡。（伊朗电视台）",
           "url": "https://wallstreetcn.com/livenews/3107505",
           "source": "华尔街见闻-快讯",
@@ -203,37 +275,20 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "keyword_group": "美债",
+      "match_count": 4,
       "titles": [
         {
-          "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
-          "url": "https://www.zhihu.com/question/2040738759281473391",
-          "source": "知乎",
+          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
+          "url": "https://wallstreetcn.com/articles/3772777",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 2,
+          "time_info": "[08时21分 ~ 08时22分]"
         },
-        {
-          "title": "如何看待 OpenAI 宣布 AI 证明困扰人类 80 年的单位距离问题？证明可信度如何？",
-          "url": "https://www.zhihu.com/question/2040751125725278389",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
         {
           "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
           "url": "https://wallstreetcn.com/articles/3772708",
@@ -255,6 +310,74 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "两年期美债收益率涨2.8个基点",
+          "url": "https://wallstreetcn.com/livenews/3107639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
+          "url": "https://www.zhihu.com/question/2040738759281473391",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 08时22分]"
+        },
+        {
+          "title": "如何看待 OpenAI 宣布 AI 证明困扰人类 80 年的单位距离问题？证明可信度如何？",
+          "url": "https://www.zhihu.com/question/2040751125725278389",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股收盘：三大指数齐升道指刷新高 量子概念爆发存储续走强",
+          "url": "https://www.cls.cn/detail/2378488",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时21分 ~ 08时22分]"
+        },
+        {
+          "title": "据华尔街日报报道，IMAX探索出售，与多家娱乐公司进行了初步接触。 IMAX美股盘后涨14.34%。",
+          "url": "https://wallstreetcn.com/livenews/3107635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时22分"
         }
       ]
     },
