@@ -1,105 +1,11 @@
 {
-  "generated_at": "2026-05-23T08:21:26.725059+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2026-05-23T09:33:20.494098+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "本周美股存储芯片指数涨超3.3%，希捷股价八周超过翻倍",
-          "url": "https://wallstreetcn.com/livenews/3108278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时21分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜英伟达收跌1.9%，业绩报告发布当周回撤超4.4%",
-          "url": "https://wallstreetcn.com/livenews/3108276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时21分"
-        },
-        {
-          "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
-          "url": "https://www.cls.cn/detail/2379649",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时21分"
-        },
-        {
-          "title": "周五（5月22日），美股降息赢家指数涨0.59%，报80.30点，美联储理事沃勒讲话之际回吐涨幅、美联储主席沃什宣誓就职之后再北京时间01:28显著拉升，本周累计上涨4.96%。 周三至周五持续走高。",
-          "url": "https://wallstreetcn.com/livenews/3108274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时21分"
-        },
-        {
-          "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260523040728628800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时21分"
-        },
-        {
-          "title": "金十图示：2026年05月22日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260523040726833800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时21分"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 高通涨超11%",
-          "url": "https://flash.jin10.com/detail/20260523040305525800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时21分"
-        },
-        {
-          "title": "美股标普连涨八周 富途控股跌27.53%",
-          "url": "https://www.toutiao.com/trending/7642859924128550441/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 12,
       "titles": [
         {
           "title": "鲁比奥：伊朗问题确实有一些进展",
@@ -109,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时21分"
+          "appearance_count": 2,
+          "time_info": "[08时21分 ~ 09时33分]"
         },
         {
           "title": "知情人士：美筹备对伊朗发动新一轮军事打击",
@@ -120,19 +26,31 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时21分 ~ 09时33分]"
+        },
+        {
+          "title": "【美伊协议草案或将在数小时内公布】据沙特阿拉伯阿拉比亚电视台报道，消息人士22日透露，美国和伊朗“接近达成”的协议草案预计将在数小时内公布。 (新华社)",
+          "url": "https://wallstreetcn.com/livenews/3108290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时21分"
+          "time_info": "09时33分"
         },
         {
           "title": "伊朗官员：结束战争、解除封锁以及确保霍尔木兹海峡稳定是优先事项",
           "url": "https://flash.jin10.com/detail/20260523041413545800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时21分"
+          "appearance_count": 2,
+          "time_info": "[08时21分 ~ 09时33分]"
         },
         {
           "title": "伊朗“最大内鬼”，原来是他？",
@@ -142,8 +60,63 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时21分 ~ 09时33分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥：美国与北约盟国正在讨论一项“B计划”，以应对伊朗拒绝重新开放霍尔木兹海峡的情况；部分北约国家可能支持采取应对措施。",
+          "url": "https://flash.jin10.com/detail/20260523083955929800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时21分"
+          "time_info": "09时33分"
+        },
+        {
+          "title": "拉夫罗夫：俄坚决反对再次发生针对伊朗的武装侵略",
+          "url": "https://wallstreetcn.com/livenews/3108289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
+          "title": "据伊朗国家媒体报道，伊朗军方已进入最高戒备状态。",
+          "url": "https://flash.jin10.com/detail/20260523083809091800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
+          "title": "知情人士：美筹备对伊朗发动新一轮军事打击 但仍未最终决定",
+          "url": "https://flash.jin10.com/detail/20260523083401521800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
+          "title": "知情人士：美筹备对伊朗发动新一轮军事打击 但仍未最终决定",
+          "url": "https://wallstreetcn.com/livenews/3108288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
         },
         {
           "title": "伊媒：知情人士称伊朗谈判仍在继续 所有争议问题形成共识前不会达成协议",
@@ -170,6 +143,106 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
+          "url": "https://www.cls.cn/detail/2379649",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时21分 ~ 09时33分]"
+        },
+        {
+          "title": "本周美股存储芯片指数涨超3.3%，希捷股价八周超过翻倍",
+          "url": "https://wallstreetcn.com/livenews/3108278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时21分 ~ 09时33分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达收跌1.9%，业绩报告发布当周回撤超4.4%",
+          "url": "https://wallstreetcn.com/livenews/3108276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时21分 ~ 09时33分]"
+        },
+        {
+          "title": "周五（5月22日），美股降息赢家指数涨0.59%，报80.30点，美联储理事沃勒讲话之际回吐涨幅、美联储主席沃什宣誓就职之后再北京时间01:28显著拉升，本周累计上涨4.96%。 周三至周五持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3108274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时21分 ~ 09时33分]"
+        },
+        {
+          "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260523040728628800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时21分 ~ 09时33分]"
+        },
+        {
+          "title": "金十图示：2026年05月22日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260523040726833800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时21分 ~ 09时33分]"
+        },
+        {
+          "title": "美股标普连涨八周 富途控股跌27.53%",
+          "url": "https://www.toutiao.com/trending/7642859924128550441/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时21分 ~ 09时33分]"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 高通涨超11%",
+          "url": "https://flash.jin10.com/detail/20260523040305525800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -181,19 +254,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时21分"
+          "appearance_count": 2,
+          "time_info": "[08时21分 ~ 09时33分]"
         },
         {
           "title": "周五（5月22日），美股超大规模云服务商（Hyperscalers）指数收跌0.34%，报101.35点，本周累计下跌1.18%，整体呈现出平坦的V形走势。 日线图上，指数在3月27日跌至78.05点，随后持续反弹，5月份迄今持续测试100点整数位心理关口。 成分股中，谷歌A收跌1.21%，亚马逊跌0.80%，微软跌0.12%，Meta涨0.47%，甲骨文涨1.22%。",
           "url": "https://wallstreetcn.com/livenews/3108281",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时21分"
+          "appearance_count": 2,
+          "time_info": "[08时21分 ~ 09时33分]"
         }
       ]
     },
@@ -206,11 +280,12 @@
           "url": "https://wallstreetcn.com/articles/3772907",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时21分"
+          "appearance_count": 2,
+          "time_info": "[08时21分 ~ 09时33分]"
         },
         {
           "title": "两年期美债收益率在沃什就任美联储主席当天涨约3.8个基点，本周两年期实际收益率狂飙将近30个基点",
@@ -234,22 +309,24 @@
           "url": "https://wallstreetcn.com/articles/3772950",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时21分"
+          "appearance_count": 2,
+          "time_info": "[08时21分 ~ 09时33分]"
         },
         {
           "title": "俄方称，普京与特朗普有可能 11 月在中国见面，美俄关系是否有望迎来转机？中国在这其中会扮演怎样的角色？",
           "url": "https://www.zhihu.com/question/2040769816697558038",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时21分"
+          "appearance_count": 2,
+          "time_info": "[08时21分 ~ 09时33分]"
         }
       ]
     },
@@ -265,8 +342,25 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时21分 ~ 09时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI称攻克80年数学难题",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%A7%B0%E6%94%BB%E5%85%8B80%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时21分"
+          "time_info": "09时33分"
         }
       ]
     }
