@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T11:01:04.824091+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2026-05-23T12:23:33.771239+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "鲁比奥：伊朗问题确实有一些进展",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时21分 ~ 11时01分]"
+          "appearance_count": 5,
+          "time_info": "[08时21分 ~ 12时23分]"
         },
         {
           "title": "知情人士：美筹备对伊朗发动新一轮军事打击",
@@ -26,8 +26,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时21分 ~ 11时01分]"
+          "appearance_count": 5,
+          "time_info": "[08时21分 ~ 12时23分]"
+        },
+        {
+          "title": "海湾五国反对伊朗设立“波斯湾海峡管理局”",
+          "url": "https://wallstreetcn.com/livenews/3108305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 12时23分]"
         },
         {
           "title": "伊朗关闭西部空域",
@@ -36,31 +48,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
         },
         {
-          "title": "海湾五国反对伊朗设立“波斯湾海峡管理局”",
-          "url": "https://wallstreetcn.com/livenews/3108305",
+          "title": "巴基斯坦陆军参谋长与伊朗外长深夜会晤 讨论防止局势升级等议题",
+          "url": "https://flash.jin10.com/detail/20260523120953607800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        },
+        {
+          "title": "伊朗警告若再遭袭将开启战斗3.0",
+          "url": "https://wallstreetcn.com/livenews/3108310",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "伊朗关闭西部空域",
-          "url": "https://wallstreetcn.com/livenews/3108304",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "12时23分"
         },
         {
           "title": "伊朗“最大内鬼”，原来是他？",
@@ -70,8 +82,44 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时21分 ~ 11时01分]"
+          "appearance_count": 5,
+          "time_info": "[08时21分 ~ 12时23分]"
+        },
+        {
+          "title": "伊朗警告若再遭袭将开启战斗3.0",
+          "url": "https://flash.jin10.com/detail/20260523114721102800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        },
+        {
+          "title": "伊朗关闭西部空域",
+          "url": "https://wallstreetcn.com/livenews/3108304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 12时23分]"
+        },
+        {
+          "title": "【美伊协议草案或将在数小时内公布】据沙特阿拉伯阿拉比亚电视台报道，消息人士22日透露，美国和伊朗“接近达成”的协议草案预计将在数小时内公布。 (新华社)",
+          "url": "https://wallstreetcn.com/livenews/3108290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时33分 ~ 12时23分]"
         },
         {
           "title": "伊朗官员：结束战争、解除封锁以及确保霍尔木兹海峡稳定是优先事项",
@@ -86,16 +134,17 @@
           "time_info": "[08时21分 ~ 09时33分]"
         },
         {
-          "title": "【美伊协议草案或将在数小时内公布】据沙特阿拉伯阿拉比亚电视台报道，消息人士22日透露，美国和伊朗“接近达成”的协议草案预计将在数小时内公布。 (新华社)",
-          "url": "https://wallstreetcn.com/livenews/3108290",
+          "title": "拉夫罗夫：俄坚决反对再次发生针对伊朗的武装侵略",
+          "url": "https://wallstreetcn.com/livenews/3108289",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            15
+            6,
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时33分 ~ 11时01分]"
+          "appearance_count": 3,
+          "time_info": "[09时33分 ~ 12时23分]"
         },
         {
           "title": "美国国务卿鲁比奥：美国与北约盟国正在讨论一项“B计划”，以应对伊朗拒绝重新开放霍尔木兹海峡的情况；部分北约国家可能支持采取应对措施。",
@@ -104,18 +153,6 @@
           "ranks": [
             6,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时33分 ~ 11时01分]"
-        },
-        {
-          "title": "拉夫罗夫：俄坚决反对再次发生针对伊朗的武装侵略",
-          "url": "https://wallstreetcn.com/livenews/3108289",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -158,6 +195,28 @@
           "time_info": "[09时33分 ~ 11时01分]"
         },
         {
+          "title": "海湾五国反对伊朗设立“波斯湾海峡管理局”",
+          "url": "https://flash.jin10.com/detail/20260523104708612800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        },
+        {
+          "title": "伊朗西部大部分机场暂时关闭",
+          "url": "https://flash.jin10.com/detail/20260523104258356800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        },
+        {
           "title": "伊媒：知情人士称伊朗谈判仍在继续 所有争议问题形成共识前不会达成协议",
           "url": "https://flash.jin10.com/detail/20260523040131039800",
           "source": "金十数据",
@@ -194,8 +253,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时21分 ~ 11时01分]"
+          "appearance_count": 5,
+          "time_info": "[08时21分 ~ 12时23分]"
         },
         {
           "title": "本周美股存储芯片指数涨超3.3%，希捷股价八周超过翻倍",
@@ -204,11 +263,12 @@
           "ranks": [
             4,
             12,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时21分 ~ 11时01分]"
+          "appearance_count": 4,
+          "time_info": "[08时21分 ~ 12时23分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收跌1.9%，业绩报告发布当周回撤超4.4%",
@@ -217,11 +277,12 @@
           "ranks": [
             6,
             14,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时21分 ~ 11时01分]"
+          "appearance_count": 4,
+          "time_info": "[08时21分 ~ 12时23分]"
         },
         {
           "title": "周五（5月22日），美股降息赢家指数涨0.59%，报80.30点，美联储理事沃勒讲话之际回吐涨幅、美联储主席沃什宣誓就职之后再北京时间01:28显著拉升，本周累计上涨4.96%。 周三至周五持续走高。",
@@ -286,8 +347,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "美联储新主席宣誓！特朗普呼吁“要遏制通胀，不要遏制伟大”，沃什表态要做格林斯潘",
+          "url": "https://wallstreetcn.com/articles/3772951",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        },
         {
           "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
           "url": "https://wallstreetcn.com/articles/3772950",
@@ -297,8 +369,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时21分 ~ 11时01分]"
+          "appearance_count": 5,
+          "time_info": "[08时21分 ~ 12时23分]"
         },
         {
           "title": "俄方称，普京与特朗普有可能 11 月在中国见面，美俄关系是否有望迎来转机？中国在这其中会扮演怎样的角色？",
@@ -317,22 +389,46 @@
           "url": "https://flash.jin10.com/detail/20260523095127844800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 12时23分]"
         },
         {
           "title": "特朗普开会商讨是否对伊朗发动新打击 周末将“坐镇白宫”",
           "url": "https://wallstreetcn.com/livenews/3108300",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 12时23分]"
+        },
+        {
+          "title": "如何看特朗普家族获得豁免",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%B6%E6%97%8F%E8%8E%B7%E5%BE%97%E8%B1%81%E5%85%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "12时23分"
+        },
+        {
+          "title": "美官员称特朗普政府开始制定对古巴军事行动方案，美国为何盯上古巴？目前古巴局势如何？",
+          "url": "https://www.zhihu.com/question/2041148892323000444",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         }
       ]
     },
@@ -346,11 +442,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时21分 ~ 11时01分]"
+          "appearance_count": 5,
+          "time_info": "[08时21分 ~ 12时23分]"
         },
         {
           "title": "deepseek狂降价,友商被卷哭",
@@ -360,8 +457,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时01分]"
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 12时23分]"
         }
       ]
     },
@@ -377,8 +474,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时21分 ~ 11时01分]"
+          "appearance_count": 5,
+          "time_info": "[08时21分 ~ 12时23分]"
         },
         {
           "title": "周五（5月22日），美股超大规模云服务商（Hyperscalers）指数收跌0.34%，报101.35点，本周累计下跌1.18%，整体呈现出平坦的V形走势。 日线图上，指数在3月27日跌至78.05点，随后持续反弹，5月份迄今持续测试100点整数位心理关口。 成分股中，谷歌A收跌1.21%，亚马逊跌0.80%，微软跌0.12%，Meta涨0.47%，甲骨文涨1.22%。",
@@ -405,22 +502,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时33分 ~ 11时01分]"
+          "appearance_count": 4,
+          "time_info": "[09时33分 ~ 12时23分]"
         },
         {
           "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
           "url": "https://flash.jin10.com/detail/20260523091339971800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 12时23分]"
         }
       ]
     },
@@ -437,8 +536,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时21分 ~ 11时01分]"
+          "appearance_count": 5,
+          "time_info": "[08时21分 ~ 12时23分]"
         },
         {
           "title": "两年期美债收益率在沃什就任美联储主席当天涨约3.8个基点，本周两年期实际收益率狂飙将近30个基点",
