@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-25T15:24:38.755959+08:00",
-  "total_titles_processed": 844,
+  "generated_at": "2026-05-25T17:14:23.878585+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "伊朗总统佩泽希齐扬：我们不会屈服于敌人的过分要求，伊朗民族的权利必须得到充分实现。",
+          "url": "https://flash.jin10.com/detail/20260525171118071800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
         {
           "title": "美媒：协议含放弃浓缩铀 伊朗：暂不谈核问题",
           "url": "https://wallstreetcn.com/articles/3772994",
@@ -26,9 +37,22 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
+        },
+        {
+          "title": "伊朗：准备向全世界保证不寻求拥核",
+          "url": "https://www.toutiao.com/trending/7643313675294244883/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 17时14分]"
         },
         {
           "title": "美国和伊朗制定旨在延长停火60天的谅解备忘录框架。（华盛顿邮报）",
@@ -43,27 +67,26 @@
           "time_info": "[09时39分 ~ 11时02分]"
         },
         {
-          "title": "伊朗：准备向全世界保证不寻求拥核",
-          "url": "https://www.toutiao.com/trending/7643313675294244883/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 15时24分]"
-        },
-        {
           "title": "美媒：伊朗最高领袖通过“信使网络”对外沟通",
           "url": "https://wallstreetcn.com/livenews/3108747",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
+        },
+        {
+          "title": "内塔尼亚胡：美以一致认为美伊协议须消除伊朗“核威胁”",
+          "url": "https://wallstreetcn.com/livenews/3108790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         },
         {
           "title": "卡利巴夫再次当选伊朗伊斯兰议会议长",
@@ -72,7 +95,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -83,7 +106,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -110,6 +133,28 @@
           "time_info": "11时02分"
         },
         {
+          "title": "伊朗称将部署新型防空系统",
+          "url": "https://wallstreetcn.com/livenews/3108782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
+          "title": "伊朗称对通过霍尔木兹海峡船只收“航行服务费”",
+          "url": "https://wallstreetcn.com/livenews/3108780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
           "title": "美国国务卿鲁比奥谈伊朗问题：将尽一切努力通过外交途径取得成功。 在伊朗问题上仍有工作在推进中。 我们现在正全力关注黎巴嫩局势。 （谈到伊朗协议）可能就在今天，但不必过度解读。",
           "url": "https://wallstreetcn.com/livenews/3108657",
           "source": "华尔街见闻-快讯",
@@ -127,7 +172,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -138,9 +183,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
+        },
+        {
+          "title": "伊朗外交部发言人Esmail Baghaei：伊朗外长阿拉格齐访美之行因签证问题取消。 阿拉格齐原计划出席联合国会议。",
+          "url": "https://wallstreetcn.com/livenews/3108774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
+          "title": "伊朗总统称准备向世界保证不寻求核武器，如何看待这一表态？会推动美伊达成协议吗？",
+          "url": "https://www.zhihu.com/question/2042201889626907656",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         },
         {
           "title": "据伊朗学生通讯社：伊朗高级外交官表示，若美国履行潜在谅解备忘录中的承诺，双方将在为期60天的谈判中就核问题及高浓缩铀储备展开讨论，以换取美国方面的制裁解除与资产解冻。",
@@ -149,7 +216,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -176,6 +243,17 @@
           "time_info": "08时22分"
         },
         {
+          "title": "伊朗外交部：目前暂不派团前往巴基斯坦",
+          "url": "https://wallstreetcn.com/livenews/3108769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
           "title": "伊朗官员：霍尔木兹海峡的管理不会恢复到战前状态",
           "url": "https://wallstreetcn.com/livenews/3108549",
           "source": "华尔街见闻-快讯",
@@ -187,13 +265,24 @@
           "time_info": "08时22分"
         },
         {
+          "title": "伊朗外交部：目前不讨论霍尔木兹海峡管理权细节",
+          "url": "https://wallstreetcn.com/livenews/3108765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
           "title": "中方回应巴总理访华是否提及伊朗",
           "url": "https://wallstreetcn.com/livenews/3108716",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -207,13 +296,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时22分"
+        },
+        {
+          "title": "伊朗外交部发言人：我们不会在霍尔木兹海峡收取通行费。将来提供的服务需要收费是正常的，但不应该被说成是征收通行费。",
+          "url": "https://wallstreetcn.com/livenews/3108761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "智胜特朗普？美媒酸了：中国取消对非关税这招太“高明”了",
+          "url": "https://news.ifeng.com/c/8tOEfLcy7On",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时22分 ~ 17时14分]"
+        },
         {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
           "url": "https://wallstreetcn.com/articles/3772980",
@@ -237,27 +349,39 @@
           "time_info": "[08时22分 ~ 09时39分]"
         },
         {
-          "title": "智胜特朗普？美媒酸了：中国取消对非关税这招太“高明”了",
-          "url": "https://news.ifeng.com/c/8tOEfLcy7On",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时22分 ~ 15时24分]"
-        },
-        {
           "title": "“史诗狂怒”变“史诗尴尬”，专家质疑特朗普对伊战事成果",
           "url": "https://flash.jin10.com/detail/20260525150620006800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
+        },
+        {
+          "title": "特朗普称美伊协议基本谈成，油价跳水，全球股市走强，日股指新高，金银齐涨",
+          "url": "https://wallstreetcn.com/articles/3773010",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
+          "title": "又改口？特朗普：美伊尚未“完全谈妥” 美国不急于达成协议",
+          "url": "https://www.cls.cn/detail/2380246",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 17时14分]"
         },
         {
           "title": "中东再传利好！特朗普：美伊协议基本谈成 霍尔木兹海峡将开放",
@@ -281,18 +405,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时22分 ~ 09时39分]"
-        },
-        {
-          "title": "又改口？特朗普：美伊尚未“完全谈妥” 美国不急于达成协议",
-          "url": "https://www.cls.cn/detail/2380246",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 15时24分]"
         },
         {
           "title": "特朗普称美伊协议“未谈妥”",
@@ -389,11 +501,12 @@
             12,
             14,
             17,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时22分 ~ 15时24分]"
+          "appearance_count": 7,
+          "time_info": "[08时22分 ~ 17时14分]"
         },
         {
           "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
@@ -413,7 +526,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         }
@@ -501,8 +614,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "软银集团股价创历史新高 受OpenAI的IPO预期提振",
+          "url": "https://wallstreetcn.com/livenews/3108773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
         {
           "title": "OpenAI IPO预期推动软银股价创新高",
           "url": "https://flash.jin10.com/detail/20260525150002632800",
@@ -510,7 +634,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         }
