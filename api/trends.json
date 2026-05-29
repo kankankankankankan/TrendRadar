@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T14:25:07.274406+08:00",
-  "total_titles_processed": 955,
+  "generated_at": "2026-05-29T16:15:51.760208+08:00",
+  "total_titles_processed": 1101,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://news.ifeng.com/c/8tVu1gkD4Ca",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时24分 ~ 14时25分]"
+          "appearance_count": 8,
+          "time_info": "[08时24分 ~ 16时15分]"
         },
         {
           "title": "媒体称伊朗愿意将高浓缩铀转运至中国进行处理，国防部回应",
@@ -26,11 +27,25 @@
             15,
             13,
             11,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 14时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 16时15分]"
+        },
+        {
+          "title": "美称敲定“谅解备忘录”遭伊朗否认",
+          "url": "https://www.toutiao.com/trending/7645098099924323890/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时36分 ~ 16时15分]"
         },
         {
           "title": "伊朗总统表示，伊朗致力于外交途径。",
@@ -50,7 +65,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -64,19 +79,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
-        },
-        {
-          "title": "美称敲定“谅解备忘录”遭伊朗否认",
-          "url": "https://www.toutiao.com/trending/7645098099924323890/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时36分 ~ 12时36分]"
         },
         {
           "title": "伊朗否认“已敲定谅解备忘录”",
@@ -149,8 +151,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 14时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 16时15分]"
         },
         {
           "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
@@ -179,11 +181,12 @@
           "url": "https://news.ifeng.com/c/8tW3etoYczE",
           "source": "凤凰网",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 14时25分]"
+          "appearance_count": 3,
+          "time_info": "[14时24分 ~ 16时15分]"
         },
         {
           "title": "特朗普的两张稀土王牌，先打上“内战”了",
@@ -233,7 +236,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
@@ -243,8 +246,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时24分 ~ 14时25分]"
+          "appearance_count": 8,
+          "time_info": "[08时24分 ~ 16时15分]"
         },
         {
           "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
@@ -254,8 +257,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时24分 ~ 14时25分]"
+          "appearance_count": 8,
+          "time_info": "[08时24分 ~ 16时15分]"
         },
         {
           "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
@@ -306,12 +309,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时25分 ~ 11时02分]"
+        },
+        {
+          "title": "戴尔(DELL.N)美股盘前大涨近40%，第一财季业绩远超预期。",
+          "url": "https://flash.jin10.com/detail/20260529160216964800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI将通过亚洲云服务商Datasection进行最新模型部署",
@@ -325,13 +339,24 @@
           "time_info": "12时36分"
         },
         {
+          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
+          "url": "https://wallstreetcn.com/articles/3773389",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
           "title": "OpenAI正调查影响用户登录和使用ChatGPT的故障",
           "url": "https://wallstreetcn.com/livenews/3111141",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         }
