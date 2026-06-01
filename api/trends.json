@@ -1,61 +1,11 @@
 {
-  "generated_at": "2026-06-01T08:22:59.910051+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-01T09:43:31.464368+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "伊朗总统已向最高领袖提出辞职？官方回应",
-          "url": "https://news.ifeng.com/c/8taeRM6Zu8b",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时22分"
-        },
-        {
-          "title": "伊朗总统：要么强硬前行，要么牺牲",
-          "url": "https://news.ifeng.com/c/8taeRM6ZuHm",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时22分"
-        },
-        {
-          "title": "战争阴霾笼罩世界杯，伊朗国家队运动员仍未获得赴美签证",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33276489",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时22分"
-        },
-        {
-          "title": "伊朗再度否认佩泽希齐扬辞职传闻",
-          "url": "https://www.toutiao.com/trending/7645634225568628777/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
@@ -65,8 +15,30 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时22分 ~ 09时43分]"
+        },
+        {
+          "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
+          "url": "https://news.ifeng.com/c/8taubWZltKg",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时22分"
+          "time_info": "09时43分"
+        },
+        {
+          "title": "鲍威尔的“体面”警告：没有提特朗普，但每个字都在说特朗普",
+          "url": "https://flash.jin10.com/detail/20260601091638529800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
         },
         {
           "title": "特朗普称，伊朗协议指出了伊朗不会拥有核武器，伊朗协议的大部分内容都与核问题有关。",
@@ -80,11 +52,86 @@
           "time_info": "08时22分"
         },
         {
+          "title": "据日经新闻：日本将参与美国特朗普政府的“创世使命”（Genesis Mission）AI项目，以推动科研创新。",
+          "url": "https://flash.jin10.com/detail/20260601090324279800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
           "title": "特朗普驳斥伊朗协议不涉及核问题的消息",
           "url": "https://flash.jin10.com/detail/20260601073133221800",
           "source": "金十数据",
           "ranks": [
             22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "伊朗总统已向最高领袖提出辞职？官方回应",
+          "url": "https://news.ifeng.com/c/8taeRM6Zu8b",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时22分 ~ 09时43分]"
+        },
+        {
+          "title": "伊朗总统：要么强硬前行，要么牺牲",
+          "url": "https://news.ifeng.com/c/8taeRM6ZuHm",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时22分 ~ 09时43分]"
+        },
+        {
+          "title": "战争阴霾笼罩世界杯，伊朗国家队运动员仍未获得赴美签证",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33276489",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时22分 ~ 09时43分]"
+        },
+        {
+          "title": "伊朗再度否认总统辞职传闻",
+          "url": "https://www.toutiao.com/trending/7645634225568628777/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "伊朗再度否认佩泽希齐扬辞职传闻",
+          "url": "https://www.toutiao.com/trending/7645634225568628777/",
+          "source": "今日头条",
+          "ranks": [
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
