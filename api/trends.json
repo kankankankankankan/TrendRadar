@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T21:26:20.845571+08:00",
-  "total_titles_processed": 1282,
+  "generated_at": "2026-06-03T23:29:57.882758+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "伊朗突袭美军中东基地，科威特拦截导弹画面曝光",
@@ -30,22 +30,24 @@
             16,
             13,
             11,
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时51分 ~ 21时26分]"
+          "appearance_count": 10,
+          "time_info": "[09时51分 ~ 23时29分]"
         },
         {
           "title": "伊朗最高领袖批准成立霍尔木兹海峡问题工作组",
           "url": "https://news.ifeng.com/c/8tekQlYHnoj",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 21时26分]"
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 23时29分]"
         },
         {
           "title": "伊朗在葬礼举行前袭击美军基地，有何意味？",
@@ -150,6 +152,17 @@
           "time_info": "[08时32分 ~ 11时02分]"
         },
         {
+          "title": "国际油价一度涨超2%，美军称伊朗在整个中东范围发动袭击",
+          "url": "https://wallstreetcn.com/articles/3773721",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时33分 ~ 23时29分]"
+        },
+        {
           "title": "伊朗称袭击美军第五舰队总部",
           "url": "https://www.toutiao.com/trending/7646223479754489897/",
           "source": "今日头条",
@@ -172,17 +185,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时32分 ~ 09时51分]"
-        },
-        {
-          "title": "国际油价一度涨超2%，美军称伊朗在整个中东范围发动袭击",
-          "url": "https://wallstreetcn.com/articles/3773721",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时33分 ~ 21时26分]"
         },
         {
           "title": "美军称空袭伊朗格什姆岛",
@@ -226,7 +228,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
@@ -347,7 +349,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
@@ -369,7 +371,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
@@ -394,6 +396,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
+        },
+        {
+          "title": "科威特外交部要求两名伊朗驻科外交人员离境",
+          "url": "https://wallstreetcn.com/livenews/3113883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "美军证实拦截伊朗导弹和无人机 称空袭格什姆岛",
@@ -427,6 +440,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：准备好全面升级（中东紧张局势）。 我们“除掉”了大约20名伊朗核科学家。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3113881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "美军称对伊朗格什姆岛实施“自卫性”打击 伊朗向邻国发射导弹",
@@ -542,7 +566,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 35,
       "titles": [
         {
           "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡：你他妈疯了，要不是我你早进监狱了！",
@@ -557,6 +581,17 @@
           "time_info": "[08时32分 ~ 15时33分]"
         },
         {
+          "title": "特朗普为何骂内塔尼亚胡“疯了”？",
+          "url": "https://news.ifeng.com/c/8ter8XhY8eS",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时33分 ~ 23时29分]"
+        },
+        {
           "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡“疯了”：要不是我你早进监狱了！",
           "url": "https://wallstreetcn.com/articles/3773679",
           "source": "华尔街见闻",
@@ -567,6 +602,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时31分 ~ 19时33分]"
+        },
+        {
+          "title": "特朗普任命房屋监管主管兼任情报总监",
+          "url": "https://news.ifeng.com/c/8tetwuxA0Fy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时33分 ~ 23时29分]"
+        },
+        {
+          "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
+          "url": "https://wallstreetcn.com/articles/3773725",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时32分 ~ 23时29分]"
         },
         {
           "title": "被特朗普斥“疯了”后，内塔尼亚胡强硬表态",
@@ -580,17 +640,6 @@
           "time_info": "[13时34分 ~ 15时33分]"
         },
         {
-          "title": "特朗普为何骂内塔尼亚胡“疯了”？",
-          "url": "https://news.ifeng.com/c/8ter8XhY8eS",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时33分 ~ 21时26分]"
-        },
-        {
           "title": "地产商治国？“小特朗普”将任代理国家情报总监",
           "url": "https://news.ifeng.com/c/8teUlNkkPvO",
           "source": "凤凰网",
@@ -600,31 +649,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时31分 ~ 17时32分]"
-        },
-        {
-          "title": "特朗普任命房屋监管主管兼任情报总监",
-          "url": "https://news.ifeng.com/c/8tetwuxA0Fy",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时33分 ~ 21时26分]"
-        },
-        {
-          "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
-          "url": "https://wallstreetcn.com/articles/3773725",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时32分 ~ 21时26分]"
         },
         {
           "title": "被特朗普斥“疯了”后，内塔尼亚胡最新强硬表态",
@@ -660,6 +684,17 @@
           "time_info": "[13时34分 ~ 19时33分]"
         },
         {
+          "title": "内塔尼亚胡称与特朗普在伊朗相关主要问题上达成一致",
+          "url": "https://flash.jin10.com/detail/20260603232405595800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "【外交部：关税战、贸易战不符合任何一方的利益】针对特朗普政府近日提议对部分国家商品加征额外进口关税，外交部发言人毛宁6月3日在例行记者会上答问时表示，中方一贯反对各种形式的单边关税措施，关税战、贸易战不符合任何一方的利益。经贸问题应该在平等、尊重、互惠的基础上，通过对话协商解决。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3113592",
           "source": "华尔街见闻-快讯",
@@ -680,6 +715,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
+        },
+        {
+          "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
+          "url": "https://wallstreetcn.com/articles/3773781",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "特朗普签署人工智能行政令，要求企业向政府提前开放模型访问权限",
@@ -738,6 +784,28 @@
           "time_info": "11时02分"
         },
         {
+          "title": "以色列总理内塔尼亚胡：军事上打开霍尔木兹海峡是可能的，特朗普正在考虑多种选择。",
+          "url": "https://flash.jin10.com/detail/20260603231100210800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "美国财长贝森特：如果没有法律依据，不会推进将特朗普印在美元纸币上的计划。",
+          "url": "https://flash.jin10.com/detail/20260603231039505800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "特朗普证实斥责内塔尼亚胡“疯了”",
           "url": "https://wallstreetcn.com/livenews/3113731",
           "source": "华尔街见闻-快讯",
@@ -755,9 +823,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
+        },
+        {
+          "title": "美国财长贝森特：特朗普税务记录被泄露一事涉及犯罪行为。",
+          "url": "https://flash.jin10.com/detail/20260603230845502800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "特朗普：我的认知测试成绩相当好。",
@@ -777,9 +856,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
+        },
+        {
+          "title": "美国财长贝森特：我们存在开支问题和增长问题。 总统特朗普任期届满时，赤字与GDP比率可能会低于4%。 的确考虑让这一比率降低至3%。",
+          "url": "https://wallstreetcn.com/livenews/3113884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "特朗普对以色列与黎巴嫩的冲突感到“有些不安”",
@@ -802,6 +892,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
+        },
+        {
+          "title": "美国财长贝森特在听证会上宣称：并没有提前知道总统特朗普会起诉（财政部下辖）国税局（IRS）。",
+          "url": "https://wallstreetcn.com/livenews/3113880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "特朗普：我们不需要派遣地面部队来实现对伊朗的目标。",
@@ -862,7 +963,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -873,8 +974,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时32分 ~ 21时26分]"
+          "appearance_count": 11,
+          "time_info": "[08时32分 ~ 23时29分]"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
@@ -901,6 +1002,21 @@
           "time_info": "17时32分"
         },
         {
+          "title": "大戏即将开演！美股IPO市场今年显著回暖 三大独角兽即将接力登场",
+          "url": "https://www.cls.cn/detail/2389478",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 23时29分]"
+        },
+        {
           "title": "英特尔(INTC.O)美股盘前涨幅达5%。",
           "url": "https://flash.jin10.com/detail/20260603171709790800",
           "source": "金十数据",
@@ -912,18 +1028,16 @@
           "time_info": "17时32分"
         },
         {
-          "title": "大戏即将开演！美股IPO市场今年显著回暖 三大独角兽即将接力登场",
-          "url": "https://www.cls.cn/detail/2389478",
-          "source": "财联社热门",
+          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
+          "url": "https://wallstreetcn.com/articles/3773769",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            10,
-            8,
+            9,
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 21时26分]"
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 23时29分]"
         },
         {
           "title": "美股期指下跌 慧与科技盘前大涨超28% | 今夜看点",
@@ -949,15 +1063,26 @@
           "time_info": "[17时31分 ~ 17时32分]"
         },
         {
-          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
-          "url": "https://wallstreetcn.com/articles/3773769",
+          "title": "美股期指下跌 布油站上98美元 比特币跌破6.7万美元 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2389957",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 23时29分]"
+        },
+        {
+          "title": "特朗普言论提振有限，美股指涨跌互现，Marvell开盘涨近10%，油价涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3773742",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时26分"
+          "time_info": "23时29分"
         },
         {
           "title": "梅西百货第一季度总收入48.9亿美元，预期48.2亿美元。 第一季度调整后每股收益13美分，预期3.8美分。 梅西百货预计全年调整后每股收益2至2.20美元，此前预期1.90至2.10美元，市场预期2.12美元。 梅西百货预计全年净销售额215亿至217.5亿美元，此前预期214亿至216.5亿美元。 梅西百货美股盘前涨近5%。",
@@ -971,24 +1096,13 @@
           "time_info": "19时33分"
         },
         {
-          "title": "美股期指下跌 布油站上98美元 比特币跌破6.7万美元 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2389957",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时26分"
-        },
-        {
           "title": "美股股指期货走低，纳指期货转跌，标普500指数期货跌0.24%，道指期货跌0.48%。",
           "url": "https://wallstreetcn.com/livenews/3113808",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
@@ -1032,9 +1146,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         }
       ]
     },
@@ -1128,7 +1253,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         }
@@ -1136,8 +1261,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "黄金储备份额达27% 后续金价走势如何",
+          "url": "https://www.toutiao.com/trending/7647154071647817270/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
         {
           "title": "国内金价跌破980元每克",
           "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%86%85%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B4980%E5%85%83%E6%AF%8F%E5%85%8B&t=31&band_rank=13&Refer=top",
@@ -1204,24 +1340,25 @@
           "time_info": "13时34分"
         },
         {
+          "title": "腾讯云宣布 DeepSeek-V4 系列模型降价，最高降幅达 97.5%，将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2045220633466725057",
+          "source": "知乎",
+          "ranks": [
+            19,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 23时29分]"
+        },
+        {
           "title": "曝DeepSeek首轮融资约70亿美元",
           "url": "https://www.toutiao.com/trending/7647079043384217115/",
           "source": "今日头条",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时26分"
-        },
-        {
-          "title": "腾讯云宣布 DeepSeek-V4 系列模型降价，最高降幅达 97.5%，将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2045220633466725057",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         }
