@@ -1,8 +1,94 @@
 {
-  "generated_at": "2026-06-05T08:25:19.313938+08:00",
-  "total_titles_processed": 304,
+  "generated_at": "2026-06-05T09:41:08.449230+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "特朗普",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
+          "url": "https://news.ifeng.com/c/8thJ3FRE17N",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时25分 ~ 09时41分]"
+        },
+        {
+          "title": "特朗普最新支持率曝光，压力骤增",
+          "url": "https://news.ifeng.com/c/8thXPDq9zi0",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时40分 ~ 09时41分]"
+        },
+        {
+          "title": "美国务卿：特朗普几乎不睡觉，凌晨给我打电话，是个严重问题",
+          "url": "https://news.ifeng.com/c/8thTYNkVaOC",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时25分 ~ 09时41分]"
+        },
+        {
+          "title": "泽连斯基提议与普京举行会晤 特朗普称黎以和平谈判取得一定进展 | 环球市场",
+          "url": "https://www.cls.cn/detail/2391265",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时25分 ~ 09时41分]"
+        },
+        {
+          "title": "曝特朗普将现场观看NBA总决赛G3",
+          "url": "https://www.toutiao.com/trending/7647682623816338954/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时25分 ~ 09时41分]"
+        },
+        {
+          "title": "特朗普：绝不允许伊朗拥核，不排除与其最高领袖会晤",
+          "url": "https://news.ifeng.com/c/8thTYMLvvqY",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时40分 ~ 09时41分]"
+        },
+        {
+          "title": "特朗普：愿见伊朗新最高领袖，“他在某些圈子里口碑不错”",
+          "url": "https://flash.jin10.com/detail/20260605071426390800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时25分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 5,
@@ -15,30 +101,44 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时25分"
-        },
-        {
-          "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
-          "url": "https://wallstreetcn.com/articles/3773846",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时25分"
+          "appearance_count": 3,
+          "time_info": "[08时25分 ~ 09时41分]"
         },
         {
           "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
           "url": "https://www.cls.cn/detail/2391272",
           "source": "财联社热门",
           "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时25分 ~ 09时41分]"
+        },
+        {
+          "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
+          "url": "https://wallstreetcn.com/articles/3773846",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时25分"
+          "appearance_count": 3,
+          "time_info": "[08时25分 ~ 09时41分]"
+        },
+        {
+          "title": "李大霄谈美股风险释放",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E9%A3%8E%E9%99%A9%E9%87%8A%E6%94%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时25分 ~ 09时41分]"
         },
         {
           "title": "汇丰：美股转空的三大信号",
@@ -46,78 +146,6 @@
           "source": "华尔街见闻",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时25分"
-        },
-        {
-          "title": "李大霄谈美股风险释放",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E9%A3%8E%E9%99%A9%E9%87%8A%E6%94%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
-          "url": "https://news.ifeng.com/c/8thJ3FRE17N",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时25分"
-        },
-        {
-          "title": "美国务卿：特朗普几乎不睡觉，凌晨给我打电话，是个严重问题",
-          "url": "https://news.ifeng.com/c/8thTYNkVaOC",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时25分"
-        },
-        {
-          "title": "泽连斯基提议与普京举行会晤 特朗普称黎以和平谈判取得一定进展 | 环球市场",
-          "url": "https://www.cls.cn/detail/2391265",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时25分"
-        },
-        {
-          "title": "特朗普：愿见伊朗新最高领袖，“他在某些圈子里口碑不错”",
-          "url": "https://flash.jin10.com/detail/20260605071426390800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时25分"
-        },
-        {
-          "title": "曝特朗普将现场观看NBA总决赛G3",
-          "url": "https://www.toutiao.com/trending/7647682623816338954/",
-          "source": "今日头条",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 1,
