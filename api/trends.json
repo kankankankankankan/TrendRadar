@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T21:19:03.422891+08:00",
-  "total_titles_processed": 1405,
+  "generated_at": "2026-06-05T22:59:54.700212+08:00",
+  "total_titles_processed": 1558,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
@@ -18,8 +18,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时29分 ~ 21时19分]"
+          "appearance_count": 8,
+          "time_info": "[14时29分 ~ 22时59分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗外长阿拉格齐与哈马斯高级领导人哈利勒·哈亚讨论了加沙及更广泛地区的最新局势发展，双方重申支持巴勒斯坦事业，并支持旨在结束以色列军事行动的相关努力。",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
+        },
+        {
+          "title": "调查显示：OPEC产量跌至数十年低点 伊朗战争持续冲击供应",
+          "url": "https://wallstreetcn.com/livenews/3115216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "伊朗外长回忆哈梅内伊遇袭当天细节",
@@ -96,7 +107,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -129,7 +140,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -258,7 +269,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
@@ -322,15 +333,49 @@
           "time_info": "[09时40分 ~ 14时29分]"
         },
         {
+          "title": "美国总统特朗普：股市应该上涨，现在却在下跌。",
+          "url": "https://wallstreetcn.com/livenews/3115218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
+          "title": "美国总统特朗普：就业报告很棒。 增长并不意味着通胀。",
+          "url": "https://wallstreetcn.com/livenews/3115217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
+          "title": "在这件事上，特朗普宣布要花7亿美元",
+          "url": "https://news.ifeng.com/c/8tiAmm9M2oW",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
           "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时02分 ~ 21时19分]"
+          "appearance_count": 4,
+          "time_info": "[20时02分 ~ 22时59分]"
         },
         {
           "title": "曝特朗普将现场观看NBA总决赛G3",
@@ -367,6 +412,17 @@
           "time_info": "18时20分"
         },
         {
+          "title": "美国一名联邦法官裁定，推翻特朗普政府暂停对39个国家人员作出庇护申请、工作许可、绿卡及入籍申请最终决定的相关政策。",
+          "url": "https://flash.jin10.com/detail/20260605223652022800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "据国际文传电讯社：美国总统特使威特科夫与特朗普女婿库什纳短期内预计不会访问俄罗斯。",
           "url": "https://flash.jin10.com/detail/20260605195847558800",
           "source": "金十数据",
@@ -387,6 +443,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "特朗普：就业报告非常强劲 经济增长并不意味着通胀",
+          "url": "https://flash.jin10.com/detail/20260605223353538800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "特朗普相信美国和印度将达成期待已久的贸易协议",
@@ -475,27 +542,28 @@
           "time_info": "[08时25分 ~ 14时29分]"
         },
         {
+          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
+          "url": "https://wallstreetcn.com/articles/3773949",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时02分 ~ 22时59分]"
+        },
+        {
           "title": "周五美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/3115164",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
-        },
-        {
-          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
-          "url": "https://wallstreetcn.com/articles/3773949",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时02分 ~ 21时19分]"
         },
         {
           "title": "金十数据整理：每日美股市场要闻速递（2026-06-05）",
@@ -504,7 +572,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -580,8 +648,20 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美国如何一次性解决 36 万亿美债问题？",
+          "url": "https://www.zhihu.com/question/6607165102",
+          "source": "知乎",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时18分 ~ 22时59分]"
+        },
         {
           "title": "非农大超预期，美债收益率短线拉升，AI降温纳指期货跌超1.2%，WTI原油跌1%，现货白银跌超2.5%",
           "url": "https://wallstreetcn.com/articles/3773946",
@@ -594,15 +674,15 @@
           "time_info": "[21时18分 ~ 21时19分]"
         },
         {
-          "title": "美国如何一次性解决 36 万亿美债问题？",
-          "url": "https://www.zhihu.com/question/6607165102",
-          "source": "知乎",
+          "title": "非农大超预期，美债收益率短线拉升，AI降温纳指开盘跌超1.2%，WTI原油跌1%，现货白银跌超2.5%",
+          "url": "https://wallstreetcn.com/articles/3773946",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时18分 ~ 21时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "桥水CIO喊你买黄金：物资争夺战之下，各国正在抛美债、囤黄金、抢铜！",
@@ -638,11 +718,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时20分 ~ 21时19分]"
+          "appearance_count": 5,
+          "time_info": "[18时20分 ~ 22时59分]"
         },
         {
           "title": "据Business Insider：谷歌(GOOG.O)正悄然裁减其云部门员工。",
@@ -679,11 +760,12 @@
           "ranks": [
             8,
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时19分 ~ 21时19分]"
+          "appearance_count": 7,
+          "time_info": "[16时19分 ~ 22时59分]"
         },
         {
           "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
@@ -759,7 +841,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -770,7 +852,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -781,7 +863,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         }
