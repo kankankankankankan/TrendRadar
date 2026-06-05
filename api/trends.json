@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T11:02:25.206523+08:00",
-  "total_titles_processed": 556,
+  "generated_at": "2026-06-05T12:38:08.337520+08:00",
+  "total_titles_processed": 694,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时25分 ~ 11时02分]"
+          "appearance_count": 6,
+          "time_info": "[08时25分 ~ 12时38分]"
         },
         {
           "title": "特朗普最新支持率曝光，压力骤增",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时40分 ~ 11时02分]"
+          "appearance_count": 5,
+          "time_info": "[09时40分 ~ 12时38分]"
         },
         {
           "title": "美国务卿：特朗普几乎不睡觉，凌晨给我打电话，是个严重问题",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时25分 ~ 11时02分]"
+          "appearance_count": 6,
+          "time_info": "[08时25分 ~ 12时38分]"
         },
         {
           "title": "泽连斯基提议与普京举行会晤 特朗普称黎以和平谈判取得一定进展 | 环球市场",
@@ -49,11 +49,12 @@
           "ranks": [
             12,
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时25分 ~ 11时02分]"
+          "appearance_count": 6,
+          "time_info": "[08时25分 ~ 12时38分]"
         },
         {
           "title": "特朗普：绝不允许伊朗拥核，不排除与其最高领袖会晤",
@@ -63,8 +64,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时40分 ~ 11时02分]"
+          "appearance_count": 5,
+          "time_info": "[09时40分 ~ 12时38分]"
         },
         {
           "title": "曝特朗普将现场观看NBA总决赛G3",
@@ -79,13 +80,24 @@
           "time_info": "[08时25分 ~ 09时41分]"
         },
         {
+          "title": "美媒：特朗普中期选举策略引争议",
+          "url": "https://www.toutiao.com/trending/7647383241969057802/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 12时38分]"
+        },
+        {
           "title": "特朗普声称美伊进入最后谈判阶段，伊方与真主党死守停火底线；泽连斯基公开致信普京提议举行会晤，日本央行释放6月加息信号…………后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）。",
           "url": "https://flash.jin10.com/detail/20260605103152672800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -96,7 +108,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -115,7 +127,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股收盘：道指飙升近900点创历史新高 博通引发芯片板块抛售拖累纳指",
@@ -125,8 +137,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时25分 ~ 11时02分]"
+          "appearance_count": 6,
+          "time_info": "[08时25分 ~ 12时38分]"
         },
         {
           "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
@@ -137,8 +149,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时25分 ~ 11时02分]"
+          "appearance_count": 6,
+          "time_info": "[08时25分 ~ 12时38分]"
         },
         {
           "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
@@ -149,8 +161,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时25分 ~ 11时02分]"
+          "appearance_count": 6,
+          "time_info": "[08时25分 ~ 12时38分]"
         },
         {
           "title": "李大霄谈美股风险释放",
@@ -165,6 +177,17 @@
           "time_info": "[08时25分 ~ 09时41分]"
         },
         {
+          "title": "美股芯片巨头博通 AI 半导体收入增长超 200%，为什么股价却暴跌 15%？背后有哪些因素值得关注？",
+          "url": "https://www.zhihu.com/question/2045914979002315116",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 12时38分]"
+        },
+        {
           "title": "汇丰：美股转空的三大信号",
           "url": "https://wallstreetcn.com/articles/3773857",
           "source": "华尔街见闻",
@@ -174,6 +197,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价反弹燃料只加了一半，非农会是另一半吗？",
+          "url": "https://flash.jin10.com/detail/20260605115530618800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "印度将黄金和白银关税上调至 15%，对金价有何影响，为何黄金而让其出现外汇危机，也抑制了卢比国际化？",
+          "url": "https://www.zhihu.com/question/2037863547707905863",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时25分"
+        },
+        {
+          "title": "金十图示：2026年06月05日（周五）上海金早盘价为970.64元/克，较国际金价(969.09元/克)，高1.55元/克",
+          "url": "https://flash.jin10.com/detail/20260605101657094800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         }
       ]
     },
@@ -199,7 +261,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -238,35 +300,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "印度将黄金和白银关税上调至 15%，对金价有何影响，为何黄金而让其出现外汇危机，也抑制了卢比国际化？",
-          "url": "https://www.zhihu.com/question/2037863547707905863",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时25分"
-        },
-        {
-          "title": "金十图示：2026年06月05日（周五）上海金早盘价为970.64元/克，较国际金价(969.09元/克)，高1.55元/克",
-          "url": "https://flash.jin10.com/detail/20260605101657094800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "11时02分"
         }
