@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-06-06T11:02:05.041300+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2026-06-06T12:30:31.924053+08:00",
+  "total_titles_processed": 765,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
+        {
+          "title": "特朗普：将迅速结束伊朗战事",
+          "url": "https://news.ifeng.com/c/8tjENyLisNK",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时36分 ~ 12时30分]"
+        },
+        {
+          "title": "怎么看待外媒报道美国公务员被强制安装白宫 App，可一键夸特朗普?",
+          "url": "https://www.zhihu.com/question/2045446455956091852",
+          "source": "知乎",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时23分 ~ 12时30分]"
+        },
         {
           "title": "在这件事上，特朗普宣布要花7亿美元",
           "url": "https://news.ifeng.com/c/8tiAmm9M2oW",
@@ -20,38 +43,40 @@
           "time_info": "[00时04分 ~ 08时24分]"
         },
         {
-          "title": "特朗普：将迅速结束伊朗战事",
-          "url": "https://news.ifeng.com/c/8tjENyLisNK",
-          "source": "凤凰网",
+          "title": "特朗普赦免因内幕交易获罪前议员",
+          "url": "https://wallstreetcn.com/livenews/3115419",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时36分 ~ 11时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
         },
         {
           "title": "特朗普改口：肯尼迪中心将继续由我而非国会掌管",
           "url": "https://wallstreetcn.com/livenews/3115408",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        },
-        {
-          "title": "怎么看待外媒报道美国公务员被强制安装白宫 App，可一键夸特朗普?",
-          "url": "https://www.zhihu.com/question/2045446455956091852",
-          "source": "知乎",
-          "ranks": [
-            6,
-            8
+            1,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时23分 ~ 11时02分]"
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 12时30分]"
+        },
+        {
+          "title": "特朗普称将迅速结束伊朗战事",
+          "url": "https://wallstreetcn.com/livenews/3115394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时36分 ~ 12时30分]"
         },
         {
           "title": "特朗普：将很快从伊朗战事中“脱身” 但协议尚未达成",
@@ -76,18 +101,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时24分 ~ 09时36分]"
-        },
-        {
-          "title": "特朗普称将迅速结束伊朗战事",
-          "url": "https://wallstreetcn.com/livenews/3115394",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 11时02分]"
         },
         {
           "title": "美国总统特朗普：在迄今为止的冲突中，我们已经彻底摧毁了他们的军队，不过伊朗仍然拥有一些导弹和无人机。",
@@ -192,7 +205,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -291,7 +304,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -365,54 +378,8 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
-        {
-          "title": "伊朗外长：伊美沟通渠道仍保持畅通",
-          "url": "https://wallstreetcn.com/livenews/3115389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时24分 ~ 11时02分]"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗和巴基斯坦的内政部长再次会晤，就地区局势发展进行磋商。",
-          "url": "https://flash.jin10.com/detail/20260606102952590800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        },
-        {
-          "title": "伊朗称再袭美军第五舰队重要设施",
-          "url": "https://flash.jin10.com/detail/20260606102807931800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        },
-        {
-          "title": "伊朗称再袭美军第五舰队重要设施",
-          "url": "https://wallstreetcn.com/livenews/3115407",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        },
         {
           "title": "风水轮流转，轮到伊朗威胁美国了",
           "url": "https://news.ifeng.com/c/8tjAgk0yryi",
@@ -421,39 +388,42 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时23分 ~ 11时02分]"
+          "appearance_count": 7,
+          "time_info": "[08时23分 ~ 12时30分]"
         },
         {
-          "title": "伊朗革命卫队发表声明称，如果美国的“胡闹”行径持续，美国将须对霍尔木兹海峡完全关闭、油气出口受阻所引发的后果承担责任。",
-          "url": "https://flash.jin10.com/detail/20260606102535963800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        },
-        {
-          "title": "美军称拦截伊朗导弹和无人机",
-          "url": "https://wallstreetcn.com/livenews/3115405",
+          "title": "伊朗外长：伊美沟通渠道仍保持畅通",
+          "url": "https://wallstreetcn.com/livenews/3115389",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            1,
+            5,
+            15,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时24分 ~ 12时30分]"
         },
         {
-          "title": "美军中央司令部称拦截了伊朗导弹和无人机",
-          "url": "https://flash.jin10.com/detail/20260606101944957800",
-          "source": "金十数据",
+          "title": "伊朗称美军第五舰队总部遭打击，美方否认",
+          "url": "https://news.ifeng.com/c/8tjQ9QnevyO",
+          "source": "凤凰网",
           "ranks": [
-            4
+            5
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时29分 ~ 12时30分]"
+        },
+        {
+          "title": "伊朗称再袭美军第五舰队重要设施",
+          "url": "https://wallstreetcn.com/livenews/3115407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -464,9 +434,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "伊朗沿海锡里克地区传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3115393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时36分 ~ 12时30分]"
         },
         {
           "title": "美军称击落四架向霍尔木兹海峡发射的伊朗无人机",
@@ -481,6 +464,18 @@
           "time_info": "[08时24分 ~ 09时36分]"
         },
         {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗和巴基斯坦的内政部长再次会晤，就地区局势发展进行磋商。",
+          "url": "https://flash.jin10.com/detail/20260606102952590800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 12时30分]"
+        },
+        {
           "title": "据CNN，一名美国官员表示伊朗已向霍尔木兹海峡方向发射了多架无人机。该官员表示，美军已击落了其中至少3架。",
           "url": "https://flash.jin10.com/detail/20260606060734761800",
           "source": "金十数据",
@@ -493,16 +488,64 @@
           "time_info": "[08时24分 ~ 09时36分]"
         },
         {
-          "title": "伊朗沿海锡里克地区传出爆炸声",
-          "url": "https://wallstreetcn.com/livenews/3115393",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗称再袭美军第五舰队重要设施",
+          "url": "https://flash.jin10.com/detail/20260606102807931800",
+          "source": "金十数据",
           "ranks": [
             2,
-            12
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时36分 ~ 11时02分]"
+          "time_info": "[11时02分 ~ 12时30分]"
+        },
+        {
+          "title": "伊朗革命卫队：中东地区美军基地遭袭",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%EF%BC%9A%E4%B8%AD%E4%B8%9C%E5%9C%B0%E5%8C%BA%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E9%81%AD%E8%A2%AD",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时01分 ~ 12时30分]"
+        },
+        {
+          "title": "伊朗革命卫队发表声明称，如果美国的“胡闹”行径持续，美国将须对霍尔木兹海峡完全关闭、油气出口受阻所引发的后果承担责任。",
+          "url": "https://flash.jin10.com/detail/20260606102535963800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 12时30分]"
+        },
+        {
+          "title": "美军称拦截伊朗导弹和无人机",
+          "url": "https://wallstreetcn.com/livenews/3115405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 12时30分]"
+        },
+        {
+          "title": "美军中央司令部称拦截了伊朗导弹和无人机",
+          "url": "https://flash.jin10.com/detail/20260606101944957800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 12时30分]"
         },
         {
           "title": "美军：击落4架伊朗无人机，空袭沿海雷达站",
@@ -518,15 +561,16 @@
           "time_info": "[08时24分 ~ 11时02分]"
         },
         {
-          "title": "伊朗革命卫队：中东地区美军基地遭袭",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%EF%BC%9A%E4%B8%AD%E4%B8%9C%E5%9C%B0%E5%8C%BA%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E9%81%AD%E8%A2%AD",
-          "source": "百度热搜",
+          "title": "伊朗革命卫队称中东地区美军基地遭袭",
+          "url": "https://wallstreetcn.com/livenews/3115402",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            6,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时02分]"
+          "time_info": "[11时02分 ~ 12时30分]"
         },
         {
           "title": "美国击落至少3架飞往霍尔木兹海峡方向的伊朗无人机。（CNN）",
@@ -547,18 +591,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        },
-        {
-          "title": "伊朗革命卫队称中东地区美军基地遭袭",
-          "url": "https://wallstreetcn.com/livenews/3115402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -580,9 +613,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "伊朗最高领袖军事顾问警告美国或将“损失惨重”",
+          "url": "https://flash.jin10.com/detail/20260606120510241800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
         },
         {
           "title": "伊朗媒体：美军第五舰队总部升起浓烟",
@@ -591,9 +635,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "黎巴嫩总统指责伊朗将该国当作筹码 伊朗外长暗示其敌友不分",
+          "url": "https://flash.jin10.com/detail/20260606120346153800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐回应黎巴嫩总统称，如果黎巴嫩是“谈判筹码”，德黑兰早就可以与美国达成协议。",
+          "url": "https://flash.jin10.com/detail/20260606115300156800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
         },
         {
           "title": "美国财长贝森特：伊朗的经济正在挣扎，其军队已被摧毁。通过“经济之怒”，美国财政部将继续切断伊朗的影子船队、影子银行网络以及对全球贸易的获取渠道。",
@@ -624,9 +690,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "伊朗称拦截违规油轮后遭美军攻击 警告美勿重演恶行",
+          "url": "https://wallstreetcn.com/livenews/3115407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
         },
         {
           "title": "伊朗沿海锡里克地区传出爆炸声",
@@ -677,8 +754,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 11时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 12时30分]"
         },
         {
           "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
@@ -688,8 +765,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时23分 ~ 11时02分]"
+          "appearance_count": 7,
+          "time_info": "[08时23分 ~ 12时30分]"
         },
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
@@ -699,19 +776,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时23分 ~ 11时02分]"
+          "appearance_count": 7,
+          "time_info": "[08时23分 ~ 12时30分]"
         },
         {
           "title": "美股三大指数集体收跌，纳指跌超 1100 点，美国非农数据大幅超预期，加息预期升温，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2046360260902909588",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时36分 ~ 11时02分]"
+          "appearance_count": 5,
+          "time_info": "[09时36分 ~ 12时30分]"
         },
         {
           "title": "美股",
@@ -829,6 +907,18 @@
           "time_info": "00时04分"
         },
         {
+          "title": "IPO前夕再获重磅订单！谷歌每月支付9.2亿美元租用SpaceX算力",
+          "url": "https://www.cls.cn/detail/2392502",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时01分 ~ 12时30分]"
+        },
+        {
           "title": "谷歌关联的预付能源债券引发市政债券交易员抢购潮",
           "url": "https://wallstreetcn.com/livenews/3115375",
           "source": "华尔街见闻-快讯",
@@ -855,26 +945,16 @@
           "time_info": "[08时24分 ~ 11时02分]"
         },
         {
-          "title": "IPO前夕再获重磅订单！谷歌每月支付9.2亿美元租用SpaceX算力",
-          "url": "https://www.cls.cn/detail/2392502",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时02分]"
-        },
-        {
           "title": "欧洲议会弃用谷歌 转用法国搜索引擎",
           "url": "https://wallstreetcn.com/livenews/3115400",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 12时30分]"
         },
         {
           "title": "欧洲议会弃用谷歌 转用法国搜索引擎",
@@ -883,7 +963,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -897,6 +977,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 09时36分]"
+        },
+        {
+          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
+          "url": "https://www.cls.cn/detail/2392488",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时29分 ~ 12时30分]"
         }
       ]
     },
@@ -938,11 +1047,12 @@
           "url": "https://wallstreetcn.com/articles/3773996",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时02分]"
+          "appearance_count": 4,
+          "time_info": "[11时01分 ~ 12时30分]"
         },
         {
           "title": "美元指数5日上涨",
@@ -954,24 +1064,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
-          "url": "https://wallstreetcn.com/articles/3773921",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 09时36分]"
         }
       ]
     },
