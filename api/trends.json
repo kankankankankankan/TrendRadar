@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T16:50:03.900927+08:00",
-  "total_titles_processed": 1035,
+  "generated_at": "2026-06-06T17:39:04.473633+08:00",
+  "total_titles_processed": 1092,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 41,
+      "match_count": 49,
       "titles": [
         {
           "title": "风水轮流转，轮到伊朗威胁美国了",
@@ -19,6 +19,18 @@
           "time_info": "[08时23分 ~ 14时11分]"
         },
         {
+          "title": "伊朗外长：哈梅内伊遇害那一刻，我就在他办公室里",
+          "url": "https://news.ifeng.com/c/8tjg7UwVKTV",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时56分 ~ 17时39分]"
+        },
+        {
           "title": "伊朗称美军第五舰队总部遭打击，美方否认",
           "url": "https://news.ifeng.com/c/8tjQ9QnevyO",
           "source": "凤凰网",
@@ -28,18 +40,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时29分 ~ 15时56分]"
-        },
-        {
-          "title": "伊朗外长：哈梅内伊遇害那一刻，我就在他办公室里",
-          "url": "https://news.ifeng.com/c/8tjg7UwVKTV",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时56分 ~ 16时50分]"
         },
         {
           "title": "伊朗外长：伊美沟通渠道仍保持畅通",
@@ -69,6 +69,17 @@
           "time_info": "[11时01分 ~ 14时11分]"
         },
         {
+          "title": "伊朗称在边境地区击毙6名恐怖分子",
+          "url": "https://wallstreetcn.com/livenews/3115446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
           "title": "伊朗称再袭美军第五舰队重要设施",
           "url": "https://wallstreetcn.com/livenews/3115407",
           "source": "华尔街见闻-快讯",
@@ -89,6 +100,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗国家利益委员会主席萨迪克·阿梅利·拉里贾尼提到核谈判和地区局势时强调，与美国的任何协议都必须在地区和国际体系层面上体现出重大的战略性变革。",
+          "url": "https://flash.jin10.com/detail/20260606171956023800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
+          "title": "白宫：伊朗国足已获得签证",
+          "url": "https://wallstreetcn.com/livenews/3115427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时11分 ~ 17时39分]"
         },
         {
           "title": "伊朗沿海锡里克地区传出爆炸声",
@@ -115,19 +151,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时02分 ~ 14时11分]"
-        },
-        {
-          "title": "白宫：伊朗国足已获得签证",
-          "url": "https://wallstreetcn.com/livenews/3115427",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时11分 ~ 16时50分]"
         },
         {
           "title": "美军称击落四架向霍尔木兹海峡发射的伊朗无人机",
@@ -214,6 +237,20 @@
           "time_info": "[15时56分 ~ 16时50分]"
         },
         {
+          "title": "伊朗最高领袖军事顾问警告美国或将“损失惨重”",
+          "url": "https://wallstreetcn.com/livenews/3115423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时11分 ~ 17时39分]"
+        },
+        {
           "title": "伊朗革命卫队称中东地区美军基地遭袭",
           "url": "https://wallstreetcn.com/livenews/3115402",
           "source": "华尔街见闻-快讯",
@@ -240,17 +277,17 @@
           "time_info": "[08时24分 ~ 11时02分]"
         },
         {
-          "title": "伊朗最高领袖军事顾问警告美国或将“损失惨重”",
-          "url": "https://wallstreetcn.com/livenews/3115423",
+          "title": "报道：多名伊朗世界杯工作人员被美国拒签",
+          "url": "https://wallstreetcn.com/livenews/3115430",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            14,
-            20
+            13,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时11分 ~ 16时50分]"
+          "time_info": "[15时56分 ~ 17时39分]"
         },
         {
           "title": "伊朗称拦截违规油轮后遭美军攻击 警告美勿重演恶行",
@@ -266,6 +303,18 @@
           "time_info": "[12时30分 ~ 15时56分]"
         },
         {
+          "title": "伊朗外长：我亲历已故最高领袖遇害瞬间",
+          "url": "https://wallstreetcn.com/livenews/3115437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 17时39分]"
+        },
+        {
           "title": "伊朗最高领袖军事顾问警告美国或将“损失惨重”",
           "url": "https://flash.jin10.com/detail/20260606120510241800",
           "source": "金十数据",
@@ -278,16 +327,16 @@
           "time_info": "[12时30分 ~ 14时11分]"
         },
         {
-          "title": "报道：多名伊朗世界杯工作人员被美国拒签",
-          "url": "https://wallstreetcn.com/livenews/3115430",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗边防指挥官阿里·阿克巴尔·贾维丹：昨晚，一支企图进入伊朗境内并袭击边防基地的恐怖组织小组与边防军发生了激烈交火，经过激烈的火力对抗，边防军成功对恐怖组织造成了重大损失，6名武装恐怖分子已被击毙，",
+          "url": "https://flash.jin10.com/detail/20260606162327329800",
+          "source": "金十数据",
           "ranks": [
             7,
-            13
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时56分 ~ 16时50分]"
+          "time_info": "[16时50分 ~ 17时39分]"
         },
         {
           "title": "黎巴嫩总统指责伊朗将该国当作筹码 伊朗外长暗示其敌友不分",
@@ -326,6 +375,17 @@
           "time_info": "[15时56分 ~ 16时50分]"
         },
         {
+          "title": "伊朗外长：亲历已故最高领袖遇害瞬间",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%EF%BC%9A%E4%BA%B2%E5%8E%86%E5%B7%B2%E6%95%85%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E9%81%87%E5%AE%B3%E7%9E%AC%E9%97%B4",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时38分 ~ 17时39分]"
+        },
+        {
           "title": "美国击落至少3架飞往霍尔木兹海峡方向的伊朗无人机。（CNN）",
           "url": "https://wallstreetcn.com/livenews/3115369",
           "source": "华尔街见闻-快讯",
@@ -347,17 +407,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
-        },
-        {
-          "title": "伊朗外长：我亲历已故最高领袖遇害瞬间",
-          "url": "https://wallstreetcn.com/livenews/3115437",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时50分"
         },
         {
           "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
@@ -382,17 +431,6 @@
           "time_info": "11时02分"
         },
         {
-          "title": "伊朗边防指挥官阿里·阿克巴尔·贾维丹：昨晚，一支企图进入伊朗境内并袭击边防基地的恐怖组织小组与边防军发生了激烈交火，经过激烈的火力对抗，边防军成功对恐怖组织造成了重大损失，6名武装恐怖分子已被击毙，",
-          "url": "https://flash.jin10.com/detail/20260606162327329800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时50分"
-        },
-        {
           "title": "伊朗媒体：美军第五舰队总部升起浓烟",
           "url": "https://flash.jin10.com/detail/20260606101249829800",
           "source": "金十数据",
@@ -402,6 +440,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "据伊朗学生通讯社：在过去一个月内，巴基斯坦内政部长已两次前往德黑兰进行双边和区域磋商。",
+          "url": "https://flash.jin10.com/detail/20260606170003477800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：巴基斯坦内政部长将于周六前往德黑兰。",
+          "url": "https://flash.jin10.com/detail/20260606165323312800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "巴林谴责伊朗对其领土和科威特的导弹袭击",
@@ -415,6 +475,17 @@
           "time_info": "15时56分"
         },
         {
+          "title": "伊朗副外长加里巴巴迪：如果国际原子能机构希望成为外交解决方案的一部分，就必须避免将技术报告变成政治施压的工具。",
+          "url": "https://flash.jin10.com/detail/20260606164755821800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
           "title": "美国财长贝森特：伊朗的经济正在挣扎，其军队已被摧毁。通过“经济之怒”，美国财政部将继续切断伊朗的影子船队、影子银行网络以及对全球贸易的获取渠道。",
           "url": "https://flash.jin10.com/detail/20260605233715202800",
           "source": "金十数据",
@@ -426,6 +497,17 @@
           "time_info": "00时04分"
         },
         {
+          "title": "伊朗副外长加里巴巴迪：国际原子能机构正利用美国和以色列对伊朗核设施发动袭击所造成的后果，来制造有关伊朗核计划的“模糊性”。",
+          "url": "https://flash.jin10.com/detail/20260606164742931800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
           "title": "美国对伊朗外汇兑换机构Mehrdad Geramian Nik实施制裁。",
           "url": "https://flash.jin10.com/detail/20260605233340333800",
           "source": "金十数据",
@@ -435,6 +517,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "伊朗副外长加里巴巴迪：国际原子能机构在某些核设施失去监督是由于发生军事攻击，而非伊朗缺乏合作。",
+          "url": "https://flash.jin10.com/detail/20260606164614805800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "伊朗革命卫队称打击美军基地",
@@ -523,6 +616,17 @@
           "time_info": "[08时23分 ~ 14时11分]"
         },
         {
+          "title": "特朗普“官宣”：我和马斯克又成朋友了",
+          "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时49分 ~ 17时39分]"
+        },
+        {
           "title": "在这件事上，特朗普宣布要花7亿美元",
           "url": "https://news.ifeng.com/c/8tiAmm9M2oW",
           "source": "凤凰网",
@@ -535,15 +639,19 @@
           "time_info": "[00时04分 ~ 08时24分]"
         },
         {
-          "title": "特朗普“官宣”：我和马斯克又成朋友了",
-          "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
-          "source": "凤凰网",
+          "title": "特朗普赦免因内幕交易获罪前议员",
+          "url": "https://wallstreetcn.com/livenews/3115419",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            4,
+            11,
+            18,
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时49分 ~ 16时50分]"
+          "appearance_count": 5,
+          "time_info": "[12时30分 ~ 17时39分]"
         },
         {
           "title": "特朗普改口：肯尼迪中心将继续由我而非国会掌管",
@@ -558,20 +666,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时02分 ~ 15时56分]"
-        },
-        {
-          "title": "特朗普赦免因内幕交易获罪前议员",
-          "url": "https://wallstreetcn.com/livenews/3115419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时30分 ~ 16时50分]"
         },
         {
           "title": "特朗普称将迅速结束伊朗战事",
@@ -886,7 +980,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
@@ -896,8 +990,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时23分 ~ 16时50分]"
+          "appearance_count": 14,
+          "time_info": "[08时23分 ~ 17时39分]"
         },
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
@@ -907,8 +1001,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时23分 ~ 16时50分]"
+          "appearance_count": 14,
+          "time_info": "[08时23分 ~ 17时39分]"
         },
         {
           "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
@@ -932,8 +1026,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时36分 ~ 16时50分]"
+          "appearance_count": 12,
+          "time_info": "[09时36分 ~ 17时39分]"
         },
         {
           "title": "美股",
@@ -1010,6 +1104,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时24分 ~ 11时02分]"
+        },
+        {
+          "title": "美股一夜蒸发超万亿美元市值",
+          "url": "https://www.toutiao.com/trending/7648103085272731199/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时38分 ~ 17时39分]"
         },
         {
           "title": "周五（6月5日），美股AI软件先驱指数跌4.89%，报116.06点，本周累跌5.18%。 成分股中，甲骨文收跌9.59%，铿腾电子跌8.62%，MongoDB跌7.74%，新思科技跌5.99%，ServiceNOW跌5.79%，Elastic跌5.07%，Palantir跌4.35%，Datadog、HubSpot、Adobe、微软、ServiceNOW、Salesforce、C3.ai跌3.90%-1.42%，GitHub涨0.91%，是唯一收涨的成分股。",
@@ -1151,11 +1256,12 @@
           "ranks": [
             12,
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时29分 ~ 16时50分]"
+          "appearance_count": 9,
+          "time_info": "[12时29分 ~ 17时39分]"
         },
         {
           "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
@@ -1181,11 +1287,12 @@
           "source": "微博",
           "ranks": [
             15,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时56分 ~ 16时50分]"
+          "appearance_count": 5,
+          "time_info": "[15时56分 ~ 17时39分]"
         },
         {
           "title": "金价",
@@ -1245,8 +1352,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时01分 ~ 16时50分]"
+          "appearance_count": 11,
+          "time_info": "[11时01分 ~ 17时39分]"
         },
         {
           "title": "美元指数5日上涨",
