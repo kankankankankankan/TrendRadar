@@ -1,44 +1,46 @@
 {
-  "generated_at": "2026-06-07T08:24:19.519845+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-07T09:41:59.939503+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "美军中央司令部6日在社交媒体上发文说，当天早些时候，美军击落了两架伊朗单向攻击无人机。（新华国际）",
+          "url": "https://wallstreetcn.com/livenews/3115510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
         {
           "title": "报道：美或用伊朗被冻资产赔偿海湾盟友",
           "url": "https://wallstreetcn.com/livenews/3115503",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 09时41分]"
         },
         {
           "title": "伊朗与巴基斯坦两国内政部长会面，讨论地区局势等问题",
           "url": "https://wallstreetcn.com/livenews/3115498",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
-        },
-        {
-          "title": "伊朗哈尔克岛附近爆炸声系排爆作业所致",
-          "url": "https://wallstreetcn.com/livenews/3115496",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 09时41分]"
         },
         {
           "title": "世界杯伊朗代表团十余人遭美国拒签",
@@ -48,52 +50,126 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 09时41分]"
+        },
+        {
+          "title": "伊朗哈尔克岛附近爆炸声系排爆作业所致",
+          "url": "https://wallstreetcn.com/livenews/3115496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 09时41分]"
         },
         {
           "title": "伊朗媒体：哈尔克岛附近居民听到爆炸声",
           "url": "https://wallstreetcn.com/livenews/3115493",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 09时41分]"
         },
         {
           "title": "巴基斯坦内政部长Naqvi将向伊朗最高领袖递送信息。（ISNA）",
           "url": "https://wallstreetcn.com/livenews/3115490",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 09时41分]"
         },
         {
           "title": "伊朗驻墨西哥大使：世界杯参赛队比赛当日进出美国",
           "url": "https://flash.jin10.com/detail/20260607051930748800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 09时41分]"
         },
         {
           "title": "巴基斯坦内政部长Naqvi抵达伊朗。（Tasnim）",
           "url": "https://wallstreetcn.com/livenews/3115487",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            18
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 09时41分]"
+        },
+        {
+          "title": "国际航空运输协会（IATA）中东区副总裁：令人担忧的是，在伊朗袭击中受损的科威特航站楼将至少瘫痪（停止运作）一年。 对此感到忧虑，因为此前所有非科威特的航空公司都使用该航站楼，因此目前该国仅剩科威特本土的航空公司仍在维持运营。 预计当前的成本形势不会对中东地区航空公司的飞机订单造成影响。 各航空公司在当前节点推迟飞机交付并非明智之举，因为这一决定可能会付出高昂的代价。",
+          "url": "https://wallstreetcn.com/livenews/3115481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 09时41分]"
+        },
+        {
+          "title": "世界杯伊朗代表团十余人遭美国拒签",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%8D%81%E4%BD%99%E4%BA%BA%E9%81%AD%E7%BE%8E%E5%9B%BD%E6%8B%92%E7%AD%BE",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 09时41分]"
+        },
+        {
+          "title": "伊朗外交部谴责美军多次违反停火协议",
+          "url": "https://wallstreetcn.com/livenews/3115473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 09时41分]"
+        },
+        {
+          "title": "伊朗足协：多名国家队随队成员未获签证 美国违背国际体育规则",
+          "url": "https://wallstreetcn.com/livenews/3115472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 09时41分]"
+        },
+        {
+          "title": "美国军方：美军当地时间周六在霍尔木兹海峡击落了两架威胁海上交通的伊朗攻击无人机。",
+          "url": "https://flash.jin10.com/detail/20260607085557297800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时24分"
+          "time_info": "09时41分"
         },
         {
           "title": "美或用伊朗资产赔偿海湾盟友",
@@ -129,55 +205,11 @@
           "time_info": "08时24分"
         },
         {
-          "title": "国际航空运输协会（IATA）中东区副总裁：令人担忧的是，在伊朗袭击中受损的科威特航站楼将至少瘫痪（停止运作）一年。 对此感到忧虑，因为此前所有非科威特的航空公司都使用该航站楼，因此目前该国仅剩科威特本土的航空公司仍在维持运营。 预计当前的成本形势不会对中东地区航空公司的飞机订单造成影响。 各航空公司在当前节点推迟飞机交付并非明智之举，因为这一决定可能会付出高昂的代价。",
-          "url": "https://wallstreetcn.com/livenews/3115481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
-        },
-        {
           "title": "据知情人士透露，美国将利用工具向海湾盟友提供伊朗资产，以支持伊朗未来造成的破坏的重建和修复。",
           "url": "https://flash.jin10.com/detail/20260607044747054800",
           "source": "金十数据",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
-        },
-        {
-          "title": "世界杯伊朗代表团十余人遭美国拒签",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%8D%81%E4%BD%99%E4%BA%BA%E9%81%AD%E7%BE%8E%E5%9B%BD%E6%8B%92%E7%AD%BE",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
-        },
-        {
-          "title": "伊朗外交部谴责美军多次违反停火协议",
-          "url": "https://wallstreetcn.com/livenews/3115473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
-        },
-        {
-          "title": "伊朗足协：多名国家队随队成员未获签证 美国违背国际体育规则",
-          "url": "https://wallstreetcn.com/livenews/3115472",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -195,6 +227,17 @@
           "time_info": "08时24分"
         },
         {
+          "title": "世界杯伊朗代表团十余人遭美国拒签",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%8D%81%E4%BD%99%E4%BA%BA%E9%81%AD%E7%BE%8E%E5%9B%BD%E6%8B%92%E7%AD%BE%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
           "title": "美媒曝以色列在伊朗周边多国设据点",
           "url": "https://wallstreetcn.com/livenews/3115465",
           "source": "华尔街见闻-快讯",
@@ -204,6 +247,97 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "特朗普戴上金牌后开玩笑称“不想还了”：我喜欢金子，要留着",
+          "url": "https://v.ifeng.com/c/8tjL2UjJKhb",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 09时41分]"
+        },
+        {
+          "title": "伊朗开价240亿美元，这可要了特朗普的命",
+          "url": "https://news.ifeng.com/c/8tkFdUHRCpm",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 09时41分]"
+        },
+        {
+          "title": "美军打击伊朗目标，巴林、科威特拉响防空警报，特朗普坚称将很快从伊朗战事中“脱身”",
+          "url": "https://wallstreetcn.com/articles/3774015",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "特朗普女儿女婿，在欧洲被“火烈鸟”围剿了",
+          "url": "https://news.ifeng.com/c/8tkuLp7C2ad",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "亮眼财报后股价大跌？博通CEO：永远不关心股价，死磕技术客户就不会跑，看好“博通-谷歌-Anthropic”铁三角",
+          "url": "https://wallstreetcn.com/articles/3774025",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 09时41分]"
+        },
+        {
+          "title": "合计700亿美元！SpaceX先后与Anthropic和谷歌签下大单，“算力租赁”ARR高达260亿美元",
+          "url": "https://wallstreetcn.com/articles/3774016",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 09时41分]"
+        },
+        {
+          "title": "标杆“芯片融资”交易：阿波罗、黑石和博通联手“募资”350亿美元，用于Anthropic向谷歌租赁TPU",
+          "url": "https://wallstreetcn.com/articles/3774013",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
         }
       ]
     },
@@ -219,8 +353,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 09时41分]"
         },
         {
           "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
@@ -230,8 +364,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 09时41分]"
         },
         {
           "title": "如何应对美股泡沫爆破",
@@ -239,34 +373,6 @@
           "source": "bilibili 热搜",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "亮眼财报后股价大跌？博通CEO：永远不关心股价，死磕技术客户就不会跑，看好“博通-谷歌-Anthropic”铁三角",
-          "url": "https://wallstreetcn.com/articles/3774025",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
-        },
-        {
-          "title": "合计700亿美元！SpaceX先后与Anthropic和谷歌签下大单，“算力租赁”ARR高达260亿美元",
-          "url": "https://wallstreetcn.com/articles/3774016",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -283,22 +389,24 @@
           "url": "https://wallstreetcn.com/livenews/3115505",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 09时41分]"
         },
         {
           "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
           "url": "https://www.cls.cn/detail/2392488",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 09时41分]"
         }
       ]
     },
@@ -323,34 +431,6 @@
           "source": "百度热搜",
           "ranks": [
             29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "特朗普戴上金牌后开玩笑称“不想还了”：我喜欢金子，要留着",
-          "url": "https://v.ifeng.com/c/8tjL2UjJKhb",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
-        },
-        {
-          "title": "伊朗开价240亿美元，这可要了特朗普的命",
-          "url": "https://news.ifeng.com/c/8tkFdUHRCpm",
-          "source": "凤凰网",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 1,
