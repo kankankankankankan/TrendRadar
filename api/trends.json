@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T16:11:15.652384+08:00",
-  "total_titles_processed": 1001,
+  "generated_at": "2026-06-09T18:12:59.407636+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普：内塔尼亚胡，你最好小心点！",
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             1,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时34分 ~ 16时11分]"
+          "appearance_count": 9,
+          "time_info": "[09时34分 ~ 18时12分]"
         },
         {
           "title": "洛杉矶市长选情逆转，特朗普、马斯克发声质疑",
@@ -45,30 +46,18 @@
           "time_info": "[08时21分 ~ 11时02分]"
         },
         {
-          "title": "特朗普提名前私人律师，任司法部长",
-          "url": "https://news.ifeng.com/c/8toF8SZ3oLR",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时34分 ~ 14时21分]"
-        },
-        {
           "title": "特朗普“积极介入斡旋”后，伊朗宣布对以打击“告一段落”",
           "url": "https://wallstreetcn.com/articles/3774122",
           "source": "华尔街见闻",
           "ranks": [
             8,
             7,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时21分 ~ 16时11分]"
+          "appearance_count": 9,
+          "time_info": "[08时21分 ~ 18时12分]"
         },
         {
           "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
@@ -80,8 +69,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时21分 ~ 16时11分]"
+          "appearance_count": 9,
+          "time_info": "[08时21分 ~ 18时12分]"
+        },
+        {
+          "title": "特朗普提名前私人律师，任司法部长",
+          "url": "https://news.ifeng.com/c/8toF8SZ3oLR",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时34分 ~ 14时21分]"
         },
         {
           "title": "伊朗时隔两个月再袭以色列，特朗普称「希望以色列不要还击」，局势将如何发展？美伊谈判是否会受影响？",
@@ -151,6 +153,18 @@
           "time_info": "08时21分"
         },
         {
+          "title": "特朗普：未来两周将对伊朗“全面胜利” 油价将会暴跌！",
+          "url": "https://www.cls.cn/detail/2394559",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时10分 ~ 18时12分]"
+        },
+        {
           "title": "特朗普曾警告以总理勿再攻伊朗，否则将遭孤立",
           "url": "https://wallstreetcn.com/livenews/3116399",
           "source": "华尔街见闻-快讯",
@@ -161,6 +175,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时21分 ~ 09时35分]"
+        },
+        {
+          "title": "特朗普出席NBA总决赛遭全场狂嘘，事后“挽尊”辩解",
+          "url": "https://v.ifeng.com/c/8tojH1TtuMo",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时10分 ~ 18时12分]"
         },
         {
           "title": "特朗普现身尼克斯主场观战",
@@ -180,28 +205,6 @@
           "source": "凤凰网",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时10分 ~ 16时11分]"
-        },
-        {
-          "title": "特朗普出席NBA总决赛遭全场狂嘘，事后“挽尊”辩解",
-          "url": "https://v.ifeng.com/c/8tojH1TtuMo",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时10分 ~ 16时11分]"
-        },
-        {
-          "title": "特朗普：未来两周将对伊朗“全面胜利” 油价将会暴跌！",
-          "url": "https://www.cls.cn/detail/2394559",
-          "source": "财联社热门",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -263,6 +266,17 @@
           "time_info": "12时33分"
         },
         {
+          "title": "特朗普：美伊谈判进入“最后关头”",
+          "url": "https://news.ifeng.com/c/8tooQUA09O3",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
           "title": "特朗普称未来两周将对伊朗全面胜利",
           "url": "https://wallstreetcn.com/livenews/3116390",
           "source": "华尔街见闻-快讯",
@@ -307,6 +321,17 @@
           "time_info": "08时21分"
         },
         {
+          "title": "特朗普称美伊谈判进入“最后关头”，将在“两到三天内”达成协议",
+          "url": "https://wallstreetcn.com/livenews/3116681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
           "title": "美国总统特朗普：我们已经摧毁了伊朗的军事力量和领导层。 我们（与伊朗）正在谈判。 你们真的将在两周内获胜。 我们将在两周内宣布“全面”胜利。 胜利将发生得“非常迅速”。",
           "url": "https://wallstreetcn.com/livenews/3116364",
           "source": "华尔街见闻-快讯",
@@ -321,7 +346,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "“未来两周将对伊朗全面胜利”",
@@ -341,7 +366,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -352,7 +377,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -382,6 +407,18 @@
           "time_info": "[08时21分 ~ 09时35分]"
         },
         {
+          "title": "伊朗开启世界杯史上最特殊参赛模式",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%BC%80%E5%90%AF%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E7%89%B9%E6%AE%8A%E5%8F%82%E8%B5%9B%E6%A8%A1%E5%BC%8F%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时10分 ~ 18时12分]"
+        },
+        {
           "title": "伊朗打击以色列两处军事基地",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%89%93%E5%87%BB%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%A4%E5%A4%84%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -391,17 +428,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时21分 ~ 09时35分]"
-        },
-        {
-          "title": "伊朗开启世界杯史上最特殊参赛模式",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%BC%80%E5%90%AF%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E7%89%B9%E6%AE%8A%E5%8F%82%E8%B5%9B%E6%A8%A1%E5%BC%8F%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时10分 ~ 16时11分]"
         },
         {
           "title": "伊朗官员：伊朗不排斥推进谈判 但美必须拿出诚意",
@@ -426,6 +452,17 @@
           "time_info": "14时21分"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：在昨天以色列的空袭中，两名伊朗防空人员遇难。",
+          "url": "https://flash.jin10.com/detail/20260609173210137800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
           "title": "伊朗官员：伊朗不排斥推进谈判 但美必须拿出诚意",
           "url": "https://flash.jin10.com/detail/20260609115245529800",
           "source": "金十数据",
@@ -448,6 +485,17 @@
           "time_info": "11时02分"
         },
         {
+          "title": "伊朗电力协会表示，他们正面临运营发电厂所需燃料短缺的问题。",
+          "url": "https://flash.jin10.com/detail/20260609172320129800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
           "title": "伊朗和以色列先后宣布停止袭击对方",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%92%8C%E4%BB%A5%E8%89%B2%E5%88%97%E5%85%88%E5%90%8E%E5%AE%A3%E5%B8%83%E5%81%9C%E6%AD%A2%E8%A2%AD%E5%87%BB%E5%AF%B9%E6%96%B9",
           "source": "百度热搜",
@@ -468,23 +516,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "伊朗足协世界杯配额门票被收回",
+          "url": "https://wallstreetcn.com/livenews/3116683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
           "url": "https://wallstreetcn.com/articles/3774056",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时21分 ~ 16时11分]"
+          "appearance_count": 9,
+          "time_info": "[08时21分 ~ 18时12分]"
         },
         {
           "title": "【早报】美股芯片、光通信股全线反弹，半导体指数大涨5.6%；油价冲高回落，金银探底企稳",
@@ -519,8 +579,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 16时11分]"
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 18时12分]"
+        },
+        {
+          "title": "什么信号？美股70%熊市信号被触发，美银建议获利了结！",
+          "url": "https://www.cls.cn/detail/2394381",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 18时12分]"
         },
         {
           "title": "中东炮火暂歇 美股期指回血 苹果WWDC接棒登场 | 今夜看点",
@@ -534,19 +608,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时21分 ~ 11时02分]"
-        },
-        {
-          "title": "什么信号？美股70%熊市信号被触发，美银建议获利了结！",
-          "url": "https://www.cls.cn/detail/2394381",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 16时11分]"
         },
         {
           "title": "美股",
@@ -592,6 +653,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时35分"
+        },
+        {
+          "title": "花旗：交易员大举搭建美股空仓 诸多重大风险事件临近",
+          "url": "https://wallstreetcn.com/livenews/3116699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "美股三大指数涨跌不一 芯片股反弹",
@@ -694,7 +766,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
@@ -719,8 +791,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 16时11分]"
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 18时12分]"
         },
         {
           "title": "以总理确认暂停袭击伊朗 OpenAI递交上市申请文件 | 环球市场",
@@ -744,6 +816,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时01分 ~ 11时02分]"
+        },
+        {
+          "title": "美大学生因ChatGPT与母亲争吵后死亡",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%A0ChatGPT%E4%B8%8E%E6%AF%8D%E4%BA%B2%E4%BA%89%E5%90%B5%E5%90%8E%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "OpenAI计划在首次公开募股（IPO）之前启动员工/股东股票要约收购案（Tender Sale）。 据知情人士透露，该公司将在未来几周内正式举行该股票要约收购（Tender）。（彭博）",
@@ -826,8 +909,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时34分 ~ 16时11分]"
+          "appearance_count": 8,
+          "time_info": "[09时34分 ~ 18时12分]"
         },
         {
           "title": "日立与谷歌云扩大战略联盟，旨在通过FDE与先进网络安全解决方案，加速物理人工智能（Physical AI）在现实世界中的部署。",
