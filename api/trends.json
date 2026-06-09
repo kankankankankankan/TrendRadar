@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T18:12:59.407636+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2026-06-09T20:02:42.506935+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
@@ -35,17 +35,6 @@
           "time_info": "[11时01分 ~ 16时11分]"
         },
         {
-          "title": "特朗普：未来两周将对伊朗全面胜利",
-          "url": "https://news.ifeng.com/c/8to7gfqUzZi",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时21分 ~ 11时02分]"
-        },
-        {
           "title": "特朗普“积极介入斡旋”后，伊朗宣布对以打击“告一段落”",
           "url": "https://wallstreetcn.com/articles/3774122",
           "source": "华尔街见闻",
@@ -56,8 +45,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时21分 ~ 18时12分]"
+          "appearance_count": 10,
+          "time_info": "[08时21分 ~ 20时02分]"
+        },
+        {
+          "title": "特朗普：未来两周将对伊朗全面胜利",
+          "url": "https://news.ifeng.com/c/8to7gfqUzZi",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时21分 ~ 11时02分]"
         },
         {
           "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
@@ -108,6 +108,18 @@
           "time_info": "[11时01分 ~ 11时02分]"
         },
         {
+          "title": "特朗普：未来两周将对伊朗“全面胜利” 油价将会暴跌！",
+          "url": "https://www.cls.cn/detail/2394559",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时10分 ~ 20时02分]"
+        },
+        {
           "title": "特朗普“体面送别”：会想念她",
           "url": "https://news.ifeng.com/c/8toXpSpAK0f",
           "source": "凤凰网",
@@ -151,18 +163,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时21分"
-        },
-        {
-          "title": "特朗普：未来两周将对伊朗“全面胜利” 油价将会暴跌！",
-          "url": "https://www.cls.cn/detail/2394559",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时10分 ~ 18时12分]"
         },
         {
           "title": "特朗普曾警告以总理勿再攻伊朗，否则将遭孤立",
@@ -209,6 +209,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时10分 ~ 16时11分]"
+        },
+        {
+          "title": "特朗普：美伊谈判进入“最后关头”",
+          "url": "https://news.ifeng.com/c/8tooQUA09O3",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 20时02分]"
         },
         {
           "title": "特朗普观战NBA总决赛",
@@ -266,17 +277,6 @@
           "time_info": "12时33分"
         },
         {
-          "title": "特朗普：美伊谈判进入“最后关头”",
-          "url": "https://news.ifeng.com/c/8tooQUA09O3",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
-        },
-        {
           "title": "特朗普称未来两周将对伊朗全面胜利",
           "url": "https://wallstreetcn.com/livenews/3116390",
           "source": "华尔街见闻-快讯",
@@ -327,7 +327,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -346,7 +346,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "“未来两周将对伊朗全面胜利”",
@@ -458,9 +458,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
+        },
+        {
+          "title": "伊朗驻联合国使团警告称，国际原子能机构理事会的决议可能为另一次袭击铺平道路。",
+          "url": "https://flash.jin10.com/detail/20260609192859902800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "伊朗官员：伊朗不排斥推进谈判 但美必须拿出诚意",
@@ -491,7 +502,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -524,7 +535,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         }
@@ -540,11 +551,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时21分 ~ 18时12分]"
+          "appearance_count": 10,
+          "time_info": "[08时21分 ~ 20时02分]"
         },
         {
           "title": "【早报】美股芯片、光通信股全线反弹，半导体指数大涨5.6%；油价冲高回落，金银探底企稳",
@@ -579,8 +591,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时33分 ~ 18时12分]"
+          "appearance_count": 6,
+          "time_info": "[12时33分 ~ 20时02分]"
         },
         {
           "title": "什么信号？美股70%熊市信号被触发，美银建议获利了结！",
@@ -622,6 +634,18 @@
           "time_info": "[08时21分 ~ 09时35分]"
         },
         {
+          "title": "美股70%熊市信号被触发",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A170%25%E7%86%8A%E5%B8%82%E4%BF%A1%E5%8F%B7%E8%A2%AB%E8%A7%A6%E5%8F%91%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时10分 ~ 20时02分]"
+        },
+        {
           "title": "美股存储芯片反弹 英特尔飙涨11%",
           "url": "https://www.toutiao.com/trending/7648917559476191274/",
           "source": "今日头条",
@@ -631,17 +655,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时34分 ~ 09时35分]"
-        },
-        {
-          "title": "美股70%熊市信号被触发",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A170%25%E7%86%8A%E5%B8%82%E4%BF%A1%E5%8F%B7%E8%A2%AB%E8%A7%A6%E5%8F%91%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时10分 ~ 16时11分]"
         },
         {
           "title": "美银警告：美股70%熊市信号已触发，是时候获利了结",
@@ -661,7 +674,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -791,8 +804,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时33分 ~ 18时12分]"
+          "appearance_count": 6,
+          "time_info": "[12时33分 ~ 20时02分]"
         },
         {
           "title": "以总理确认暂停袭击伊朗 OpenAI递交上市申请文件 | 环球市场",
@@ -824,7 +837,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -909,8 +922,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时34分 ~ 18时12分]"
+          "appearance_count": 9,
+          "time_info": "[09时34分 ~ 20时02分]"
         },
         {
           "title": "日立与谷歌云扩大战略联盟，旨在通过FDE与先进网络安全解决方案，加速物理人工智能（Physical AI）在现实世界中的部署。",
