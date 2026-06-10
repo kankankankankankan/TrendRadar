@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T18:24:15.418478+08:00",
-  "total_titles_processed": 1257,
+  "generated_at": "2026-06-10T20:05:38.710071+08:00",
+  "total_titles_processed": 1394,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 58,
+      "match_count": 66,
       "titles": [
         {
           "title": "伊朗称摧毁约旦美军基地F-35机库",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时38分 ~ 18时24分]"
+          "appearance_count": 7,
+          "time_info": "[12时38分 ~ 20时05分]"
         },
         {
           "title": "美军对伊朗发动打击",
@@ -30,8 +30,23 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时40分 ~ 20时05分]"
+        },
+        {
+          "title": "美军报复性打击伊朗回应直升机被击落，伊朗对美目标发动袭击，局势会进一步升级吗？对双方谈判有哪些影响？",
+          "url": "https://www.zhihu.com/question/2047951657120396654",
+          "source": "知乎",
+          "ranks": [
+            18,
+            12,
+            6,
+            11,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[09时40分 ~ 18时24分]"
+          "time_info": "[11时01分 ~ 20时05分]"
         },
         {
           "title": "美军称对伊朗发动“自卫性”打击",
@@ -57,20 +72,6 @@
           "time_info": "[09时40分 ~ 16时21分]"
         },
         {
-          "title": "美军报复性打击伊朗回应直升机被击落，伊朗对美目标发动袭击，局势会进一步升级吗？对双方谈判有哪些影响？",
-          "url": "https://www.zhihu.com/question/2047951657120396654",
-          "source": "知乎",
-          "ranks": [
-            18,
-            12,
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时01分 ~ 18时24分]"
-        },
-        {
           "title": "伊朗袭击美军第五舰队",
           "url": "https://www.douyin.com/hot/2529144",
           "source": "抖音",
@@ -94,6 +95,18 @@
           "time_info": "[09时40分 ~ 11时02分]"
         },
         {
+          "title": "伊朗袭击美军第五舰队",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%86%9B%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时38分 ~ 20时05分]"
+        },
+        {
           "title": "伊朗队全员佩戴「168」纪念徽章出征世界杯，这一举动有何深远意义？",
           "url": "https://www.zhihu.com/question/2047657469275641746",
           "source": "知乎",
@@ -107,18 +120,6 @@
           "time_info": "[08时27分 ~ 11时02分]"
         },
         {
-          "title": "伊朗袭击美军第五舰队",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%86%9B%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时38分 ~ 18时24分]"
-        },
-        {
           "title": "据伊朗媒体：伊朗南部格什姆岛传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260610082219969800",
           "source": "金十数据",
@@ -128,6 +129,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时27分"
+        },
+        {
+          "title": "阿帕奇直升机被击落时或在执行“护航”任务 伊朗将其击落凸显强硬立场",
+          "url": "https://flash.jin10.com/detail/20260610194715699800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
         },
         {
           "title": "据AXIOS记者：伊朗向位于巴林、科威特和约旦的美国基地发射了至少4枚弹道导弹和多架无人机。",
@@ -147,7 +159,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -221,6 +233,18 @@
           "time_info": "[09时40分 ~ 11时02分]"
         },
         {
+          "title": "伊朗击落美军“阿帕奇”直升机",
+          "url": "https://www.douyin.com/hot/2529103",
+          "source": "抖音",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 20时05分]"
+        },
+        {
           "title": "美军称完成对伊朗“自卫性打击”",
           "url": "https://wallstreetcn.com/livenews/3117133",
           "source": "华尔街见闻-快讯",
@@ -231,17 +255,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时40分 ~ 11时02分]"
-        },
-        {
-          "title": "伊朗击落美军“阿帕奇”直升机",
-          "url": "https://www.douyin.com/hot/2529103",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 16时21分]"
         },
         {
           "title": "美军已对伊朗进行三轮空袭",
@@ -255,13 +268,24 @@
           "time_info": "08时27分"
         },
         {
+          "title": "俄外交部：俄愿为通过谈判解决伊朗问题提供便利",
+          "url": "https://flash.jin10.com/detail/20260610193857614800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
+        },
+        {
           "title": "以色列能源部长Cohen：若与安全相冲突，以色列则不受伊朗协议约束。",
           "url": "https://wallstreetcn.com/livenews/3117399",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -288,6 +312,17 @@
           "time_info": "11时02分"
         },
         {
+          "title": "俄外交部：俄愿为通过谈判解决伊朗问题提供便利",
+          "url": "https://wallstreetcn.com/livenews/3117470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
+        },
+        {
           "title": "美以袭击伊朗进入第 103 天，当前局势如何？有哪些值得关注的信息？",
           "url": "https://www.zhihu.com/question/2047888566534067312",
           "source": "知乎",
@@ -297,6 +332,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
+        },
+        {
+          "title": "据悉以色列正准备再次对伊朗发动打击。",
+          "url": "https://flash.jin10.com/detail/20260610193642966800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
         },
         {
           "title": "伊朗无人机袭击科威特美军基地",
@@ -486,6 +532,17 @@
           "time_info": "09时40分"
         },
         {
+          "title": "泽连斯基：对全世界关注伊朗表示理解",
+          "url": "https://www.toutiao.com/trending/7648818599343718436/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
+        },
+        {
           "title": "伊朗全面报复！袭击美军约旦基地、科威特巴林目标",
           "url": "https://flash.jin10.com/detail/20260610135405972800",
           "source": "金十数据",
@@ -536,7 +593,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -558,7 +615,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -607,6 +664,28 @@
           "time_info": "09时40分"
         },
         {
+          "title": "伊朗总统：必须摆脱“非战非和”状态",
+          "url": "https://wallstreetcn.com/livenews/3117449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
+        },
+        {
+          "title": "伊朗公布击落美军MQ-9无人机画面",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E5%87%BB%E8%90%BD%E7%BE%8E%E5%86%9BMQ-9%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%94%BB%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
+        },
+        {
           "title": "伊朗警告地区各国不要允许美国使用其领土。",
           "url": "https://wallstreetcn.com/livenews/3117225",
           "source": "华尔街见闻-快讯",
@@ -616,6 +695,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：伊朗将对任何侵略行为做出果断、迅速的回应。",
+          "url": "https://wallstreetcn.com/livenews/3117446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
         },
         {
           "title": "伊朗消息人士称反击行动击中七成预定目标",
@@ -635,7 +725,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -657,7 +747,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         }
@@ -665,7 +755,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普证实美军打击伊朗",
@@ -691,8 +781,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时27分 ~ 18时24分]"
+          "appearance_count": 11,
+          "time_info": "[08时27分 ~ 20时05分]"
         },
         {
           "title": "美伊和谈又受扰？美军再对伊朗发动打击 特朗普称“行动非常强硬”",
@@ -818,9 +908,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 20时05分]"
         },
         {
           "title": "大水冲了龙王庙？摩门教共和党人电话轰炸特朗普",
@@ -829,9 +919,97 @@
           "ranks": [
             9
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 20时05分]"
+        },
+        {
+          "title": "美媒：特朗普将下令打击伊朗发电厂和桥梁",
+          "url": "https://flash.jin10.com/detail/20260610193623483800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时24分"
+          "time_info": "20时05分"
+        },
+        {
+          "title": "【美媒：特朗普将下令打击伊朗发电厂和桥梁】美国福克斯新闻频道10日报道称，美国总统特朗普说他即将下令对伊朗的发电厂和桥梁发动新的打击。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3117466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
+        },
+        {
+          "title": "特朗普称对伊朗作出强硬回应，伊方说将坚决回击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33347392",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗无法支付军饷或任何账单，正迅速成为一个失败的国家！",
+          "url": "https://flash.jin10.com/detail/20260610193506859800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
+        },
+        {
+          "title": "美国总统特朗普：除非我们允许，否则什么也通不过。这是一道钢铁之墙！",
+          "url": "https://flash.jin10.com/detail/20260610193448493800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
+        },
+        {
+          "title": "特朗普：假新闻正在“无视”我们封锁的成功 且大量石油正在外流",
+          "url": "https://flash.jin10.com/detail/20260610193432225800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
+        },
+        {
+          "title": "美国总统特朗普表示，他接近下令对伊朗电厂和桥梁进行新的打击。将继续对伊朗采取行动。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3117463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
+        },
+        {
+          "title": "特朗普：伊朗用了太长时间谈判 现在必须付出代价",
+          "url": "https://wallstreetcn.com/livenews/3117460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
         },
         {
           "title": "美国贸易法官敦促特朗普政府加快退还关税",
@@ -856,13 +1034,24 @@
           "time_info": "12时38分"
         },
         {
+          "title": "特朗普：伊朗拖得太久，现在他们将不得不付出代价",
+          "url": "https://wallstreetcn.com/livenews/3117450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
+        },
+        {
           "title": "根据路透社/益普索调查，约五分之一的共和党人认为特朗普政府在爱泼斯坦案件中帮助实现了正义。",
           "url": "https://flash.jin10.com/detail/20260610180104588800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -873,9 +1062,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
+        },
+        {
+          "title": "据福克斯新闻：美国总统特朗普表示，他将继续对伊朗采取行动。",
+          "url": "https://flash.jin10.com/detail/20260610192819834800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
         },
         {
           "title": "据美联社预测：特朗普支持的马蒂·奥唐奈赢得内华达州第三国会选区共和党众议员提名。",
@@ -887,6 +1087,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
+        },
+        {
+          "title": "据福克斯新闻：特朗普表示，德黑兰达成协议的时间太长了。",
+          "url": "https://flash.jin10.com/detail/20260610192738065800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
         }
       ]
     },
@@ -913,22 +1124,12 @@
           "ranks": [
             11,
             7,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时29分 ~ 18时24分]"
-        },
-        {
-          "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
-          "url": "https://wallstreetcn.com/articles/3774056",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 6,
+          "time_info": "[14时29分 ~ 20时05分]"
         },
         {
           "title": "当半导体成“震中”！一文读懂：美股投资者当前在哪里避险？",
@@ -940,8 +1141,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时29分 ~ 18时24分]"
+          "appearance_count": 6,
+          "time_info": "[14时29分 ~ 20时05分]"
+        },
+        {
+          "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3774056",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
         },
         {
           "title": "美股指跳水，纳指跌超1%，科技股回落，迈威尔科技跌超8%，金银油齐跌",
@@ -1028,7 +1240,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         }
@@ -1088,15 +1300,16 @@
           "time_info": "[08时27分 ~ 09时40分]"
         },
         {
-          "title": "金价抹去今年全部涨幅 国际金价继续下探",
-          "url": "https://flash.jin10.com/detail/20260610180845617800",
-          "source": "金十数据",
+          "title": "花旗预测金价或跌至3500美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%97%97%E9%A2%84%E6%B5%8B%E9%87%91%E4%BB%B7%E6%88%96%E8%B7%8C%E8%87%B33500%E7%BE%8E%E5%85%83%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
           "ranks": [
-            9
+            24,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 20时05分]"
         },
         {
           "title": "花旗：金价可能跌到3500美元",
@@ -1105,18 +1318,18 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 20时05分]"
         },
         {
-          "title": "花旗预测金价或跌至3500美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%97%97%E9%A2%84%E6%B5%8B%E9%87%91%E4%BB%B7%E6%88%96%E8%B7%8C%E8%87%B33500%E7%BE%8E%E5%85%83%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
+          "title": "金价抹去今年全部涨幅 国际金价继续下探",
+          "url": "https://flash.jin10.com/detail/20260610180845617800",
+          "source": "金十数据",
           "ranks": [
-            24
+            9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
