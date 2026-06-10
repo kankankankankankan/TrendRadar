@@ -1,22 +1,37 @@
 {
-  "generated_at": "2026-06-10T16:21:06.824839+08:00",
-  "total_titles_processed": 1108,
+  "generated_at": "2026-06-10T18:24:15.418478+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 52,
+      "match_count": 58,
       "titles": [
         {
           "title": "伊朗称摧毁约旦美军基地F-35机库",
           "url": "https://news.ifeng.com/c/8tq2f02mk4u",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时38分 ~ 16时21分]"
+          "appearance_count": 6,
+          "time_info": "[12时38分 ~ 18时24分]"
+        },
+        {
+          "title": "美军对伊朗发动打击",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E6%89%93%E5%87%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            11,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时40分 ~ 18时24分]"
         },
         {
           "title": "美军称对伊朗发动“自卫性”打击",
@@ -42,17 +57,18 @@
           "time_info": "[09时40分 ~ 16时21分]"
         },
         {
-          "title": "美军对伊朗发动打击",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E6%89%93%E5%87%BB",
-          "source": "bilibili 热搜",
+          "title": "美军报复性打击伊朗回应直升机被击落，伊朗对美目标发动袭击，局势会进一步升级吗？对双方谈判有哪些影响？",
+          "url": "https://www.zhihu.com/question/2047951657120396654",
+          "source": "知乎",
           "ranks": [
+            18,
+            12,
             6,
-            11,
-            14
+            11
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时40分 ~ 16时21分]"
+          "time_info": "[11时01分 ~ 18时24分]"
         },
         {
           "title": "伊朗袭击美军第五舰队",
@@ -91,18 +107,16 @@
           "time_info": "[08时27分 ~ 11时02分]"
         },
         {
-          "title": "美军报复性打击伊朗回应直升机被击落，伊朗对美目标发动袭击，局势会进一步升级吗？对双方谈判有哪些影响？",
-          "url": "https://www.zhihu.com/question/2047951657120396654",
-          "source": "知乎",
+          "title": "伊朗袭击美军第五舰队",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%86%9B%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F",
+          "source": "bilibili 热搜",
           "ranks": [
-            18,
-            12,
             6,
-            11
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时01分 ~ 16时21分]"
+          "appearance_count": 6,
+          "time_info": "[12时38分 ~ 18时24分]"
         },
         {
           "title": "据伊朗媒体：伊朗南部格什姆岛传出爆炸声。",
@@ -127,6 +141,17 @@
           "time_info": "11时02分"
         },
         {
+          "title": "土耳其总统埃尔多安：土耳其决定增加对生产者的农业支持，以限制因伊朗战争导致的上涨成本的影响。",
+          "url": "https://flash.jin10.com/detail/20260610181520502800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "美国官员表示，目前正在对伊朗进行第三轮打击。（AXIOS）",
           "url": "https://wallstreetcn.com/livenews/3117098",
           "source": "华尔街见闻-快讯",
@@ -136,18 +161,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时27分"
-        },
-        {
-          "title": "伊朗袭击美军第五舰队",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%86%9B%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时38分 ~ 16时21分]"
         },
         {
           "title": "伊朗阿巴斯港和锡里克地区传出爆炸声",
@@ -242,13 +255,24 @@
           "time_info": "08时27分"
         },
         {
+          "title": "以色列能源部长Cohen：若与安全相冲突，以色列则不受伊朗协议约束。",
+          "url": "https://wallstreetcn.com/livenews/3117399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "伊朗格什姆岛响起爆炸声",
           "url": "https://wallstreetcn.com/livenews/3117324",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -446,7 +470,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -506,6 +530,17 @@
           "time_info": "12时38分"
         },
         {
+          "title": "伊朗格什姆岛省长否认该岛发生爆炸",
+          "url": "https://wallstreetcn.com/livenews/3117374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "美国完成就阿帕奇直升机被击落事件对伊朗实施的打击",
           "url": "https://wallstreetcn.com/livenews/3117113",
           "source": "华尔街见闻-快讯",
@@ -515,6 +550,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
+        },
+        {
+          "title": "雷诺CEO：在法国和德国等主要市场，自伊朗战争开始以来，电动车订单量增长了50%。",
+          "url": "https://wallstreetcn.com/livenews/3117373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "伊朗外交部长强硬警告美国“想安全就撤出”",
@@ -545,7 +591,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -578,9 +624,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
+        },
+        {
+          "title": "伊朗披露打击美MQ9无人机视频",
+          "url": "https://wallstreetcn.com/livenews/3117365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "据纽约时报，美国袭击伊朗军南部五个地方，袭击目标位军事基地和海军基地。 道指期货、标普股指期货跌0.3%，罗素2000股指期货跌0.4%。",
@@ -592,12 +649,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时27分"
+        },
+        {
+          "title": "伊朗外交部发言人称需重新评估局势",
+          "url": "https://wallstreetcn.com/livenews/3117363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普证实美军打击伊朗",
@@ -613,6 +681,20 @@
           "time_info": "[08时27分 ~ 16时21分]"
         },
         {
+          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
+          "url": "https://wallstreetcn.com/articles/3774257",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时27分 ~ 18时24分]"
+        },
+        {
           "title": "美伊和谈又受扰？美军再对伊朗发动打击 特朗普称“行动非常强硬”",
           "url": "https://www.cls.cn/detail/2395455",
           "source": "财联社热门",
@@ -625,20 +707,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时40分 ~ 16时21分]"
-        },
-        {
-          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
-          "url": "https://wallstreetcn.com/articles/3774257",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时27分 ~ 16时21分]"
         },
         {
           "title": "专家：达成协议是大势所趋，特朗普比伊朗更着急",
@@ -744,6 +812,28 @@
           "time_info": "[08时27分 ~ 14时31分]"
         },
         {
+          "title": "美贸易法院：特朗普，快退钱！",
+          "url": "https://news.ifeng.com/c/8tqRZQUDFAS",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "大水冲了龙王庙？摩门教共和党人电话轰炸特朗普",
+          "url": "https://news.ifeng.com/c/8tqTXvDvrTe",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "美国贸易法官敦促特朗普政府加快退还关税",
           "url": "https://flash.jin10.com/detail/20260610075428563800",
           "source": "金十数据",
@@ -766,6 +856,28 @@
           "time_info": "12时38分"
         },
         {
+          "title": "根据路透社/益普索调查，约五分之一的共和党人认为特朗普政府在爱泼斯坦案件中帮助实现了正义。",
+          "url": "https://flash.jin10.com/detail/20260610180104588800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "根据路透社/益普索的调查，仅有10%的美国人表示特朗普政府在爱泼斯坦案件中帮助实现了正义。",
+          "url": "https://flash.jin10.com/detail/20260610180025232800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "据美联社预测：特朗普支持的马蒂·奥唐奈赢得内华达州第三国会选区共和党众议员提名。",
           "url": "https://flash.jin10.com/detail/20260610115257372800",
           "source": "金十数据",
@@ -780,7 +892,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股收盘：芯片板块“惊魂一跳”后持续修复 纳指收盘跌约1%",
@@ -795,6 +907,19 @@
           "time_info": "[08时27分 ~ 12时38分]"
         },
         {
+          "title": "“黑色星期五”只是前奏？高盛、巴克莱齐警告：美股急跌风险仍存！",
+          "url": "https://www.cls.cn/detail/2395711",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时29分 ~ 18时24分]"
+        },
+        {
           "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
           "url": "https://wallstreetcn.com/articles/3774056",
           "source": "华尔街见闻",
@@ -806,6 +931,19 @@
           "time_info": "00时04分"
         },
         {
+          "title": "当半导体成“震中”！一文读懂：美股投资者当前在哪里避险？",
+          "url": "https://www.cls.cn/detail/2395632",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时29分 ~ 18时24分]"
+        },
+        {
           "title": "美股指跳水，纳指跌超1%，科技股回落，迈威尔科技跌超8%，金银油齐跌",
           "url": "https://wallstreetcn.com/articles/3774176",
           "source": "华尔街见闻",
@@ -815,30 +953,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
-        },
-        {
-          "title": "当半导体成“震中”！一文读懂：美股投资者当前在哪里避险？",
-          "url": "https://www.cls.cn/detail/2395632",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时29分 ~ 16时21分]"
-        },
-        {
-          "title": "“黑色星期五”只是前奏？高盛、巴克莱齐警告：美股急跌风险仍存！",
-          "url": "https://www.cls.cn/detail/2395711",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时29分 ~ 16时21分]"
         },
         {
           "title": "美股",
@@ -906,12 +1020,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "美国5月CPI七大情景推演：美元黄金和美股谁将率先变盘？",
+          "url": "https://flash.jin10.com/detail/20260610180405068800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "国际油价金价大跌",
@@ -943,11 +1068,12 @@
           "source": "抖音",
           "ranks": [
             15,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时38分 ~ 16时21分]"
+          "appearance_count": 6,
+          "time_info": "[12时38分 ~ 18时24分]"
         },
         {
           "title": "金价大跌女子狂卖2斤金条",
@@ -960,6 +1086,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时27分 ~ 09时40分]"
+        },
+        {
+          "title": "金价抹去今年全部涨幅 国际金价继续下探",
+          "url": "https://flash.jin10.com/detail/20260610180845617800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "花旗：金价可能跌到3500美元",
+          "url": "https://www.toutiao.com/trending/7649366995154944043/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "花旗预测金价或跌至3500美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%97%97%E9%A2%84%E6%B5%8B%E9%87%91%E4%BB%B7%E6%88%96%E8%B7%8C%E8%87%B33500%E7%BE%8E%E5%85%83%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "强非农后又迎热通胀？金价“至暗时刻”恐未完",
