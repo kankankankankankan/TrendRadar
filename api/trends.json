@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-06-13T18:54:39.169285+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2026-06-13T19:35:13.911547+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 49,
+      "match_count": 55,
       "titles": [
+        {
+          "title": "伊朗外长披露伊美谅解备忘录草案部分内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372202",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            16,
+            15,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时41分 ~ 19时35分]"
+        },
         {
           "title": "霍尔木兹将重开？伊朗曝光14点协议草案",
           "url": "https://news.ifeng.com/c/8tuse7CSv3h",
@@ -17,21 +33,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时41分 ~ 14时26分]"
-        },
-        {
-          "title": "伊朗外长披露伊美谅解备忘录草案部分内容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33372202",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19,
-            16,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时41分 ~ 18时54分]"
         },
         {
           "title": "美伊达成一致，伊朗外长：第一阶段将以远程电子方式签署",
@@ -58,6 +59,20 @@
           "time_info": "[08时29分 ~ 16时07分]"
         },
         {
+          "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372320",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时38分 ~ 19时35分]"
+        },
+        {
           "title": "伊朗外长：美国在谅解备忘录中承诺不发动战争",
           "url": "https://news.ifeng.com/c/8tuft4KELYT",
           "source": "凤凰网",
@@ -67,6 +82,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时41分 ~ 11时02分]"
+        },
+        {
+          "title": "伊朗公布已故最高领袖哈梅内伊葬礼安排",
+          "url": "https://wallstreetcn.com/livenews/3119144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 19时35分]"
         },
         {
           "title": "美军称伊朗发射多架单向攻击无人机",
@@ -83,6 +110,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时02分 ~ 18时54分]"
+        },
+        {
+          "title": "多名伊朗国足代表团成员签证被拒，美国回应",
+          "url": "https://news.ifeng.com/c/8tvGP2lQey4",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时06分 ~ 19时35分]"
         },
         {
           "title": "阿联酋外交部驳斥媒体报道，称：我们尚未释放任何被冻结的伊朗资金。",
@@ -123,28 +161,15 @@
           "time_info": "08时29分"
         },
         {
-          "title": "伊朗公布已故最高领袖哈梅内伊葬礼安排",
-          "url": "https://wallstreetcn.com/livenews/3119144",
+          "title": "伊朗已故最高领袖将于7月9日下葬",
+          "url": "https://wallstreetcn.com/livenews/3119145",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33372320",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时38分 ~ 18时54分]"
+          "time_info": "19时35分"
         },
         {
           "title": "渣打银行驻纽约经济学家Dan Pan：（美国与伊朗达成）协议前景仍存在大量不确定性。 如果我们看到风险情绪因突发新闻而出现回调，我也不会感到惊讶。",
@@ -160,17 +185,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时29分 ~ 14时26分]"
-        },
-        {
-          "title": "多名伊朗国足代表团成员签证被拒，美国回应",
-          "url": "https://news.ifeng.com/c/8tvGP2lQey4",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时06分 ~ 18时54分]"
         },
         {
           "title": "美媒：忧心美国可能采取行动夺取核材料，伊朗封存铀库存并布设地雷",
@@ -211,6 +225,18 @@
           "time_info": "[09时41分 ~ 12时38分]"
         },
         {
+          "title": "世界杯伊朗队训练场旁发现腐尸",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BC%8A%E6%9C%97%E9%98%9F%E8%AE%AD%E7%BB%83%E5%9C%BA%E6%97%81%E5%8F%91%E7%8E%B0%E8%85%90%E5%B0%B8",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时59分 ~ 19时35分]"
+        },
+        {
           "title": "伊朗南部爆炸声因警告性射击",
           "url": "https://wallstreetcn.com/livenews/3119090",
           "source": "华尔街见闻-快讯",
@@ -238,6 +264,18 @@
           "time_info": "[11时02分 ~ 14时26分]"
         },
         {
+          "title": "“美伊协议即将达成”叙事回归，但伊朗拒绝放弃霍尔木兹海峡“筹码”",
+          "url": "https://wallstreetcn.com/articles/3774540",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时54分 ~ 19时35分]"
+        },
+        {
           "title": "美官员称有信心未来几天内与伊朗签署谅解备忘录",
           "url": "https://wallstreetcn.com/livenews/3119085",
           "source": "华尔街见闻-快讯",
@@ -251,16 +289,15 @@
           "time_info": "[08时29分 ~ 11时02分]"
         },
         {
-          "title": "世界杯伊朗队训练场旁发现腐尸",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BC%8A%E6%9C%97%E9%98%9F%E8%AE%AD%E7%BB%83%E5%9C%BA%E6%97%81%E5%8F%91%E7%8E%B0%E8%85%90%E5%B0%B8",
-          "source": "百度热搜",
+          "title": "伊朗已故最高领袖将于7月9日下葬",
+          "url": "https://www.toutiao.com/trending/7650457789692825107/",
+          "source": "今日头条",
           "ranks": [
-            7,
-            12
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时59分 ~ 18时54分]"
+          "time_info": "[19时34分 ~ 19时35分]"
         },
         {
           "title": "伊朗外长披露谅解备忘录细节",
@@ -298,15 +335,15 @@
           "time_info": "[11时01分 ~ 11时02分]"
         },
         {
-          "title": "“美伊协议即将达成”叙事回归，但伊朗拒绝放弃霍尔木兹海峡“筹码”",
-          "url": "https://wallstreetcn.com/articles/3774540",
-          "source": "华尔街见闻",
+          "title": "伊朗司法总监：绝不信任美国",
+          "url": "https://flash.jin10.com/detail/20260613191057762800",
+          "source": "金十数据",
           "ranks": [
-            10
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时54分"
+          "time_info": "19时35分"
         },
         {
           "title": "伊朗外长：伊美谅解备忘录可能在几天内签署",
@@ -348,9 +385,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：伊朗和阿曼将就霍尔木兹海峡发布联合声明。",
+          "url": "https://flash.jin10.com/detail/20260613185617701800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "万斯：伊朗被冻结的资金不会仅仅因签署美伊协议而解冻",
@@ -370,7 +418,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
@@ -384,6 +432,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时29分"
+        },
+        {
+          "title": "伊朗已故最高领袖哈梅内伊将于7月9日下葬",
+          "url": "https://flash.jin10.com/detail/20260613183636185800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "美以袭击伊朗进入第 105 天，当前局势如何？有哪些值得关注的信息？",
@@ -406,6 +465,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时29分"
+        },
+        {
+          "title": "伊朗公布已故最高领袖哈梅内伊葬礼安排",
+          "url": "https://flash.jin10.com/detail/20260613183333910800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "据路透社：一位知情人士透露，美国军方击落多架朝霍尔木兹海峡飞来的伊朗单向攻击无人机。消息人士称，伊朗无人机对商业航运构成威胁。",
@@ -590,6 +660,18 @@
       "match_count": 21,
       "titles": [
         {
+          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
+          "url": "https://www.cls.cn/detail/2398839",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时01分 ~ 19时35分]"
+        },
+        {
           "title": "特朗普说打死委内瑞拉一黑帮团伙头目",
           "url": "https://wallstreetcn.com/livenews/3119112",
           "source": "华尔街见闻-快讯",
@@ -618,18 +700,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时03分 ~ 14时26分]"
-        },
-        {
-          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
-          "url": "https://www.cls.cn/detail/2398839",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时01分 ~ 18时54分]"
         },
         {
           "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
@@ -663,17 +733,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
-        },
-        {
-          "title": "据英国金融时报：投资公司加入美国总统特朗普的1000亿美元委内瑞拉石油竞赛。狮心资本（Lionheart Capital）计划通过与旗下空白支票公司Lionheart Holdings合并，以约10亿美元的估值将一家委内瑞拉石油公司上市。",
-          "url": "https://flash.jin10.com/detail/20260613182624858800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
         },
         {
           "title": "特朗普：美军打死“阿拉瓜火车”组织首领尼尼奥·格雷罗",
@@ -729,6 +788,29 @@
           "time_info": "[14时26分 ~ 16时07分]"
         },
         {
+          "title": "据英国金融时报：投资公司加入美国总统特朗普的1000亿美元委内瑞拉石油竞赛。狮心资本（Lionheart Capital）计划通过与旗下空白支票公司Lionheart Holdings合并，以约10亿美元的估值将一家委内瑞拉石油公司上市。",
+          "url": "https://flash.jin10.com/detail/20260613182624858800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 19时35分]"
+        },
+        {
+          "title": "特朗普姓名被从肯尼迪中心外墙移除",
+          "url": "https://news.ifeng.com/c/8tvV5h0ssCW",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时54分 ~ 19时35分]"
+        },
+        {
           "title": "美国总统特朗普：此次行动是在与我们委内瑞拉的朋友密切协调下进行的，我们与委内瑞拉方面合作得非常顺利。",
           "url": "https://flash.jin10.com/detail/20260613090715507800",
           "source": "金十数据",
@@ -777,17 +859,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时03分 ~ 09时41分]"
-        },
-        {
-          "title": "特朗普姓名被从肯尼迪中心外墙移除",
-          "url": "https://news.ifeng.com/c/8tvV5h0ssCW",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
         },
         {
           "title": "雪佛龙CEO Mike Wirth：公司对（波斯湾）石油外流规模的看法并没有美国总统特朗普的能源部长Wright那样乐观。",
@@ -859,8 +930,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时29分 ~ 18时54分]"
+          "appearance_count": 12,
+          "time_info": "[08时29分 ~ 19时35分]"
         },
         {
           "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
@@ -868,11 +939,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时29分 ~ 18时54分]"
+          "appearance_count": 12,
+          "time_info": "[08时29分 ~ 19时35分]"
         },
         {
           "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
@@ -884,8 +956,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时29分 ~ 18时54分]"
+          "appearance_count": 12,
+          "time_info": "[08时29分 ~ 19时35分]"
         },
         {
           "title": "周五（6月12日），美股人工智能（AI）赢家指数涨1.93%，报424.15点，本周累计上涨5.43%。 成分股中，Arm控股收涨11.27%，希捷科技涨7.25%，西部数据涨6.35%，高意公司Coherent涨5.90%表现第四，阿斯麦ADR收跌1.89%跌幅第四大。",
@@ -1040,6 +1112,59 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "单线逻辑失效！为何这轮通胀没救起金价？｜大师复盘",
+          "url": "https://flash.jin10.com/detail/20260613095629145800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时02分 ~ 14时26分]"
+        },
+        {
+          "title": "金价银价大涨了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E6%B6%A8%E4%BA%86%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时26分 ~ 16时07分]"
+        },
+        {
+          "title": "央行狂买黄金金价却暴跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E7%8B%82%E4%B9%B0%E9%BB%84%E9%87%91%E9%87%91%E4%BB%B7%E5%8D%B4%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 19时35分]"
+        },
+        {
+          "title": "金价回落女子一口气买入90克金手镯",
+          "url": "https://www.toutiao.com/trending/7649567619948822578/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
@@ -1076,48 +1201,6 @@
           "source": "金十数据",
           "ranks": [
             26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "单线逻辑失效！为何这轮通胀没救起金价？｜大师复盘",
-          "url": "https://flash.jin10.com/detail/20260613095629145800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时02分 ~ 14时26分]"
-        },
-        {
-          "title": "金价银价大涨了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E6%B6%A8%E4%BA%86%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时26分 ~ 16时07分]"
-        },
-        {
-          "title": "金价回落女子一口气买入90克金手镯",
-          "url": "https://www.toutiao.com/trending/7649567619948822578/",
-          "source": "今日头条",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 1,
