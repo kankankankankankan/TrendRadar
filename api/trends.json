@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T20:09:34.718883+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2026-06-15T23:02:34.902488+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 55,
+      "match_count": 69,
       "titles": [
         {
           "title": "美被曝同意伊朗稀释浓缩铀库存",
@@ -48,22 +48,12 @@
           "ranks": [
             13,
             15,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时27分 ~ 20时09分]"
-        },
-        {
-          "title": "航运巨头马士基：目前判断伊朗协议将如何影响物流还为时过早。",
-          "url": "https://flash.jin10.com/detail/20260615194849647800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时09分"
+          "appearance_count": 8,
+          "time_info": "[08时27分 ~ 23时02分]"
         },
         {
           "title": "录音显示美军仍在执行对伊朗海上封锁",
@@ -72,9 +62,53 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时09分 ~ 23时02分]"
+        },
+        {
+          "title": "报道：伊朗将允许霍尔木兹海峡自由过境60天",
+          "url": "https://wallstreetcn.com/articles/3774682",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时09分 ~ 23时02分]"
+        },
+        {
+          "title": "分析师：英国央行利率决议公布前，伊朗和平协议降低通胀风险",
+          "url": "https://flash.jin10.com/detail/20260615224717379800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "航运巨头马士基：目前判断伊朗协议将如何影响物流还为时过早。",
+          "url": "https://flash.jin10.com/detail/20260615194849647800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "20时09分"
+        },
+        {
+          "title": "美军方称美伊协议正式签署前将继续封锁伊朗港口",
+          "url": "https://flash.jin10.com/detail/20260615224203368800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "伊朗外交部长阿拉格齐讨论了与美国的协议。",
@@ -94,20 +128,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
         {
-          "title": "报道：伊朗将允许霍尔木兹海峡自由过境60天",
-          "url": "https://wallstreetcn.com/articles/3774682",
-          "source": "华尔街见闻",
+          "title": "美军方称美伊协议正式签署前将继续封锁伊朗港口",
+          "url": "https://wallstreetcn.com/livenews/3119774",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时09分"
+          "time_info": "23时02分"
         },
         {
           "title": "美国须提出3000亿美元伊朗重建计划",
@@ -127,11 +161,12 @@
           "ranks": [
             18,
             14,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时42分 ~ 20时09分]"
+          "appearance_count": 5,
+          "time_info": "[13时42分 ~ 23时02分]"
         },
         {
           "title": "美国须提出3000亿美元伊朗重建计划",
@@ -172,6 +207,17 @@
           "time_info": "[09时46分 ~ 11时02分]"
         },
         {
+          "title": "伊朗用AI让球员牵遇难儿童入场",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%94%A8AI%E8%AE%A9%E7%90%83%E5%91%98%E7%89%B5%E9%81%87%E9%9A%BE%E5%84%BF%E7%AB%A5%E5%85%A5%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "市场消息：伊拉克方面表示欢迎美国伊朗达成结束战争的协议，并表示将致力于协助修复受冲突影响的国家的关系。",
           "url": "https://flash.jin10.com/detail/20260615173931038800",
           "source": "金十数据",
@@ -181,6 +227,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
+        },
+        {
+          "title": "停火协议达成，但伊朗战争远未结束？",
+          "url": "https://flash.jin10.com/detail/20260615223503312800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "伊朗外长阿拉格奇与土耳其、伊拉克、埃及外长通电话。（彭博）",
@@ -211,9 +268,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
+        },
+        {
+          "title": "伊朗用AI让球员牵遇难儿童入场",
+          "url": "https://www.toutiao.com/trending/7651542350414037011/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "德国政府发言人：伊朗协议可为全球经济复苏铺平道路。",
@@ -233,7 +301,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -255,7 +323,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -291,6 +359,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
+        },
+        {
+          "title": "航运通告：美国对伊朗港口封锁将在停火协议签署前维持",
+          "url": "https://wallstreetcn.com/livenews/3119767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：卡塔尔代表团在经过17小时的密集谈判后，刚刚离开德黑兰。",
@@ -335,6 +414,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
+        },
+        {
+          "title": "英法德意发表联合声明称，美伊达成协议后，各方准备解除对伊朗相关制裁，伊朗未来发展会迎来转机吗？",
+          "url": "https://www.zhihu.com/question/2049822674235438895",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "英法德意四国称将解除对伊朗制裁",
@@ -392,6 +482,28 @@
           "time_info": "18时02分"
         },
         {
+          "title": "伊朗将对霍尔木兹海峡航运服务收费",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%B0%86%E5%AF%B9%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E8%88%AA%E8%BF%90%E6%9C%8D%E5%8A%A1%E6%94%B6%E8%B4%B9%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "伊朗与美国将于19日签署谅解备忘录",
+          "url": "https://www.toutiao.com/trending/7650835102884675630/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "伊朗外交部：伊朗、土耳其、伊拉克和埃及四国外长强调，将继续就地区事态发展保持密切磋商与合作，并有必要加强外交努力以维护和平与稳定。",
           "url": "https://flash.jin10.com/detail/20260615152901988800",
           "source": "金十数据",
@@ -409,7 +521,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -425,6 +537,17 @@
           "time_info": "15时47分"
         },
         {
+          "title": "美国军方通报称，在定于6月19日与伊朗达成协议之前，美国对伊朗港口的封锁措施继续有效。美国军方公告指出，受封锁影响的船只在收到“明确指示”之前，不应试图穿越封锁区域。",
+          "url": "https://flash.jin10.com/detail/20260615221939876800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "美国和伊朗将在多哈举行协议签署前的筹备性会谈。（法新社）",
           "url": "https://wallstreetcn.com/livenews/3119512",
           "source": "华尔街见闻-快讯",
@@ -434,6 +557,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
+        },
+        {
+          "title": "伊朗队限时参赛踢完几小时内得离境",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%9F%E9%99%90%E6%97%B6%E5%8F%82%E8%B5%9B%E8%B8%A2%E5%AE%8C%E5%87%A0%E5%B0%8F%E6%97%B6%E5%86%85%E5%BE%97%E7%A6%BB%E5%A2%83",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "韩国5月未从伊朗进口原油",
@@ -491,6 +625,17 @@
           "time_info": "08时27分"
         },
         {
+          "title": "美军：对伊朗港口的封锁仍然有效",
+          "url": "https://wallstreetcn.com/livenews/3119756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "伊朗最高国家安全委员会正式确认伊美谅解备忘录达成",
           "url": "https://wallstreetcn.com/livenews/3119306",
           "source": "华尔街见闻-快讯",
@@ -519,9 +664,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
+        },
+        {
+          "title": "美国伊朗达成和平协议",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BC%8A%E6%9C%97%E8%BE%BE%E6%88%90%E5%92%8C%E5%B9%B3%E5%8D%8F%E8%AE%AE%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "伊美谅解备忘录14个条款部分内容披露：美将豁免对伊朗石油制裁",
@@ -552,7 +708,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -574,7 +730,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -596,7 +752,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -626,7 +782,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
@@ -639,8 +795,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时46分 ~ 20时09分]"
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 23时02分]"
+        },
+        {
+          "title": "特朗普：美伊协议“完成”，霍尔木兹海峡开放",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33379774",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时27分 ~ 23时02分]"
         },
         {
           "title": "80大寿，特朗普被气炸了",
@@ -655,18 +825,28 @@
           "time_info": "[08时27分 ~ 15时47分]"
         },
         {
-          "title": "特朗普：美伊协议“完成”，霍尔木兹海峡开放",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33379774",
-          "source": "澎湃新闻",
+          "title": "特朗普批评内塔尼亚胡干扰美伊谈判进程，外交部回应",
+          "url": "https://www.cls.cn/detail/2400017",
+          "source": "财联社热门",
           "ranks": [
-            12,
-            10,
-            7,
-            8
+            6,
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时27分 ~ 20时09分]"
+          "appearance_count": 3,
+          "time_info": "[18时02分 ~ 23时02分]"
+        },
+        {
+          "title": "特朗普：将允许伊朗进行低水平铀浓缩",
+          "url": "https://www.cls.cn/detail/2400213",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时09分 ~ 23时02分]"
         },
         {
           "title": "美伊谈判丨特朗普：和平协议达成，开放霍尔木兹海峡",
@@ -686,7 +866,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -700,6 +880,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
+        },
+        {
+          "title": "Anthropic将于周一围绕Mythos问题会见美国总统特朗普。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3119777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "普京与特朗普通话数小时后，基辅遭无人机和导弹袭击",
@@ -749,15 +940,15 @@
           "time_info": "08时27分"
         },
         {
-          "title": "特朗普：将允许伊朗进行低水平铀浓缩",
-          "url": "https://www.cls.cn/detail/2400213",
-          "source": "财联社热门",
+          "title": "打脸马克龙？特朗普就数字服务税发难",
+          "url": "https://news.ifeng.com/c/8tytt5KRDcq",
+          "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时09分"
+          "time_info": "23时02分"
         },
         {
           "title": "据纽约邮报：特朗普就数字税问题威胁对法国葡萄酒征收100%关税。",
@@ -771,16 +962,17 @@
           "time_info": "13时42分"
         },
         {
-          "title": "特朗普批评内塔尼亚胡干扰美伊谈判进程，外交部回应",
-          "url": "https://www.cls.cn/detail/2400017",
-          "source": "财联社热门",
+          "title": "特朗普批评以色列“干扰”美伊签署协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33379411",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            3
+            19,
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 20时09分]"
+          "appearance_count": 5,
+          "time_info": "[13时42分 ~ 23时02分]"
         },
         {
           "title": "普京与特朗普通话",
@@ -792,19 +984,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时46分 ~ 15时47分]"
-        },
-        {
-          "title": "特朗普批评以色列“干扰”美伊签署协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33379411",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时42分 ~ 20时09分]"
         },
         {
           "title": "特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放",
@@ -926,7 +1105,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -937,7 +1116,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -970,9 +1149,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
+        },
+        {
+          "title": "据CNN：特朗普抵达欧洲参加七国集团峰会。",
+          "url": "https://flash.jin10.com/detail/20260615220852313800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "特朗普：海峡永久免收通行费 未达最终协议将重启对伊打击",
@@ -1078,7 +1268,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -1097,7 +1287,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美伊达成协议，美股盘前半导体股普涨，SpaceX涨超6%，美债收益率全线下行，油价重挫4%",
@@ -1143,12 +1333,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
+        },
+        {
+          "title": "隔夜回购利率攀升，美债结算与纳税抽走市场现金",
+          "url": "https://wallstreetcn.com/livenews/3119752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "【早报】美伊达成协议，国际油价大跌，美股期货拉涨",
@@ -1162,13 +1363,35 @@
           "time_info": "[08时27分 ~ 18时02分]"
         },
         {
+          "title": "美伊达成协议，美股高开，半导体股普涨，石油股普跌，油价重挫5%",
+          "url": "https://wallstreetcn.com/articles/3774633",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "美伊达成停战协议 美股期指集体上涨 SpaceX续涨逾6% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2400410",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "Fox美股盘前跌15%，报道称福克斯（Fox）将以160美元/股的现金和股票交易方式收购Roku。",
           "url": "https://wallstreetcn.com/livenews/3119665",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -1231,7 +1454,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         }
