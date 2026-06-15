@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T15:47:18.743361+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2026-06-15T18:02:58.404127+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 43,
       "titles": [
         {
           "title": "美被曝同意伊朗稀释浓缩铀库存",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时27分 ~ 15时47分]"
+          "appearance_count": 6,
+          "time_info": "[08时27分 ~ 18时02分]"
         },
         {
           "title": "伊朗披露美伊谈判备忘录细节",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时27分 ~ 15时47分]"
+          "appearance_count": 6,
+          "time_info": "[08时27分 ~ 18时02分]"
         },
         {
           "title": "伊朗军方称羞辱了美国和以色列",
@@ -38,8 +38,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 15时47分]"
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 18时02分]"
+        },
+        {
+          "title": "伊朗副外长：核实美方履行承诺后将启动60天谈判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33379862",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时27分 ~ 18时02分]"
         },
         {
           "title": "伊朗外交部长阿拉格齐讨论了与美国的协议。",
@@ -48,7 +61,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -62,18 +75,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
-        },
-        {
-          "title": "伊朗副外长：核实美方履行承诺后将启动60天谈判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33379862",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时27分 ~ 15时47分]"
         },
         {
           "title": "美国须提出3000亿美元伊朗重建计划",
@@ -102,6 +103,19 @@
           "time_info": "[08时27分 ~ 11时02分]"
         },
         {
+          "title": "伊朗媒体披露伊美谅解备忘录14个条款",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33380163",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 18时02分]"
+        },
+        {
           "title": "伊朗武装部队：成功使美以承认失败",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%AD%A6%E8%A3%85%E9%83%A8%E9%98%9F%EF%BC%9A%E6%88%90%E5%8A%9F%E4%BD%BF%E7%BE%8E%E4%BB%A5%E6%89%BF%E8%AE%A4%E5%A4%B1%E8%B4%A5",
           "source": "百度热搜",
@@ -114,16 +128,15 @@
           "time_info": "[09时46分 ~ 11时02分]"
         },
         {
-          "title": "伊朗媒体披露伊美谅解备忘录14个条款",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33380163",
-          "source": "澎湃新闻",
+          "title": "市场消息：伊拉克方面表示欢迎美国伊朗达成结束战争的协议，并表示将致力于协助修复受冲突影响的国家的关系。",
+          "url": "https://flash.jin10.com/detail/20260615173931038800",
+          "source": "金十数据",
           "ranks": [
-            18,
-            14
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 15时47分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "伊朗外长阿拉格奇与土耳其、伊拉克、埃及外长通电话。（彭博）",
@@ -132,9 +145,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
+        },
+        {
+          "title": "伊朗队世界杯“特种兵式”参赛",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E2%80%9C%E7%89%B9%E7%A7%8D%E5%85%B5%E5%BC%8F%E2%80%9D%E5%8F%82%E8%B5%9B",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "德国政府发言人：伊朗协议可为全球经济复苏铺平道路。",
+          "url": "https://flash.jin10.com/detail/20260615173819788800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "巴基斯坦总理：我祝贺美国总统、伊朗最高领袖和伊朗总统在艰难时期达成协议。",
@@ -143,7 +178,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -154,7 +189,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -176,7 +211,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -209,9 +244,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
+        },
+        {
+          "title": "德银：伊朗战争余波或冲击欧洲信用债市场",
+          "url": "https://flash.jin10.com/detail/20260615173347790800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "英法德意四国称将解除对伊朗制裁",
@@ -242,7 +288,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -258,13 +304,24 @@
           "time_info": "13时42分"
         },
         {
+          "title": "伊朗根据协议将允许霍尔木兹海峡船只自由过境60天。（FARS）",
+          "url": "https://wallstreetcn.com/livenews/3119588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "伊朗外交部：伊朗、土耳其、伊拉克和埃及四国外长强调，将继续就地区事态发展保持密切磋商与合作，并有必要加强外交努力以维护和平与稳定。",
           "url": "https://flash.jin10.com/detail/20260615152901988800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -275,7 +332,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -286,7 +343,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -308,7 +365,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -319,7 +376,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -407,9 +464,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
+        },
+        {
+          "title": "伊朗队花5小时抵美 飞机试2次才落地",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%9F%E8%8A%B15%E5%B0%8F%E6%97%B6%E6%8A%B5%E7%BE%8E+%E9%A3%9E%E6%9C%BA%E8%AF%952%E6%AC%A1%E6%89%8D%E8%90%BD%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "世界杯首战前夕伊朗再遭拒签",
@@ -426,7 +494,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
@@ -439,8 +507,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 15时47分]"
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 18时02分]"
         },
         {
           "title": "80大寿，特朗普被气炸了",
@@ -453,6 +521,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时27分 ~ 15时47分]"
+        },
+        {
+          "title": "特朗普：美伊协议“完成”，霍尔木兹海峡开放",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33379774",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时27分 ~ 18时02分]"
         },
         {
           "title": "美伊谈判丨特朗普：和平协议达成，开放霍尔木兹海峡",
@@ -499,6 +580,20 @@
           "time_info": "13时42分"
         },
         {
+          "title": "美伊和谈迎突破性进展！特朗普称协议已完成 签署仪式拟周五举行",
+          "url": "https://www.cls.cn/detail/2399494",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时02分 ~ 18时02分]"
+        },
+        {
           "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
           "url": "https://wallstreetcn.com/articles/3774599",
           "source": "华尔街见闻",
@@ -521,18 +616,6 @@
           "time_info": "13时42分"
         },
         {
-          "title": "特朗普：美伊协议“完成”，霍尔木兹海峡开放",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33379774",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时27分 ~ 15时47分]"
-        },
-        {
           "title": "普京与特朗普通话",
           "url": "https://news.ifeng.com/c/8txdaXj6SxP",
           "source": "凤凰网",
@@ -542,19 +625,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时46分 ~ 15时47分]"
-        },
-        {
-          "title": "美伊和谈迎突破性进展！特朗普称协议已完成 签署仪式拟周五举行",
-          "url": "https://www.cls.cn/detail/2399494",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时02分 ~ 15时47分]"
         },
         {
           "title": "特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放",
@@ -569,6 +639,19 @@
           "time_info": "[08时27分 ~ 11时02分]"
         },
         {
+          "title": "特朗普批评以色列“干扰”美伊签署协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33379411",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 18时02分]"
+        },
+        {
           "title": "A股航运板块开盘大涨，招商南油、招商轮船、中远海能竞价涨停，国航远洋涨超10%，宁波海运、宁波远洋、南京港等多股高开，消息上，美国总统特朗普当地时间14日宣布，美国与伊朗达成和平协议，霍尔木兹海峡将“免通行费开放”。",
           "url": "https://wallstreetcn.com/livenews/3119361",
           "source": "华尔街见闻-快讯",
@@ -581,18 +664,6 @@
           "time_info": "[09时46分 ~ 11时02分]"
         },
         {
-          "title": "特朗普批评以色列“干扰”美伊签署协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33379411",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 15时47分]"
-        },
-        {
           "title": "特朗普：若未达成核协议将重启打击",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%8B%A5%E6%9C%AA%E8%BE%BE%E6%88%90%E6%A0%B8%E5%8D%8F%E8%AE%AE%E5%B0%86%E9%87%8D%E5%90%AF%E6%89%93%E5%87%BB",
           "source": "百度热搜",
@@ -603,6 +674,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时46分 ~ 11时02分]"
+        },
+        {
+          "title": "特朗普批评内塔尼亚胡干扰美伊谈判进程，外交部回应",
+          "url": "https://www.cls.cn/detail/2400017",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "特朗普白宫“铁笼赛”开打！八角笼亮相，80岁生日当天霸气登场",
@@ -688,9 +770,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
+        },
+        {
+          "title": "G7峰会前夕 特朗普威胁对法加征葡萄酒关税",
+          "url": "https://wallstreetcn.com/livenews/3119576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "特朗普：海峡永久免收通行费 未达最终协议将重启对伊打击",
@@ -796,7 +889,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         }
@@ -804,7 +897,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "对冲基金重拾伊朗战事前的策略 看好短期美债、受挫亚币甚至泡面股",
@@ -813,9 +906,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
+        },
+        {
+          "title": "美伊达成协议，美股盘前半导体股普涨，SpaceX涨超6%，美债收益率全线下行，油价重挫4%",
+          "url": "https://wallstreetcn.com/articles/3774633",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "美伊达成协议，韩股收涨5%，纳指盘前上涨2%，美债收益率全线下行，油价重挫4%",
@@ -824,9 +928,48 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
+        },
+        {
+          "title": "美债收益率涨多高，才会真正威胁美股？高盛：10年期美债触及5%",
+          "url": "https://wallstreetcn.com/articles/3774620",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【早报】美伊达成协议，国际油价大跌，美股期货拉涨",
+          "url": "https://www.cls.cn/detail/2399448",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时27分 ~ 18时02分]"
+        },
+        {
+          "title": "美股光通信板块盘前上涨，迈威尔科技涨近6%，Coherent涨超5%，Lumentum、Credo、康宁涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3119569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         }
       ]
     },
@@ -862,23 +1005,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时27分 ~ 11时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【早报】美伊达成协议，国际油价大跌，美股期货拉涨",
-          "url": "https://www.cls.cn/detail/2399448",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时27分 ~ 15时47分]"
         }
       ]
     }
