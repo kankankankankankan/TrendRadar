@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T12:37:08.129977+08:00",
-  "total_titles_processed": 753,
+  "generated_at": "2026-06-20T14:29:10.163666+08:00",
+  "total_titles_processed": 855,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "伊朗推迟赴瑞士行程！黎巴嫩问题成变数 万斯指责以色列对美缺乏信任",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 12时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 14时29分]"
         },
         {
           "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 12时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 14时29分]"
         },
         {
           "title": "伊朗革命卫队发表致最高领袖公开信",
@@ -41,20 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时25分 ~ 12时37分]"
-        },
-        {
-          "title": "伊朗宣布霍尔木兹海峡通行新规",
-          "url": "https://news.ifeng.com/c/8u5aeRTiPZD",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 11时02分]"
+          "appearance_count": 8,
+          "time_info": "[08时25分 ~ 14时29分]"
         },
         {
           "title": "美媒：伊朗外长将赴瑞士，美总统特使正在途中",
@@ -64,8 +52,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时01分 ~ 12时37分]"
+          "appearance_count": 6,
+          "time_info": "[11时01分 ~ 14时29分]"
         },
         {
           "title": "日企掏钱,伊朗白捡三千亿",
@@ -79,8 +67,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 12时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 14时29分]"
+        },
+        {
+          "title": "伊朗宣布霍尔木兹海峡通行新规",
+          "url": "https://news.ifeng.com/c/8u5aeRTiPZD",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 11时02分]"
         },
         {
           "title": "伊朗据称因以军持续袭击黎推迟赴瑞士谈判，万斯指责以色列：醒醒认清现实，不可能通过杀戮解决所有国家安全问题",
@@ -116,17 +116,56 @@
           "time_info": "00时06分"
         },
         {
+          "title": "伊朗革命卫队：已进入高度战备状态",
+          "url": "https://flash.jin10.com/detail/20260620134737209800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
           "title": "美媒：美国、卡塔尔拟联手解冻伊朗百亿资金",
           "url": "https://wallstreetcn.com/livenews/3122203",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
             9,
-            15
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时39分 ~ 14时29分]"
+        },
+        {
+          "title": "美媒：伊朗外长将赴瑞士 美总统特使正在途中",
+          "url": "https://wallstreetcn.com/livenews/3122200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时39分 ~ 14时29分]"
+        },
+        {
+          "title": "五角大楼或需800亿美元为伊朗战事“埋单”",
+          "url": "https://wallstreetcn.com/livenews/3122209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时39分 ~ 12时37分]"
+          "time_info": "[11时02分 ~ 14时29分]"
         },
         {
           "title": "美媒：美卡拟联手解冻伊朗百亿资金 人道主义采购成破冰首步",
@@ -155,31 +194,6 @@
           "time_info": "[09时39分 ~ 12时37分]"
         },
         {
-          "title": "美媒：伊朗外长将赴瑞士 美总统特使正在途中",
-          "url": "https://wallstreetcn.com/livenews/3122200",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时39分 ~ 12时37分]"
-        },
-        {
-          "title": "五角大楼或需800亿美元为伊朗战事“埋单”",
-          "url": "https://wallstreetcn.com/livenews/3122209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时02分 ~ 12时37分]"
-        },
-        {
           "title": "市场消息：伊朗告知调停方，黎巴嫩停火对德黑兰而言是一个至关重要的问题。",
           "url": "https://flash.jin10.com/detail/20260620100238653800",
           "source": "金十数据",
@@ -190,6 +204,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时02分 ~ 12时37分]"
+        },
+        {
+          "title": "伊朗官员：不会在黎巴嫩停火问题上退让",
+          "url": "https://wallstreetcn.com/livenews/3122198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时39分 ~ 14时29分]"
         },
         {
           "title": "伊朗副外长：美国必须确保以色列遵守谅解备忘录",
@@ -213,19 +241,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时01分 ~ 12时37分]"
-        },
-        {
-          "title": "伊朗官员：不会在黎巴嫩停火问题上退让",
-          "url": "https://wallstreetcn.com/livenews/3122198",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时39分 ~ 12时37分]"
         },
         {
           "title": "伊朗外交部副部长赛义德·哈提卜扎德：伊朗将继续在与阿曼协调并在国际法规则下提供航行服务。在谅解备忘录所规定的60天期限内，伊朗不会收取通行费用，但之后将引入新的航道管理机制，并提交给地区国家。 未来要达成的任何协议都必须包括解冻所有伊朗被冻结资金。（央视）",
@@ -264,6 +279,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时06分 ~ 08时25分]"
+        },
+        {
+          "title": "伊朗称不信任美国 正在做两手准备",
+          "url": "https://wallstreetcn.com/livenews/3122212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 14时29分]"
         },
         {
           "title": "霍尔木兹海峡已重开，但伊朗收费吗、找得到油轮吗？",
@@ -324,15 +351,15 @@
           "time_info": "00时06分"
         },
         {
-          "title": "伊朗称不信任美国 正在做两手准备",
-          "url": "https://wallstreetcn.com/livenews/3122212",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗外交部：谈判正通过调停方持续推进，若启动会谈的条件得到满足，届时将对外宣布。",
+          "url": "https://flash.jin10.com/detail/20260620134254488800",
+          "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时37分"
+          "time_info": "14时29分"
         },
         {
           "title": "消息人士：因以军持续袭击黎巴嫩，伊朗推迟赴瑞士行程",
@@ -363,7 +390,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
         },
@@ -374,9 +401,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
+        },
+        {
+          "title": "海洋法管不着？伊朗称并非成员国 自己收费“合法合理”",
+          "url": "https://flash.jin10.com/detail/20260620130232500800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "伊朗伊斯兰革命卫队说“坚定支持国家领导层”",
@@ -473,15 +511,17 @@
       "match_count": 37,
       "titles": [
         {
-          "title": "特朗普和高市早苗被爆在G7因珍珠港争吵",
-          "url": "https://news.ifeng.com/c/8u5cA2CLh6U",
-          "source": "凤凰网",
+          "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
+          "url": "https://wallstreetcn.com/articles/3775098",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            8,
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时06分 ~ 12时37分]"
+          "time_info": "[09时39分 ~ 14时29分]"
         },
         {
           "title": "特朗普发表疑似嘲讽言论，梅洛尼回应：震惊",
@@ -492,20 +532,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 12时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 14时29分]"
         },
         {
-          "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
-          "url": "https://wallstreetcn.com/articles/3775098",
-          "source": "华尔街见闻",
+          "title": "特朗普和高市早苗被爆在G7因珍珠港争吵",
+          "url": "https://news.ifeng.com/c/8u5cA2CLh6U",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时39分 ~ 12时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 12时37分]"
         },
         {
           "title": "特朗普和高市早苗因珍珠港发生争吵",
@@ -532,6 +571,21 @@
           "time_info": "00时06分"
         },
         {
+          "title": "特朗普视察新专机，专家担心安全性可能不如现有的“空军一号”",
+          "url": "https://wallstreetcn.com/livenews/3122195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9,
+            16,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时25分 ~ 14时29分]"
+        },
+        {
           "title": "市场消息：特朗普对伊朗协议定调，意在驳斥美国失败论。",
           "url": "https://flash.jin10.com/detail/20260619235253993800",
           "source": "金十数据",
@@ -543,20 +597,6 @@
           "time_info": "00时06分"
         },
         {
-          "title": "特朗普视察新专机，专家担心安全性可能不如现有的“空军一号”",
-          "url": "https://wallstreetcn.com/livenews/3122195",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9,
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时25分 ~ 12时37分]"
-        },
-        {
           "title": "特朗普：美伊须60天内达成长期协议，否则将采取进一步行动",
           "url": "https://wallstreetcn.com/livenews/3122194",
           "source": "华尔街见闻-快讯",
@@ -564,11 +604,12 @@
             4,
             10,
             17,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时25分 ~ 12时37分]"
+          "appearance_count": 5,
+          "time_info": "[08时25分 ~ 14时29分]"
         },
         {
           "title": "特朗普：Anthropic曾构成国家安全威胁",
@@ -578,11 +619,25 @@
             5,
             11,
             18,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时25分 ~ 12时37分]"
+          "appearance_count": 5,
+          "time_info": "[08时25分 ~ 14时29分]"
+        },
+        {
+          "title": "因特朗普言论 意大利副总理取消访美",
+          "url": "https://wallstreetcn.com/livenews/3122210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时02分 ~ 14时29分]"
         },
         {
           "title": "美国白宫：特朗普总统做成了一件六个月前大多数专家认为不可能的事，我们已经取得了胜利。",
@@ -598,16 +653,16 @@
           "time_info": "[09时39分 ~ 12时37分]"
         },
         {
-          "title": "因特朗普言论 意大利副总理取消访美",
-          "url": "https://wallstreetcn.com/livenews/3122210",
-          "source": "华尔街见闻-快讯",
+          "title": "多国领导人劝和特朗普与高市早苗",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%8A%9D%E5%92%8C%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
-            2,
-            8
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时02分 ~ 12时37分]"
+          "appearance_count": 4,
+          "time_info": "[12时36分 ~ 14时29分]"
         },
         {
           "title": "万斯警告以色列：只有特朗普同情你们",
@@ -633,17 +688,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时25分 ~ 09时39分]"
-        },
-        {
-          "title": "多国领导人劝和特朗普与高市早苗",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%8A%9D%E5%92%8C%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
         },
         {
           "title": "美国总统特朗普：我要特别致谢250名工作人员，他们不分昼夜赶工，促成这架专机正式投入使用，这当中也包含安德鲁斯联合基地的大量空军官兵。",
@@ -923,8 +967,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 12时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 14时29分]"
         },
         {
           "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
@@ -989,8 +1033,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 12时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 14时29分]"
         },
         {
           "title": "金价陷入低迷",
@@ -1017,11 +1061,12 @@
           "ranks": [
             5,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 12时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 14时29分]"
         },
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
@@ -1030,11 +1075,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时25分 ~ 12时37分]"
+          "appearance_count": 8,
+          "time_info": "[08时25分 ~ 14时29分]"
         },
         {
           "title": "欧洲STOXX 600个人护理、药品及食品杂货店指数跌超0.8%，刷新日低至155.50点下方。 在美国针对德国药品定价发起关税调查后，德国总理默茨预计，美国将继续遵守与欧洲的贸易承诺。 药品报销决定属于德国国内事务，如有需要，其政府将向美国提供相关信息。 6月18日美股盘后，美国对德国降低药品价格的努力提出批评，美国贸易代表格里尔指责德国“长期低价采购创新药品”。",
@@ -1077,11 +1123,12 @@
           "ranks": [
             5,
             12,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时39分 ~ 12时37分]"
+          "appearance_count": 4,
+          "time_info": "[09时39分 ~ 14时29分]"
         }
       ]
     }
