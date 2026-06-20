@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T14:29:10.163666+08:00",
-  "total_titles_processed": 855,
+  "generated_at": "2026-06-20T16:08:11.166613+08:00",
+  "total_titles_processed": 953,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 42,
+      "match_count": 54,
       "titles": [
         {
           "title": "伊朗推迟赴瑞士行程！黎巴嫩问题成变数 万斯指责以色列对美缺乏信任",
@@ -13,11 +13,24 @@
           "source": "财联社热门",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 14时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 16时08分]"
+        },
+        {
+          "title": "伊朗革命卫队发表致最高领袖公开信",
+          "url": "https://news.ifeng.com/c/8u5q1dToOV0",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时25分 ~ 16时08分]"
         },
         {
           "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
@@ -29,20 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 14时29分]"
-        },
-        {
-          "title": "伊朗革命卫队发表致最高领袖公开信",
-          "url": "https://news.ifeng.com/c/8u5q1dToOV0",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时25分 ~ 14时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 16时08分]"
         },
         {
           "title": "美媒：伊朗外长将赴瑞士，美总统特使正在途中",
@@ -52,8 +53,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时01分 ~ 14时29分]"
+          "appearance_count": 8,
+          "time_info": "[11时01分 ~ 16时08分]"
         },
         {
           "title": "日企掏钱,伊朗白捡三千亿",
@@ -64,11 +65,12 @@
             7,
             8,
             11,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 14时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 16时08分]"
         },
         {
           "title": "伊朗宣布霍尔木兹海峡通行新规",
@@ -94,6 +96,43 @@
           "time_info": "00时06分"
         },
         {
+          "title": "伊朗内政部发言人：在谈判问题上我们不存在“激进派”与“温和派”的区别。",
+          "url": "https://flash.jin10.com/detail/20260620154600607800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
+          "title": "美媒：美国、卡塔尔拟联手解冻伊朗百亿资金",
+          "url": "https://wallstreetcn.com/livenews/3122203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9,
+            15,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时39分 ~ 16时08分]"
+        },
+        {
+          "title": "伊朗内政部发言人：我们将见证一场盛大的葬礼，送别这位历史上著名而声望卓著的伊朗领袖——哈梅内伊。",
+          "url": "https://flash.jin10.com/detail/20260620154111929800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
           "title": "伊朗外长：美国应对任何违反谅解备忘录条款的行为负责",
           "url": "https://wallstreetcn.com/livenews/3122149",
           "source": "华尔街见闻-快讯",
@@ -103,6 +142,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "美媒：伊朗外长将赴瑞士 美总统特使正在途中",
+          "url": "https://wallstreetcn.com/livenews/3122200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11,
+            17,
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时39分 ~ 16时08分]"
         },
         {
           "title": "市场消息：美国向盟友发布了一系列谈话要点，旨在将伊朗协议包装成一项政治胜利，尽管美国仅仅确保了霍尔木兹海峡的重新开放。",
@@ -116,43 +170,26 @@
           "time_info": "00时06分"
         },
         {
+          "title": "据伊朗学生通讯社：伊朗外交部发言人表示，伊朗外交部长将在德黑兰与巴基斯坦内政部长会晤。",
+          "url": "https://flash.jin10.com/detail/20260620154109194800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
           "title": "伊朗革命卫队：已进入高度战备状态",
           "url": "https://flash.jin10.com/detail/20260620134737209800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
-        },
-        {
-          "title": "美媒：美国、卡塔尔拟联手解冻伊朗百亿资金",
-          "url": "https://wallstreetcn.com/livenews/3122203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时39分 ~ 14时29分]"
-        },
-        {
-          "title": "美媒：伊朗外长将赴瑞士 美总统特使正在途中",
-          "url": "https://wallstreetcn.com/livenews/3122200",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时39分 ~ 14时29分]"
         },
         {
           "title": "五角大楼或需800亿美元为伊朗战事“埋单”",
@@ -161,11 +198,27 @@
           "ranks": [
             3,
             9,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时02分 ~ 14时29分]"
+          "appearance_count": 4,
+          "time_info": "[11时02分 ~ 16时08分]"
+        },
+        {
+          "title": "伊朗官员：不会在黎巴嫩停火问题上退让",
+          "url": "https://wallstreetcn.com/livenews/3122198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13,
+            19,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时39分 ~ 16时08分]"
         },
         {
           "title": "美媒：美卡拟联手解冻伊朗百亿资金 人道主义采购成破冰首步",
@@ -206,20 +259,6 @@
           "time_info": "[11时02分 ~ 12时37分]"
         },
         {
-          "title": "伊朗官员：不会在黎巴嫩停火问题上退让",
-          "url": "https://wallstreetcn.com/livenews/3122198",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时39分 ~ 14时29分]"
-        },
-        {
           "title": "伊朗副外长：美国必须确保以色列遵守谅解备忘录",
           "url": "https://flash.jin10.com/detail/20260620075600565800",
           "source": "金十数据",
@@ -241,6 +280,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时01分 ~ 12时37分]"
+        },
+        {
+          "title": "伊朗称不信任美国 正在做两手准备",
+          "url": "https://wallstreetcn.com/livenews/3122212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时37分 ~ 16时08分]"
         },
         {
           "title": "伊朗外交部副部长赛义德·哈提卜扎德：伊朗将继续在与阿曼协调并在国际法规则下提供航行服务。在谅解备忘录所规定的60天期限内，伊朗不会收取通行费用，但之后将引入新的航道管理机制，并提交给地区国家。 未来要达成的任何协议都必须包括解冻所有伊朗被冻结资金。（央视）",
@@ -279,18 +331,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时06分 ~ 08时25分]"
-        },
-        {
-          "title": "伊朗称不信任美国 正在做两手准备",
-          "url": "https://wallstreetcn.com/livenews/3122212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 14时29分]"
         },
         {
           "title": "霍尔木兹海峡已重开，但伊朗收费吗、找得到油轮吗？",
@@ -357,7 +397,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -412,7 +452,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -439,6 +479,17 @@
           "time_info": "00时06分"
         },
         {
+          "title": "巴基斯坦内政部长启程前往伊朗",
+          "url": "https://flash.jin10.com/detail/20260620145119344800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
           "title": "本周已有11艘油轮运载2000万桶原油驶离伊朗港口",
           "url": "https://wallstreetcn.com/livenews/3122133",
           "source": "华尔街见闻-快讯",
@@ -448,6 +499,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "伊朗黄金珠宝联盟主席：伊朗金市保持稳定 后市料窄幅震荡",
+          "url": "https://flash.jin10.com/detail/20260620144216092800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
+          "title": "伊朗议会国家安全委员会成员赛义迪：谅解备忘录中超过80%为美方承诺，若美国在谅解备忘录问题上背信弃义，伊朗也将采取对等措施。",
+          "url": "https://flash.jin10.com/detail/20260620143515094800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
+          "title": "伊朗革命卫队：战争必须以一种使伊朗在未来五十年内都能保持威慑力的方式结束。",
+          "url": "https://flash.jin10.com/detail/20260620143202997800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         },
         {
           "title": "伊朗外交部否认霍尔木兹海峡关闭",
@@ -461,6 +545,28 @@
           "time_info": "00时06分"
         },
         {
+          "title": "伊朗革命卫队：美以敌人在此次战争的第十五天就意识到局面已脱离其掌控。",
+          "url": "https://flash.jin10.com/detail/20260620143143709800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
+          "title": "伊朗革命卫队：美国内部混乱局势、美军士兵疲惫与准备不足、在霍尔木兹海峡缺乏军事解决方案、国会阻挠、盟友不予配合，以及包括西班牙在内的国际社会压力——这些是美以敌人在第三次战争期间陷入僵局的最重要因素。",
+          "url": "https://flash.jin10.com/detail/20260620143129081800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
           "title": "伊朗外交部否认霍尔木兹海峡已关闭。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3122128",
           "source": "华尔街见闻-快讯",
@@ -472,6 +578,28 @@
           "time_info": "00时06分"
         },
         {
+          "title": "伊朗革命卫队：在这次战争中，伊朗的国际地位和声望得到提升。伊朗人民和抵抗阵线的权利必须得到巩固。",
+          "url": "https://flash.jin10.com/detail/20260620143042345800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
+          "title": "伊朗革命卫队：霍尔木兹海峡和伊朗的地区主权不容削弱。",
+          "url": "https://flash.jin10.com/detail/20260620143029219800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
           "title": "伊朗外交部证实伊美谈判推迟：正讨论未来几天举行",
           "url": "https://wallstreetcn.com/livenews/3122126",
           "source": "华尔街见闻-快讯",
@@ -481,6 +609,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "伊朗革命卫队：伊朗武装力量重创了美国最先进的技术装备。",
+          "url": "https://flash.jin10.com/detail/20260620143021708800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         },
         {
           "title": "伊朗证实伊美谈判推迟",
@@ -508,7 +647,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
@@ -517,11 +656,12 @@
           "ranks": [
             8,
             5,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时39分 ~ 14时29分]"
+          "appearance_count": 9,
+          "time_info": "[09时39分 ~ 16时08分]"
         },
         {
           "title": "特朗普发表疑似嘲讽言论，梅洛尼回应：震惊",
@@ -532,8 +672,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 14时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 16时08分]"
         },
         {
           "title": "特朗普和高市早苗被爆在G7因珍珠港争吵",
@@ -569,6 +709,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "多国领导人劝和特朗普与高市早苗",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%8A%9D%E5%92%8C%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时36分 ~ 16时08分]"
         },
         {
           "title": "特朗普视察新专机，专家担心安全性可能不如现有的“空军一号”",
@@ -633,11 +786,12 @@
           "ranks": [
             2,
             8,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时02分 ~ 14时29分]"
+          "appearance_count": 4,
+          "time_info": "[11时02分 ~ 16时08分]"
         },
         {
           "title": "美国白宫：特朗普总统做成了一件六个月前大多数专家认为不可能的事，我们已经取得了胜利。",
@@ -651,18 +805,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时39分 ~ 12时37分]"
-        },
-        {
-          "title": "多国领导人劝和特朗普与高市早苗",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%8A%9D%E5%92%8C%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时36分 ~ 14时29分]"
         },
         {
           "title": "万斯警告以色列：只有特朗普同情你们",
@@ -736,6 +878,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时25分 ~ 09时39分]"
+        },
+        {
+          "title": "特朗普的新专机，首次亮相",
+          "url": "https://www.cls.cn/detail/2404514",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 16时08分]"
         },
         {
           "title": "美国总统特朗普：我结束了8场战争，与伊朗的战争是最艰难的。",
@@ -955,6 +1108,117 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "沃什“鹰派首秀”，高盛下调黄金目标价，“如果今年真加息，金价会进一步下跌”",
+          "url": "https://wallstreetcn.com/articles/3775075",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时25分 ~ 12时37分]"
+        },
+        {
+          "title": "国际金价再跳水失守4200美元，国内金饰克价破1300元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33415889",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 14时29分]"
+        },
+        {
+          "title": "金价下跌买30克镯子差价有一万多",
+          "url": "https://www.toutiao.com/trending/7653198914279751718/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 16时08分]"
+        },
+        {
+          "title": "金价陷入低迷",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%99%B7%E5%85%A5%E4%BD%8E%E8%BF%B7%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 08时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
+          "url": "https://www.cls.cn/detail/2404196",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 16时08分]"
+        },
+        {
+          "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2404523",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时25分 ~ 16时08分]"
+        },
+        {
+          "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
+          "url": "https://wallstreetcn.com/articles/3775107",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 16时08分]"
+        },
+        {
+          "title": "欧洲STOXX 600个人护理、药品及食品杂货店指数跌超0.8%，刷新日低至155.50点下方。 在美国针对德国药品定价发起关税调查后，德国总理默茨预计，美国将继续遵守与欧洲的贸易承诺。 药品报销决定属于德国国内事务，如有需要，其政府将向美国提供相关信息。 6月18日美股盘后，美国对德国降低药品价格的努力提出批评，美国贸易代表格里尔指责德国“长期低价采购创新药品”。",
+          "url": "https://wallstreetcn.com/livenews/3122141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -1007,95 +1271,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "沃什“鹰派首秀”，高盛下调黄金目标价，“如果今年真加息，金价会进一步下跌”",
-          "url": "https://wallstreetcn.com/articles/3775075",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时25分 ~ 12时37分]"
-        },
-        {
-          "title": "国际金价再跳水失守4200美元，国内金饰克价破1300元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33415889",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 14时29分]"
-        },
-        {
-          "title": "金价陷入低迷",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%99%B7%E5%85%A5%E4%BD%8E%E8%BF%B7%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 08时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
-          "url": "https://www.cls.cn/detail/2404196",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 14时29分]"
-        },
-        {
-          "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2404523",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时25分 ~ 14时29分]"
-        },
-        {
-          "title": "欧洲STOXX 600个人护理、药品及食品杂货店指数跌超0.8%，刷新日低至155.50点下方。 在美国针对德国药品定价发起关税调查后，德国总理默茨预计，美国将继续遵守与欧洲的贸易承诺。 药品报销决定属于德国国内事务，如有需要，其政府将向美国提供相关信息。 6月18日美股盘后，美国对德国降低药品价格的努力提出批评，美国贸易代表格里尔指责德国“长期低价采购创新药品”。",
-          "url": "https://wallstreetcn.com/livenews/3122141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -1124,11 +1299,12 @@
             5,
             12,
             18,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时39分 ~ 14时29分]"
+          "appearance_count": 5,
+          "time_info": "[09时39分 ~ 16时08分]"
         }
       ]
     }
