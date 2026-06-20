@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T20:31:40.284554+08:00",
-  "total_titles_processed": 1214,
+  "generated_at": "2026-06-20T21:32:22.915570+08:00",
+  "total_titles_processed": 1287,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 61,
+      "match_count": 73,
       "titles": [
         {
           "title": "伊朗推迟赴瑞士行程！黎巴嫩问题成变数 万斯指责以色列对美缺乏信任",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时06分 ~ 20时31分]"
+          "appearance_count": 18,
+          "time_info": "[00时06分 ~ 21时32分]"
         },
         {
           "title": "伊朗革命卫队发表致最高领袖公开信",
@@ -42,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时06分 ~ 20时31分]"
+          "appearance_count": 18,
+          "time_info": "[00时06分 ~ 21时32分]"
         },
         {
           "title": "美媒：伊朗外长将赴瑞士，美总统特使正在途中",
@@ -55,6 +55,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时01分 ~ 16时08分]"
+        },
+        {
+          "title": "美伊谈判能否顺利举行？伊朗有何先决条件？凤凰记者解读",
+          "url": "https://news.ifeng.com/c/8u6rTy30ATU",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时01分 ~ 21时32分]"
         },
         {
           "title": "日企掏钱,伊朗白捡三千亿",
@@ -70,19 +81,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时06分 ~ 20时31分]"
-        },
-        {
-          "title": "美伊谈判能否顺利举行？伊朗有何先决条件？凤凰记者解读",
-          "url": "https://news.ifeng.com/c/8u6rTy30ATU",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时01分 ~ 20时31分]"
+          "appearance_count": 18,
+          "time_info": "[00时06分 ~ 21时32分]"
         },
         {
           "title": "伊朗宣布霍尔木兹海峡通行新规",
@@ -124,6 +124,28 @@
           "time_info": "00时06分"
         },
         {
+          "title": "据伊朗迈赫尔通讯社：伊朗最高联合军事指挥部表示，霍尔木兹海峡的封闭是第一步，并警告如果“侵略持续”将采取进一步措施。",
+          "url": "https://flash.jin10.com/detail/20260620211439008800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "伊朗称霍尔木兹海峡已关闭。（塔斯尼姆通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3122261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "伊朗称不信任美国 正在做两手准备",
           "url": "https://wallstreetcn.com/livenews/3122212",
           "source": "华尔街见闻-快讯",
@@ -153,6 +175,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时39分 ~ 16时08分]"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗最高联合军事指挥部表示，因美国及以色列涉嫌违反停火谅解备忘录，霍尔木兹海峡将禁止船只通行。",
+          "url": "https://flash.jin10.com/detail/20260620211219582800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "伊朗外长：美国应对任何违反谅解备忘录条款的行为负责",
@@ -192,6 +225,39 @@
           "time_info": "00时06分"
         },
         {
+          "title": "据福克斯新闻：美国副总统万斯表示，将给伊朗一个谈判机会。",
+          "url": "https://flash.jin10.com/detail/20260620211057336800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "伊朗外交部长会见巴基斯坦内政部长。（伊朗SNN新闻社）",
+          "url": "https://wallstreetcn.com/livenews/3122259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "投降的艺术：全球市场在美国-伊朗签署谅解备忘录后大涨，平静可能是暂时的",
+          "url": "https://wallstreetcn.com/livenews/3122258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "伊朗革命卫队：已进入高度战备状态",
           "url": "https://flash.jin10.com/detail/20260620134737209800",
           "source": "金十数据",
@@ -212,6 +278,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
+        },
+        {
+          "title": "据福克斯新闻：美国副总统万斯表示，伊朗谈判进展顺利，预计接下来几天将前往瑞士。",
+          "url": "https://flash.jin10.com/detail/20260620210902360800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "伊朗官员：不会在黎巴嫩停火问题上退让",
@@ -482,6 +559,39 @@
           "time_info": "14时29分"
         },
         {
+          "title": "英媒：伊朗或向霍尔木兹海峡通行船只收“保险费”",
+          "url": "https://flash.jin10.com/detail/20260620210156608800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "英媒：伊朗或向霍尔木兹海峡通行船只收“保险费”",
+          "url": "https://wallstreetcn.com/livenews/3122255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "以色列驻美大使：黎巴嫩真主党是违反停火协议的一方。伊朗正在利用黎巴嫩真主党来获取让步。",
+          "url": "https://flash.jin10.com/detail/20260620205040138800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "消息人士：因以军持续袭击黎巴嫩，伊朗推迟赴瑞士行程",
           "url": "https://m.thepaper.cn/newsDetail_forward_33413010",
           "source": "澎湃新闻",
@@ -491,6 +601,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "据伊朗SNN通讯社：伊朗外交部长会见来访的巴基斯坦内政部长。",
+          "url": "https://flash.jin10.com/detail/20260620205028052800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "伊朗外长向巴基斯坦外长表示，美国应对结束包括黎巴嫩在内的所有战线的战争以及任何违反谅解备忘录的行为负责。",
@@ -513,6 +634,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加伊驳斥了有关霍尔木兹海峡已被关闭的媒体报道，称此类说法毫无根据。",
+          "url": "https://flash.jin10.com/detail/20260620202400918800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "伊朗：不信任美国 正在做两手准备",
@@ -738,7 +870,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 51,
       "titles": [
         {
           "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
@@ -749,11 +881,12 @@
             5,
             4,
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时39分 ~ 20时31分]"
+          "appearance_count": 16,
+          "time_info": "[09时39分 ~ 21时32分]"
         },
         {
           "title": "特朗普：今年将再次访问中国",
@@ -763,8 +896,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时01分 ~ 20时31分]"
+          "appearance_count": 7,
+          "time_info": "[18时01分 ~ 21时32分]"
         },
         {
           "title": "特朗普发表疑似嘲讽言论，梅洛尼回应：震惊",
@@ -788,6 +921,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时06分 ~ 12时37分]"
+        },
+        {
+          "title": "特朗普坚称伊朗无条件投降了",
+          "url": "https://news.ifeng.com/c/8u6jGmZtj71",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时01分 ~ 21时32分]"
         },
         {
           "title": "因特朗普言论 意大利副总理取消访美",
@@ -817,17 +961,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时06分 ~ 11时02分]"
-        },
-        {
-          "title": "特朗普坚称伊朗无条件投降了",
-          "url": "https://news.ifeng.com/c/8u6jGmZtj71",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时01分 ~ 20时31分]"
         },
         {
           "title": "特朗普“剧透”，意大利怒了",
@@ -891,17 +1024,6 @@
           "time_info": "00时06分"
         },
         {
-          "title": "特朗普：伊朗已被打垮 民主党是一帮“蠢货”",
-          "url": "https://flash.jin10.com/detail/20260620195852892800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
           "title": "特朗普：美伊须60天内达成长期协议，否则将采取进一步行动",
           "url": "https://wallstreetcn.com/livenews/3122194",
           "source": "华尔街见闻-快讯",
@@ -932,6 +1054,17 @@
           "time_info": "[08时25分 ~ 14时29分]"
         },
         {
+          "title": "外媒爆料：特朗普和高市早苗在G7会议上吵了起来",
+          "url": "https://news.ifeng.com/c/8u5cA2CLh6U",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "美国白宫：特朗普总统做成了一件六个月前大多数专家认为不可能的事，我们已经取得了胜利。",
           "url": "https://flash.jin10.com/detail/20260620091217880800",
           "source": "金十数据",
@@ -950,11 +1083,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            9
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时36分 ~ 21时32分]"
+        },
+        {
+          "title": "特朗普：伊朗已被打垮 民主党是一帮“蠢货”",
+          "url": "https://flash.jin10.com/detail/20260620195852892800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时36分 ~ 20时31分]"
+          "time_info": "[20时31分 ~ 21时32分]"
         },
         {
           "title": "意外长取消访美：特朗普冒犯了意大利",
@@ -994,6 +1140,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时01分 ~ 19时36分]"
+        },
+        {
+          "title": "特朗普的新专机，首次亮相",
+          "url": "https://www.cls.cn/detail/2404514",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时07分 ~ 21时32分]"
+        },
+        {
+          "title": "特朗普再嘲意大利总理：跟美国唱反调后又想套近乎，没门！",
+          "url": "https://flash.jin10.com/detail/20260620195418928800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 21时32分]"
         },
         {
           "title": "美国总统特朗普透露，卡塔尔赠予的空军一号专机已经搭载了星链通信网络。",
@@ -1080,17 +1249,6 @@
           "time_info": "[19时36分 ~ 20时31分]"
         },
         {
-          "title": "特朗普的新专机，首次亮相",
-          "url": "https://www.cls.cn/detail/2404514",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时07分 ~ 16时08分]"
-        },
-        {
           "title": "美国总统特朗普：我结束了8场战争，与伊朗的战争是最艰难的。",
           "url": "https://flash.jin10.com/detail/20260620035757098800",
           "source": "金十数据",
@@ -1163,15 +1321,26 @@
           "time_info": "[08时25分 ~ 09时39分]"
         },
         {
-          "title": "特朗普再嘲意大利总理：跟美国唱反调后又想套近乎，没门！",
-          "url": "https://flash.jin10.com/detail/20260620195418928800",
+          "title": "据福克斯新闻：美国副总统万斯表示美国总统特使威特科夫和特朗普女婿库什纳已抵达与伊朗的谈判现场，谈判可能在周日举行。",
+          "url": "https://flash.jin10.com/detail/20260620210824596800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时31分"
+          "time_info": "21时32分"
+        },
+        {
+          "title": "特朗普乘新专机亮相",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B9%98%E6%96%B0%E4%B8%93%E6%9C%BA%E4%BA%AE%E7%9B%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "美国总统特朗普：美国国防部长赫格塞思做得很好。",
@@ -1378,11 +1547,12 @@
           "source": "微博",
           "ranks": [
             30,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时36分 ~ 20时31分]"
+          "appearance_count": 4,
+          "time_info": "[19时36分 ~ 21时32分]"
         },
         {
           "title": "金价这轮下跌何时到底",
@@ -1425,8 +1595,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时06分 ~ 20时31分]"
+          "appearance_count": 18,
+          "time_info": "[00时06分 ~ 21时32分]"
         },
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
@@ -1439,8 +1609,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时25分 ~ 20时31分]"
+          "appearance_count": 17,
+          "time_info": "[08时25分 ~ 21时32分]"
         },
         {
           "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
@@ -1452,8 +1622,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时07分 ~ 20时31分]"
+          "appearance_count": 9,
+          "time_info": "[16时07分 ~ 21时32分]"
         },
         {
           "title": "专家：中美股市科技板块差距大",
@@ -1543,8 +1713,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时30分 ~ 20时31分]"
+          "appearance_count": 3,
+          "time_info": "[20时30分 ~ 21时32分]"
         },
         {
           "title": "Faker拍谷歌广告血赚7个亿",
@@ -1556,6 +1726,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek估值接近4000亿元",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%BC%B0%E5%80%BC%E6%8E%A5%E8%BF%914000%E4%BA%BF%E5%85%83%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         }
       ]
     },
