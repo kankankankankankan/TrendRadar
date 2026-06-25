@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-25T14:21:52.570765+08:00",
-  "total_titles_processed": 851,
+  "generated_at": "2026-06-25T16:06:45.384725+08:00",
+  "total_titles_processed": 997,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "美参议院以50∶48通过决议，特朗普愤怒回应",
+          "url": "https://news.ifeng.com/c/8uEoIOrELpr",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时38分 ~ 16时06分]"
+        },
         {
           "title": "特朗普：委内瑞拉强震造成惨重死亡",
           "url": "https://wallstreetcn.com/livenews/3124436",
@@ -30,15 +41,16 @@
           "time_info": "12时32分"
         },
         {
-          "title": "美参议院以50∶48通过决议，特朗普愤怒回应",
-          "url": "https://news.ifeng.com/c/8uEoIOrELpr",
+          "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
+          "url": "https://news.ifeng.com/c/8uFCJ6kPTr8",
           "source": "凤凰网",
           "ranks": [
-            10
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时38分 ~ 14时21分]"
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 16时06分]"
         },
         {
           "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
@@ -52,26 +64,26 @@
           "time_info": "[12时32分 ~ 14时21分]"
         },
         {
-          "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
-          "url": "https://news.ifeng.com/c/8uFCJ6kPTr8",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
           "title": "特朗普：委内瑞拉强震造成惨重死亡",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%BA%E9%9C%87%E9%80%A0%E6%88%90%E6%83%A8%E9%87%8D%E6%AD%BB%E4%BA%A1",
           "source": "百度热搜",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "特朗普炮轰石油公司“宰客”：汽油价格降得太慢太少，要求司法部调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33445001",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         },
         {
           "title": "特朗普借250周年大庆喊话：“美国回来了！”",
@@ -176,8 +188,20 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
+          "url": "https://www.zhihu.com/question/2053109056487822677",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时38分 ~ 16时06分]"
+        },
         {
           "title": "伊朗伊斯兰革命卫队：在未经伊朗协调的情况下宣布新的霍尔木兹海峡航线，是不可接受且危险的。 只有通过伊朗指定的航线，才有可能安全通过霍尔木兹海峡。 通过霍尔木兹海峡过境的船只，必须在16频道与革命卫队海军进行协调。 革命卫队海军警告，违反过境指令的船只将面临行动。",
           "url": "https://wallstreetcn.com/livenews/3124338",
@@ -188,18 +212,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
-        },
-        {
-          "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
-          "url": "https://www.zhihu.com/question/2053109056487822677",
-          "source": "知乎",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时38分 ~ 14时21分]"
         },
         {
           "title": "贝森特：伊朗谈判纳入美元结算要求，经济增长有望年内重返3%",
@@ -219,7 +231,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -235,13 +247,24 @@
           "time_info": "11时02分"
         },
         {
+          "title": "世界杯生死战前伊朗队被迫滞留机场",
+          "url": "https://www.toutiao.com/trending/7655006558115512326/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
           "title": "伊朗队滞留机场",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%9F%E6%BB%9E%E7%95%99%E6%9C%BA%E5%9C%BA",
           "source": "百度热搜",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -260,7 +283,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
@@ -272,8 +295,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时25分 ~ 14时21分]"
+          "appearance_count": 7,
+          "time_info": "[08时25分 ~ 16时06分]"
         },
         {
           "title": "现货黄金价格跌破4000美元大关",
@@ -285,8 +308,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时25分 ~ 14时21分]"
+          "appearance_count": 6,
+          "time_info": "[08时25分 ~ 16时06分]"
         },
         {
           "title": "金十图示：2026年06月25日（周四）上海金早盘价为869.65元/克，较国际金价(872.02元/克)，低2.37元/克",
@@ -298,6 +321,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "瑞银集团：预计钯金价格将在未来几个月降至每盎司1100美元。",
+          "url": "https://flash.jin10.com/detail/20260625153854194800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "黄金价格年内下跌超5%",
+          "url": "https://www.toutiao.com/trending/7655161705609039366/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         },
         {
           "title": "金价回落刺激刚需消费回暖",
@@ -326,8 +371,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时25分 ~ 14时21分]"
+          "appearance_count": 7,
+          "time_info": "[08时25分 ~ 16时06分]"
         },
         {
           "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
@@ -338,8 +383,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时25分 ~ 14时21分]"
+          "appearance_count": 7,
+          "time_info": "[08时25分 ~ 16时06分]"
         },
         {
           "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
@@ -377,11 +422,12 @@
           "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E5%89%8DCEO%E6%89%B9%E4%B8%AD%E5%9B%BDAI%E5%BC%80%E6%BA%90&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 16时06分]"
         }
       ]
     }
