@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T12:32:33.677202+08:00",
-  "total_titles_processed": 716,
+  "generated_at": "2026-06-25T14:21:52.570765+08:00",
+  "total_titles_processed": 851,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普：委内瑞拉强震造成惨重死亡",
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -37,8 +37,41 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时38分 ~ 12时32分]"
+          "appearance_count": 5,
+          "time_info": "[09时38分 ~ 14时21分]"
+        },
+        {
+          "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
+          "url": "https://www.zhihu.com/question/2053130730595791572",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 14时21分]"
+        },
+        {
+          "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
+          "url": "https://news.ifeng.com/c/8uFCJ6kPTr8",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "特朗普：委内瑞拉强震造成惨重死亡",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%BA%E9%9C%87%E9%80%A0%E6%88%90%E6%83%A8%E9%87%8D%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "特朗普借250周年大庆喊话：“美国回来了！”",
@@ -47,7 +80,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -69,7 +102,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -91,7 +124,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -107,24 +140,13 @@
           "time_info": "09时38分"
         },
         {
-          "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
-          "url": "https://www.zhihu.com/question/2053130730595791572",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
           "title": "美国总统特朗普：（关于委内瑞拉）初步报告不容乐观。",
           "url": "https://flash.jin10.com/detail/20260625114603653800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -135,7 +157,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -146,7 +168,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         }
@@ -154,7 +176,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "伊朗伊斯兰革命卫队：在未经伊朗协调的情况下宣布新的霍尔木兹海峡航线，是不可接受且危险的。 只有通过伊朗指定的航线，才有可能安全通过霍尔木兹海峡。 通过霍尔木兹海峡过境的船只，必须在16频道与革命卫队海军进行协调。 革命卫队海军警告，违反过境指令的船只将面临行动。",
@@ -172,11 +194,12 @@
           "url": "https://www.zhihu.com/question/2053109056487822677",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时38分 ~ 12时32分]"
+          "appearance_count": 5,
+          "time_info": "[09时38分 ~ 14时21分]"
         },
         {
           "title": "贝森特：伊朗谈判纳入美元结算要求，经济增长有望年内重返3%",
@@ -185,9 +208,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "美总统称或无法查明谁袭击了伊朗小学",
+          "url": "https://www.toutiao.com/trending/7655095667781877786/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "布伦特原油抹去伊朗战争期间的涨幅，霍尔木兹海峡开放使得供应增加。",
@@ -199,6 +233,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "伊朗队滞留机场",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%9F%E6%BB%9E%E7%95%99%E6%9C%BA%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "分析师：伊朗的强硬警告推升油价风险溢价",
@@ -227,8 +272,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时25分 ~ 12时32分]"
+          "appearance_count": 6,
+          "time_info": "[08时25分 ~ 14时21分]"
         },
         {
           "title": "现货黄金价格跌破4000美元大关",
@@ -236,11 +281,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时25分 ~ 12时32分]"
+          "appearance_count": 5,
+          "time_info": "[08时25分 ~ 14时21分]"
         },
         {
           "title": "金十图示：2026年06月25日（周四）上海金早盘价为869.65元/克，较国际金价(872.02元/克)，低2.37元/克",
@@ -280,8 +326,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时25分 ~ 12时32分]"
+          "appearance_count": 6,
+          "time_info": "[08时25分 ~ 14时21分]"
         },
         {
           "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
@@ -292,8 +338,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时25分 ~ 12时32分]"
+          "appearance_count": 6,
+          "time_info": "[08时25分 ~ 14时21分]"
         },
         {
           "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
@@ -319,6 +365,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时38分 ~ 12时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌前CEO批中国AI开源",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E5%89%8DCEO%E6%89%B9%E4%B8%AD%E5%9B%BDAI%E5%BC%80%E6%BA%90&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         }
       ]
     }
