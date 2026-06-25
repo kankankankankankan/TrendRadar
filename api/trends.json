@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T22:55:55.620829+08:00",
-  "total_titles_processed": 1607,
+  "generated_at": "2026-06-25T23:49:51.255163+08:00",
+  "total_titles_processed": 1696,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时21分 ~ 22时55分]"
+          "appearance_count": 9,
+          "time_info": "[14时21分 ~ 23时49分]"
         },
         {
           "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
@@ -26,11 +26,12 @@
           "ranks": [
             19,
             13,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时32分 ~ 22时55分]"
+          "appearance_count": 9,
+          "time_info": "[12时32分 ~ 23时49分]"
         },
         {
           "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
@@ -42,8 +43,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时02分 ~ 22时55分]"
+          "appearance_count": 7,
+          "time_info": "[18时02分 ~ 23时49分]"
         },
         {
           "title": "美国国务卿鲁比奥：如果与伊朗之间行不通，特朗普有多个选项。 伊朗政权仍然由激进的神职派领导。 与阿曼的关系没问题。 阿曼在今天的会议上表示不赞成征收霍尔木兹海峡通行费。",
@@ -66,6 +67,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
+        },
+        {
+          "title": "加拿大总理卡尼：美国总统特朗普周三打电话给我，我们讨论了很长时间。",
+          "url": "https://wallstreetcn.com/livenews/3124768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "美参议院以50∶48通过决议，特朗普愤怒回应",
@@ -114,13 +126,25 @@
           "time_info": "12时32分"
         },
         {
+          "title": "美国最高法院表示，下周一将是下一个意见征询日。 据彭博报道，最高法院完成审议后，下周可能会对特朗普政府起诉美联储理事库克一案作出裁决。",
+          "url": "https://wallstreetcn.com/livenews/3124740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 23时49分]"
+        },
+        {
           "title": "市场消息：美国最高法院裁定支持特朗普政府终止对叙利亚和海地移民驱逐保护的提议。",
           "url": "https://flash.jin10.com/detail/20260625222639632800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         },
@@ -158,15 +182,15 @@
           "time_info": "14时21分"
         },
         {
-          "title": "美国最高法院表示，下周一将是下一个意见征询日。 据彭博报道，最高法院完成审议后，下周可能会对特朗普政府起诉美联储理事库克一案作出裁决。",
-          "url": "https://wallstreetcn.com/livenews/3124740",
+          "title": "美国法官叫停特朗普关于邮寄投票的行政令",
+          "url": "https://wallstreetcn.com/livenews/3124758",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时55分"
+          "time_info": "23时49分"
         },
         {
           "title": "特朗普借250周年大庆喊话：“美国回来了！”",
@@ -279,6 +303,17 @@
           "time_info": "12时32分"
         },
         {
+          "title": "美国法官叫停特朗普关于邮寄投票的行政令",
+          "url": "https://flash.jin10.com/detail/20260625230803866800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "美国总统特朗普：（关于委内瑞拉）我已指示我们政府的所有机构做好迅速行动的准备。",
           "url": "https://flash.jin10.com/detail/20260625114551039800",
           "source": "金十数据",
@@ -326,7 +361,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
         {
           "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
@@ -335,11 +370,34 @@
           "ranks": [
             11,
             6,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时38分 ~ 22时55分]"
+          "appearance_count": 13,
+          "time_info": "[09时38分 ~ 23时49分]"
+        },
+        {
+          "title": "伊朗阿曼外长通话讨论霍尔木兹海峡问题",
+          "url": "https://flash.jin10.com/detail/20260625233541514800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "伊朗阿曼外长通话讨论霍尔木兹海峡问题",
+          "url": "https://wallstreetcn.com/livenews/3124766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "伊朗伊斯兰革命卫队：在未经伊朗协调的情况下宣布新的霍尔木兹海峡航线，是不可接受且危险的。 只有通过伊朗指定的航线，才有可能安全通过霍尔木兹海峡。 通过霍尔木兹海峡过境的船只，必须在16频道与革命卫队海军进行协调。 革命卫队海军警告，违反过境指令的船只将面临行动。",
@@ -455,6 +513,17 @@
           "time_info": "19时52分"
         },
         {
+          "title": "伊朗外长：我们决心推进这一进程，并将与邻国协调和交流意见。",
+          "url": "https://flash.jin10.com/detail/20260625231307002800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "布伦特原油抹去伊朗战争期间的涨幅，霍尔木兹海峡开放使得供应增加。",
           "url": "https://wallstreetcn.com/livenews/3124365",
           "source": "华尔街见闻-快讯",
@@ -464,6 +533,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "美媒：伊朗估计每年海峡服务收费将达400亿美元",
+          "url": "https://wallstreetcn.com/livenews/3124750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "伊朗外长：与阿曼外长举行了富有成效的通话，重申伊朗和阿曼将开展对话，“以确定霍尔木兹海峡未来的行政管理和海上服务”。",
+          "url": "https://flash.jin10.com/detail/20260625231214798800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "美国：预计伊朗石油出口将达到200万桶/日",
+          "url": "https://wallstreetcn.com/livenews/3124749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "美国国务卿鲁比奥：不清楚卡塔尔持有的伊朗资金是否已被转移。",
@@ -483,7 +585,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         },
@@ -633,6 +735,18 @@
           "time_info": "[19时52分 ~ 20时41分]"
         },
         {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 23时49分]"
+        },
+        {
           "title": "经济数据提振，美股盘前上涨、存储板块走高，美光绩后大涨17%，黄金重回4000，白银转涨",
           "url": "https://wallstreetcn.com/articles/3775470",
           "source": "华尔街见闻",
@@ -653,17 +767,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
         },
         {
           "title": "SpaceX美股盘前扩大涨势，现上涨2.4%。",
@@ -785,6 +888,20 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
+          "url": "https://www.zhihu.com/question/2053015352347293676",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时51分 ~ 23时49分]"
+        },
+        {
           "title": "谷歌重组AI编码“特遣队” 加速追赶Anthropic",
           "url": "https://flash.jin10.com/detail/20260625213526169800",
           "source": "金十数据",
@@ -805,19 +922,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
-        },
-        {
-          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
-          "url": "https://www.zhihu.com/question/2053015352347293676",
-          "source": "知乎",
-          "ranks": [
-            15,
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时51分 ~ 22时55分]"
         },
         {
           "title": "谷歌前CEO批中国AI开源",
@@ -866,7 +970,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         },
@@ -877,7 +981,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         }
@@ -894,7 +998,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         },
