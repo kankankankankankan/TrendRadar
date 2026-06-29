@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T21:21:09.076703+08:00",
-  "total_titles_processed": 1313,
+  "generated_at": "2026-06-29T23:06:09.377090+08:00",
+  "total_titles_processed": 1436,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "伊朗补刀,韩国队命悬一线",
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时36分 ~ 21时21分]"
+          "appearance_count": 5,
+          "time_info": "[19时36分 ~ 23时06分]"
         },
         {
           "title": "阿根廷奥地利阿尔及利亚三队出线，伊朗被淘汰了",
@@ -68,6 +68,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时40分 ~ 09时41分]"
+        },
+        {
+          "title": "美国特使Witkoff与库什纳将于周一稍晚前往（卡塔尔）多哈。 美国团队、伊朗团队将于周三分别与（多个）调停方会谈。 白宫官员说，Witkoff与国务卿卢比奥将通过电话向国会山介绍与伊朗的和平协议。（Axios，彭博）",
+          "url": "https://wallstreetcn.com/livenews/3126239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗副外长加里巴巴迪前往阿曼，出席霍尔木兹联合委员会会议。双方官员就当前涉及霍尔木兹海峡的相关问题进行了讨论，并围绕《伊斯兰堡谅解备忘录》第五条框架下霍尔木兹海峡未来管理，以及沿岸国家主权权利等议题交换了意见。",
@@ -158,9 +169,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时21分"
+        },
+        {
+          "title": "白宫官员：美国国务卿鲁比奥和美国特使威特科夫将通过电话向国会通报伊朗和平协议相关情况。",
+          "url": "https://flash.jin10.com/detail/20260629224216734800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "伊朗外长：中东各国绝不能允许其领土被用于袭击伊朗",
@@ -213,9 +235,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时21分"
+        },
+        {
+          "title": "阿曼伊朗联合工作组就霍尔木兹海峡问题举行首次会议",
+          "url": "https://wallstreetcn.com/livenews/3126219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "伊朗副外长：本周暂未安排伊美技术性会谈",
@@ -227,6 +260,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
+        },
+        {
+          "title": "美国国务卿鲁比奥和美国总统特使威特科夫今天将向众议院和参议院汇报伊朗局势。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/3126211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "伊朗官员：受遭袭事件影响，伊方缺席28日的美伊技术性谈判",
@@ -265,7 +309,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "美伊又开打，特朗普威胁：伊朗未来或将不复存在",
@@ -293,6 +337,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时02分 ~ 17时29分]"
+        },
+        {
+          "title": "特朗普新关税阴霾笼罩！全球零售商抢先囤货 中美航线运费飙涨六成",
+          "url": "https://www.cls.cn/detail/2411631",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时29分 ~ 23时06分]"
         },
         {
           "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
@@ -334,22 +392,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时21分"
         },
         {
-          "title": "特朗普新关税阴霾笼罩！全球零售商抢先囤货 中美航线运费飙涨六成",
-          "url": "https://www.cls.cn/detail/2411631",
+          "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2412084",
           "source": "财联社热门",
           "ranks": [
             11,
-            9,
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时29分 ~ 21时21分]"
+          "time_info": "[21时20分 ~ 23时06分]"
         },
         {
           "title": "特朗普政府或为Anthropic最强大模型“松绑” 预计一周内解禁Fable 5",
@@ -361,17 +418,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时40分 ~ 09时41分]"
-        },
-        {
-          "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2412084",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时20分 ~ 21时21分]"
         },
         {
           "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
@@ -396,6 +442,17 @@
           "time_info": "11时02分"
         },
         {
+          "title": "据Axios记者：美国特使威特科夫和特朗普高级顾问库什纳今日将前往多哈，于周二会见卡塔尔首相及其他官员，讨论与伊朗的谈判。周三，美国和伊朗技术团队将分别与卡塔尔和巴基斯坦调解人会面。",
+          "url": "https://flash.jin10.com/detail/20260629223830672800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "美国总统特朗普：WTI原油价格已跌至69美元，而且还在继续下跌。这一价格甚至低于伊朗开启去核化进程之前的水平！",
           "url": "https://flash.jin10.com/detail/20260629192509168800",
           "source": "金十数据",
@@ -405,6 +462,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
+        },
+        {
+          "title": "美国最高法院允许美联储理事丽莎·库克暂且继续留任。 最高法院拒绝允许总统特朗普立即将库克解除职务。 最高法院扩大总统罢免高级别官员的权力。",
+          "url": "https://wallstreetcn.com/livenews/3126225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "美国总统特朗普：油价正在迅速下跌！请举报零售环节的任何违规行为！！！",
@@ -435,7 +503,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时21分"
         }
@@ -446,6 +514,18 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "DeepSeek V4 正式版官宣 7 月中旬上线，引入峰谷定价机制，你怎么看？",
+          "url": "https://www.zhihu.com/question/2054981283089069609",
+          "source": "知乎",
+          "ranks": [
+            13,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时36分 ~ 23时06分]"
+        },
+        {
           "title": "DeepSeek V4正式版官宣7月上线，引入峰谷定价机制",
           "url": "https://wallstreetcn.com/livenews/3126106",
           "source": "华尔街见闻-快讯",
@@ -455,18 +535,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
-        },
-        {
-          "title": "DeepSeek V4 正式版官宣 7 月中旬上线，引入峰谷定价机制，你怎么看？",
-          "url": "https://www.zhihu.com/question/2054981283089069609",
-          "source": "知乎",
-          "ranks": [
-            13,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时36分 ~ 21时21分]"
         },
         {
           "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
@@ -488,7 +556,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时21分"
         },
@@ -499,7 +567,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时21分"
         },
@@ -525,11 +593,12 @@
           "url": "https://www.douyin.com/hot/2552234",
           "source": "抖音",
           "ranks": [
-            1
+            1,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时20分 ~ 21时21分]"
+          "appearance_count": 4,
+          "time_info": "[21时20分 ~ 23时06分]"
         },
         {
           "title": "金十图示：2026年06月29日（周一）上海金午盘价为886.87元/克，较国际金价(887.17元/克)，低0.3元/克",
@@ -549,7 +618,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时21分"
         },
@@ -590,7 +659,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
@@ -602,6 +671,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[08时24分 ~ 17时29分]"
+        },
+        {
+          "title": "美股三大指数高开低走，纳指转跌，美光跌3.5%，油价回到70上方",
+          "url": "https://wallstreetcn.com/articles/3775727",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时05分 ~ 23时06分]"
         },
         {
           "title": "韩国重磅芯片计划支撑市场，美股盘前存储芯片股反弹，美光涨超2%，油价一度回到70上方",
@@ -622,7 +702,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时21分"
         },
@@ -633,9 +713,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时21分"
+        },
+        {
+          "title": "纳斯达克100指数转跌，此前一度涨1.5%。 费城半导体指数跌超2.7%。 标普500指数几乎完全回吐日内稍早涨幅，道指涨幅收窄至0.3%。 亚马逊涨幅扩大至5%，刷新日高；美股超大规模云服务商指数涨幅重新扩大至超过2.6%，暂报90.53点，美股盘初曾达到90.95点。 现货黄金跌超2%，报4000.49美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3126224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         }
       ]
     },
