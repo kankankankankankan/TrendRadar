@@ -1,66 +1,70 @@
 {
-  "generated_at": "2026-06-29T08:24:26.622988+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-06-29T09:41:15.973676+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "伊朗革命卫队威胁对美军基地发起“地狱”式打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470387",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时40分 ~ 09时41分]"
+        },
         {
           "title": "周末要闻汇总：前5月电子行业利润翻倍；美国再对伊朗实施军事打击",
           "url": "https://www.cls.cn/detail/2411069",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
-        },
-        {
-          "title": "伊朗与黎巴嫩商定设立冲突管控工作组",
-          "url": "https://wallstreetcn.com/livenews/3125742",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
+          "appearance_count": 3,
+          "time_info": "[08时24分 ~ 09时41分]"
         },
         {
           "title": "阿根廷奥地利阿尔及利亚三队出线，伊朗被淘汰了",
           "url": "https://m.thepaper.cn/newsDetail_forward_33470581",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
+          "appearance_count": 3,
+          "time_info": "[08时24分 ~ 09时41分]"
         },
         {
           "title": "伊朗锡里克地区传出爆炸声 美军称再对伊实施打击",
           "url": "https://www.cls.cn/detail/2410985",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
+          "appearance_count": 3,
+          "time_info": "[08时24分 ~ 09时41分]"
         },
         {
           "title": "伊朗最后时刻无缘淘汰赛，一图速览世界杯32强",
           "url": "https://m.thepaper.cn/newsDetail_forward_33470690",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
+          "appearance_count": 3,
+          "time_info": "[08时24分 ~ 09时41分]"
         },
         {
           "title": "伊朗补刀,韩国队命悬一线",
@@ -70,8 +74,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
+          "appearance_count": 3,
+          "time_info": "[08时24分 ~ 09时41分]"
+        },
+        {
+          "title": "伊朗与黎巴嫩商定设立冲突管控工作组",
+          "url": "https://wallstreetcn.com/livenews/3125742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 09时41分]"
         },
         {
           "title": "伊朗官员：受遭袭事件影响，伊方缺席28日的美伊技术性谈判",
@@ -88,8 +104,20 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美伊又开打，特朗普威胁：伊朗未来或将不复存在",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470517",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时24分 ~ 09时41分]"
+        },
         {
           "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
           "url": "https://wallstreetcn.com/articles/3775683",
@@ -113,15 +141,15 @@
           "time_info": "08时24分"
         },
         {
-          "title": "美伊又开打，特朗普威胁：伊朗未来或将不复存在",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470517",
-          "source": "澎湃新闻",
+          "title": "特朗普政府或为Anthropic最强大模型“松绑” 预计一周内解禁Fable 5",
+          "url": "https://www.cls.cn/detail/2410998",
+          "source": "财联社热门",
           "ranks": [
-            5
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
+          "appearance_count": 2,
+          "time_info": "[09时40分 ~ 09时41分]"
         },
         {
           "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
@@ -141,22 +169,22 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "据网络状况监测网站DownDetector：用户报告称，Apple Maps和Google Maps出现故障。",
-          "url": "https://flash.jin10.com/detail/20260629082202960800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
-        },
-        {
           "title": "算力告急：谷歌悄然对Meta实施Gemini使用上限",
           "url": "https://wallstreetcn.com/articles/3775694",
           "source": "华尔街见闻",
           "ranks": [
             5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时24分 ~ 09时41分]"
+        },
+        {
+          "title": "据网络状况监测网站DownDetector：用户报告称，Apple Maps和Google Maps出现故障。",
+          "url": "https://flash.jin10.com/detail/20260629082202960800",
+          "source": "金十数据",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -173,11 +201,29 @@
           "url": "https://www.cls.cn/detail/2411046",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时24分 ~ 09时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "分析师：风险偏好影响黄金价格 未来金价料进一步承压",
+          "url": "https://flash.jin10.com/detail/20260629084911485800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时24分"
+          "time_info": "09时41分"
         }
       ]
     },
@@ -193,8 +239,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
+          "appearance_count": 3,
+          "time_info": "[08时24分 ~ 09时41分]"
         }
       ]
     }
