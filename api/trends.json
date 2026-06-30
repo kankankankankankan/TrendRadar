@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T14:25:22.285936+08:00",
-  "total_titles_processed": 834,
+  "generated_at": "2026-06-30T16:10:32.441259+08:00",
+  "total_titles_processed": 968,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,19 @@
           "time_info": "[08时24分 ~ 12时33分]"
         },
         {
+          "title": "美伊和谈前景不明！特朗普坚称今日举行会谈 伊方连连否认",
+          "url": "https://www.cls.cn/detail/2412327",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时02分 ~ 16时10分]"
+        },
+        {
           "title": "特朗普“和粉丝吵翻了”",
           "url": "https://news.ifeng.com/c/8uMPZ6rxaBi",
           "source": "凤凰网",
@@ -34,17 +47,16 @@
           "time_info": "[08时24分 ~ 12时33分]"
         },
         {
-          "title": "美伊和谈前景不明！特朗普坚称今日举行会谈 伊方连连否认",
-          "url": "https://www.cls.cn/detail/2412327",
-          "source": "财联社热门",
+          "title": "特朗普性侵案上诉失败，被裁决赔偿女作家500万美元",
+          "url": "https://news.ifeng.com/c/8uN6TfbvLaw",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            6,
-            7
+            11,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时02分 ~ 14时25分]"
+          "time_info": "[12时33分 ~ 16时10分]"
         },
         {
           "title": "解雇美联储理事？特朗普在最高法院“碰钉子”",
@@ -57,18 +69,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时24分 ~ 11时02分]"
-        },
-        {
-          "title": "特朗普性侵案上诉失败，被裁决赔偿女作家500万美元",
-          "url": "https://news.ifeng.com/c/8uN6TfbvLaw",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 14时25分]"
         },
         {
           "title": "美最高法院裁定库克暂时留任，特朗普称将确保其不影响重大货币政策决定",
@@ -196,8 +196,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时24分 ~ 14时25分]"
+          "appearance_count": 6,
+          "time_info": "[08时24分 ~ 16时10分]"
         },
         {
           "title": "美股收盘：芯片股绝地反攻强势翻红 纳指涨超2%道指收新高",
@@ -208,8 +208,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时24分 ~ 14时25分]"
+          "appearance_count": 6,
+          "time_info": "[08时24分 ~ 16时10分]"
         },
         {
           "title": "AI牛市的悬头之剑：不只是韩国，美股杠杆同样触目惊心",
@@ -217,11 +217,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时24分 ~ 14时25分]"
+          "appearance_count": 6,
+          "time_info": "[08时24分 ~ 16时10分]"
         },
         {
           "title": "美股越涨越贵，华尔街为何一点不慌？一个关键指标创下历史新高",
@@ -271,7 +272,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "以色列防长：准备好独立打击伊朗",
@@ -282,8 +283,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 14时25分]"
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 16时10分]"
         },
         {
           "title": "伊朗副外长：本周在多哈进行伊美技术性谈判不属实",
@@ -297,16 +298,28 @@
           "time_info": "08时24分"
         },
         {
+          "title": "伊朗最高领袖穆杰塔巴，被以军列入“死亡名单”",
+          "url": "https://news.ifeng.com/c/8uNTWr0VDLQ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
+        },
+        {
           "title": "伊朗称排雷将由伊方单独执行 美高院扩大总统解职高级官员的权力 | 环球市场",
           "url": "https://www.cls.cn/detail/2412298",
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时38分 ~ 14时25分]"
+          "appearance_count": 5,
+          "time_info": "[09时38分 ~ 16时10分]"
         },
         {
           "title": "据伊朗Press TV：在一次电话会议中，伊朗外长阿拉格齐与法国外长巴罗讨论了近期的地区和国际动态，重点关注伊斯兰堡谅解备忘录的实施以及结束对伊朗战争的努力。",
@@ -318,6 +331,84 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
+          "url": "https://wallstreetcn.com/articles/3775727",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时24分 ~ 16时10分]"
+        },
+        {
+          "title": "晋升道指难掩AI焦虑：谷歌股价涨近5% 仍陷算力短缺困局",
+          "url": "https://www.cls.cn/detail/2412253",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
+        },
+        {
+          "title": "谷歌母公司支持旨在助推太空产业的金融科技公司",
+          "url": "https://wallstreetcn.com/livenews/3126341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价又跌破4000",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%88%E8%B7%8C%E7%A0%B44000%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 14时25分]"
+        },
+        {
+          "title": "金十图示：2026年06月30日（周二）上海金午盘价为879.06元/克，较国际金价(879.06元/克)，持平",
+          "url": "https://flash.jin10.com/detail/20260630153622653800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
+        },
+        {
+          "title": "金价下行促使仓位出清，实物需求仍具关键支撑效应",
+          "url": "https://flash.jin10.com/detail/20260630104237381800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         }
       ]
     },
@@ -348,64 +439,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时38分 ~ 14时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
-          "url": "https://wallstreetcn.com/articles/3775727",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[08时24分 ~ 14时25分]"
-        },
-        {
-          "title": "谷歌母公司支持旨在助推太空产业的金融科技公司",
-          "url": "https://wallstreetcn.com/livenews/3126341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价又跌破4000",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%88%E8%B7%8C%E7%A0%B44000%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 14时25分]"
-        },
-        {
-          "title": "金价下行促使仓位出清，实物需求仍具关键支撑效应",
-          "url": "https://flash.jin10.com/detail/20260630104237381800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时02分"
+          "time_info": "[09时38分 ~ 16时10分]"
         }
       ]
     },
@@ -420,7 +455,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         }
