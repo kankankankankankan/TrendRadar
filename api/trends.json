@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T11:02:40.723337+08:00",
-  "total_titles_processed": 583,
+  "generated_at": "2026-06-30T12:33:36.534306+08:00",
+  "total_titles_processed": 718,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时24分 ~ 11时02分]"
+          "appearance_count": 4,
+          "time_info": "[08时24分 ~ 12时33分]"
         },
         {
           "title": "特朗普“和粉丝吵翻了”",
@@ -29,8 +30,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时24分 ~ 11时02分]"
+          "appearance_count": 4,
+          "time_info": "[08时24分 ~ 12时33分]"
         },
         {
           "title": "解雇美联储理事？特朗普在最高法院“碰钉子”",
@@ -45,26 +46,38 @@
           "time_info": "[08时24分 ~ 11时02分]"
         },
         {
+          "title": "美伊和谈前景不明！特朗普坚称今日举行会谈 伊方连连否认",
+          "url": "https://www.cls.cn/detail/2412327",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 12时33分]"
+        },
+        {
           "title": "美最高法院裁定库克暂时留任，特朗普称将确保其不影响重大货币政策决定",
           "url": "https://wallstreetcn.com/articles/3775773",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
         {
-          "title": "美伊和谈前景不明！特朗普坚称今日举行会谈 伊方连连否认",
-          "url": "https://www.cls.cn/detail/2412327",
-          "source": "财联社热门",
+          "title": "特朗普性侵案上诉失败，被裁决赔偿女作家500万美元",
+          "url": "https://news.ifeng.com/c/8uN6TfbvLaw",
+          "source": "凤凰网",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时02分"
+          "time_info": "12时33分"
         },
         {
           "title": "美最高法院裁定：特朗普暂不能罢免美联储理事库克",
@@ -73,7 +86,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -139,7 +152,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -180,19 +193,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时24分 ~ 11时02分]"
+          "appearance_count": 4,
+          "time_info": "[08时24分 ~ 12时33分]"
         },
         {
           "title": "美股收盘：芯片股绝地反攻强势翻红 纳指涨超2%道指收新高",
           "url": "https://www.cls.cn/detail/2412265",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时24分 ~ 11时02分]"
+          "appearance_count": 4,
+          "time_info": "[08时24分 ~ 12时33分]"
         },
         {
           "title": "AI牛市的悬头之剑：不只是韩国，美股杠杆同样触目惊心",
@@ -203,8 +217,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时24分 ~ 11时02分]"
+          "appearance_count": 4,
+          "time_info": "[08时24分 ~ 12时33分]"
         },
         {
           "title": "美股越涨越贵，华尔街为何一点不慌？一个关键指标创下历史新高",
@@ -213,7 +227,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -253,6 +267,57 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "伊朗副外长：本周在多哈进行伊美技术性谈判不属实",
+          "url": "https://news.ifeng.com/c/8uM7iWAJLGu",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时24分"
+        },
+        {
+          "title": "以色列防长：准备好独立打击伊朗",
+          "url": "https://news.ifeng.com/c/8uN7QjuqM13",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
+          "title": "伊朗称排雷将由伊方单独执行 美高院扩大总统解职高级官员的权力 | 环球市场",
+          "url": "https://www.cls.cn/detail/2412298",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 12时33分]"
+        },
+        {
+          "title": "据伊朗Press TV：在一次电话会议中，伊朗外长阿拉格齐与法国外长巴罗讨论了近期的地区和国际动态，重点关注伊斯兰堡谅解备忘录的实施以及结束对伊朗战争的努力。",
+          "url": "https://flash.jin10.com/detail/20260630121819218800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -266,8 +331,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时24分 ~ 11时02分]"
+          "appearance_count": 4,
+          "time_info": "[08时24分 ~ 12时33分]"
         },
         {
           "title": "DeepSeek V4定档7月中旬，峰谷API定价同步落地",
@@ -278,8 +343,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 11时02分]"
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 12时33分]"
         }
       ]
     },
@@ -295,8 +360,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时24分 ~ 11时02分]"
+          "appearance_count": 4,
+          "time_info": "[08时24分 ~ 12时33分]"
         },
         {
           "title": "谷歌母公司支持旨在助推太空产业的金融科技公司",
@@ -312,37 +377,8 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗副外长：本周在多哈进行伊美技术性谈判不属实",
-          "url": "https://news.ifeng.com/c/8uM7iWAJLGu",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
-        },
-        {
-          "title": "伊朗称排雷将由伊方单独执行 美高院扩大总统解职高级官员的权力 | 环球市场",
-          "url": "https://www.cls.cn/detail/2412298",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 11时02分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金价下行促使仓位出清，实物需求仍具关键支撑效应",
@@ -351,9 +387,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "金价又跌破4000",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%88%E8%B7%8C%E7%A0%B44000%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         }
       ]
     }
