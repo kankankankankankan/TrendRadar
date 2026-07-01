@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T11:02:56.534181+08:00",
-  "total_titles_processed": 526,
+  "generated_at": "2026-07-01T12:41:02.440479+08:00",
+  "total_titles_processed": 662,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时24分 ~ 11时02分]"
+          "appearance_count": 6,
+          "time_info": "[08时24分 ~ 12时41分]"
         },
         {
           "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时24分 ~ 11时02分]"
+          "appearance_count": 6,
+          "time_info": "[08时24分 ~ 12时41分]"
         },
         {
           "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
@@ -52,9 +52,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时02分 ~ 12时41分]"
         },
         {
           "title": "大摩警告：美股半导体或迎顶点",
@@ -82,7 +82,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美国驻印大使爆料：特朗普想早上6点给莫迪打电话",
@@ -93,30 +93,43 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时24分 ~ 11时02分]"
-        },
-        {
-          "title": "特朗普政府，遭全美半数州集体起诉",
-          "url": "https://news.ifeng.com/c/8uO4jG3X5zq",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时24分 ~ 11时02分]"
+          "appearance_count": 6,
+          "time_info": "[08时24分 ~ 12时41分]"
         },
         {
           "title": "特朗普在最高法院输了，为什么又扯上中国？",
           "url": "https://news.ifeng.com/c/8uOgMuQGNSM",
           "source": "凤凰网",
           "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时24分 ~ 12时41分]"
+        },
+        {
+          "title": "特朗普政府，遭全美半数州集体起诉",
+          "url": "https://news.ifeng.com/c/8uO4jG3X5zq",
+          "source": "凤凰网",
+          "ranks": [
+            7,
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时24分 ~ 11时02分]"
+          "appearance_count": 6,
+          "time_info": "[08时24分 ~ 12时41分]"
+        },
+        {
+          "title": "开箱特朗普金色手机，499美元就这水平？",
+          "url": "https://news.ifeng.com/c/8uOymWnURUY",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 12时41分]"
         },
         {
           "title": "美媒：特朗普听取恢复对伊动武选项 但其坚持外交手段",
@@ -160,6 +173,23 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价二季度表现逊色，三季度会否迎来转机？",
+          "url": "https://flash.jin10.com/detail/20260701120035670800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -171,8 +201,25 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时24分 ~ 11时02分]"
+          "appearance_count": 6,
+          "time_info": "[08时24分 ~ 12时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊朗称40天卖出4000万桶原油、涨价20%！贝森特：多数买家仍不敢买",
+          "url": "https://flash.jin10.com/detail/20260701121124234800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         }
       ]
     }
