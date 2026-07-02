@@ -1,94 +1,11 @@
 {
-  "generated_at": "2026-07-02T15:59:38.312644+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2026-07-02T18:34:27.773990+08:00",
+  "total_titles_processed": 862,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "伊朗队回国，接机现场人山人海，仪仗队奏响国歌迎接",
-          "url": "https://news.ifeng.com/c/8uQaMfSWpO8",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 15时59分]"
-        },
-        {
-          "title": "瑞银集团：近期美国与伊朗签署谅解备忘录及霍尔木兹海峡石油流动的增加促使我们下调近期油价预测。",
-          "url": "https://flash.jin10.com/detail/20260702154215899800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "何维将出席伊朗已故最高领袖哈梅内伊葬礼",
-          "url": "https://wallstreetcn.com/livenews/3127888",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "何维将出席伊朗已故最高领袖葬礼",
-          "url": "https://www.douyin.com/hot/2555610",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "报道称，伊朗哈塔姆·安比亚中央司令部警告美以两国不要犯下错误判断。",
-          "url": "https://flash.jin10.com/detail/20260702153827931800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "伊朗队回国数百名球迷热情迎接",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%98%9F%E5%9B%9E%E5%9B%BD%E6%95%B0%E7%99%BE%E5%90%8D%E7%90%83%E8%BF%B7%E7%83%AD%E6%83%85%E8%BF%8E%E6%8E%A5%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "伊朗球迷机场迎接国家队",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%90%83%E8%BF%B7%E6%9C%BA%E5%9C%BA%E8%BF%8E%E6%8E%A5%E5%9B%BD%E5%AE%B6%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "美国总统特朗普：正如我所承诺的，油价正在迅速下跌，汽油价格也在下降，但速度还不够快。",
@@ -135,15 +52,37 @@
           "time_info": "12时51分"
         },
         {
+          "title": "又来施压美联储？特朗普经济顾问：加息应对通胀是错误之举！",
+          "url": "https://www.cls.cn/detail/2414901",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
           "title": "特朗普首乘卡塔尔赠送的新“空军一号”",
           "url": "https://flash.jin10.com/detail/20260702153817085800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
+        },
+        {
+          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         },
         {
           "title": "特朗普称台积电将扩大投资规模，台积电不予置评",
@@ -152,7 +91,101 @@
           "ranks": [
             26
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "伊朗队回国，接机现场人山人海，仪仗队奏响国歌迎接",
+          "url": "https://news.ifeng.com/c/8uQaMfSWpO8",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时51分 ~ 18时34分]"
+        },
+        {
+          "title": "何维将出席伊朗已故最高领袖葬礼",
+          "url": "https://www.douyin.com/hot/2555610",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时59分 ~ 18时34分]"
+        },
+        {
+          "title": "瑞银集团：近期美国与伊朗签署谅解备忘录及霍尔木兹海峡石油流动的增加促使我们下调近期油价预测。",
+          "url": "https://flash.jin10.com/detail/20260702154215899800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时59分"
+        },
+        {
+          "title": "何维将出席伊朗已故最高领袖哈梅内伊葬礼",
+          "url": "https://wallstreetcn.com/livenews/3127888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时59分"
+        },
+        {
+          "title": "报道称，伊朗哈塔姆·安比亚中央司令部警告美以两国不要犯下错误判断。",
+          "url": "https://flash.jin10.com/detail/20260702153827931800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时59分"
+        },
+        {
+          "title": "伊朗队回国数百名球迷热情迎接",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%98%9F%E5%9B%9E%E5%9B%BD%E6%95%B0%E7%99%BE%E5%90%8D%E7%90%83%E8%BF%B7%E7%83%AD%E6%83%85%E8%BF%8E%E6%8E%A5%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时59分"
+        },
+        {
+          "title": "伊朗军方警告美以：哈梅内伊国葬期间任何袭击都将招致强力报复",
+          "url": "https://flash.jin10.com/detail/20260702174858655800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
+          "title": "伊朗球迷机场迎接国家队",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%90%83%E8%BF%B7%E6%9C%BA%E5%9C%BA%E8%BF%8E%E6%8E%A5%E5%9B%BD%E5%AE%B6%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         }
@@ -169,7 +202,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -180,7 +213,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -202,7 +235,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         }
@@ -283,11 +316,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 15时59分]"
+          "appearance_count": 3,
+          "time_info": "[12时51分 ~ 18时34分]"
         },
         {
           "title": "韩国首尔综指跌超5%，芯片股跟随美股科技股隔夜跌势。SK海力士盘初跌7.6%，三星电子跌6.5%。",
@@ -310,6 +344,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek服务中断约一小时后恢复",
+          "url": "https://flash.jin10.com/detail/20260702175909255800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         }
       ]
     }
