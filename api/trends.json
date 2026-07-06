@@ -1,430 +1,149 @@
 {
-  "generated_at": "2026-07-06T22:51:57.198495+08:00",
-  "total_titles_processed": 922,
+  "generated_at": "2026-07-07T01:33:36.510764+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "特朗普：就红牌与国际足联主席通话",
+          "url": "https://www.toutiao.com/trending/7659176770528395327/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "“前线非常可怕”，特朗普称解决俄乌冲突将比人们认为的要快得多",
+          "url": "https://news.ifeng.com/c/8uYByScLdvD",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
         {
           "title": "特朗普一通电话后，国际足联“破例”了",
           "url": "https://news.ifeng.com/c/8uWz9x0USqP",
           "source": "凤凰网",
           "ranks": [
-            1,
-            2,
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时52分 ~ 22时51分]"
+          "appearance_count": 1,
+          "time_info": "01时33分"
         },
         {
-          "title": "伊朗民众葬礼上向特朗普发出威胁：无耻混蛋，等着被割喉吧",
-          "url": "https://news.ifeng.com/c/8uX2nwSL9n5",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时52分 ~ 14时15分]"
-        },
-        {
-          "title": "特朗普称其与普京进行了“非常好的通话”",
-          "url": "https://flash.jin10.com/detail/20260706222955103800",
+          "title": "美国加州州长纽森：任何协助特朗普干预加州选举或计票的人都将面临刑事起诉。",
+          "url": "https://flash.jin10.com/detail/20260707012328575800",
           "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "特朗普称其与普京进行了“非常好的通话”",
-          "url": "https://wallstreetcn.com/livenews/3129447",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "美国总统特朗普：我是加密货币的死忠（big fan）。 我不会与子女们讨论加密货币投资。",
-          "url": "https://wallstreetcn.com/livenews/3129440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
-          "url": "https://news.ifeng.com/c/8uVsCwKcWdW",
-          "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "特朗普称已就美国队球员红牌判罚与国际足联主席通话",
-          "url": "https://wallstreetcn.com/livenews/3129439",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
-          "url": "https://wallstreetcn.com/articles/3776207",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "美国总统特朗普称赞国际足联主席凡蒂诺是个聪明人。",
-          "url": "https://flash.jin10.com/detail/20260706222335455800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "特朗普：哈梅内伊葬礼上一次攻击就能全部干掉伊朗高层，但不会这么做，这样就没人谈判了",
-          "url": "https://wallstreetcn.com/articles/3776227",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时15分"
-        },
-        {
-          "title": "民调：美伊冲突被指“得不偿失”，特朗普支持率跌至36%",
-          "url": "https://flash.jin10.com/detail/20260706135508309800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时15分"
-        },
-        {
-          "title": "美国总统特朗普：裁判对巴洛贡的红牌判罚真是糟糕。",
-          "url": "https://flash.jin10.com/detail/20260706222154844800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "美国总统特朗普：国际足联做出了正确的决定。",
-          "url": "https://flash.jin10.com/detail/20260706222034528800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "美国总统特朗普：我没有告诉国际足联该怎么做。",
-          "url": "https://flash.jin10.com/detail/20260706222029033800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "美国总统特朗普：我们已经在伊朗问题上获得（对方）让步。 更倾向于达成协议。",
-          "url": "https://wallstreetcn.com/livenews/3129432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "美国总统特朗普：要求国际足联对巴洛贡的红牌进行复审。",
-          "url": "https://flash.jin10.com/detail/20260706221803596800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "哈梅内伊三子出席葬礼，穆杰塔巴仍未露面！德黑兰高呼“复仇”，特朗普称“震惊”",
-          "url": "https://flash.jin10.com/detail/20260706093626317800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "特朗普：早期投资是关键 股市将“一飞冲天”",
-          "url": "https://flash.jin10.com/detail/20260706221724274800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "美国总统特朗普称他看过比赛了，巴洛贡没有犯规。",
-          "url": "https://flash.jin10.com/detail/20260706221723051800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "美国总统特朗普：与国际足联主席因凡蒂诺谈了红牌问题。",
-          "url": "https://flash.jin10.com/detail/20260706221520447800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "特朗普发文感谢国际足联",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "美国总统特朗普证实其致电国际足联主席。",
-          "url": "https://flash.jin10.com/detail/20260706221344903800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "美国总统特朗普：我们没有给伊朗任何资金。",
-          "url": "https://flash.jin10.com/detail/20260706221021791800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
+          "time_info": "01时33分"
         },
         {
           "title": "特朗普插手世界杯红牌",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%92%E6%89%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BA%A2%E7%89%8C%23&t=31&band_rank=18&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%92%E6%89%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BA%A2%E7%89%8C%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "美国总统特朗普：（关于伊朗）要么达成协议，要么完成任务。更愿意达成协议。",
-          "url": "https://flash.jin10.com/detail/20260706221015120800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "SpaceX总裁Shotwell将向特朗普账户捐赠SpaceX股票",
-          "url": "https://wallstreetcn.com/livenews/3129320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时20分"
+          "time_info": "01时33分"
         },
         {
-          "title": "美国总统特朗普：股市将迎来大涨。 美国财长贝森特表现出色。",
-          "url": "https://wallstreetcn.com/livenews/3129419",
+          "title": "特朗普：我可以“不到一下午”摧毁伊朗所有电厂",
+          "url": "https://flash.jin10.com/detail/20260707005154588800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "美国总统特朗普：我们很尊重澳大利亚。 赞赏澳洲的退休（金）系统。",
+          "url": "https://wallstreetcn.com/livenews/3129494",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时51分"
+          "time_info": "01时33分"
         },
         {
-          "title": "美国总统特朗普：（关于伊朗）不寻求政权更迭。",
-          "url": "https://flash.jin10.com/detail/20260706220832682800",
-          "source": "金十数据",
+          "title": "美国总统特朗普在“特朗普账户”餐会上宣称：黑石集团、贝莱德集团、高盛都来了。",
+          "url": "https://wallstreetcn.com/livenews/3129489",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时51分"
+          "time_info": "01时33分"
         },
         {
-          "title": "戴尔涨幅扩大至3%，特朗普称赞戴尔公司对特朗普账户的捐款，让大家去买戴尔电脑",
-          "url": "https://wallstreetcn.com/livenews/3129418",
+          "title": "美国总统特朗普赞赏股市上涨。",
+          "url": "https://wallstreetcn.com/livenews/3129485",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "美国总统特朗普：（关于伊朗）我们已获得让步。",
-          "url": "https://flash.jin10.com/detail/20260706220805560800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "美国总统特朗普：（谈俄乌冲突）我认为我们正在越来越接近（结束冲突）。",
-          "url": "https://flash.jin10.com/detail/20260706220649466800",
-          "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "美国总统特朗普：将与北约讨论俄罗斯-乌克兰问题。",
-          "url": "https://flash.jin10.com/detail/20260706220630651800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
+          "time_info": "01时33分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 4,
       "titles": [
         {
           "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
           "url": "https://wallstreetcn.com/articles/3776130",
           "source": "华尔街见闻",
           "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时15分 ~ 22时51分]"
-        },
-        {
-          "title": "本周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
-          "url": "https://wallstreetcn.com/articles/3776130",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
-          "url": "https://wallstreetcn.com/articles/3776235",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时15分 ~ 22时51分]"
-        },
-        {
-          "title": "环球下周看点：美联储会议纪要来袭 美股二季报大幕开启",
-          "url": "https://www.cls.cn/detail/2417191",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
+          "time_info": "01时33分"
         },
         {
           "title": "AI情绪反弹，美股上扬，存储概念股走高，西部数据涨超5%，美元走强",
           "url": "https://wallstreetcn.com/articles/3776262",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时51分"
+          "time_info": "01时33分"
+        },
+        {
+          "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
+          "url": "https://wallstreetcn.com/articles/3776235",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时33分"
         },
         {
           "title": "美股期指延续涨势 纳斯达克100指数期货涨超1% | 今夜看点",
@@ -433,74 +152,16 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "美股三大股指集体高开，道指涨0.11%，标普500指数涨0.32%，纳指涨0.78%。博通涨3.5%，公司宣布与苹果合作协议延长至2031年。存储概念股集体走高，西部数据涨超5%，闪迪涨超4%，希捷科技涨超4%，美光科技涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3129413",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3129407",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
+          "time_info": "01时33分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "“不为棒棒糖放弃钻石” 分析称伊朗势必放慢谈判并巩固海峡控制",
-          "url": "https://flash.jin10.com/detail/20260706222931845800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "伊朗最高领袖发布任免令",
-          "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时52分 ~ 22时51分]"
-        },
-        {
-          "title": "伊朗借哈梅内伊国葬释放3个政治讯息",
-          "url": "https://news.ifeng.com/c/8uXROeZKlPw",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
         {
           "title": "现场：伊朗民众向灵车抛投鲜花、头巾",
           "url": "https://news.ifeng.com/c/8uXrYG1lG4D",
@@ -508,55 +169,42 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时51分"
+          "time_info": "01时33分"
         },
         {
-          "title": "亚洲贷款市场迎16年来最冷上半年，伊朗战争余波压制信心",
-          "url": "https://flash.jin10.com/detail/20260706093445930800",
-          "source": "金十数据",
+          "title": "伊朗最高领袖发布任免令",
+          "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
+          "source": "凤凰网",
           "ranks": [
-            16
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
+          "time_info": "01时33分"
+        },
         {
-          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
-          "url": "https://wallstreetcn.com/articles/3776218",
-          "source": "华尔街见闻",
+          "title": "欧洲央行管委Wunsch：似乎伊朗冲击已经消退，我们尚未看到太多的第二轮（通胀）效应。 我们可能还得（围绕货币政策）采取更多行动，但形势并不要求央行大幅紧缩。 不排除央行再次（采取加息）行动，但不要让我们等太久。",
+          "url": "https://wallstreetcn.com/livenews/3129484",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时52分 ~ 14时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "无惧短期回调？汇丰：金价年底前将进一步上涨，有“三大支撑”！",
-          "url": "https://www.cls.cn/detail/2417366",
-          "source": "财联社热门",
-          "ranks": [
-            12
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时15分"
+          "time_info": "01时33分"
+        },
+        {
+          "title": "加拿大央行：伊朗停火后，加拿大企业的通胀预期有所缓解",
+          "url": "https://wallstreetcn.com/livenews/3129481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时33分"
         }
       ]
     },
@@ -565,15 +213,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美元指数DXY站上101，日内涨0.13%。",
-          "url": "https://flash.jin10.com/detail/20260706135901571800",
-          "source": "金十数据",
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.01%，暂报2257.60点，北京时间20:00以来呈现出V形反转走势。 MarketVectorTM数字资产100中盘指数涨1.70%，报2633.91点。 MarketVector数字资产100指数涨1.36，报12739.11点。 目前，Solana涨1.30%，狗狗币跌0.65%，XRP涨1.43%。 比特币涨1.50%，暂报63675.80美元；以太坊涨0.65%，暂报1791.66美元。",
+          "url": "https://wallstreetcn.com/livenews/3129509",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时15分"
+          "time_info": "01时33分"
         }
       ]
     }
