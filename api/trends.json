@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T12:48:05.644723+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-07-16T15:13:42.269119+08:00",
+  "total_titles_processed": 664,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "【早报】长鑫科技，今日申购；热门中概股普涨；美军再次打击伊朗；原油小幅收涨",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时19分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时19分 ~ 15时13分]"
         },
         {
           "title": "美国持续打击伊朗，战争成本预测高达1000亿美元",
@@ -35,11 +35,12 @@
           "url": "https://news.ifeng.com/c/8unecXHHhfz",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 12时48分]"
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 15时13分]"
         },
         {
           "title": "伊朗塞姆南机场遭空袭 未造成人员伤亡",
@@ -48,7 +49,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -58,11 +59,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时19分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时19分 ~ 15时13分]"
         },
         {
           "title": "美军对驶往伊朗油轮射“地狱火”导弹",
@@ -88,13 +90,24 @@
           "time_info": "09时19分"
         },
         {
+          "title": "伊朗军方：美方行动不会促使霍尔木兹海峡重新开放",
+          "url": "https://wallstreetcn.com/livenews/3134881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
           "title": "约旦称，击落伊朗发射的8枚导弹。",
           "url": "https://wallstreetcn.com/livenews/3134794",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -116,7 +129,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -143,6 +156,17 @@
           "time_info": "09时19分"
         },
         {
+          "title": "伊朗外交部发言人巴加埃：美国针对伊朗的侵略行径公然违反了国际法以及双方签署的谅解备忘录。",
+          "url": "https://flash.jin10.com/detail/20260716150359442800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
           "title": "伊朗“无意谈判”再袭美军基地",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E2%80%9C%E6%97%A0%E6%84%8F%E8%B0%88%E5%88%A4%E2%80%9D%E5%86%8D%E8%A2%AD%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0",
           "source": "百度热搜",
@@ -152,12 +176,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "伊朗称将对等回应基础设施遭袭",
+          "url": "https://wallstreetcn.com/livenews/3134855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
@@ -177,11 +212,23 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时19分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时19分 ~ 15时13分]"
+        },
+        {
+          "title": "特朗普感谢伊朗",
+          "url": "https://news.ifeng.com/c/8undGPmAvXz",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         },
         {
           "title": "性侵案败诉，特朗普赔付女作家逾560万美元",
@@ -189,11 +236,25 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时19分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时19分 ~ 15时13分]"
+        },
+        {
+          "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33592968",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时19分 ~ 15时13分]"
         },
         {
           "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
@@ -203,20 +264,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时19分 ~ 12时48分]"
-        },
-        {
-          "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33592968",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时19分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时19分 ~ 15时13分]"
         },
         {
           "title": "特朗普发文感谢伊朗",
@@ -258,7 +307,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -277,7 +326,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股收盘：三大股指小幅收涨 中概股集体走强 存储板块逆势暴跌",
@@ -288,8 +337,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时19分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时19分 ~ 15时13分]"
         },
         {
           "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
@@ -299,8 +348,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 12时48分]"
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 15时13分]"
         },
         {
           "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概跑赢大盘，美光、闪迪暴跌8%",
@@ -335,6 +384,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "台积电美股夜盘跌0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3134862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         }
       ]
     },
@@ -347,11 +407,12 @@
           "url": "https://wallstreetcn.com/articles/3777063",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 12时48分]"
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 15时13分]"
         },
         {
           "title": "美国启动特定DRAM设备337调查 三星电子、谷歌、英伟达等被列为被告",
@@ -360,7 +421,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -369,11 +430,12 @@
           "url": "https://www.cls.cn/detail/2427717",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 15时13分]"
         }
       ]
     },
@@ -387,11 +449,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时19分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时19分 ~ 15时13分]"
         },
         {
           "title": "DeepSeek工资待遇太恐怖了",
@@ -417,9 +480,26 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年07月16日（周四）上海金午盘价为878.07元/克，较国际金价（约为876.59元/克），高1.48元/克。",
+          "url": "https://flash.jin10.com/detail/20260716150205331800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         }
       ]
     }
