@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T20:03:52.387195+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2026-07-25T22:25:45.565524+08:00",
+  "total_titles_processed": 1027,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗外长：无需更多调解者，美应改变态度",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时22分 ~ 20时03分]"
+          "appearance_count": 9,
+          "time_info": "[09时22分 ~ 22时25分]"
         },
         {
           "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时22分 ~ 20时03分]"
+          "appearance_count": 9,
+          "time_info": "[09时22分 ~ 22时25分]"
         },
         {
           "title": "美媒爆猛料，“两国首次直接袭击伊朗”",
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时25分 ~ 20时03分]"
+          "appearance_count": 5,
+          "time_info": "[17时25分 ~ 22时25分]"
         },
         {
           "title": "中东全面战争风险快速积累，美国或陷入对伊朗、胡塞两线作战困局",
@@ -54,6 +54,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时22分 ~ 20时03分]"
+        },
+        {
+          "title": "伊朗官员：镐山设施“目前是空的”",
+          "url": "https://flash.jin10.com/detail/20260725214500074800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "伊朗外长说不惧威胁不屈服于美国",
@@ -71,17 +82,6 @@
           "time_info": "[12时54分 ~ 20时03分]"
         },
         {
-          "title": "伊朗公布卫星图像显示约旦一美军基地弹药库被摧毁",
-          "url": "https://wallstreetcn.com/livenews/3139738",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时03分"
-        },
-        {
           "title": "伊朗公布美军近期袭击伤亡数据",
           "url": "https://news.ifeng.com/c/8v0yEqjepG6",
           "source": "凤凰网",
@@ -91,17 +91,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
-        },
-        {
-          "title": "伊朗公布卫星图像显示约旦一美军基地弹药库被摧毁",
-          "url": "https://flash.jin10.com/detail/20260725184006843800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时03分"
         },
         {
           "title": "巴林、科威特被曝曾秘密空袭伊朗 科方否认",
@@ -121,11 +110,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            9
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 20时03分]"
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 22时25分]"
         },
         {
           "title": "乌克兰总统泽连斯基：乌克兰袭击了在里海海域运输涉及伊朗军事物资的船只。",
@@ -138,6 +128,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时01分 ~ 20时03分]"
+        },
+        {
+          "title": "伊朗公布卫星图像显示约旦一美军基地弹药库被摧毁",
+          "url": "https://wallstreetcn.com/livenews/3139738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时03分 ~ 22时25分]"
+        },
+        {
+          "title": "伊朗公布卫星图像显示约旦一美军基地弹药库被摧毁",
+          "url": "https://flash.jin10.com/detail/20260725184006843800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时03分 ~ 22时25分]"
         },
         {
           "title": "巴林、科威特被曝曾秘密空袭伊朗 科方否认",
@@ -175,6 +189,17 @@
           "time_info": "[12时53分 ~ 12时54分]"
         },
         {
+          "title": "伊朗官员：镐山设施“目前是空的”，袭击一个空置的仓库只有利于制造虚假信息",
+          "url": "https://wallstreetcn.com/livenews/3139764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "据伊朗Press TV：也门方面袭击炼油厂后，沙特各地出现大规模排队加油的现象。",
           "url": "https://flash.jin10.com/detail/20260725151742483800",
           "source": "金十数据",
@@ -195,6 +220,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
+        },
+        {
+          "title": "分析｜美国本轮已连续袭击伊朗13晚，以色列为何“隐身”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650717",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "连续13晚打击伊朗后，美军未再宣布对伊朗发动空袭",
@@ -255,7 +291,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
@@ -307,6 +343,18 @@
           "time_info": "[12时53分 ~ 15时08分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-25）",
+          "url": "https://flash.jin10.com/detail/20260725183311628800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时03分 ~ 22时25分]"
+        },
+        {
           "title": "特朗普暂停“废除H-1B签证费用命令”的上诉请求被驳回",
           "url": "https://wallstreetcn.com/livenews/3139683",
           "source": "华尔街见闻-快讯",
@@ -353,15 +401,15 @@
           "time_info": "[12时53分 ~ 12时54分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-25）",
-          "url": "https://flash.jin10.com/detail/20260725183311628800",
-          "source": "金十数据",
+          "title": "特朗普突然宣布：将第四次竞选总统！他头戴印有“特朗普2028”字样的小红帽称：我已经很有经验了，将再次出马",
+          "url": "https://wallstreetcn.com/articles/3777927",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时03分"
+          "time_info": "22时25分"
         },
         {
           "title": "报道：特朗普的电力“智囊”在力推电网重大改革后即将离任",
@@ -386,6 +434,17 @@
           "time_info": "12时54分"
         },
         {
+          "title": "特朗普再打关税战 这次有何不同",
+          "url": "https://www.toutiao.com/trending/7666438148708109865/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "特朗普为何又打关税牌又邀中方访美",
           "url": "https://www.toutiao.com/trending/7666318383008189971/",
           "source": "今日头条",
@@ -406,6 +465,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "专家：特朗普一刀切关税得罪全部盟友",
+          "url": "https://www.toutiao.com/trending/7666410407686311467/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "特朗普称伊朗问题进展非常顺利 但称伊朗“还没准备好”达成协议",
@@ -444,8 +514,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时22分 ~ 20时03分]"
+          "appearance_count": 9,
+          "time_info": "[09时22分 ~ 22时25分]"
         },
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -456,8 +526,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时22分 ~ 20时03分]"
+          "appearance_count": 9,
+          "time_info": "[09时22分 ~ 22时25分]"
         },
         {
           "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
@@ -470,8 +540,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时22分 ~ 20时03分]"
+          "appearance_count": 9,
+          "time_info": "[09时22分 ~ 22时25分]"
         },
         {
           "title": "美股存储、光通信重挫 闪迪跌超10%",
@@ -525,6 +595,18 @@
           "time_info": "[19时01分 ~ 20时03分]"
         },
         {
+          "title": "ChatGPT崩了",
+          "url": "https://s.weibo.com/weibo?q=ChatGPT%E5%B4%A9%E4%BA%86&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时00分 ~ 22时25分]"
+        },
+        {
           "title": "据社交媒体信息：OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
           "url": "https://flash.jin10.com/detail/20260725172016965800",
           "source": "金十数据",
@@ -535,17 +617,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时01分 ~ 20时03分]"
-        },
-        {
-          "title": "ChatGPT崩了",
-          "url": "https://s.weibo.com/weibo?q=ChatGPT%E5%B4%A9%E4%BA%86&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时00分 ~ 19时01分]"
         },
         {
           "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
