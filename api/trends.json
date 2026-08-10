@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T08:45:58.292469+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-10T11:04:38.623556+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "伊朗高层变动，最高领袖发出新任命",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时45分"
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 11时04分]"
         },
         {
           "title": "伊朗议会批准霍尔木兹海峡安全纲要",
@@ -67,44 +67,59 @@
           "url": "https://news.ifeng.com/c/8vS3pS8BvYm",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时45分"
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 11时04分]"
         },
         {
           "title": "美军基地遭袭，伊朗公布最新卫星对比图",
           "url": "https://news.ifeng.com/c/8vT6dxUIQom",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时45分"
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 11时04分]"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
           "url": "https://www.toutiao.com/trending/7670941843498287158/",
           "source": "今日头条",
           "ranks": [
-            22
+            22,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时45分"
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 11时04分]"
         },
         {
           "title": "伊朗公布美军基地遭袭前后卫星对比图",
           "url": "https://www.toutiao.com/trending/7671344515512762409/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            19
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 11时04分]"
+        },
+        {
+          "title": "据伊朗媒体报道，巴勒斯坦伊斯兰圣战组织谴责以色列总理内塔尼亚胡反对加沙15点计划的行为，称此举公然否认停火协议，并直接反对美国的计划。",
+          "url": "https://flash.jin10.com/detail/20260810100917229800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时45分"
+          "time_info": "11时04分"
         }
       ]
     },
@@ -112,6 +127,18 @@
       "keyword_group": "特朗普",
       "match_count": 6,
       "titles": [
+        {
+          "title": "与特朗普关联的美石油公司拟在格陵兰岛钻探，岛政府强烈警告",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33748556",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 11时04分]"
+        },
         {
           "title": "特朗普宣布威尔·沙夫将出任总统助理兼白宫法律顾问",
           "url": "https://wallstreetcn.com/livenews/3147162",
@@ -124,26 +151,28 @@
           "time_info": "08时45分"
         },
         {
-          "title": "与特朗普关联的美石油公司拟在格陵兰岛钻探，岛政府强烈警告",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33748556",
-          "source": "澎湃新闻",
+          "title": "特朗普公布新任总统助理人选",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUQr",
+          "source": "凤凰网",
           "ranks": [
+            12,
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时45分"
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 11时04分]"
         },
         {
           "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
           "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
           "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时45分"
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 11时04分]"
         },
         {
           "title": "特朗普这是此地无银三百两吗？",
@@ -153,8 +182,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时45分"
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 11时04分]"
         },
         {
           "title": "特朗普加沙和平计划遭遇重大阻击：内塔尼亚胡拒绝下一阶段安排",
@@ -166,23 +195,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
-        },
-        {
-          "title": "特朗普公布新任总统助理人选",
-          "url": "https://news.ifeng.com/c/8vT8RYkNUQr",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时45分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -192,8 +210,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 11时04分]"
+        },
+        {
+          "title": "一边买黄金，一边买美股",
+          "url": "https://wallstreetcn.com/articles/3779012",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时45分"
+          "time_info": "11时04分"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
@@ -205,6 +234,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国AI大模型调用量连续十五周领跑 DeepSeek-V4-Flash正式版登顶",
+          "url": "https://flash.jin10.com/detail/20260810102929259800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美债收益率逼近失控？贝森特连续出招，华尔街解读出“救债市”信号",
+          "url": "https://flash.jin10.com/detail/20260810102945512800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
         }
       ]
     }
