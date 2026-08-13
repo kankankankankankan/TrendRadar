@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T11:21:51.483626+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-08-13T13:26:08.411371+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,46 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 11时21分]"
+          "appearance_count": 5,
+          "time_info": "[08时54分 ~ 13时26分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
+          "url": "https://www.cls.cn/detail/2452920",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时54分 ~ 13时26分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
+          "url": "https://wallstreetcn.com/articles/3779306",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时54分 ~ 13时26分]"
+        },
+        {
+          "title": "Deepseek V4Pro 正式版发布，相比 Claude Fable 5 等模型，性能如何？性价比高吗？",
+          "url": "https://www.zhihu.com/question/2071019389479023642",
+          "source": "知乎",
+          "ranks": [
+            5,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时54分 ~ 13时26分]"
         },
         {
           "title": "DeepSeek重磅更新 V4Pro正式版上线",
@@ -30,48 +68,12 @@
           "time_info": "[08时54分 ~ 08时55分]"
         },
         {
-          "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
-          "url": "https://www.cls.cn/detail/2452920",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 11时21分]"
-        },
-        {
           "title": "DeepSeek V4 Pro正式版上线",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
           "source": "bilibili 热搜",
           "ranks": [
             4,
             21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 11时21分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
-          "url": "https://wallstreetcn.com/articles/3779306",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 11时21分]"
-        },
-        {
-          "title": "Deepseek V4Pro 正式版发布，相比 Claude Fable 5 等模型，性能如何？性价比高吗？",
-          "url": "https://www.zhihu.com/question/2071019389479023642",
-          "source": "知乎",
-          "ranks": [
-            5,
-            11
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -128,7 +130,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
@@ -139,7 +141,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         }
@@ -147,8 +149,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时21分 ~ 13时26分]"
+        },
         {
           "title": "新闻蒸馏器｜一辆卡车和三架专机：特朗普证实秘密换机避暗杀，随行记者成诱饵",
           "url": "https://m.thepaper.cn/newsDetail_forward_33765931",
@@ -162,6 +175,17 @@
           "time_info": "[08时54分 ~ 11时21分]"
         },
         {
+          "title": "特朗普声称掌控霍尔木兹、伊朗坚决否认 海峡通行量跌至三个月最低",
+          "url": "https://www.cls.cn/detail/2452937",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 13时26分]"
+        },
+        {
           "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
           "url": "https://m.thepaper.cn/newsDetail_forward_33765581",
           "source": "澎湃新闻",
@@ -173,15 +197,15 @@
           "time_info": "[08时54分 ~ 08时55分]"
         },
         {
-          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
-          "source": "澎湃新闻",
+          "title": "特朗普称“完全掌控”霍尔木兹，现实却狠狠打脸：通航量跌至近3个月低点",
+          "url": "https://flash.jin10.com/detail/20260813125705877800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时21分"
+          "time_info": "13时26分"
         },
         {
           "title": "中信证券：中东或仍将处于特朗普在 “TACO式退让”与“恼羞成怒式升级”的僵局之中",
@@ -229,11 +253,12 @@
           "source": "微博",
           "ranks": [
             28,
-            7
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 11时21分]"
+          "appearance_count": 5,
+          "time_info": "[08时54分 ~ 13时26分]"
         },
         {
           "title": "美国通胀数据温和，9月加息概率回落，黄金价格一度走高，多头占比现略微占优，白银多头占比进一步升至94%；IEA和欧佩克下调全球原油需求预期，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -242,7 +267,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         }
@@ -260,19 +285,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 11时21分]"
+          "appearance_count": 5,
+          "time_info": "[08时54分 ~ 13时26分]"
         },
         {
           "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
           "url": "https://www.cls.cn/detail/2452897",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 11时21分]"
+          "appearance_count": 5,
+          "time_info": "[08时54分 ~ 13时26分]"
         },
         {
           "title": "美股AI算力和存储芯片爆发",
@@ -288,6 +314,35 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "还在逼美联储加息？10年期美债发行收益率创金融危机以来最高！",
+          "url": "https://www.cls.cn/detail/2452988",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时21分 ~ 13时26分]"
+        },
+        {
+          "title": "短端加不动，长端压不住：美债如何破局？",
+          "url": "https://flash.jin10.com/detail/20260813122822904800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 2,
       "titles": [
@@ -296,11 +351,12 @@
           "url": "https://news.ifeng.com/c/8vXOuaWRIKP",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 11时21分]"
+          "appearance_count": 5,
+          "time_info": "[08时54分 ~ 13时26分]"
         },
         {
           "title": "伊朗称霍尔木兹海峡仍关闭 美军称已使59艘商船改变航线 | 环球市场",
@@ -308,11 +364,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 11时21分]"
+          "appearance_count": 5,
+          "time_info": "[08时54分 ~ 13时26分]"
         }
       ]
     },
@@ -325,28 +382,12 @@
           "url": "https://wallstreetcn.com/articles/3779285",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 11时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "还在逼美联储加息？10年期美债发行收益率创金融危机以来最高！",
-          "url": "https://www.cls.cn/detail/2452988",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时21分"
+          "appearance_count": 5,
+          "time_info": "[08时54分 ~ 13时26分]"
         }
       ]
     }
