@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T15:04:15.214818+08:00",
-  "total_titles_processed": 668,
+  "generated_at": "2026-08-14T16:56:18.996524+08:00",
+  "total_titles_processed": 830,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时54分 ~ 15时04分]"
+          "appearance_count": 5,
+          "time_info": "[08时54分 ~ 16时56分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时54分 ~ 15时04分]"
+          "appearance_count": 5,
+          "time_info": "[08时54分 ~ 16时56分]"
         },
         {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
@@ -42,17 +42,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时54分 ~ 11时18分]"
-        },
-        {
-          "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
-          "url": "https://www.zhihu.com/question/2071361705183899939",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时03分 ~ 15时04分]"
         },
         {
           "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
@@ -79,6 +68,31 @@
           "time_info": "[08时54分 ~ 15时04分]"
         },
         {
+          "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
+          "url": "https://www.zhihu.com/question/2071361705183899939",
+          "source": "知乎",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时03分 ~ 16时56分]"
+        },
+        {
+          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
+          "url": "https://wallstreetcn.com/articles/3779385",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时54分 ~ 16时56分]"
+        },
+        {
           "title": "DeepSeek官方Agent发布",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%98%E6%96%B9Agent%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
@@ -91,16 +105,17 @@
           "time_info": "[08时54分 ~ 15时04分]"
         },
         {
-          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
-          "url": "https://wallstreetcn.com/articles/3779385",
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
           "source": "华尔街见闻",
           "ranks": [
             9,
+            8,
             7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[08时54分 ~ 15时04分]"
+          "time_info": "[11时18分 ~ 16时56分]"
         },
         {
           "title": "为什么DeepSeek越涨价越是价格屠夫",
@@ -113,18 +128,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时54分 ~ 11时18分]"
-        },
-        {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时18分 ~ 15时04分]"
         },
         {
           "title": "一个视频看懂DeepSeek Harness",
@@ -158,6 +161,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
+        },
+        {
+          "title": "如何评价 DeepSeek 与北大联合发布的新论文，有哪些亮点？对 Agent 发展有什么影响？",
+          "url": "https://www.zhihu.com/question/2071375581464343126",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
           "title": "如何看待 DeepSeek 撤回 v4Pro 正式版的公告？",
@@ -218,8 +232,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
+          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时03分 ~ 16时56分]"
+        },
         {
           "title": "特朗普专机上全是一箱又一箱麦当劳",
           "url": "https://www.toutiao.com/trending/7673136089955352622/",
@@ -232,15 +257,15 @@
           "time_info": "[15时03分 ~ 15时04分]"
         },
         {
-          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
-          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
-          "source": "凤凰网",
+          "title": "学者：美伊冲突经济冲击波蔓延，特朗普面临内外重压",
+          "url": "https://flash.jin10.com/detail/20260814165018045800",
+          "source": "金十数据",
           "ranks": [
-            2
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时03分 ~ 15时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
           "title": "美媒：特朗普下令美海军弃用电磁弹射系统，改回蒸汽弹射",
@@ -267,6 +292,17 @@
           "time_info": "[08时54分 ~ 15时04分]"
         },
         {
+          "title": "特朗普下令美海军弃用电磁弹射系统，改回蒸汽弹射",
+          "url": "https://news.ifeng.com/c/8vZxGezuWmE",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时03分 ~ 16时56分]"
+        },
+        {
           "title": "以色列发警报迫使特朗普换飞机，美中情局质疑以方用意",
           "url": "https://news.ifeng.com/c/8vYmNSHdxQv",
           "source": "凤凰网",
@@ -278,15 +314,15 @@
           "time_info": "[11时18分 ~ 15时04分]"
         },
         {
-          "title": "特朗普下令美海军弃用电磁弹射系统，改回蒸汽弹射",
-          "url": "https://news.ifeng.com/c/8vZxGezuWmE",
-          "source": "凤凰网",
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "source": "知乎",
           "ranks": [
-            10
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时03分 ~ 15时04分]"
+          "appearance_count": 3,
+          "time_info": "[15时03分 ~ 16时56分]"
         },
         {
           "title": "美国卫生部长：特朗普专机上有多箱麦当劳，他出门怕食物中毒",
@@ -294,17 +330,6 @@
           "source": "凤凰网",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时03分 ~ 15时04分]"
-        },
-        {
-          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
-          "url": "https://www.zhihu.com/question/2070813507499643585",
-          "source": "知乎",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -342,6 +367,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
+        },
+        {
+          "title": "肯尼迪中心计划将特朗普名字印外墙上",
+          "url": "https://www.toutiao.com/trending/7673033943583571987/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         }
       ]
     },
@@ -389,11 +425,12 @@
           "ranks": [
             13,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时54分 ~ 15时04分]"
+          "appearance_count": 5,
+          "time_info": "[08时54分 ~ 16时56分]"
         },
         {
           "title": "美防长称可“无限期”对伊朗进行海上封锁",
@@ -403,8 +440,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时18分 ~ 15时04分]"
+          "appearance_count": 4,
+          "time_info": "[11时18分 ~ 16时56分]"
         },
         {
           "title": "伊朗：美若敢用核弹 全球基地将成靶子",
@@ -444,7 +481,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金十图示：2026年08月14日（周五）上海金早盘价为936.17元/克，较国际金价(935.66元/克)，高0.51元/克",
@@ -468,40 +505,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时54分 ~ 11时18分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
-          "url": "https://wallstreetcn.com/articles/3779403",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时03分 ~ 15时04分]"
         },
         {
-          "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
-          "url": "https://www.cls.cn/detail/2453615",
-          "source": "财联社热门",
+          "title": "金价空头回补基本完成，下一波推力会来自哪里？",
+          "url": "https://flash.jin10.com/detail/20260814164306430800",
+          "source": "金十数据",
           "ranks": [
-            8
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时54分"
+          "time_info": "16时56分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股收盘：三大指数齐升标普收新高 存储板块走强闪迪涨逾13%",
@@ -515,11 +535,51 @@
           "time_info": "[08时54分 ~ 15时04分]"
         },
         {
+          "title": "美股恐慌指数骤降 华尔街开始警惕",
+          "url": "https://www.toutiao.com/trending/7673504531824512521/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
           "title": "美股标普收新高 闪迪涨逾13%",
           "url": "https://www.toutiao.com/trending/7673659542994947603/",
           "source": "今日头条",
           "ranks": [
             26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
+          "url": "https://wallstreetcn.com/articles/3779403",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时03分 ~ 16时56分]"
+        },
+        {
+          "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
+          "url": "https://www.cls.cn/detail/2453615",
+          "source": "财联社热门",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
