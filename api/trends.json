@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T19:15:17.970820+08:00",
-  "total_titles_processed": 1036,
+  "generated_at": "2026-08-17T20:18:21.372614+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "伊朗悬赏美军：但凡俘虏或击毙一人，奖励三万美元",
@@ -16,19 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时30分 ~ 19时15分]"
-        },
-        {
-          "title": "伊朗称正与阿曼敲定霍尔木兹海峡谅解协议",
-          "url": "https://wallstreetcn.com/livenews/3150460",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
+          "appearance_count": 9,
+          "time_info": "[08时30分 ~ 20时18分]"
         },
         {
           "title": "伊朗称逮捕或消灭美军者将获奖励",
@@ -57,6 +46,18 @@
           "time_info": "[16时29分 ~ 17时28分]"
         },
         {
+          "title": "伊朗称正与阿曼敲定霍尔木兹海峡谅解协议",
+          "url": "https://wallstreetcn.com/livenews/3150460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 20时18分]"
+        },
+        {
           "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
           "url": "https://www.zhihu.com/question/2072617673721226019",
           "source": "知乎",
@@ -64,8 +65,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 19时15分]"
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 20时18分]"
         },
         {
           "title": "伊朗称美军已被驱逐不得进入海峡",
@@ -85,9 +86,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
+        },
+        {
+          "title": "美国屡次“违约”，伊朗强硬派放弃对美幻想，被曝秘密扩军备战“新一轮对抗”",
+          "url": "https://wallstreetcn.com/articles/3779592",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "伊朗外交部发言人巴加埃：伊朗将主办里海沿岸国家会议。",
@@ -107,7 +119,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -140,7 +152,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -239,15 +251,26 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
+        },
+        {
+          "title": "伊朗物价飙涨，基本食品已沦为“奢侈品”",
+          "url": "https://flash.jin10.com/detail/20260817194519027800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普向朝韩发出强烈信号，信息量很大",
@@ -258,8 +281,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时30分 ~ 19时15分]"
+          "appearance_count": 9,
+          "time_info": "[08时30分 ~ 20时18分]"
         },
         {
           "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
@@ -273,6 +296,21 @@
           "time_info": "[08时30分 ~ 17时28分]"
         },
         {
+          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
+          "url": "https://wallstreetcn.com/articles/3779545",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时39分 ~ 20时18分]"
+        },
+        {
           "title": "沙土巴三国签署共同防务协议，特朗普发声",
           "url": "https://news.ifeng.com/c/8veP1BeKo8D",
           "source": "凤凰网",
@@ -282,20 +320,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时39分 ~ 12时30分]"
-        },
-        {
-          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
-          "url": "https://wallstreetcn.com/articles/3779545",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时39分 ~ 19时15分]"
         },
         {
           "title": "沙土巴3国签署共同防务协议，特朗普发声",
@@ -331,6 +355,17 @@
           "time_info": "[08时30分 ~ 08时31分]"
         },
         {
+          "title": "市场消息：特朗普的委内瑞拉事务特使正在推动“美国优先”石油交易。",
+          "url": "https://flash.jin10.com/detail/20260817200146802800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
           "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
           "url": "https://www.zhihu.com/question/2072595818725336495",
           "source": "知乎",
@@ -362,9 +397,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
+        },
+        {
+          "title": "特朗普的委内瑞拉事务特使正在推动“美国优先”石油交易。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3150496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
+          "title": "特朗普对：我可能会支持以色列选举中的某位候选人。以色列不该袭击加沙。（福克斯）",
+          "url": "https://wallstreetcn.com/livenews/3150476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "特朗普重申伊朗不能拥有核武器",
@@ -373,9 +430,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
+        },
+        {
+          "title": "特朗普威胁称，如果阿曼妨碍美国，美国将轰炸阿曼",
+          "url": "https://wallstreetcn.com/livenews/3150475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "美国总统特朗普：伊朗绝不能以任何方式、形态或形式拥有核武器。",
@@ -384,7 +452,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -406,7 +474,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -483,8 +551,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 19时15分]"
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 20时18分]"
         },
         {
           "title": "DeepSeek调价生效 涨幅最高达1100%",
@@ -620,6 +688,45 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Snap美股盘前跌幅收窄至5%，此前一度跌16%。",
+          "url": "https://wallstreetcn.com/livenews/3150487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
+          "title": "美股盘前，存储芯片股普涨，闪迪涨约6%，SK海力士涨约4%，希捷科技涨约3%，西部数据涨约4%，美光科技涨约3%。",
+          "url": "https://wallstreetcn.com/livenews/3150351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
+          "title": "Snap美股盘前跌幅扩大至逾15%。",
+          "url": "https://wallstreetcn.com/livenews/3150462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -633,8 +740,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时30分 ~ 19时15分]"
+          "appearance_count": 8,
+          "time_info": "[08时30分 ~ 20时18分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -693,25 +800,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 19时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股盘前，存储芯片股普涨，闪迪涨约6%，SK海力士涨约4%，希捷科技涨约3%，西部数据涨约4%，美光科技涨约3%。",
-          "url": "https://wallstreetcn.com/livenews/3150351",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 20时18分]"
         }
       ]
     },
