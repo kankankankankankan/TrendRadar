@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T17:28:28.813515+08:00",
-  "total_titles_processed": 904,
+  "generated_at": "2026-08-17T19:15:17.970820+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "伊朗悬赏美军：但凡俘虏或击毙一人，奖励三万美元",
@@ -16,8 +16,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时30分 ~ 17时28分]"
+          "appearance_count": 8,
+          "time_info": "[08时30分 ~ 19时15分]"
+        },
+        {
+          "title": "伊朗称正与阿曼敲定霍尔木兹海峡谅解协议",
+          "url": "https://wallstreetcn.com/livenews/3150460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "伊朗称逮捕或消灭美军者将获奖励",
@@ -53,8 +64,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 17时28分]"
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 19时15分]"
         },
         {
           "title": "伊朗称美军已被驱逐不得进入海峡",
@@ -68,6 +79,17 @@
           "time_info": "[08时30分 ~ 08时31分]"
         },
         {
+          "title": "伊朗最高领袖顾问Velayati：美国民众如今正在为其领导人在西亚的冒险付出代价。",
+          "url": "https://flash.jin10.com/detail/20260817184213741800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "伊朗外交部发言人巴加埃：伊朗将主办里海沿岸国家会议。",
           "url": "https://flash.jin10.com/detail/20260817160907045800",
           "source": "金十数据",
@@ -77,6 +99,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "伊朗外交部：在确认下落之前，我们将认定我方飞行员在卡塔尔处于被俘状态。",
+          "url": "https://flash.jin10.com/detail/20260817183746045800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "伊朗总统：伊美谅解备忘录“维护尊严、展现实力”",
@@ -96,9 +129,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
+        },
+        {
+          "title": "伊朗革命卫队官员：若美履行承诺 霍尔木兹海峡将重新开放",
+          "url": "https://wallstreetcn.com/livenews/3150440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "伊朗外交部发言人巴加埃：很遗憾，美国屡屡背弃承诺，正如先前在阿曼问题上所发生的那样，此次也使巴基斯坦的调解角色受到了损害。",
@@ -129,7 +173,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -140,7 +184,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -187,12 +231,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "据伊朗方面报道：近期冲突中有超过200架敌方飞机被击落。",
+          "url": "https://flash.jin10.com/detail/20260817181726177800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普向朝韩发出强烈信号，信息量很大",
@@ -203,8 +258,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时30分 ~ 17时28分]"
+          "appearance_count": 8,
+          "time_info": "[08时30分 ~ 19时15分]"
         },
         {
           "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
@@ -227,6 +282,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时39分 ~ 12时30分]"
+        },
+        {
+          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
+          "url": "https://wallstreetcn.com/articles/3779545",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时39分 ~ 19时15分]"
         },
         {
           "title": "沙土巴3国签署共同防务协议，特朗普发声",
@@ -262,19 +331,6 @@
           "time_info": "[08时30分 ~ 08时31分]"
         },
         {
-          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
-          "url": "https://wallstreetcn.com/articles/3779545",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时39分 ~ 17时28分]"
-        },
-        {
           "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
           "url": "https://www.zhihu.com/question/2072595818725336495",
           "source": "知乎",
@@ -284,8 +340,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时29分 ~ 17时28分]"
+          "appearance_count": 5,
+          "time_info": "[12时29分 ~ 19时15分]"
         },
         {
           "title": "特朗普已指示“大幅缩减”美韩军演",
@@ -300,6 +356,39 @@
           "time_info": "[11时39分 ~ 12时30分]"
         },
         {
+          "title": "特朗普再称伊朗绝不能拥有核武器",
+          "url": "https://wallstreetcn.com/livenews/3150454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "特朗普重申伊朗不能拥有核武器",
+          "url": "https://flash.jin10.com/detail/20260817182053714800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗绝不能以任何方式、形态或形式拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260817181911430800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "特朗普发声后，韩国防部称韩美军演正按计划进行",
           "url": "https://wallstreetcn.com/livenews/3150151",
           "source": "华尔街见闻-快讯",
@@ -309,6 +398,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
+        },
+        {
+          "title": "美国总统特朗普：首要目标是伊朗不能拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260817181853245800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "特朗普要求“大幅缩减”美韩军演规模",
@@ -374,6 +474,19 @@
           "time_info": "[08时30分 ~ 12时30分]"
         },
         {
+          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
+          "url": "https://www.zhihu.com/question/2072598571090538898",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 19时15分]"
+        },
+        {
           "title": "DeepSeek调价生效 涨幅最高达1100%",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E8%B0%83%E4%BB%B7%E7%94%9F%E6%95%88+%E6%B6%A8%E5%B9%85%E6%9C%80%E9%AB%98%E8%BE%BE1100%25",
           "source": "百度热搜",
@@ -384,18 +497,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时39分 ~ 12时30分]"
-        },
-        {
-          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
-          "url": "https://www.zhihu.com/question/2072598571090538898",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 17时28分]"
         },
         {
           "title": "如何评价 deepseek8 月 17 日涨价后，opencode go 套餐的 flash 模型调用量削减 94%？",
@@ -523,6 +624,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "段永平最新调仓出炉：减持苹果、英伟达、谷歌，买回阿里",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33794674",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时30分 ~ 19时15分]"
+        },
+        {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
           "url": "https://wallstreetcn.com/articles/3779527",
           "source": "华尔街见闻",
@@ -534,19 +648,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时30分 ~ 12时30分]"
-        },
-        {
-          "title": "段永平最新调仓出炉：减持苹果、英伟达、谷歌，买回阿里",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33794674",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时30分 ~ 17时28分]"
         }
       ]
     },
@@ -588,11 +689,12 @@
           "url": "https://wallstreetcn.com/articles/3779560",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 17时28分]"
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 19时15分]"
         }
       ]
     },
