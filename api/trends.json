@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-17T19:14:36.444138+08:00",
-  "total_titles_processed": 701,
+  "generated_at": "2026-10-17T22:32:23.643534+08:00",
+  "total_titles_processed": 869,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 24,
       "titles": [
         {
           "title": "俄乌“能源停火”破裂，俄专家：特朗普调停能力减弱",
@@ -36,9 +36,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
+        },
+        {
+          "title": "“特朗普暂停对俄制裁，是历史性时刻”",
+          "url": "https://news.ifeng.com/c/8xIg4YWs1S4",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "白宫前新闻秘书扎卡里亚：特朗普总统是一位善良、出色、宽厚、体贴、充满热情的人，也是最勤奋的人。我希望有更多美国人能够欣赏他。没有人能够像他过去所做的、以及如今仍在继续做的那样，让美国再次伟大。能够为他工作是我的荣幸。（金十注：美国白宫官员当地时间16日透露，扎卡里亚在上任一周后实际上已被解职。）",
@@ -50,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "白宫宴会厅捐款名单曝光，曾说要捐钱的特朗普未在其中",
+          "url": "https://news.ifeng.com/c/8xIaKqekyVT",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "特朗普豁免《格雷厄姆法案》中多项对俄制裁、限制措施及关税",
@@ -85,8 +107,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 19时14分]"
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 22时32分]"
+        },
+        {
+          "title": "特朗普签署行政令豁免对俄多项制裁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34269052",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 22时32分]"
         },
         {
           "title": "意大利防长：特朗普在援乌问题上“完全错误”",
@@ -95,9 +129,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
+        },
+        {
+          "title": "特朗普：希望能在G20峰会见到普京",
+          "url": "https://news.ifeng.com/c/8xIg9fCOn9f",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "特朗普：我化妆很淡，都是自己动手，因为不化妆看起来像个死人",
@@ -155,15 +200,26 @@
           "time_info": "09时49分"
         },
         {
-          "title": "特朗普签署行政令豁免对俄多项制裁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34269052",
+          "title": "特朗普：我不知道普京是否会来参加G20峰会，但我希望能见到他",
+          "url": "https://wallstreetcn.com/livenews/3180574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "AI改名SI：特朗普无厘头操作背后的科技、外交和政治心机",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34263975",
           "source": "澎湃新闻",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时14分"
+          "time_info": "22时32分"
         },
         {
           "title": "美国总统特朗普： 在佐治亚州，优时比（UCB）将投资20亿美元，建设其在美国的首座制药工厂。 倍耐力（Pirelli）刚刚宣布，将投资12亿美元扩建罗马市工厂，新增1000个就业岗位。 现代汽车（Hyundai）宣布，将投资5.6亿美元扩建西点市的工厂。",
@@ -175,162 +231,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
-      "titles": [
+        },
         {
-          "title": "如何评价 DeepSeek V4.1 Flash 1017?",
-          "url": "https://www.zhihu.com/question/2094773240036061683",
-          "source": "知乎",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-10-17）",
+          "url": "https://flash.jin10.com/detail/20261017203232356800",
+          "source": "金十数据",
           "ranks": [
-            1
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时14分"
+          "time_info": "22时32分"
         },
         {
-          "title": "Deepseek V4.1 Flash新版本发布",
-          "url": "https://search.bilibili.com/all?keyword=Deepseek%20V4.1%20Flash",
-          "source": "bilibili 热搜",
+          "title": "特朗普新闻秘书上任五天被解职，美媒：一瓶牛奶保质期比这都长",
+          "url": "https://flash.jin10.com/detail/20261017202606160800",
+          "source": "金十数据",
           "ranks": [
-            2
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时14分"
+          "time_info": "22时32分"
         },
         {
-          "title": "DeepSeek V4.1 Flash发布新版本",
-          "url": "https://wallstreetcn.com/livenews/3180557",
+          "title": "特朗普前“准儿媳”为何被迫离任",
+          "url": "https://www.toutiao.com/trending/7697570773753400883/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "俄官员称特朗普放松对俄制裁有“历史意义”",
+          "url": "https://wallstreetcn.com/livenews/3180561",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "已恢复!DeepSeek发故障补偿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367231&amp;topic_name=%E5%B7%B2%E6%81%A2%E5%A4%8D%21DeepSeek%E5%8F%91%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 19时14分]"
-        },
-        {
-          "title": "当DeepSeek修复之后belike",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93DeepSeek%E4%BF%AE%E5%A4%8D%E4%B9%8B%E5%90%8Ebelike",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "DeepSeek 将整合多团队成立产品部，崔添翼任负责人，怎样看待这一调整？会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2094475735796643677",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "用DeepSeek翻唱人是猫",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8DeepSeek%E7%BF%BB%E5%94%B1%E4%BA%BA%E6%98%AF%E7%8C%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110",
-          "url": "https://wallstreetcn.com/articles/3783778",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 19时14分]"
-        },
-        {
-          "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
-          "url": "https://www.cls.cn/detail/2507382",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 19时14分]"
-        },
-        {
-          "title": "美股收盘：科技重挫纳指跌超2% 红利、能源巨头再创新高",
-          "url": "https://www.cls.cn/detail/2507375",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 19时14分]"
-        },
-        {
-          "title": "沃什IMF年会上未释放加息信号 美股三大期指窄幅震荡 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2507212",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 19时14分]"
-        },
-        {
-          "title": "美股最危险的分化：普通股票已经跌惨，AI巨头还能撑多久？",
-          "url": "https://wallstreetcn.com/articles/3783832",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
+          "time_info": "22时32分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 11,
       "titles": [
         {
           "title": "凤凰记者：伊朗强硬表态，意在迫使美方放弃动武念头",
@@ -339,9 +289,20 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 22时32分]"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴·哈梅内伊祝贺伊朗U23国家古典式摔跤队在美国拉斯维加斯举行的世界U23古典式摔跤锦标赛上夺得冠军。",
+          "url": "https://wallstreetcn.com/livenews/3180590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时14分"
+          "time_info": "22时32分"
         },
         {
           "title": "伊朗称新型武器装备投入使用",
@@ -367,6 +328,50 @@
           "time_info": "[14时19分 ~ 19时14分]"
         },
         {
+          "title": "美媒：伊朗向胡塞武装提供目标定位和情报，协助其袭击沙特",
+          "url": "https://flash.jin10.com/detail/20261017205913035800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "伊朗革命卫队：又一超级油轮在霍尔木兹海峡触雷起火",
+          "url": "https://flash.jin10.com/detail/20261017205501866800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "埃及和伊朗外长就中东危机举行会晤。",
+          "url": "https://flash.jin10.com/detail/20261017204757217800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "伊朗革命卫队：又一超级油轮在霍尔木兹海峡触雷起火",
+          "url": "https://wallstreetcn.com/livenews/3180571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "报道：美伊停战提议仍待回应，亲伊朗武装被指向革命卫队回输资金",
           "url": "https://wallstreetcn.com/livenews/3180497",
           "source": "华尔街见闻-快讯",
@@ -376,6 +381,181 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "伊拉克外交部长表示，伊朗支持沙特与胡塞武装之间的政治解决方案。",
+          "url": "https://flash.jin10.com/detail/20261017203422429800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "伊朗有意在沙特与胡塞武装之间斡旋",
+          "url": "https://wallstreetcn.com/livenews/3180563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "如何评价 DeepSeek V4.1 Flash 1017?",
+          "url": "https://www.zhihu.com/question/2094773240036061683",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 22时32分]"
+        },
+        {
+          "title": "Deepseek V4.1 Flash新版本发布",
+          "url": "https://search.bilibili.com/all?keyword=Deepseek%20V4.1%20Flash",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
+          "title": "DeepSeek V4.1 Flash发布新版本",
+          "url": "https://wallstreetcn.com/livenews/3180557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
+          "title": "已恢复!DeepSeek发故障补偿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367231&amp;topic_name=%E5%B7%B2%E6%81%A2%E5%A4%8D%21DeepSeek%E5%8F%91%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            16,
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 22时32分]"
+        },
+        {
+          "title": "用DeepSeek翻唱人是猫",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8DeepSeek%E7%BF%BB%E5%94%B1%E4%BA%BA%E6%98%AF%E7%8C%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 22时32分]"
+        },
+        {
+          "title": "当DeepSeek修复之后belike",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93DeepSeek%E4%BF%AE%E5%A4%8D%E4%B9%8B%E5%90%8Ebelike",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "DeepSeek 将整合多团队成立产品部，崔添翼任负责人，怎样看待这一调整？会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2094475735796643677",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110",
+          "url": "https://wallstreetcn.com/articles/3783778",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 22时32分]"
+        },
+        {
+          "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
+          "url": "https://www.cls.cn/detail/2507382",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 22时32分]"
+        },
+        {
+          "title": "美股收盘：科技重挫纳指跌超2% 红利、能源巨头再创新高",
+          "url": "https://www.cls.cn/detail/2507375",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 22时32分]"
+        },
+        {
+          "title": "美股最危险的分化：普通股票已经跌惨，AI巨头还能撑多久？",
+          "url": "https://wallstreetcn.com/articles/3783832",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 22时32分]"
+        },
+        {
+          "title": "沃什IMF年会上未释放加息信号 美股三大期指窄幅震荡 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2507212",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时49分 ~ 19时14分]"
         }
       ]
     },
@@ -419,6 +599,34 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克：解决美债问题的唯一办法是依靠人工智能和机器人",
+          "url": "https://flash.jin10.com/detail/20261017203804811800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "两年期美债收益率于沃什放鸽日跌3个基点，本周累跌将近8个基点",
+          "url": "https://wallstreetcn.com/livenews/3180489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -444,28 +652,12 @@
           "url": "https://wallstreetcn.com/articles/3783830",
           "source": "华尔街见闻",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "两年期美债收益率于沃什放鸽日跌3个基点，本周累跌将近8个基点",
-          "url": "https://wallstreetcn.com/livenews/3180489",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 22时32分]"
         }
       ]
     }
