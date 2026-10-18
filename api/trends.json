@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-10-18T19:50:29.284215+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2026-10-18T22:59:33.418058+08:00",
+  "total_titles_processed": 1008,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "阿赫拉基出任伊朗新任防长",
+          "url": "https://news.ifeng.com/c/8xKOMyNyj6J",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时50分 ~ 22时59分]"
+        },
+        {
+          "title": "伊朗新任国防部长：如果美方投下一枚炸弹，就必须考虑最终会有多少美军士兵被横着抬出这一地区",
+          "url": "https://wallstreetcn.com/livenews/3180678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
         {
           "title": "凤凰记者：伊朗强硬表态，意在迫使美方放弃动武念头",
           "url": "https://original.ifeng.com/c/8xIaMUyrmpk",
@@ -36,20 +58,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
         {
-          "title": "阿赫拉基出任伊朗新任防长",
-          "url": "https://news.ifeng.com/c/8xKOMyNyj6J",
-          "source": "凤凰网",
+          "title": "美国财政部长贝森特：美国陷入能源冲击，通胀将在（伊朗）战争结束时放缓。 欧洲继续“大肆抢购”俄罗斯能源。 鲁莽的乌克兰总统泽连斯基指控美国让StarShield（星盾）通信速度放缓。 泽连斯基在谈论美方（情报）支持时小心谨慎。（NBC News）",
+          "url": "https://wallstreetcn.com/livenews/3180676",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时50分"
+          "time_info": "22时59分"
         },
         {
           "title": "伊朗外交部发言人巴加埃：（回应有关伊朗与巴基斯坦陆地边境关闭的报道）由于出现一些技术问题，且需要采取预防措施，边境通行及往来暂时中止。",
@@ -72,17 +94,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
-        },
-        {
-          "title": "伊朗重开霍尔木兹计划仍在谈判桌上",
-          "url": "https://wallstreetcn.com/livenews/3180647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
         },
         {
           "title": "伊朗最高领袖穆杰塔巴·哈梅内伊祝贺伊朗U23国家古典式摔跤队在美国拉斯维加斯举行的世界U23古典式摔跤锦标赛上夺得冠军。",
@@ -111,6 +122,30 @@
           "time_info": "[09时46分 ~ 19时50分]"
         },
         {
+          "title": "伊朗重开霍尔木兹计划仍在谈判桌上",
+          "url": "https://wallstreetcn.com/livenews/3180647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时50分 ~ 22时59分]"
+        },
+        {
+          "title": "伊朗武装部队开火",
+          "url": "https://wallstreetcn.com/articles/3783852",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时50分 ~ 22时59分]"
+        },
+        {
           "title": "伊朗外长：伊朗支持通过政治进程解决也门冲突",
           "url": "https://wallstreetcn.com/livenews/3180601",
           "source": "华尔街见闻-快讯",
@@ -123,15 +158,15 @@
           "time_info": "[09时46分 ~ 14时43分]"
         },
         {
-          "title": "伊朗武装部队开火",
-          "url": "https://wallstreetcn.com/articles/3783852",
-          "source": "华尔街见闻",
+          "title": "冲突外溢，伊朗被曝深度介入也门冲突，埃及即将参战？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34274890",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时50分"
+          "time_info": "22时59分"
         },
         {
           "title": "也门外长谴责伊朗借“调解”之名干涉也门",
@@ -151,7 +186,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -198,6 +233,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        },
+        {
+          "title": "伊朗：已针对可能的新“冒险行径”制定应对方案，不再遵循对方所熟悉的规则",
+          "url": "https://wallstreetcn.com/livenews/3180654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "伊朗外长：伊朗愿意协助结束沙特与也门冲突",
@@ -280,8 +326,43 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "公开施压！泽连斯基称“星链”限速“有意为之，仅针对乌克兰”，特朗普签署行政令豁免对俄多项制裁",
+          "url": "https://wallstreetcn.com/articles/3783843",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时43分 ~ 22时59分]"
+        },
+        {
+          "title": "美国总统特朗普：将在东波托马克高尔夫球场建造高尔夫球场。",
+          "url": "https://flash.jin10.com/detail/20261018221113289800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：正在与美国总统特使威特科夫和特朗普女婿库什纳讨论和平会议事宜。",
+          "url": "https://flash.jin10.com/detail/20261018221031673800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
         {
           "title": "“特朗普暂停对俄制裁，是历史性时刻”",
           "url": "https://news.ifeng.com/c/8xIg4YWs1S4",
@@ -305,16 +386,15 @@
           "time_info": "01时35分"
         },
         {
-          "title": "公开施压！泽连斯基称“星链”限速“有意为之，仅针对乌克兰”，特朗普签署行政令豁免对俄多项制裁",
-          "url": "https://wallstreetcn.com/articles/3783843",
-          "source": "华尔街见闻",
+          "title": "美国能源部长Wright：俄罗斯帮助世界的唯一方式就是（与乌克兰）实现能源停火。 总统特朗普暂停对俄制裁是一种创新。 对（美国市场的）汽油价格不满意，但乐见油价正在下跌。 汽油价格、柴油价格已经在数周前见顶，我们希望价格继续下跌。 那些反对美国对俄实施豁免的态度根本就是错误的。",
+          "url": "https://wallstreetcn.com/livenews/3180672",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            4
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时43分 ~ 19时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "上任仅5天 白宫新闻秘书遭特朗普“劝退”",
@@ -376,6 +456,17 @@
           "time_info": "[01时35分 ~ 09时46分]"
         },
         {
+          "title": "美国总统特朗普：伊朗非常强硬。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3180671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "特朗普：希望能在G20峰会见到普京",
           "url": "https://news.ifeng.com/c/8xIg9fCOn9f",
           "source": "凤凰网",
@@ -398,6 +489,28 @@
           "time_info": "14时43分"
         },
         {
+          "title": "特朗普呼吁法国关闭边境",
+          "url": "https://wallstreetcn.com/livenews/3180661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
+          "title": "美国能源部长赖特：特朗普暂停对俄制裁是创新之举。",
+          "url": "https://flash.jin10.com/detail/20261018210922402800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "美国总统特朗普周日日程一览",
           "url": "https://flash.jin10.com/detail/20261018124445164800",
           "source": "金十数据",
@@ -415,7 +528,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -426,9 +539,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
+        },
+        {
+          "title": "特朗普呼吁法国关闭边境",
+          "url": "https://flash.jin10.com/detail/20261018201323296800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
+          "title": "特朗普“分红”最诚实的部分是什么",
+          "url": "https://www.toutiao.com/trending/7697997759726489138/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "俄官员称特朗普放松对俄制裁有“历史意义”",
@@ -445,8 +580,20 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "【早报】两部门：支持体育运动进影院；DeepSeek新模型登场",
+          "url": "https://www.cls.cn/detail/2507548",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时46分 ~ 22时59分]"
+        },
         {
           "title": "如何评价 DeepSeek V4.1 Flash 1017?",
           "url": "https://www.zhihu.com/question/2094773240036061683",
@@ -460,16 +607,16 @@
           "time_info": "[01时35分 ~ 09时46分]"
         },
         {
-          "title": "【早报】两部门：支持体育运动进影院；DeepSeek新模型登场",
-          "url": "https://www.cls.cn/detail/2507548",
-          "source": "财联社热门",
+          "title": "网传 DeepSeek V4.1 Flash 1017 指纹测出 GPT-6 Astra，这是怎么回事？",
+          "url": "https://www.zhihu.com/question/2094959269275878409",
+          "source": "知乎",
           "ranks": [
             6,
-            2
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时46分 ~ 19时50分]"
+          "appearance_count": 2,
+          "time_info": "[19时50分 ~ 22时59分]"
         },
         {
           "title": "DeepSeek新模型对比Astra",
@@ -532,21 +679,32 @@
           "time_info": "14时43分"
         },
         {
-          "title": "网传 DeepSeek V4.1 Flash 1017 指纹测出 GPT-6 Astra，这是怎么回事？",
-          "url": "https://www.zhihu.com/question/2094959269275878409",
-          "source": "知乎",
+          "title": "Deepseek公布API网页搜索与抓取费用：每1000次成功请求5元",
+          "url": "https://wallstreetcn.com/livenews/3180663",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时50分"
+          "time_info": "22时59分"
+        },
+        {
+          "title": "Deepseek公布API网页搜索与抓取费用：每1000次成功请求5元",
+          "url": "https://flash.jin10.com/detail/20261018202420145800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
@@ -556,8 +714,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时35分 ~ 19时50分]"
+          "appearance_count": 5,
+          "time_info": "[01时35分 ~ 22时59分]"
         },
         {
           "title": "美股收盘：科技重挫纳指跌超2% 红利、能源巨头再创新高",
@@ -565,11 +723,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时35分 ~ 19时50分]"
+          "appearance_count": 5,
+          "time_info": "[01时35分 ~ 22时59分]"
         },
         {
           "title": "美股最危险的分化：普通股票已经跌惨，AI巨头还能撑多久？",
@@ -593,6 +752,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        },
+        {
+          "title": "胡塞武装：沙特阿美股东最好尽早出售股份，以免遭受损失",
+          "url": "https://flash.jin10.com/detail/20261018203644897800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         }
       ]
     },
@@ -623,11 +793,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时46分 ~ 19时50分]"
+          "appearance_count": 4,
+          "time_info": "[09时46分 ~ 22时59分]"
         }
       ]
     }
