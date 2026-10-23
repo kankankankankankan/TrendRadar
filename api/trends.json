@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-23T16:02:05.170247+08:00",
-  "total_titles_processed": 737,
+  "generated_at": "2026-10-23T21:56:16.094472+08:00",
+  "total_titles_processed": 957,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "泽连斯基：我跟特朗普没有私人恩怨",
@@ -19,26 +19,39 @@
           "time_info": "[10时13分 ~ 16时02分]"
         },
         {
+          "title": "据路透社：特朗普政府一名官员表示，美国政府向农民提供的80亿美元柴油补贴将无法在11月3日选举前发放到位。",
+          "url": "https://flash.jin10.com/detail/20261023214031779800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
           "title": "特朗普怒喷詹姆斯不尊重美国",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367970&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E5%96%B7%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%8D%E5%B0%8A%E9%87%8D%E7%BE%8E%E5%9B%BD",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
+          "appearance_count": 4,
+          "time_info": "[16时01分 ~ 21时56分]"
         },
         {
           "title": "特朗普怒骂NBA球星詹姆斯：我早就说过他不行，简直是个耻辱",
           "url": "https://news.ifeng.com/c/8xS2bhN07ef",
           "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
+          "appearance_count": 4,
+          "time_info": "[16时01分 ~ 21时56分]"
         },
         {
           "title": "如何评价特朗普发文痛批詹姆斯在奏国歌时做「高尔夫挥杆动作」，并要求其道歉？",
@@ -48,8 +61,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
+          "appearance_count": 4,
+          "time_info": "[16时01分 ~ 21时56分]"
         },
         {
           "title": "特朗普要求马斯克解除对乌星链限速",
@@ -69,7 +82,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -138,12 +151,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "美国白宫：梅拉尼娅·特朗普成功促成俄罗斯与乌克兰在奥列什基市实现局部停火。停火将于10月29日开始。",
+          "url": "https://flash.jin10.com/detail/20261023211832307800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "叫板美国“炸弹之母”，伊朗军方准备推出“炸弹之父”",
@@ -157,6 +181,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时55分 ~ 16时02分]"
+        },
+        {
+          "title": "伊朗战机紧急升空巡逻，紧盯美以F-35战机敌对动向",
+          "url": "https://original.ifeng.com/c/8xSRQpqdPtX",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 21时56分]"
+        },
+        {
+          "title": "中东原油出口格局分化：伊朗出口骤降100%，沙特和阿联酋实现增长",
+          "url": "https://flash.jin10.com/detail/20261023213857953800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "伊朗议会议长：若与伊开战 美国将承担苦涩后果 | 环球市场",
@@ -234,7 +280,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -248,23 +294,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "美官员称美国已准备好与伊朗长期对峙",
+          "url": "https://wallstreetcn.com/livenews/3184803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "曝DeepSeek完成千亿融资",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367960&amp;topic_name=%E6%9B%9DDeepSeek%E5%AE%8C%E6%88%90%E5%8D%83%E4%BA%BF%E8%9E%8D%E8%B5%84",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时01分 ~ 21时56分]"
+        },
+        {
+          "title": "DeepSeek 拟新融资 1000 亿元，腾讯、宁德时代出资最多，这会不会改写国内大模型的竞争格局？",
+          "url": "https://www.zhihu.com/question/2096713518582179306",
+          "source": "知乎",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
+          "time_info": "[21时55分 ~ 21时56分]"
         },
         {
           "title": "联想系入局DeepSeek新一轮融资",
@@ -301,6 +370,17 @@
           "time_info": "[10时13分 ~ 16时02分]"
         },
         {
+          "title": "DeepSeek 据悉完成千亿元融资，腾讯与宁德时代为何重金押注？",
+          "url": "https://www.zhihu.com/question/2096564979164095426",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 21时56分]"
+        },
+        {
           "title": "“DeepSeek才是真正的OpenAI”",
           "url": "https://news.ifeng.com/c/8xQqgcTDXjq",
           "source": "凤凰网",
@@ -329,7 +409,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -347,69 +427,8 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
-          "url": "https://wallstreetcn.com/articles/3784189",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 16时02分]"
-        },
-        {
-          "title": "Meta成“最后一根稻草”，纳指“终于”崩了，美债应声大涨",
-          "url": "https://wallstreetcn.com/articles/3784246",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 16时02分]"
-        },
-        {
-          "title": "AI崩了，法债爆了，急需美债“避险”！10年期美债收益率创“硅谷银行危机”来最大跌幅",
-          "url": "https://wallstreetcn.com/articles/3784249",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
-        },
-        {
-          "title": "黑天鹅序幕？上一次美债收益率这样跌 正是硅谷银行“爆雷日”",
-          "url": "https://www.cls.cn/detail/2512977",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
-        },
-        {
-          "title": "加拿大皇家银行：民主党若中期选举横扫两院，AI监管风险或推动美债上涨",
-          "url": "https://wallstreetcn.com/livenews/3183910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "【早报】美股半导体、存储、芯片股，全线跳水；布油飙升4%、国际金银遭重挫；5家基金自购旗下主动ETF",
@@ -434,6 +453,17 @@
           "time_info": "02时55分"
         },
         {
+          "title": "美股盘初：道指跌1%，西部数据跌约3%，苹果总市值超越英伟达",
+          "url": "https://wallstreetcn.com/livenews/3184857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
           "title": "美股收盘：芯片、存储、光概念大幅回落 纳指重挫2.6％",
           "url": "https://www.cls.cn/detail/2512879",
           "source": "财联社热门",
@@ -443,6 +473,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "美股三大指数低开",
+          "url": "https://flash.jin10.com/detail/20261023213052865800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
+          "title": "一周热榜精选：AI融资担忧再度引爆美股！全球资金重选避险资产",
+          "url": "https://flash.jin10.com/detail/20261023212911077800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3184840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "美股芯片、光通信股深夜跳水",
@@ -469,8 +532,81 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
+          "url": "https://wallstreetcn.com/articles/3784189",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时13分 ~ 21时56分]"
+        },
+        {
+          "title": "Meta成“最后一根稻草”，纳指“终于”崩了，美债应声大涨",
+          "url": "https://wallstreetcn.com/articles/3784246",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时13分 ~ 21时56分]"
+        },
+        {
+          "title": "AI崩了，法债爆了，急需美债“避险”！10年期美债收益率创“硅谷银行危机”来最大跌幅",
+          "url": "https://wallstreetcn.com/articles/3784249",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时01分 ~ 21时56分]"
+        },
+        {
+          "title": "黑天鹅序幕？上一次美债收益率这样跌 正是硅谷银行“爆雷日”",
+          "url": "https://www.cls.cn/detail/2512977",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时01分 ~ 16时02分]"
+        },
+        {
+          "title": "油价走高压制美债表现，美股低开，半导体股涨跌互现，西部数据跌约3%，布油涨破115",
+          "url": "https://wallstreetcn.com/articles/3784279",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 21时56分]"
+        },
+        {
+          "title": "加拿大皇家银行：民主党若中期选举横扫两院，AI监管风险或推动美债上涨",
+          "url": "https://wallstreetcn.com/livenews/3183910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价跌破870元",
@@ -482,6 +618,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时01分 ~ 16时02分]"
+        },
+        {
+          "title": "国际金价暴跌因获利了结",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%9B%A0%E8%8E%B7%E5%88%A9%E4%BA%86%E7%BB%93&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 21时56分]"
         },
         {
           "title": "金价",
