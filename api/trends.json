@@ -1,57 +1,88 @@
 {
-  "generated_at": "2026-10-23T21:56:16.094472+08:00",
-  "total_titles_processed": 957,
+  "generated_at": "2026-10-24T02:31:39.822580+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 10,
       "titles": [
         {
-          "title": "泽连斯基：我跟特朗普没有私人恩怨",
-          "url": "https://original.ifeng.com/c/8xRyzG62x5D",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 16时02分]"
-        },
-        {
-          "title": "据路透社：特朗普政府一名官员表示，美国政府向农民提供的80亿美元柴油补贴将无法在11月3日选举前发放到位。",
-          "url": "https://flash.jin10.com/detail/20261023214031779800",
+          "title": "美国总统特朗普：（关于阿拉斯加州诉讼）是我下令这么做的。",
+          "url": "https://flash.jin10.com/detail/20261024015827778800",
           "source": "金十数据",
           "ranks": [
-            2
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时56分"
+          "time_info": "02时31分"
+        },
+        {
+          "title": "比起特朗普，美国年轻人更喜欢美式“社会主义”？",
+          "url": "https://news.ifeng.com/c/8xStQ7mt6Rr",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "报道：特朗普料取消对加拿大的部分关税",
+          "url": "https://wallstreetcn.com/livenews/3184976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "特朗普谈到法国骚乱没忍住笑：还有人想去法国吗？",
+          "url": "https://news.ifeng.com/c/8xSeHafFCKO",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "美媒：特朗普拟取消部分加拿大商品50%关税",
+          "url": "https://flash.jin10.com/detail/20261024015443390800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "市场消息：预计美国总统特朗普将取消对加拿大的部分关税。",
+          "url": "https://flash.jin10.com/detail/20261024015001318800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         },
         {
           "title": "特朗普怒喷詹姆斯不尊重美国",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367970&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E5%96%B7%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%8D%E5%B0%8A%E9%87%8D%E7%BE%8E%E5%9B%BD",
           "source": "贴吧",
           "ranks": [
-            6,
-            9
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时01分 ~ 21时56分]"
-        },
-        {
-          "title": "特朗普怒骂NBA球星詹姆斯：我早就说过他不行，简直是个耻辱",
-          "url": "https://news.ifeng.com/c/8xS2bhN07ef",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时01分 ~ 21时56分]"
+          "appearance_count": 1,
+          "time_info": "02时31分"
         },
         {
           "title": "如何评价特朗普发文痛批詹姆斯在奏国歌时做「高尔夫挥杆动作」，并要求其道歉？",
@@ -61,473 +92,30 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时01分 ~ 21时56分]"
-        },
-        {
-          "title": "特朗普要求马斯克解除对乌星链限速",
-          "url": "https://wallstreetcn.com/livenews/3183919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时55分"
+          "time_info": "02时31分"
         },
         {
-          "title": "报道：普京与特朗普达成协议后，俄罗斯柴油正涌向美国",
-          "url": "https://wallstreetcn.com/livenews/3184298",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "特朗普公开指责詹姆斯",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E6%8C%87%E8%B4%A3%E8%A9%B9%E5%A7%86%E6%96%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "美官员：特朗普曾致电马斯克要求解除对乌克兰星链限速",
-          "url": "https://flash.jin10.com/detail/20261023021052696800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        },
-        {
-          "title": "特朗普痛批詹姆斯",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%97%9B%E6%89%B9%E8%A9%B9%E5%A7%86%E6%96%AF%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "美国总统特朗普致电马斯克，要求其取消在乌克兰的星链项目限制。",
-          "url": "https://wallstreetcn.com/livenews/3183914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        },
-        {
-          "title": "据华尔街日报：据美国官员称，美国总统特朗普曾致电SpaceX(SPCX.O)CEO马斯克，要求其解除乌克兰星链限制。",
-          "url": "https://flash.jin10.com/detail/20261023020102682800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：（谈及与特朗普的关系）重要的是保持清晰和坦诚。",
-          "url": "https://flash.jin10.com/detail/20261023013338549800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        },
-        {
-          "title": "美国白宫：梅拉尼娅·特朗普成功促成俄罗斯与乌克兰在奥列什基市实现局部停火。停火将于10月29日开始。",
-          "url": "https://flash.jin10.com/detail/20261023211832307800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "叫板美国“炸弹之母”，伊朗军方准备推出“炸弹之父”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34309586",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时55分 ~ 16时02分]"
-        },
-        {
-          "title": "伊朗战机紧急升空巡逻，紧盯美以F-35战机敌对动向",
-          "url": "https://original.ifeng.com/c/8xSRQpqdPtX",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
-        },
-        {
-          "title": "中东原油出口格局分化：伊朗出口骤降100%，沙特和阿联酋实现增长",
-          "url": "https://flash.jin10.com/detail/20261023213857953800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "伊朗议会议长：若与伊开战 美国将承担苦涩后果 | 环球市场",
-          "url": "https://www.cls.cn/detail/2512918",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 16时02分]"
-        },
-        {
-          "title": "美以密谋新一轮打击？伊朗最高领袖罕见露面，军方警告祭出“炸弹之父”，海底电缆也可能是反击目标",
-          "url": "https://wallstreetcn.com/articles/3784215",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 16时02分]"
-        },
-        {
-          "title": "新闻蒸馏器｜美以被曝制定中期选举后再袭伊朗计划，以战机飞近边境模拟打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34306120",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时55分 ~ 10时13分]"
-        },
-        {
-          "title": "伊朗：不存在所谓“伊朗冲突”，这是美以对伊朗发动的侵略战争",
-          "url": "https://wallstreetcn.com/livenews/3183923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队发言人：我们准备推出有史以来威力最大炸弹——“炸弹之父”",
-          "url": "https://www.cls.cn/detail/2512367",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        },
-        {
-          "title": "伊朗：不存在所谓“伊朗冲突” 这是美以对伊朗发动的侵略战争",
-          "url": "https://flash.jin10.com/detail/20261023023154536800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        },
-        {
-          "title": "内塔尼亚胡公开要求推翻伊朗政权，以色列对伊目标明显升级",
-          "url": "https://flash.jin10.com/detail/20261023153404599800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "美国中央司令部：今天是美国中央司令部部队恢复对伊朗实施“钢铁之墙”海上封锁的第100天。这项行动已帮助阻止伊朗出口至少250亿美元的原油，并限制伊朗伊斯兰革命卫队资助代理民兵、犯罪网络和恐怖主义的能力。除美国部队允许的人道主义援助外，伊朗没有通过海路进行任何出口或进口。",
-          "url": "https://flash.jin10.com/detail/20261023015818932800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        },
-        {
-          "title": "美官员称美国已准备好与伊朗长期对峙",
-          "url": "https://wallstreetcn.com/livenews/3184803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "曝DeepSeek完成千亿融资",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367960&amp;topic_name=%E6%9B%9DDeepSeek%E5%AE%8C%E6%88%90%E5%8D%83%E4%BA%BF%E8%9E%8D%E8%B5%84",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时01分 ~ 21时56分]"
-        },
-        {
-          "title": "DeepSeek 拟新融资 1000 亿元，腾讯、宁德时代出资最多，这会不会改写国内大模型的竞争格局？",
-          "url": "https://www.zhihu.com/question/2096713518582179306",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
-        },
-        {
-          "title": "联想系入局DeepSeek新一轮融资",
-          "url": "https://wallstreetcn.com/livenews/3184111",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "如何评价 SemiAnalysis 认为 DeepSeek 与华为已形成共生关系？",
-          "url": "https://www.zhihu.com/question/2096603053763846842",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        },
-        {
-          "title": "为啥智谱 GLM 海外口碑极佳，国内认知度却不及豆包 DeepSeek？盈利模式、应用场景上三者有啥区别吗？",
-          "url": "https://www.zhihu.com/question/2095926994475168071",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 16时02分]"
-        },
-        {
-          "title": "DeepSeek 据悉完成千亿元融资，腾讯与宁德时代为何重金押注？",
-          "url": "https://www.zhihu.com/question/2096564979164095426",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
-        },
-        {
-          "title": "“DeepSeek才是真正的OpenAI”",
-          "url": "https://news.ifeng.com/c/8xQqgcTDXjq",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时55分 ~ 10时13分]"
-        },
-        {
-          "title": "DeepSeek完成1000亿融资",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%8C%E6%88%901000%E4%BA%BF%E8%9E%8D%E8%B5%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        },
-        {
-          "title": "周鸿祎：DeepSeek开源说明AI进入主权之争",
-          "url": "https://flash.jin10.com/detail/20261023153154299800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "曝DeepSeek拟筹得约1000亿元融资",
-          "url": "https://www.toutiao.com/trending/7699466374275403307/",
+          "title": "泽连斯基：和特朗普之间没有个人恩怨",
+          "url": "https://www.toutiao.com/trending/7699682763926061619/",
           "source": "今日头条",
           "ranks": [
-            28
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "【早报】美股半导体、存储、芯片股，全线跳水；布油飙升4%、国际金银遭重挫；5家基金自购旗下主动ETF",
-          "url": "https://www.cls.cn/detail/2512907",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
+          "time_info": "02时31分"
         },
         {
-          "title": "AI交易熄火、中东局势恶化，美股跌幅扩大，费城半导体跌近6%，CoreWeave大跌8%",
-          "url": "https://wallstreetcn.com/articles/3784189",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        },
-        {
-          "title": "美股盘初：道指跌1%，西部数据跌约3%，苹果总市值超越英伟达",
-          "url": "https://wallstreetcn.com/livenews/3184857",
+          "title": "伊朗央行行长：尽管华盛顿施加经济压力，伊朗仍有能力为进口提供资金，且这一能力可延续至美国总统特朗普任期之后。",
+          "url": "https://wallstreetcn.com/livenews/3184951",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "美股收盘：芯片、存储、光概念大幅回落 纳指重挫2.6％",
-          "url": "https://www.cls.cn/detail/2512879",
-          "source": "财联社热门",
-          "ranks": [
-            5
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "美股三大指数低开",
-          "url": "https://flash.jin10.com/detail/20261023213052865800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "一周热榜精选：AI融资担忧再度引爆美股！全球资金重选避险资产",
-          "url": "https://flash.jin10.com/detail/20261023212911077800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3184840",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "美股芯片、光通信股深夜跳水",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E3%80%81%E5%85%89%E9%80%9A%E4%BF%A1%E8%82%A1%E6%B7%B1%E5%A4%9C%E8%B7%B3%E6%B0%B4",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
+          "time_info": "02时31分"
         }
       ]
     },
@@ -543,8 +131,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时13分 ~ 21时56分]"
+          "appearance_count": 1,
+          "time_info": "02时31分"
         },
         {
           "title": "Meta成“最后一根稻草”，纳指“终于”崩了，美债应声大涨",
@@ -554,109 +142,141 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时13分 ~ 21时56分]"
+          "appearance_count": 1,
+          "time_info": "02时31分"
         },
         {
           "title": "AI崩了，法债爆了，急需美债“避险”！10年期美债收益率创“硅谷银行危机”来最大跌幅",
           "url": "https://wallstreetcn.com/articles/3784249",
           "source": "华尔街见闻",
           "ranks": [
-            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时01分 ~ 21时56分]"
+          "appearance_count": 1,
+          "time_info": "02时31分"
         },
         {
-          "title": "黑天鹅序幕？上一次美债收益率这样跌 正是硅谷银行“爆雷日”",
-          "url": "https://www.cls.cn/detail/2512977",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
-        },
-        {
-          "title": "油价走高压制美债表现，美股低开，半导体股涨跌互现，西部数据跌约3%，布油涨破115",
+          "title": "油价走高压制美债表现，美股低开，半导体股涨跌互现，布油涨3%",
           "url": "https://wallstreetcn.com/articles/3784279",
           "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
-        },
-        {
-          "title": "加拿大皇家银行：民主党若中期选举横扫两院，AI监管风险或推动美债上涨",
-          "url": "https://wallstreetcn.com/livenews/3183910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金价跌破870元",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B4870%E5%85%83%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
-        },
-        {
-          "title": "国际金价暴跌因获利了结",
-          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%9B%A0%E8%8E%B7%E5%88%A9%E4%BA%86%E7%BB%93&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=6&Refer=top",
-          "source": "微博",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时13分"
+          "time_info": "02时31分"
+        },
+        {
+          "title": "富国：中期选举前宜押注美债上涨、做空美元",
+          "url": "https://wallstreetcn.com/livenews/3184970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "加拿大专家驳斥中国借道买美债阴谋论",
+          "url": "https://www.toutiao.com/trending/7699793212264874506/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "keyword_group": "伊朗",
+      "match_count": 5,
       "titles": [
         {
-          "title": "特朗普自曝曾要求谷歌CEO更改大西洋名称，但被拒绝",
-          "url": "https://wallstreetcn.com/livenews/3184073",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗总统下周赴莫斯科出席天然气出口国论坛峰会并与普京会晤",
+          "url": "https://flash.jin10.com/detail/20261024020854300800",
+          "source": "金十数据",
           "ranks": [
-            22
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时13分"
+          "time_info": "02时31分"
+        },
+        {
+          "title": "伊朗总统下周将在莫斯科会见俄罗斯总统普京。（伊朗媒体INSA）",
+          "url": "https://wallstreetcn.com/livenews/3184979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "伊朗战机紧急升空巡逻，紧盯美以F-35战机敌对动向",
+          "url": "https://original.ifeng.com/c/8xSRQpqdPtX",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "报道：伊朗已制定打击海湾海底电缆的详细计划",
+          "url": "https://wallstreetcn.com/livenews/3184964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "报道：伊朗已制定打击海湾海底电缆的详细计划",
+          "url": "https://flash.jin10.com/detail/20261024011015135800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek 拟新融资 1000 亿元，腾讯、宁德时代出资最多，这会不会改写国内大模型的竞争格局？",
+          "url": "https://www.zhihu.com/question/2096713518582179306",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "曝DeepSeek完成千亿融资",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367960&amp;topic_name=%E6%9B%9DDeepSeek%E5%AE%8C%E6%88%90%E5%8D%83%E4%BA%BF%E8%9E%8D%E8%B5%84",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         }
       ]
     },
@@ -665,15 +285,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI开放Decisions API",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%BC%80%E6%94%BEDecisionsAPI",
-          "source": "bilibili 热搜",
+          "title": "投资者不买账？OpenAI下调估值目标至1.25万亿，拟在IPO前完成300亿美元融资",
+          "url": "https://wallstreetcn.com/articles/3784256",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时13分"
+          "time_info": "02时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国际金价暴跌因获利了结",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%9B%A0%E8%8E%B7%E5%88%A9%E4%BA%86%E7%BB%93&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         }
       ]
     }
