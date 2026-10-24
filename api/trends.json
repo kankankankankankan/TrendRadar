@@ -1,29 +1,62 @@
 {
-  "generated_at": "2026-10-24T02:31:39.822580+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-10-24T10:12:05.241305+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
-        {
-          "title": "美国总统特朗普：（关于阿拉斯加州诉讼）是我下令这么做的。",
-          "url": "https://flash.jin10.com/detail/20261024015827778800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
         {
           "title": "比起特朗普，美国年轻人更喜欢美式“社会主义”？",
           "url": "https://news.ifeng.com/c/8xStQ7mt6Rr",
           "source": "凤凰网",
           "ranks": [
             5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 10时12分]"
+        },
+        {
+          "title": "梅拉尼娅促成俄乌一地停火，特朗普回应",
+          "url": "https://news.ifeng.com/c/8xTc5pBGjmE",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
+          "title": "【早报】特朗普：或对伊发动小规模“史诗怒火”；证监会：核准设立花旗证券（中国）有限公司；A股多家龙头公司发布三季报",
+          "url": "https://www.cls.cn/detail/2514116",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
+          "title": "美国总统特朗普周六日程一览",
+          "url": "https://flash.jin10.com/detail/20261024093349417800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "美国总统特朗普：（关于阿拉斯加州诉讼）是我下令这么做的。",
+          "url": "https://flash.jin10.com/detail/20261024015827778800",
+          "source": "金十数据",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -48,8 +81,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 10时12分]"
+        },
+        {
+          "title": "特朗普怒喷詹姆斯不尊重美国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367970&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E5%96%B7%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%8D%E5%B0%8A%E9%87%8D%E7%BE%8E%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 10时12分]"
         },
         {
           "title": "美媒：特朗普拟取消部分加拿大商品50%关税",
@@ -74,17 +119,6 @@
           "time_info": "02时31分"
         },
         {
-          "title": "特朗普怒喷詹姆斯不尊重美国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367970&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E5%96%B7%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%8D%E5%B0%8A%E9%87%8D%E7%BE%8E%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
           "title": "如何评价特朗普发文痛批詹姆斯在奏国歌时做「高尔夫挥杆动作」，并要求其道歉？",
           "url": "https://www.zhihu.com/question/2096894678494884280",
           "source": "知乎",
@@ -94,6 +128,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "美驻土耳其大使称周末可能打击伊朗，特朗普称对此不知情",
+          "url": "https://wallstreetcn.com/livenews/3185058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
           "title": "泽连斯基：和特朗普之间没有个人恩怨",
@@ -116,13 +161,140 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "古巴外长驳斥特朗普“顺道解决古巴”言论",
+          "url": "https://wallstreetcn.com/livenews/3185051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "伊朗总统下周赴莫斯科出席天然气出口国论坛峰会并与普京会晤",
+          "url": "https://flash.jin10.com/detail/20261024020854300800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "伊朗总统下周将在莫斯科会见俄罗斯总统普京。（伊朗媒体INSA）",
+          "url": "https://wallstreetcn.com/livenews/3184979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "伊朗向中东国家发出最后通牒：一旦美伊重燃战火，必须停止对美方的一切支持，否则将被列为“敌对国家”",
+          "url": "https://wallstreetcn.com/articles/3784332",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
+          "title": "伊朗战机紧急升空巡逻，紧盯美以F-35战机敌对动向",
+          "url": "https://original.ifeng.com/c/8xSRQpqdPtX",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "报道：伊朗已制定打击海湾海底电缆的详细计划",
+          "url": "https://wallstreetcn.com/livenews/3184964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "报道：伊朗已制定打击海湾海底电缆的详细计划",
+          "url": "https://flash.jin10.com/detail/20261024011015135800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "美媒：美国情报警告伊朗暗杀阴谋升级，要求向更多美方人员通报风险",
+          "url": "https://flash.jin10.com/detail/20261024082520312800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "据Axios：美国情报备忘录警告称，伊朗暗杀美国海外官员的阴谋已进入“高级阶段”。",
+          "url": "https://flash.jin10.com/detail/20261024082234347800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "巴克莱：伊朗冲突恐难迅速平息，这使得本已紧张的石油现货市场更趋紧绷。",
+          "url": "https://flash.jin10.com/detail/20261024060656400800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "油价飙升引发通胀忧虑，美股美债双双承压，苹果市值一度超英伟达，黄金周跌4%",
+          "url": "https://wallstreetcn.com/articles/3784279",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
+        },
         {
           "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
           "url": "https://wallstreetcn.com/articles/3784189",
@@ -188,73 +360,73 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "10年期美债收益率周五反弹超4个基点，使得本周累计跌幅收窄至不到8个基点",
+          "url": "https://wallstreetcn.com/livenews/3185056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 5,
+      "keyword_group": "金价",
+      "match_count": 4,
       "titles": [
         {
-          "title": "伊朗总统下周赴莫斯科出席天然气出口国论坛峰会并与普京会晤",
-          "url": "https://flash.jin10.com/detail/20261024020854300800",
-          "source": "金十数据",
+          "title": "金价下跌 年轻人买黄金逻辑变了吗",
+          "url": "https://www.toutiao.com/trending/7699901948572487195/",
+          "source": "今日头条",
           "ranks": [
-            1
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
         },
         {
-          "title": "伊朗总统下周将在莫斯科会见俄罗斯总统普京。（伊朗媒体INSA）",
-          "url": "https://wallstreetcn.com/livenews/3184979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
-          "title": "伊朗战机紧急升空巡逻，紧盯美以F-35战机敌对动向",
-          "url": "https://original.ifeng.com/c/8xSRQpqdPtX",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
-          "title": "报道：伊朗已制定打击海湾海底电缆的详细计划",
-          "url": "https://wallstreetcn.com/livenews/3184964",
-          "source": "华尔街见闻-快讯",
+          "title": "现货金价跌破4000美元关口 避险市场下资金为何抛售黄金？",
+          "url": "https://www.cls.cn/detail/2514076",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
         },
         {
-          "title": "报道：伊朗已制定打击海湾海底电缆的详细计划",
-          "url": "https://flash.jin10.com/detail/20261024011015135800",
-          "source": "金十数据",
+          "title": "国际金价暴跌因获利了结",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%9B%A0%E8%8E%B7%E5%88%A9%E4%BA%86%E7%BB%93&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            20
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "国际金价周五跌0.7%失守4000美元关口，纽约白银期货本周跌超6%",
+          "url": "https://wallstreetcn.com/livenews/3185050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "DeepSeek 拟新融资 1000 亿元，腾讯、宁德时代出资最多，这会不会改写国内大模型的竞争格局？",
@@ -272,11 +444,68 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367960&amp;topic_name=%E6%9B%9DDeepSeek%E5%AE%8C%E6%88%90%E5%8D%83%E4%BA%BF%E8%9E%8D%E8%B5%84",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            11
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 10时12分]"
+        },
+        {
+          "title": "博主：DeepSeek打碎了AI很贵的共识",
+          "url": "https://www.toutiao.com/trending/7699976198847204927/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股收盘：油价暴涨压制市场情绪 三大指数集体收低",
+          "url": "https://www.cls.cn/detail/2514112",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
+          "title": "一周热榜精选：特朗普威胁对伊再发“史诗怒火”！AI融资担忧再度引爆美股",
+          "url": "https://flash.jin10.com/detail/20261024091858383800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时31分"
+          "time_info": "10时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英国宣布1亿英镑资金，用于与OpenAI、Anthropic、谷歌Deepmind成立AI生物安全实验室。",
+          "url": "https://wallstreetcn.com/livenews/3185068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         }
       ]
     },
@@ -290,23 +519,6 @@
           "source": "华尔街见闻",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国际金价暴跌因获利了结",
-          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%9B%A0%E8%8E%B7%E5%88%A9%E4%BA%86%E7%BB%93&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 1,
