@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-10-24T10:12:05.241305+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-10-24T15:41:25.328751+08:00",
+  "total_titles_processed": 699,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "比起特朗普，美国年轻人更喜欢美式“社会主义”？",
-          "url": "https://news.ifeng.com/c/8xStQ7mt6Rr",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时31分 ~ 10时12分]"
-        },
         {
           "title": "梅拉尼娅促成俄乌一地停火，特朗普回应",
           "url": "https://news.ifeng.com/c/8xTc5pBGjmE",
@@ -26,19 +15,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 15时41分]"
         },
         {
           "title": "【早报】特朗普：或对伊发动小规模“史诗怒火”；证监会：核准设立花旗证券（中国）有限公司；A股多家龙头公司发布三季报",
           "url": "https://www.cls.cn/detail/2514116",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 15时41分]"
+        },
+        {
+          "title": "比起特朗普，美国年轻人更喜欢美式“社会主义”？",
+          "url": "https://news.ifeng.com/c/8xStQ7mt6Rr",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时31分 ~ 15时41分]"
         },
         {
           "title": "美国总统特朗普周六日程一览",
@@ -47,7 +49,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -81,8 +83,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时31分 ~ 10时12分]"
+          "appearance_count": 4,
+          "time_info": "[02时31分 ~ 15时41分]"
         },
         {
           "title": "特朗普怒喷詹姆斯不尊重美国",
@@ -90,11 +92,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时31分 ~ 10时12分]"
+          "appearance_count": 4,
+          "time_info": "[02时31分 ~ 15时41分]"
         },
         {
           "title": "美媒：特朗普拟取消部分加拿大商品50%关税",
@@ -108,6 +111,17 @@
           "time_info": "02时31分"
         },
         {
+          "title": "美伊“风向”生变？特朗普暗示或再打击伊朗，美方已做好长期对峙准备！",
+          "url": "https://www.cls.cn/detail/2514121",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
           "title": "市场消息：预计美国总统特朗普将取消对加拿大的部分关税。",
           "url": "https://flash.jin10.com/detail/20261024015001318800",
           "source": "金十数据",
@@ -117,6 +131,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "特朗普称可能对伊发动一次小规模“史诗怒火”行动 | 环球市场",
+          "url": "https://www.cls.cn/detail/2514115",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "如何评价特朗普发文痛批詹姆斯在奏国歌时做「高尔夫挥杆动作」，并要求其道歉？",
@@ -136,7 +161,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -169,7 +194,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         }
@@ -177,7 +202,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 16,
       "titles": [
         {
           "title": "伊朗总统下周赴莫斯科出席天然气出口国论坛峰会并与普京会晤",
@@ -202,6 +227,17 @@
           "time_info": "02时31分"
         },
         {
+          "title": "伊朗军方誓言阻止美国军舰进入波斯湾。（伊朗伊斯兰共和国通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3185108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
           "title": "伊朗向中东国家发出最后通牒：一旦美伊重燃战火，必须停止对美方的一切支持，否则将被列为“敌对国家”",
           "url": "https://wallstreetcn.com/articles/3784332",
           "source": "华尔街见闻",
@@ -211,6 +247,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
+          "title": "美情报称伊朗加大对美官员行动力度",
+          "url": "https://wallstreetcn.com/livenews/3185106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
+          "title": "美情报称伊朗加大对美官员行动力度",
+          "url": "https://news.ifeng.com/c/8xTz1XXXr21",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "伊朗战机紧急升空巡逻，紧盯美以F-35战机敌对动向",
@@ -235,6 +293,28 @@
           "time_info": "02时31分"
         },
         {
+          "title": "美官员称美准备好与伊朗长期对峙",
+          "url": "https://wallstreetcn.com/livenews/3185099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
+          "title": "伊朗总统将于下周访俄并与普京会谈",
+          "url": "https://wallstreetcn.com/livenews/3185094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
           "title": "报道：伊朗已制定打击海湾海底电缆的详细计划",
           "url": "https://flash.jin10.com/detail/20261024011015135800",
           "source": "金十数据",
@@ -252,7 +332,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -263,9 +343,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "出于对伊朗因素的担忧，美国削减4个中东大使馆的人员配置，受影响的美国大使馆位于约旦、黎巴嫩、卡塔尔和阿联酋。（美联社）",
+          "url": "https://wallstreetcn.com/livenews/3185087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
+          "title": "伊朗武装部队：绝不允许美国军舰再次进入波斯湾",
+          "url": "https://flash.jin10.com/detail/20261024122446383800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "巴克莱：伊朗冲突恐难迅速平息，这使得本已紧张的石油现货市场更趋紧绷。",
@@ -274,7 +376,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         }
@@ -282,7 +384,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "油价飙升引发通胀忧虑，美股美债双双承压，苹果市值一度超英伟达，黄金周跌4%",
@@ -292,8 +394,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 15时41分]"
         },
         {
           "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
@@ -340,6 +442,17 @@
           "time_info": "02时31分"
         },
         {
+          "title": "AI“跌倒”，美债“吃饱”！全球“资本争夺战”，市场给出答案",
+          "url": "https://wallstreetcn.com/articles/3784376",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
           "title": "富国：中期选举前宜押注美债上涨、做空美元",
           "url": "https://wallstreetcn.com/livenews/3184970",
           "source": "华尔街见闻-快讯",
@@ -368,7 +481,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         }
@@ -376,25 +489,26 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "现货金价跌破4000美元关口 避险市场下资金为何抛售黄金？",
+          "url": "https://www.cls.cn/detail/2514076",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 15时41分]"
+        },
         {
           "title": "金价下跌 年轻人买黄金逻辑变了吗",
           "url": "https://www.toutiao.com/trending/7699901948572487195/",
           "source": "今日头条",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
-          "title": "现货金价跌破4000美元关口 避险市场下资金为何抛售黄金？",
-          "url": "https://www.cls.cn/detail/2514076",
-          "source": "财联社热门",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -412,13 +526,24 @@
           "time_info": "02时31分"
         },
         {
+          "title": "避险行情来了，金价为何反而跌破4000美元？",
+          "url": "https://flash.jin10.com/detail/20261024131955763800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
           "title": "国际金价周五跌0.7%失守4000美元关口，纽约白银期货本周跌超6%",
           "url": "https://wallstreetcn.com/livenews/3185050",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         }
@@ -445,11 +570,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时31分 ~ 10时12分]"
+          "appearance_count": 4,
+          "time_info": "[02时31分 ~ 15时41分]"
         },
         {
           "title": "博主：DeepSeek打碎了AI很贵的共识",
@@ -473,11 +599,12 @@
           "url": "https://www.cls.cn/detail/2514112",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 15时41分]"
         },
         {
           "title": "一周热榜精选：特朗普威胁对伊再发“史诗怒火”！AI融资担忧再度引爆美股",
@@ -486,7 +613,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         }
@@ -503,7 +630,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         }
